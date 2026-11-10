@@ -87,4 +87,8 @@ Connor's standing preference: prefer **daily or on-demand** cadences over hourly
 
 History lives in [[Changelog/_history/Automation-changelog]]; new changes get their own dated file in [[Changelog/README|/Changelog]]. **Neither is read on a normal run.**
 
+## Vault ↔ GitHub sync (added 2026-11-10)
 
+| What | When | Status | Governs | Reads | Writes |
+|---|---|---|---|---|---|
+| `Workflows/vault-git-sync.sh` via Claude Code hooks (`SessionStart` async + `SessionEnd`, in `.claude/settings.local.json`) | Every Claude session in this vault, scheduled tasks included | ✅ Live 2026-11-10 | [[Reference/Vault-Git-Sync-Plan]] | Vault working files; git data at `~/GraceBrain.git` | Commits + pushes to private repo `connorfrey-trygrace/grace-brain`; log `~/Library/Logs/grace-brain-sync.log`. Never force-pushes; on conflict it aborts the merge and shows a notification |

@@ -43,6 +43,8 @@ Git's internal folder (`.git`) is the part Dropbox corrupts. So we keep it **out
 
 - 2026-11-10: steps 2–3 done. `.gitignore` written, secrets scan clean (only false positives in Obsidian plugin code), local repo at `~/GraceBrain.git` with the first commit (1,086 files), deploy key `~/.ssh/grace_brain_deploy` generated.
 
+- 2026-11-10: steps 4–5 done. Repo `connorfrey-trygrace/grace-brain`, first push OK. **Change to step 5:** macOS blocked the launchd job from reading the Dropbox folder ("Operation not permitted"), so the sync now runs from Claude Code session hooks instead: `SessionStart` (async) and `SessionEnd` in `.claude/settings.local.json`, calling `Workflows/vault-git-sync.sh`. Every Claude session in this vault syncs, the scheduled tasks included. Log: `~/Library/Logs/grace-brain-sync.log`. The unused launchd plist is in `Archive/LaunchAgents/`.
+
 ## What I need from you
 
-Approve the plan (or change it), then step 1. Tell me the repo name when it exists.
+Step 6: on claude.ai, connect GitHub to Claude and give the 5am routine's cloud environment access to `connorfrey-trygrace/grace-brain`. Then I'll do step 7 (the routine's new prompt) for your review.
