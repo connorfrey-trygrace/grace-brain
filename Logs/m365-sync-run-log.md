@@ -303,3 +303,5 @@ Log the line even when N=M=0 and K=J=0 — a logged "found nothing" run is exact
 - 2026-11-10 15:05 ET | quick-refresh 03:52–15:04 ET; inbox 2 / sent 0; 0 notes updated; 0 closed; 0 candidates; dups 0; 1 FYI (Battistelli 12-12 tickets on sale 11-13 10AM, no action); 1 non-Grace skipped; elapsed 1m
 
 - 2026-11-10 16:03 ET | quick-refresh | window 15:34–16:03 ET | 1 in (Connor→Heather QR 11/15, already recorded) | 0 writes | elapsed <1m
+
+- 2026-11-10 17:46 ET | 2026-11-10 17:5x ET | cloud-5am-run | window 15:33–17:50 ET | inbox 5 (3 relevant), sent 4 | 3 notes updated (QR Tuesday, Inspira scrutinize, Good Noodles) | 0 closed; 0 candidates | unmatched 2 (GitHub/Google security notices) | dups 0 | elapsed 8m | OK

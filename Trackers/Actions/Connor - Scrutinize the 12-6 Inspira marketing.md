@@ -6,7 +6,7 @@ owner: "Connor"
 added: 2026-11-07
 deadline: none
 needs_by: none
-last_mentioned: 2026-11-07
+last_mentioned: "2026-11-10"
 source: "Connor, chat 2026-11-07"
 projects:
   - "Sunday Night Launch"
@@ -35,3 +35,6 @@ blocks: []
 ### 2026-11-10 (Connor, chat)
 - Connor told Heather about the "Decemer 6" graphic typo
 
+### 2026-11-10 (email, cloud 5am run)
+- 4:39 PM · Connor → Heather: Inspira event page missing the "B" in December
+[Source: Outlook Sent Items, "Re: Sunday Night QR landing page - 11/15", 2026-11-10]

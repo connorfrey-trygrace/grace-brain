@@ -41,3 +41,9 @@ blocks: []
 ### 2026-11-10 (email)
 - 4:04 PM · Heather: keep Do Good tile (serve week — sign-ups to volunteer with local partners); will add the events
 [Source: Outlook, "Re: Sunday Night QR landing page - 11/15", Heather Noble, 2026-11-10]
+
+### 2026-11-10 (email, cloud 5am run)
+- 4:06 PM · Connor → Heather: fine to hold the tile swap if mornings get a special landing; QR destination unchanged for streamlined giving
+- 4:20 PM · Heather: all links point to Serve this weekend; asks for Friendsgiving registration link
+- 4:39 PM · Connor sends Friendsgiving link (trygrace.org/registration/friendsgiving2026)
+[Source: Outlook, "Sunday Night QR landing page - 11/15", 2026-11-10]
