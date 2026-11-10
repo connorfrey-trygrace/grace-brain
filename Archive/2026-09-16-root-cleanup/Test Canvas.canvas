@@ -1,0 +1,8 @@
+{
+	"nodes":[
+		{"id":"ef33be270f7a87aa","type":"file","file":"Trackers/Hours.md","x":160,"y":-800,"width":580,"height":680},
+		{"id":"556cd5582d4eae56","type":"file","file":"Trackers/Open Actions.md","x":-1100,"y":-800,"width":1160,"height":700},
+		{"id":"acc6298b216c367f","x":-1100,"y":-60,"width":1160,"height":641,"type":"file","file":"Events/2026-07-19-World-Cup-Viewing-Party.md"}
+	],
+	"edges":[]
+}

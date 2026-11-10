@@ -1,0 +1,86 @@
+{
+  "collapse-filter": false,
+  "search": "-path:\"Archive/\" -path:\"Raw From Grace/\" -path:\"Transcripts/\" -path:\"Agendas/\" -path:\"Workflows/\" -path:\"Synthesis/\" -file:\"Draft\" -file:\"Plan\" -file:\"CLAUDE\" -file:\"Welcome\" -file:\"System-Audit\"",
+  "showTags": false,
+  "showAttachments": false,
+  "hideUnresolved": true,
+  "showOrphans": false,
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "path:\"People/\"",
+      "color": {
+        "a": 1,
+        "rgb": 5025616
+      }
+    },
+    {
+      "query": "path:\"Events/\"",
+      "color": {
+        "a": 1,
+        "rgb": 2201331
+      }
+    },
+    {
+      "query": "path:\"Trackers/\"",
+      "color": {
+        "a": 1,
+        "rgb": 16007990
+      }
+    },
+    {
+      "query": "path:\"Workflows/\"",
+      "color": {
+        "a": 1,
+        "rgb": 10233776
+      }
+    },
+    {
+      "query": "path:\"Synthesis/\"",
+      "color": {
+        "a": 1,
+        "rgb": 38536
+      }
+    },
+    {
+      "query": "path:\"Agendas/\"",
+      "color": {
+        "a": 1,
+        "rgb": 16777215
+      }
+    },
+    {
+      "query": "path:\"Contacts/\"",
+      "color": {
+        "a": 1,
+        "rgb": 7951688
+      }
+    },
+    {
+      "query": "tag:#good-noodle",
+      "color": {
+        "a": 1,
+        "rgb": 16771899
+      }
+    },
+    {
+      "query": "path:\"Transcripts/\"\"",
+      "color": {
+        "a": 1,
+        "rgb": 14711890
+      }
+    }
+  ],
+  "collapse-display": false,
+  "showArrow": false,
+  "textFadeMultiplier": 0,
+  "nodeSizeMultiplier": 3.20385314844283,
+  "lineSizeMultiplier": 2.74548761082064,
+  "collapse-forces": false,
+  "centerStrength": 0.578313253012048,
+  "repelStrength": 20,
+  "linkStrength": 1,
+  "linkDistance": 500,
+  "scale": 1.1182798522274024,
+  "close": false
+}

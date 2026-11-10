@@ -1,0 +1,1047 @@
+<title>Sunday Night Question Board</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,300;0,400;0,700;0,900;1,400&display=swap">
+<style>
+  /* ---- Grace brand tokens -------------------------------------------------
+     Palette is the Summer 2019 brand book, four colors, nothing invented:
+     Active Blue #2F97A0 (P2235C) · Stable Blue #1C3B6B (P534C)
+     Cinder Gray #ABABAB (P429C) · Cloud Gray #E3E3E3 (P427C)
+     Ramp steps between the two blues, and the inks, are derivations - noted
+     as such in the colophon at the foot of the page. ---------------------- */
+  :root {
+    --active:      #2F97A0;
+    --stable:      #1C3B6B;
+    --cinder:      #ABABAB;
+    --cloud:       #E3E3E3;
+
+    --bg:          #FFFFFF;
+    --surface:     #F5F8F9;
+    --surface-2:   #EDF3F4;
+    --rule:        #E3E3E3;
+    --rule-strong: #CBD6D9;
+
+    --ink:         #1C3B6B;
+    --ink-body:    #4A5560;
+    --ink-muted:   #7E8991;
+
+    --flag:        #9A6410;
+    --flag-bg:     #FBF3E4;
+    --flag-rule:   #E0B667;
+
+    /* sequential ramp, Stable Blue -> Active Blue -> tint; grey = "Other" */
+    --s1: #1C3B6B; --s2: #1E5177; --s3: #216683; --s4: #257C90;
+    --s5: #2F97A0; --s6: #62B0B7; --s7: #95C9CE; --s8: #C8E2E5;
+    --s9: #ABABAB;
+    --on-dark-step: #FFFFFF;
+    --on-light-step: #1C3B6B;
+  }
+  @media (prefers-color-scheme: dark) {
+    :root:not([data-theme="light"]) {
+      --bg:          #0E1520;
+      --surface:     #151E2C;
+      --surface-2:   #1B2636;
+      --rule:        #263346;
+      --rule-strong: #35455C;
+
+      --ink:         #CFE3E8;
+      --ink-body:    #A3B2BF;
+      --ink-muted:   #7A8794;
+
+      --flag:        #E8B45F;
+      --flag-bg:     #2A2317;
+      --flag-rule:   #7A5F23;
+
+      --s1: #BDE4E9; --s2: #9AD5DC; --s3: #77C5CF; --s4: #55B5C2;
+      --s5: #2F97A0; --s6: #2B7C8C; --s7: #3A6490; --s8: #4C6FA8;
+      --s9: #8C9298;
+      --on-dark-step: #0E1520;
+      --on-light-step: #0E1520;
+    }
+  }
+  :root[data-theme="dark"] {
+    --bg:          #0E1520;
+    --surface:     #151E2C;
+    --surface-2:   #1B2636;
+    --rule:        #263346;
+    --rule-strong: #35455C;
+
+    --ink:         #CFE3E8;
+    --ink-body:    #A3B2BF;
+    --ink-muted:   #7A8794;
+
+    --flag:        #E8B45F;
+    --flag-bg:     #2A2317;
+    --flag-rule:   #7A5F23;
+
+    --s1: #BDE4E9; --s2: #9AD5DC; --s3: #77C5CF; --s4: #55B5C2;
+    --s5: #2F97A0; --s6: #2B7C8C; --s7: #3A6490; --s8: #4C6FA8;
+    --s9: #8C9298;
+    --on-dark-step: #0E1520;
+    --on-light-step: #0E1520;
+  }
+
+  * { box-sizing: border-box; }
+
+  body {
+    background: var(--bg);
+    color: var(--ink-body);
+    font-family: "Lato", -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif;
+    font-size: 16px;
+    line-height: 1.55;
+    -webkit-font-smoothing: antialiased;
+  }
+  .wrap {
+    max-width: 920px;
+    margin: 0 auto;
+    padding-inline: 20px;
+    padding-block: 40px 72px;
+  }
+
+  /* ---- brand type hierarchy ---------------------------------------------
+     Book spec: Header = Light, tracking 0. Sub-head = Heavy, tracking 160.
+     Pull-quote = Black, tracking 140. Body = Regular, tracking 0.
+     The light-header / heavily-tracked-small-caps contrast IS the brand. --- */
+  .eyebrow {
+    font-weight: 900;
+    font-size: 11px;
+    letter-spacing: 0.16em;
+    text-transform: uppercase;
+    color: var(--active);
+    margin: 0 0 18px;
+  }
+  h1 {
+    font-weight: 300;
+    font-size: clamp(34px, 6.2vw, 52px);
+    line-height: 1.06;
+    letter-spacing: -0.005em;
+    color: var(--ink);
+    margin: 0 0 18px;
+    text-wrap: balance;
+  }
+  .standfirst {
+    font-size: 17px;
+    max-width: 62ch;
+    margin: 0 0 8px;
+    color: var(--ink-body);
+  }
+  .dateline {
+    font-size: 13px;
+    color: var(--ink-muted);
+    margin: 0;
+  }
+  .dateline b { font-weight: 700; color: var(--ink-body); }
+
+  h2 {
+    font-weight: 900;
+    font-size: 12px;
+    letter-spacing: 0.16em;
+    text-transform: uppercase;
+    color: var(--ink-muted);
+    margin: 0 0 16px;
+  }
+
+  hr.rule {
+    border: 0;
+    border-top: 1px solid var(--rule);
+    margin: 44px 0;
+  }
+
+  /* ---- stat row ---------------------------------------------------------- */
+  .stats {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    gap: 1px;
+    background: var(--rule);
+    border: 1px solid var(--rule);
+    margin: 34px 0 0;
+  }
+  .stat { background: var(--bg); padding: 16px 18px; }
+  .stat .n {
+    font-weight: 900;
+    font-size: 30px;
+    line-height: 1.1;
+    color: var(--ink);
+    font-variant-numeric: tabular-nums;
+  }
+  .stat .k {
+    font-weight: 700;
+    font-size: 10px;
+    letter-spacing: 0.14em;
+    text-transform: uppercase;
+    color: var(--ink-muted);
+    margin-top: 4px;
+  }
+  @media (max-width: 620px) {
+    .stats { grid-template-columns: repeat(2, 1fr); }
+  }
+
+  /* ---- whole-board bar --------------------------------------------------- */
+  .board-bar {
+    display: flex;
+    gap: 2px;
+    height: 46px;
+    margin-bottom: 14px;
+  }
+  .seg {
+    border: 0;
+    padding: 0;
+    height: 100%;
+    border-radius: 2px;
+    cursor: pointer;
+    position: relative;
+    font-family: inherit;
+    font-weight: 900;
+    font-size: 11px;
+    letter-spacing: 0.06em;
+    color: var(--on-dark-step);
+    transition: filter .12s ease, transform .12s ease;
+  }
+  .seg:hover, .seg:focus-visible { filter: brightness(1.12); transform: translateY(-2px); }
+  .seg:focus-visible { outline: 2px solid var(--active); outline-offset: 3px; }
+  .seg.light-label { color: var(--on-light-step); }
+
+  .legend {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 6px 18px;
+    font-size: 12.5px;
+    color: var(--ink-body);
+  }
+  .legend div { display: flex; align-items: center; gap: 7px; }
+  .swatch {
+    width: 11px; height: 11px;
+    border-radius: 2px;
+    flex: none;
+  }
+  .legend .v {
+    color: var(--ink-muted);
+    font-variant-numeric: tabular-nums;
+  }
+
+  /* ---- controls ---------------------------------------------------------- */
+  .controls {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+    align-items: center;
+    margin: 0 0 28px;
+  }
+  .seg-group { display: flex; border: 1px solid var(--rule-strong); border-radius: 3px; overflow: hidden; }
+  .seg-group button {
+    font-family: inherit;
+    font-weight: 700;
+    font-size: 11px;
+    letter-spacing: 0.1em;
+    text-transform: uppercase;
+    padding: 8px 13px;
+    border: 0;
+    background: var(--bg);
+    color: var(--ink-muted);
+    cursor: pointer;
+  }
+  .seg-group button + button { border-left: 1px solid var(--rule-strong); }
+  .seg-group button[aria-pressed="true"] { background: var(--stable); color: #fff; }
+  :root[data-theme="dark"] .seg-group button[aria-pressed="true"],
+  .seg-group button[aria-pressed="true"] { background: var(--active); color: #fff; }
+  .seg-group button:focus-visible { outline: 2px solid var(--active); outline-offset: -2px; }
+
+  #q {
+    flex: 1 1 200px;
+    min-width: 0;
+    font-family: inherit;
+    font-size: 14px;
+    padding: 8px 12px;
+    color: var(--ink-body);
+    background: var(--bg);
+    border: 1px solid var(--rule-strong);
+    border-radius: 3px;
+  }
+  #q:focus-visible { outline: 2px solid var(--active); outline-offset: -1px; }
+  .count-note { font-size: 12.5px; color: var(--ink-muted); }
+
+  /* ---- theme blocks ------------------------------------------------------ */
+  .theme { margin-bottom: 34px; }
+  .theme-head {
+    display: flex;
+    align-items: baseline;
+    gap: 10px;
+    flex-wrap: wrap;
+    margin-bottom: 9px;
+  }
+  .theme-toggle {
+    display: flex;
+    align-items: center;
+    gap: 9px;
+    font-family: inherit;
+    font-weight: 900;
+    font-size: 15px;
+    letter-spacing: 0.02em;
+    color: var(--ink);
+    background: none;
+    border: 0;
+    padding: 2px 0;
+    margin: 0;
+    cursor: pointer;
+    text-align: left;
+  }
+  .theme-toggle:hover { color: var(--active); }
+  .theme-toggle:focus-visible { outline: 2px solid var(--active); outline-offset: 3px; border-radius: 2px; }
+  .chev {
+    flex: none;
+    width: 9px; height: 9px;
+    border-right: 2px solid currentColor;
+    border-bottom: 2px solid currentColor;
+    transform: rotate(-45deg);
+    transition: transform .15s ease;
+    margin-top: -3px;
+  }
+  .theme-toggle[aria-expanded="true"] .chev { transform: rotate(45deg); margin-top: -5px; }
+
+  .qlist { animation: none; }
+  .matchcount {
+    font-weight: 900;
+    font-size: 10px;
+    letter-spacing: 0.1em;
+    text-transform: uppercase;
+    color: var(--active);
+  }
+
+  .ghost {
+    font-family: inherit;
+    font-weight: 700;
+    font-size: 11px;
+    letter-spacing: 0.1em;
+    text-transform: uppercase;
+    padding: 8px 13px;
+    background: none;
+    color: var(--ink-muted);
+    border: 1px solid var(--rule-strong);
+    border-radius: 3px;
+    cursor: pointer;
+  }
+  .ghost:hover { color: var(--active); border-color: var(--active); }
+  .ghost:focus-visible { outline: 2px solid var(--active); outline-offset: -2px; }
+  .theme-meta {
+    font-size: 12.5px;
+    color: var(--ink-muted);
+    font-variant-numeric: tabular-nums;
+    margin-left: auto;
+  }
+  .theme-meta b { color: var(--ink-body); font-weight: 900; }
+
+  .anchor {
+    font-weight: 900;
+    font-size: 10px;
+    letter-spacing: 0.12em;
+    text-transform: uppercase;
+    color: var(--active);
+    border: 1px solid var(--active);
+    border-radius: 2px;
+    padding: 2px 6px;
+    white-space: nowrap;
+  }
+
+  .weight {
+    height: 6px;
+    background: var(--surface-2);
+    border-radius: 3px;
+    overflow: hidden;
+    margin-bottom: 12px;
+  }
+  .weight span { display: block; height: 100%; border-radius: 3px; }
+
+  .qrow {
+    display: grid;
+    grid-template-columns: 46px 1fr;
+    gap: 14px;
+    padding: 11px 0;
+    border-top: 1px solid var(--rule);
+    align-items: start;
+  }
+  .theme .qrow:last-child { border-bottom: 1px solid var(--rule); }
+  .votes {
+    font-weight: 900;
+    font-size: 17px;
+    text-align: right;
+    color: var(--ink);
+    font-variant-numeric: tabular-nums;
+    line-height: 1.35;
+  }
+  .votes small {
+    display: block;
+    font-weight: 700;
+    font-size: 9px;
+    letter-spacing: 0.1em;
+    color: var(--ink-muted);
+  }
+  .qtext { margin: 0; color: var(--ink-body); font-size: 15.5px; }
+  .asker {
+    display: block;
+    margin-top: 4px;
+    font-size: 11px;
+    font-weight: 700;
+    letter-spacing: 0.1em;
+    text-transform: uppercase;
+    color: var(--ink-muted);
+  }
+  .asker.named { color: var(--active); }
+  .fresh {
+    display: inline-block;
+    font-weight: 900;
+    font-size: 9px;
+    letter-spacing: 0.12em;
+    text-transform: uppercase;
+    color: #fff;
+    background: var(--active);
+    border-radius: 2px;
+    padding: 1px 5px;
+    margin-right: 7px;
+    vertical-align: 2px;
+  }
+
+  .qrow.flagged { background: var(--flag-bg); }
+  .qrow.flagged .qtext { padding-left: 12px; border-left: 3px solid var(--flag-rule); }
+  .callout {
+    display: block;
+    margin-top: 7px;
+    padding-left: 12px;
+    border-left: 3px solid transparent;
+    font-size: 13px;
+    color: var(--flag);
+  }
+  .callout b {
+    font-weight: 900;
+    letter-spacing: 0.1em;
+    text-transform: uppercase;
+    font-size: 10px;
+    display: block;
+  }
+
+  .pullquote {
+    font-weight: 900;
+    font-size: 14px;
+    letter-spacing: 0.14em;
+    text-transform: uppercase;
+    line-height: 1.5;
+    color: var(--ink);
+    border-top: 3px solid var(--active);
+    padding-top: 16px;
+    margin: 0 0 10px;
+    max-width: 46ch;
+  }
+
+  .colophon {
+    font-size: 12.5px;
+    color: var(--ink-muted);
+    max-width: 68ch;
+  }
+  .colophon p { margin: 0 0 9px; }
+  .colophon b { color: var(--ink-body); }
+
+  /* ---- tooltip ----------------------------------------------------------- */
+  #tip {
+    position: fixed;
+    z-index: 50;
+    pointer-events: none;
+    background: var(--stable);
+    color: #fff;
+    border-radius: 3px;
+    padding: 8px 11px;
+    font-size: 12.5px;
+    line-height: 1.4;
+    max-width: 240px;
+    box-shadow: 0 6px 20px rgba(28,59,107,.28);
+  }
+  :root[data-theme="dark"] #tip { background: #223247; }
+  #tip b { font-weight: 900; display: block; letter-spacing: .04em; }
+  #tip .tv { color: #BDE4E9; font-variant-numeric: tabular-nums; }
+
+  @media (prefers-reduced-motion: reduce) {
+    * { transition: none !important; }
+  }
+
+  /* ---- archive: answered on 9/20, and declined in moderation -------------
+     Deliberately quieter than the live board: these are not in play. Same
+     row grammar so the eye reads them as the same kind of thing. --------- */
+  .arch-intro {
+    font-size: 15.5px;
+    max-width: 62ch;
+    color: var(--ink-body);
+    margin: 0 0 22px;
+  }
+  .arch-group { margin-bottom: 26px; }
+  .arch-group[hidden] { display: none; }
+  .arch-actions { margin: -8px 0 24px; }
+  .arch-head {
+    display: flex;
+    align-items: baseline;
+    gap: 10px;
+    flex-wrap: wrap;
+    margin-bottom: 9px;
+  }
+  .arch-head h3 {
+    margin: 0;
+    font-weight: 900;
+    font-size: 15px;
+    letter-spacing: 0.02em;
+    color: var(--ink);
+  }
+  .arch .qrow:last-child { border-bottom: 1px solid var(--rule); }
+  .arch .qtext { color: var(--ink-muted); }
+  .arch .votes { color: var(--ink-muted); }
+  .arch .qrow.keep .qtext { color: var(--ink-body); }
+  .arch .qrow.keep .votes { color: var(--ink); }
+  .pill {
+    display: inline-block;
+    font-weight: 900;
+    font-size: 9px;
+    letter-spacing: 0.12em;
+    text-transform: uppercase;
+    border-radius: 2px;
+    padding: 1px 5px;
+    margin-right: 7px;
+    vertical-align: 2px;
+    white-space: nowrap;
+  }
+  .pill.ans { color: var(--on-dark-step); background: var(--s5); }
+  .pill.pin { color: var(--flag); background: var(--flag-bg); border: 1px solid var(--flag-rule); }
+  .pill.dec { color: var(--ink-muted); background: var(--surface-2); border: 1px solid var(--rule-strong); }
+  .archnote {
+    display: block;
+    margin-top: 6px;
+    font-size: 13.5px;
+    color: var(--ink-body);
+    border-left: 2px solid var(--rule-strong);
+    padding-left: 10px;
+  }
+  .archnote b { color: var(--ink); }
+</style>
+
+
+<div class="wrap">
+
+  <p class="eyebrow">Grace Community Church &middot; Sunday Night Service</p>
+  <h1>What the room is asking after week one</h1>
+  <p class="standfirst">Every question still live on the AhaSlides board the morning after launch night, grouped by what it is really about. Nine themes, sized by up-votes. The nineteen John answered on 9/20 have dropped off the board and are not counted in the themes &mdash; they are listed in full further down, with the five that were declined in moderation.</p>
+  <p class="dateline">Board <b>&ldquo;Sunday Night Service &mdash; Q&amp;A 9/13&rdquo;</b> &middot; pulled <b>21 Sept 2026, 9:52&nbsp;AM ET</b> &middot; next up is <b>Week&nbsp;2 &mdash; John 15:1&ndash;11</b>, one word <b>VINE</b>, practice <b>REMAIN</b></p>
+  <p class="dateline" style="margin-top:6px"><b>27 questions arrived during the service itself</b>, 6:26&ndash;7:42&nbsp;PM &mdash; more than the morning QR seed (23) and more than the broadcast text (21). <b>The room in front of the code is the best source the mechanic has.</b></p>
+
+  <div class="stats">
+    <div class="stat"><div class="n">66</div><div class="k">Live questions</div></div>
+    <div class="stat"><div class="n">192</div><div class="k">Up-votes</div></div>
+    <div class="stat"><div class="n">27</div><div class="k">Asked in the room 9/20</div></div>
+    <div class="stat"><div class="n">19</div><div class="k">Answered &amp; retired</div></div>
+  </div>
+
+  <hr class="rule">
+
+  <h2>The whole board</h2>
+  <div class="board-bar" id="bar"></div>
+  <div class="legend" id="legend"></div>
+
+  <hr class="rule">
+
+  <div class="controls">
+    <div class="seg-group" role="group" aria-label="Sort themes">
+      <button type="button" id="sortVotes" aria-pressed="true">By up-votes</button>
+      <button type="button" id="sortCount" aria-pressed="false">By question count</button>
+    </div>
+    <button type="button" class="ghost" id="toggleAll">Expand all</button>
+    <input type="text" id="q" placeholder="Filter questions&hellip;" aria-label="Filter questions">
+    <span class="count-note" id="countNote"></span>
+  </div>
+
+  <div id="themes"></div>
+
+  <hr class="rule">
+
+  <h2>Answered on launch night &mdash; and gone from the board</h2>
+  <p class="arch-intro">Nineteen questions were marked answered on 20&nbsp;September, which removes them from what the audience can see. <b>They carried 144 up-votes between them &mdash; 43% of every vote ever cast on this board.</b> Grouped by what they were about, they are the record of what John actually covered, and they line up almost exactly with what the 16&nbsp;September analysis recommended.</p>
+  <p class="arch-actions"><button type="button" class="ghost" id="ansToggleAll">Expand all</button></p>
+  <div class="arch" id="answered"></div>
+
+  <hr class="rule">
+
+  <h2>Declined in moderation</h2>
+  <p class="arch-intro">Five questions were dismissed and never reached the board. Two were jokes and the call was right. <b>Three were people asking for something</b> &mdash; and there is no route off this board for an ask, so they were deleted instead of answered.</p>
+  <div class="arch" id="declined"></div>
+
+  <hr class="rule">
+
+  <p class="pullquote">Three themes sit within one vote of each other. Votes do not pick this week &mdash; breadth and the text do.</p>
+
+  <div class="colophon">
+    <p><b>Source.</b> Read-only pull of the board&rsquo;s own question list behind <code>audience.ahaslides.com/WTUI2</code> (<code>iid5bl9hd6</code> is the same board). All 90 rows came back from the board directly &mdash; 85 approved, 5 dismissed in moderation, 19 marked answered on launch night and therefore hidden from the audience. <b>The themed board is the 66 the room can still see</b>; the answered nineteen and the declined five are listed separately below it, with their own counts. Nothing was pinned, answered, edited, dismissed or submitted.</p>
+    <p><b>Grouping.</b> Themes are editorial, assigned by what each question is asking rather than its wording. Every question sits in exactly one theme; the nine add up to 66 and to 192 votes. <b>Everything else</b> is a genuine remainder, not a ranked ninth theme.</p>
+    <p><b>&ldquo;New&rdquo;</b> marks a question submitted in the room during the 9/20 service, 6:26&ndash;7:42&nbsp;PM ET.</p>
+    <p><b>Spelling.</b> Questions appear exactly as submitted, typos included.</p>
+    <p><b>Color.</b> Grace brand book, Summer 2019 &mdash; Active Blue <code>#2F97A0</code> (Pantone 2235&nbsp;C), Stable Blue <code>#1C3B6B</code> (534&nbsp;C), Cinder Gray <code>#ABABAB</code> (429&nbsp;C). The ramp steps between the two blues, and the text inks, are derived from those and are not themselves brand values. Type is <b>Lato</b>, the one brand-specified face that is freely licensed, set to the book&rsquo;s own hierarchy &mdash; light headers, heavily tracked small caps.</p>
+  </div>
+</div>
+
+<script>
+(function () {
+  "use strict";
+
+  var THEMES = [
+    { key: "A", name: "Suffering, tragedy &amp; whether God cares", anchor: "Three weeks deep and still growing &mdash; wants its own night", qs: [
+      { v: 18, who: null, t: "If God is always with us and loves us, why do many people go through severe tragedies and traumas to include being victims of violent crimes?" },
+      { v: 3,  who: null, t: "What do you do if you are losing faith that God cares about you?" },
+      { v: 2,  who: "Christine", t: "My greatest question always goes back to pain. If there is a loving God, why do such awful things happen to innocent people. Things like child abuse, mass catastrophes, bullying?" },
+      { v: 2,  who: "James", t: "I think back on my life and if tragedy befell me before I came into the church, would I have been doomed? And what about those that never had that opportunity." },
+      { v: 2,  who: null, t: "Gos never gives us more than we can handle. What&rsquo;s our prayer when he does" },
+      { v: 1,  who: null, fresh: true, t: "Why does God let our loved ones suffer or die tragically at times?" },
+      { v: 1,  who: "Alexander", fresh: true, t: "What do you do when you believe God does not care about you anymore?",
+        flag: "Worth a pastoral follow-up", note: "Attached a real first name in the room. Whether or not it ever reaches a screen, somebody should reach out." },
+      { v: 1,  who: null, t: "If God is all-powerful and perfectly good, why do innocent animals experience pain and suffering?" },
+      { v: 1,  who: null, t: "Why do bad things happen to good people?" }
+    ]},
+    { key: "B", name: "The Bible: literal, symbolic, scientific", anchor: null, qs: [
+      { v: 20, who: null, t: "How does Adam and Eve fit in with evolution?",
+        flag: "Nine days at the top, and no week serves it", note: "Top of the audience-visible board since 12 September. Nothing in the FAITH FOR EVERYDAY LIFE grid touches it, so it will still be sitting there on 27 September with more votes. Give it a week, answer it in writing, or mark it answered &mdash; but doing nothing is also a choice." },
+      { v: 7,  who: null, t: "How do we know what&rsquo;s real in the Bible and what is a parable or symbol. Like Jonah in the whale. Like Adam and Eve." },
+      { v: 2,  who: "P.J.", fresh: true, t: "If Adam and Eve had just two sons, Cain and Abel, and no daughters, how was the species able to procreate and continue?" },
+      { v: 1,  who: null, t: "Did Jonah and the fish really happen?" }
+    ]},
+    { key: "C", name: "Formation &mdash; what shapes you", anchor: "John 15:1&ndash;11 &mdash; remain in the vine, and be pruned", qs: [
+      { v: 7, who: "KM", t: "How to handle sin when trying to build a relationship with God? If God loves us all no matter what, why is there so much discussion of sin in the bible?" },
+      { v: 4, who: "B", t: "How Should Dc Washingtonians practice sabbath?" },
+      { v: 3, who: "KM", t: "Can actions/ thoughts hinder a deep meaningful relationship with God?" },
+      { v: 3, who: null, t: "Is it okay that I don&rsquo;t attend service every week? Am I any less of a believer or person for not going every week?" },
+      { v: 3, who: null, t: "If Jesus created a new covenant with his crucifixion and resurrection, what about the 10 commandments and observing the sabbath? Are we still to follow the rules of the old testament or is believing in Jesus and loving God and loving people enough?" },
+      { v: 2, who: null, fresh: true, t: "How do we control what we put into our minds without isolating ourselves from the secular world?",
+        flag: "Recommended question of the night, 9/27", note: "Only two votes because it is a day old &mdash; but it is the cleanest statement of REMAIN on the board, it is stranger-safe, and it came out of the room that just heard week one." },
+      { v: 2, who: null, fresh: true, t: "How do I handle a busy season?" },
+      { v: 2, who: "KM", t: "Does 1 Corinthians 11:30 mean that some People should not participate in communion?" },
+      { v: 1, who: null, fresh: true, t: "How do we test our true motivations?" },
+      { v: 1, who: null, fresh: true, t: "How do I be gentle and kind and forgiving without becoming a doormat?" },
+      { v: 1, who: "Season", fresh: true, t: "How to endure when you&rsquo;re doing &ldquo;all of The things&rdquo; and still feeling gripped by ______(fear,anxiety)." },
+      { v: 1, who: "CF", t: "How do we differentiate the origin of objects of our desire (porn, Doritos, casinos,etc.) as evolutionary vs coming from sin? IOW Is there a difference between evolutionary advantages and sinful nature?" }
+    ]},
+    { key: "D", name: "Sovereignty, purpose &amp; agency", anchor: null, qs: [
+      { v: 15, who: null, t: "I would like to hear more about how to fully accept that God controls our lives without becoming passive? How do we balance that on a daily basis while we try to be our best selves and do good in our personal lives, careers etc?" },
+      { v: 5, who: null, t: "How do I know my real purpose in life? I dont work and feel like im not enough",
+        flag: "Read the first sentence only", note: "Unchanged from 16 September. The question belongs on the screen. The second sentence is a person&rsquo;s private pain, submitted anonymously, and should not be projected." },
+      { v: 2, who: null, t: "Hwo to gain power over oneself" },
+      { v: 2, who: "Ben", t: "Is the desire to find a grand purpose in life itself something Christianity says we should pursue, or can that desire become a distraction from ordinary faithfulness?" },
+      { v: 2, who: "Ben", t: "Can a person become addicted to urgency because it temporarily eliminates the anxiety of having to decide what matters? Is there a theological way of understanding that phenomenon?" },
+      { v: 1, who: "Ben", t: "Does Christianity encourage us to live urgently, or does it more often call us to patience, waiting, stillness, and faithfulness? How do those seemingly opposing commands fit together?" },
+      { v: 1, who: null, fresh: true, t: "I like to learn about to the some situation in the past affects the new generation ." }
+    ]},
+    { key: "E", name: "Church, practice &amp; plain information", anchor: "Not teaching questions &mdash; these need a person, not a passage", qs: [
+      { v: 14, who: null, fresh: true, t: "The young professionals group at Grace has had only one event this year, in 2023 there were over 10. How can church leadership refocus on prioritizing the young professionals making it an active community? Hire more staff for the YoPros?",
+        flag: "Needs an owner before 9/27", note: "Sincere, specific, evidenced, and thirteen other people up-voted it inside a live room. Not an attack and <b>not</b> a candidate for pulling &mdash; deleting it would confirm exactly what the asker suspects. John cannot answer it from John 15. Route it to whoever owns the YoPros calendar and let them reply." },
+      { v: 2, who: null, fresh: true, t: "What does Grace really mean?" },
+      { v: 2, who: null, fresh: true, t: "Does grace ofer bible?",
+        flag: "A request, not a question", note: "Somebody wants a Bible. There is currently no route off this board for asks like this, so it will sit here unanswered." },
+      { v: 2, who: null, t: "I have noticed that some people end their prayers without saying, &ldquo;In Jesus&rsquo; name.&rdquo; Is this considered standard, or does the phrasing matter?" },
+      { v: 1, who: "Mike", t: "Can Psalm 1&amp;2 really be a summary of the entire Bible?" },
+      { v: 1, who: null, fresh: true, t: "Do you have small groups for women in the 50ish age backet?",
+        flag: "A request, not a question", note: "Same gap. One inbox and one named owner would clear this whole row of the board." },
+      { v: 1, who: null, fresh: true, t: "Who is Jireh?" },
+      { v: 1, who: null, fresh: true, t: "Who are the Nephilim?" },
+      { v: 1, who: "Different", fresh: true, t: "If I don&rsquo;t like church ( because I can&rsquo;t sit still) does that mean I&rsquo;m bad" }
+    ]},
+    { key: "F", name: "Hearing God &amp; the Spirit", anchor: "What is left after ten of these were answered on 9/20", qs: [
+      { v: 6, who: "Richard H.", t: "How can we discern the difference between God calling us to sacrifice versus our own inability to say &lsquo;no&rsquo;?" },
+      { v: 5, who: "Ben", t: "How does Christian discernment work when God hasn&rsquo;t provided clear direction? Are we supposed to wait for clarity, or can faithful action itself be part of discernment? What does Scripture say about the tension between &ldquo;be still&rdquo; and &ldquo;go&rdquo;?" },
+      { v: 3, who: null, t: "How to have discernment? Especially with things I&rsquo;ve prayed on, I feel like I don&rsquo;t know how to proceed when God answers." },
+      { v: 2, who: null, fresh: true, t: "What if you don&rsquo;t hear the Advocate or the Holy Spirit? Does it mean you are not close to God?" },
+      { v: 2, who: null, fresh: true, t: "can you speak on the gifts of the holy spirit?" }
+    ]},
+    { key: "G", name: "Telling other people", anchor: null, qs: [
+      { v: 2, who: null, t: "How can I influence a loved one to follow Jesus?" },
+      { v: 1, who: "Ben", t: "How should Christian evangelism evolve in an age where people have instant access to information?" },
+      { v: 1, who: "Ben", t: "believing in God makes so much sense &mdash; why isn&rsquo;t it more mainstream in our culture?" },
+      { v: 1, who: "Ben", t: "What is the next big thing God is going to do in Arlington? America? the world?" },
+      { v: 1, who: null, t: "What to do when teens don&rsquo;t believe in Jesus. Ie just like Santa or Tooth fairy" },
+      { v: 1, who: null, t: "How do I handle situations where I&rsquo;m around friends or even just peers in general who are saying or doing things, such as for instance cursing or gossiping, or making fun/talking badly of people or groups behind their backs, when these things do not seem in line with the teachings of Jesus and how he asks us to be ?" },
+      { v: 1, who: "Anonymous", fresh: true, t: "How to spread hope to so many around me who are hopeless?" }
+    ]},
+    { key: "H", name: "Is Jesus the only way?", anchor: "The 24-vote version was answered on 9/20 &mdash; this is the tail", qs: [
+      { v: 1, who: null, fresh: true, t: "What if someone is not Christian, wants to learn more about god but can&rsquo;t get access or important knowledge?" },
+      { v: 1, who: null, t: "Why/how is it considered that Jesus &ldquo;saved&rdquo; humanity/us when he died on the cross and resurrected?" },
+      { v: 1, who: null, t: "How does someone who used to be Godless learn to forgive themselves for their past, now that God is in their life?" }
+    ]},
+    { key: "I", name: "Everything else", other: true, anchor: null, qs: [
+      { v: 5, who: null, t: "What happens when you die?" },
+      { v: 4, who: "Ben", t: "What are some of the most common things Christians do, say, or believe that are often assumed to be biblical, but are actually rooted more in superstition or cultural tradition?" },
+      { v: 2, who: null, t: "Can you lose your salvation?" },
+      { v: 2, who: "Ben", t: "If fear of death can motivate an animal toward survival, what does Scripture mean by &ldquo;the fear of the Lord&rdquo;? Is there a meaningful theological parallel between the two?" },
+      { v: 1, who: null, t: "How does God listen to everyone at once ?" },
+      { v: 1, who: "Ben", t: "what&rsquo;s the deal with all these paradoxes in Christianity?" },
+      { v: 1, who: null, t: "What to do when multiple people are saying the end times are near?" },
+      { v: 1, who: null, t: "How did you come up with the metaphors and examples with football?" },
+      { v: 1, who: null, t: "How do we beat praise God for blessings?" },
+      { v: 1, who: "Ahmad Freeman", fresh: true, t: "I saw te documentary christspiracy... was christ a vegan? How would christ kill and consume an animal?" }
+    ]}
+  ];
+
+  THEMES.forEach(function (t) {
+    t.votes = t.qs.reduce(function (a, q) { return a + q.v; }, 0);
+    t.count = t.qs.length;
+  });
+
+  var TOTAL_VOTES = THEMES.reduce(function (a, t) { return a + t.votes; }, 0);
+  var TOTAL_QS    = THEMES.reduce(function (a, t) { return a + t.count; }, 0);
+
+  // Rank by votes for the colour ramp: darkest = heaviest. "Other" always grey.
+  var ranked = THEMES.filter(function (t) { return !t.other; })
+                     .slice().sort(function (a, b) { return b.votes - a.votes; });
+  ranked.forEach(function (t, i) { t.step = "var(--s" + (i + 1) + ")"; t.lightLabel = i >= 5; });
+  THEMES.forEach(function (t) { if (t.other) { t.step = "var(--s9)"; t.lightLabel = true; } });
+
+  var strip = function (h) { var d = document.createElement("div"); d.innerHTML = h; return d.textContent || ""; };
+
+  // ---- whole-board bar ----------------------------------------------------
+  var bar = document.getElementById("bar");
+  var legend = document.getElementById("legend");
+  var barOrder = ranked.concat(THEMES.filter(function (t) { return t.other; }));
+
+  barOrder.forEach(function (t) {
+    var pct = t.votes / TOTAL_VOTES * 100;
+    var b = document.createElement("button");
+    b.type = "button";
+    b.className = "seg" + (t.lightLabel ? " light-label" : "");
+    b.style.flex = pct + " 1 0";
+    b.style.background = t.step;
+    b.textContent = pct > 7 ? t.key : "";
+    b.setAttribute("aria-label", strip(t.name) + ": " + t.votes + " up-votes across " + t.count + " questions");
+    b.dataset.tip = "<b>" + t.name + "</b><span class='tv'>" + t.votes + " up-votes &middot; " + t.count + " questions &middot; " + pct.toFixed(0) + "% of the board</span>";
+    b.addEventListener("click", function () {
+      if (!open[t.key]) { open[t.key] = true; persist(); render(); syncToggleAll(); }
+      var el = document.getElementById("theme-" + t.key);
+      if (el) el.scrollIntoView({ behavior: "smooth", block: "start" });
+    });
+    bar.appendChild(b);
+
+    var l = document.createElement("div");
+    l.innerHTML = '<span class="swatch" style="background:' + t.step + '"></span><span>' + t.name +
+                  '</span><span class="v">' + t.votes + "</span>";
+    legend.appendChild(l);
+  });
+
+  // ---- tooltip ------------------------------------------------------------
+  var tip = document.createElement("div");
+  tip.id = "tip";
+  tip.hidden = true;
+  document.body.appendChild(tip);
+
+  function moveTip(e) {
+    var pad = 14, w = tip.offsetWidth, h = tip.offsetHeight;
+    var x = e.clientX + pad, y = e.clientY + pad;
+    if (x + w > window.innerWidth - 8) x = e.clientX - w - pad;
+    if (y + h > window.innerHeight - 8) y = e.clientY - h - pad;
+    tip.style.left = Math.max(8, x) + "px";
+    tip.style.top = Math.max(8, y) + "px";
+  }
+  bar.addEventListener("mouseover", function (e) {
+    var s = e.target.closest(".seg");
+    if (!s) return;
+    tip.innerHTML = s.dataset.tip;
+    tip.hidden = false;
+    moveTip(e);
+  });
+  bar.addEventListener("mousemove", function (e) { if (!tip.hidden) moveTip(e); });
+  bar.addEventListener("mouseout", function () { tip.hidden = true; });
+  bar.addEventListener("focusout", function () { tip.hidden = true; });
+
+  // ---- theme sections -----------------------------------------------------
+  var host = document.getElementById("themes");
+  var countNote = document.getElementById("countNote");
+  var maxVotes = Math.max.apply(null, THEMES.map(function (t) { return t.votes; }));
+  var sortKey = "votes";
+  var filter = "";
+
+  // Which themes are expanded. Default: the heaviest one open, the rest closed,
+  // so the page rests on the summary and the detail is one click away.
+  var open = {};
+  THEMES.forEach(function (t) { open[t.key] = false; });
+  open[ranked[0].key] = true;
+  try {
+    var saved = JSON.parse(localStorage.getItem("snqb-open") || "null");
+    if (saved && typeof saved === "object") {
+      THEMES.forEach(function (t) { if (typeof saved[t.key] === "boolean") open[t.key] = saved[t.key]; });
+    }
+  } catch (e) { /* private window, blocked storage - defaults are fine */ }
+
+  function persist() {
+    try { localStorage.setItem("snqb-open", JSON.stringify(open)); } catch (e) {}
+  }
+  function allOpen() { return THEMES.every(function (t) { return open[t.key]; }); }
+  function syncToggleAll() {
+    var b = document.getElementById("toggleAll");
+    b.textContent = allOpen() ? "Collapse all" : "Expand all";
+  }
+
+  function render() {
+    var list = THEMES.filter(function (t) { return !t.other; })
+                     .slice()
+                     .sort(function (a, b) {
+                       return sortKey === "votes" ? b.votes - a.votes : b.count - a.count;
+                     })
+                     .concat(THEMES.filter(function (t) { return t.other; }));
+
+    host.textContent = "";
+    var shown = 0;
+
+    list.forEach(function (t) {
+      var qs = filter
+        ? t.qs.filter(function (q) { return strip(q.t).toLowerCase().indexOf(filter) > -1; })
+        : t.qs;
+      if (!qs.length) return;
+      shown += qs.length;
+
+      var sec = document.createElement("section");
+      sec.className = "theme";
+      sec.id = "theme-" + t.key;
+
+      // A filter match forces the theme open, so results are never hidden.
+      var isOpen = filter ? true : open[t.key];
+
+      var head = '<div class="theme-head"><h3 style="margin:0">' +
+                 '<button type="button" class="theme-toggle" data-key="' + t.key + '" ' +
+                 'aria-expanded="' + isOpen + '" aria-controls="qs-' + t.key + '">' +
+                 '<span class="chev" aria-hidden="true"></span><span>' + t.name + "</span></button></h3>";
+      if (t.anchor) head += '<span class="anchor">' + t.anchor + "</span>";
+      head += '<span class="theme-meta">';
+      if (filter) head += '<span class="matchcount">' + qs.length + " match" + (qs.length === 1 ? "" : "es") + "</span> &middot; ";
+      head += "<b>" + t.votes + "</b> up-votes &middot; " + t.count + " questions</span></div>";
+
+      head += '<div class="weight"><span style="width:' + (t.votes / maxVotes * 100) +
+              "%;background:" + t.step + '"></span></div>';
+
+      var rows = qs.map(function (q) {
+        var r = '<div class="qrow' + (q.flag ? " flagged" : "") + '">';
+        r += '<div class="votes">' + q.v + "<small>" + (q.v === 1 ? "VOTE" : "VOTES") + "</small></div>";
+        r += '<div><p class="qtext">';
+        if (q.fresh) r += '<span class="fresh">New</span>';
+        r += q.t;
+        if (q.who) r += '<span class="asker named">&mdash; ' + q.who + "</span>";
+        r += "</p>";
+        if (q.flag) r += '<span class="callout"><b>' + q.flag + "</b>" + q.note + "</span>";
+        r += "</div></div>";
+        return r;
+      }).join("");
+
+      sec.innerHTML = head + '<div class="qlist" id="qs-' + t.key + '"' + (isOpen ? "" : " hidden") + ">" +
+                      rows + "</div>";
+      host.appendChild(sec);
+    });
+
+    if (!shown) {
+      // The archive is filtered by its own listener further down, so say how
+      // many matches are waiting there rather than implying there are none.
+      var inArch = [].filter.call(document.querySelectorAll(".arch .qtext"), function (el) {
+        return (el.textContent || "").toLowerCase().indexOf(filter) > -1;
+      }).length;
+      host.innerHTML = '<p style="color:var(--ink-muted)">No <b>live</b> question matches &ldquo;' +
+                       strip(filter) + "&rdquo;." +
+                       (inArch ? " " + inArch + " match" + (inArch === 1 ? " is" : "es are") +
+                                 " in the answered and declined lists below." : "") + "</p>";
+    }
+    countNote.textContent = filter
+      ? shown + " of " + TOTAL_QS + " questions"
+      : TOTAL_QS + " questions &middot; " + TOTAL_VOTES + " up-votes";
+    countNote.innerHTML = countNote.textContent;
+  }
+
+  // Toggling one theme flips only that theme's rows - no full re-render, so
+  // scroll position and the filter box stay exactly where they were.
+  host.addEventListener("click", function (e) {
+    var btn = e.target.closest(".theme-toggle");
+    if (!btn) return;
+    var key = btn.dataset.key;
+    var list = document.getElementById("qs-" + key);
+    var next = btn.getAttribute("aria-expanded") !== "true";
+    btn.setAttribute("aria-expanded", String(next));
+    if (list) list.hidden = !next;
+    if (!filter) { open[key] = next; persist(); syncToggleAll(); }
+  });
+
+  document.getElementById("toggleAll").addEventListener("click", function () {
+    var next = !allOpen();
+    THEMES.forEach(function (t) { open[t.key] = next; });
+    persist();
+    render();
+    syncToggleAll();
+  });
+
+  var bv = document.getElementById("sortVotes");
+  var bc = document.getElementById("sortCount");
+  bv.addEventListener("click", function () {
+    sortKey = "votes"; bv.setAttribute("aria-pressed", "true"); bc.setAttribute("aria-pressed", "false"); render();
+  });
+  bc.addEventListener("click", function () {
+    sortKey = "count"; bc.setAttribute("aria-pressed", "true"); bv.setAttribute("aria-pressed", "false"); render();
+  });
+  document.getElementById("q").addEventListener("input", function (e) {
+    filter = e.target.value.trim().toLowerCase(); render();
+  });
+
+
+  // ---- archive: answered + declined ---------------------------------------
+  var ANSWERED = [
+    { name: "Hearing God, discernment &amp; the Spirit", v: 68, n: 12, anchor: "The question of the night", qs: [
+      { v: 35, who: null, t: "How can I learn to hear from God?" },
+      { v: 6,  who: null, t: "How can I learn the difference between God speaking to me and just my brain telling me what I want to hear?" },
+      { v: 6,  who: null, t: "How can identify when God is talking to me?" },
+      { v: 5,  who: "JP", t: "How do we know w&rsquo;re hearing from God, and not just our own psychie or some other external source?" },
+      { v: 4,  who: null, t: "What does God&rsquo;s presence feel like? How do you access his presence?" },
+      { v: 3,  who: null, fresh: true, t: "How can you differentiate your own inner voice from Gods?" },
+      { v: 2,  who: null, fresh: true, t: "How can I hear God when I don&rsquo;t know what his voice sounds like?" },
+      { v: 2,  who: "K. Toney", t: "How can I be more sensitive to the voice of God? What else can I do to deepen my faith in God?" },
+      { v: 2,  who: null, t: "How can I learn to hear from God?",
+        note: "<b>The duplicate.</b> Word-for-word the same as the 35-vote question at the top of this group, and it was never merged &mdash; both simply got marked answered on the same night and dropped off together. Right outcome, wrong mechanism. If a duplicate turns up again on a question that is <i>not</i> about to be answered, it still has to be merged by hand." },
+      { v: 1,  who: null, fresh: true, t: "How can I know if the Holy Spirit is with me?" },
+      { v: 1,  who: null, fresh: true, t: "How do I identify god and how can I get to him if I need it&hellip; am I still loved if I&rsquo;ve never heard from him?" },
+      { v: 1,  who: null, fresh: true, t: "How do we actually know what god looks like?" }
+    ]},
+    { name: "Worry, anxiety &amp; peace", v: 38, n: 3, anchor: "John 14:27, from the pulpit", qs: [
+      { v: 36, who: null, t: "How do I not worry when everything is actually falling apart right now?" },
+      { v: 1,  who: null, fresh: true, t: "How do I not worrybout the future? And specially in a relationship situation" },
+      { v: 1,  who: null, fresh: true, t: "How do I not worry so much?" }
+    ]},
+    { name: "Is Jesus the only way?", v: 33, n: 2, qs: [
+      { v: 24, who: null, pinned: true, t: "Is Jesus really the only way to God? What about people who never heard about him?",
+        note: "<b>Pinned and answered at the same time.</b> Pinning normally means &lsquo;keep this visible&rsquo;; answering hides it. Probably housekeeping from launch night &mdash; but if the pin was deliberate, the answered flag cancelled it. Also worth noting: the 16 September analysis recommended <i>holding</i> this one for a week built around it. It got used on launch night instead." },
+      { v: 9,  who: null, t: "On Sunday&rsquo;s sermon: if &ldquo;the way&rdquo; is an approach to life, then what would you say to a religious pluralist who says that a person can follow &ldquo;the way&rdquo; in any religion or secular philosophy - without tying it to the Person of Jesus? (What people often object to in John 14:6 is that Jesus said &ldquo;I am the way&rdquo; - and not &ldquo;my way is the way.&rdquo; How should Christians respond to this?)",
+        note: "Flagged on 16 September as <b>too long to project and needing a rewrite</b>. Whether it was condensed before it went on a screen is not recorded." }
+    ]},
+    { name: "Straight from Week 1&rsquo;s text", v: 3, n: 1, qs: [
+      { v: 3, who: null, t: "What are the &lsquo;greater works&rsquo; he&rsquo;s talking about in verse 12?" }
+    ]},
+    { name: "Telling other people", v: 2, n: 1, qs: [
+      { v: 2, who: null, t: "How can I spread the gospel to the people in my life and strangers?" }
+    ]}
+  ];
+
+  var DECLINED = [
+    { v: 1, who: "Roberto Mele", keep: true, t: "Can I help teach the sixth graders at grace community church.",
+      note: "<b>A volunteer offer, deleted.</b> Somebody put their real name on a public board and offered to teach kids, and it was dismissed as off-topic. It was off-topic &mdash; for a teaching board. It was not off-topic for the church. He should be contacted." },
+    { v: 1, who: null, keep: true, t: "Why you don&rsquo;t have days to pray early morning (6 am ) in the church ?",
+      note: "<b>A ministry request wearing a question mark.</b> Same gap as the two requests still sitting unanswered on the live board &mdash; no inbox, no owner, so it was deleted." },
+    { v: 1, who: "Ben", t: "What are some things Christians commonly say, do, or believe that sound spiritual or biblical, but may actually be superstition dressed up in Christian language? (praying for travel mercies)",
+      note: "<b>Correct call.</b> A near-duplicate of Ben&rsquo;s own longer version, which stayed and now sits at four votes." },
+    { v: 1, who: "JP", t: "How did John Slye get so handsome?",
+      note: "<b>Correct call.</b> A joke, and a friendly one." },
+    { v: 1, who: null, t: "Will there be more cowbell with our Jesus?",
+      note: "<b>Correct call.</b> Also a joke." }
+  ];
+
+  function archRow(q, kind) {
+    var r = '<div class="qrow' + (q.keep ? " keep" : "") + '">';
+    r += '<div class="votes">' + q.v + "<small>" + (q.v === 1 ? "VOTE" : "VOTES") + "</small></div>";
+    r += '<div><p class="qtext">';
+    if (kind === "dec") r += '<span class="pill dec">Declined</span>';
+    if (q.pinned) r += '<span class="pill pin">Pinned</span>';
+    if (q.fresh) r += '<span class="fresh">New</span>';
+    r += q.t;
+    if (q.who) r += '<span class="asker named">&mdash; ' + q.who + "</span>";
+    r += "</p>";
+    if (q.note) r += '<span class="archnote">' + q.note + "</span>";
+    r += "</div></div>";
+    return r;
+  }
+
+  // Archive groups are collapsed by default - this is reference material,
+  // not the board in play. State survives a reload, same as the themes.
+  var archOpen = {};
+  function archPersist() {
+    try { localStorage.setItem("snqb-arch-open", JSON.stringify(archOpen)); } catch (e) {}
+  }
+  var archSaved = null;
+  try { archSaved = JSON.parse(localStorage.getItem("snqb-arch-open") || "null"); } catch (e) {}
+
+  function archGroup(id, name, anchorText, meta, rowsHtml) {
+    if (typeof archOpen[id] !== "boolean") {
+      archOpen[id] = archSaved && typeof archSaved[id] === "boolean" ? archSaved[id] : false;
+    }
+    var d = document.createElement("div");
+    d.className = "arch-group";
+    var h = '<div class="arch-head"><h3 style="margin:0">' +
+            '<button type="button" class="theme-toggle" data-arch="' + id + '" ' +
+            'aria-expanded="' + archOpen[id] + '" aria-controls="arch-' + id + '">' +
+            '<span class="chev" aria-hidden="true"></span><span>' + name + "</span></button></h3>";
+    if (anchorText) h += '<span class="anchor">' + anchorText + "</span>";
+    h += '<span class="theme-meta">' + meta + "</span></div>";
+    d.innerHTML = h + '<div class="qlist" id="arch-' + id + '"' +
+                  (archOpen[id] ? "" : " hidden") + ">" + rowsHtml + "</div>";
+    return d;
+  }
+
+  var ansHost = document.getElementById("answered");
+  ANSWERED.forEach(function (g, i) {
+    ansHost.appendChild(archGroup(
+      "a" + i, g.name, g.anchor,
+      "<b>" + g.v + "</b> up-votes &middot; " + g.n + " question" + (g.n === 1 ? "" : "s"),
+      g.qs.map(function (q) { return archRow(q, "ans"); }).join("")
+    ));
+  });
+
+  document.getElementById("declined").appendChild(archGroup(
+    "d0", "The five dismissed rows", "Three were requests, two were jokes",
+    "<b>5</b> questions &middot; 0 reached the board",
+    DECLINED.map(function (q) { return archRow(q, "dec"); }).join("")
+  ));
+
+  var archIds = Object.keys(archOpen);
+  function archAllOpen() { return archIds.every(function (k) { return archOpen[k]; }); }
+  function syncArchToggleAll() {
+    var b = document.getElementById("ansToggleAll");
+    var ansIds = archIds.filter(function (k) { return k.charAt(0) === "a"; });
+    b.textContent = ansIds.every(function (k) { return archOpen[k]; }) ? "Collapse all" : "Expand all";
+  }
+  function setArch(id, next) {
+    archOpen[id] = next;
+    var btn = document.querySelector('[data-arch="' + id + '"]');
+    var list = document.getElementById("arch-" + id);
+    if (btn) btn.setAttribute("aria-expanded", String(next));
+    if (list) list.hidden = !next;
+  }
+
+  document.querySelector(".wrap").addEventListener("click", function (e) {
+    var btn = e.target.closest("[data-arch]");
+    if (!btn) return;
+    var id = btn.dataset.arch;
+    setArch(id, btn.getAttribute("aria-expanded") !== "true");
+    if (!filter) { archPersist(); syncArchToggleAll(); }
+  });
+
+  document.getElementById("ansToggleAll").addEventListener("click", function () {
+    var ansIds = archIds.filter(function (k) { return k.charAt(0) === "a"; });
+    var next = !ansIds.every(function (k) { return archOpen[k]; });
+    ansIds.forEach(function (k) { setArch(k, next); });
+    archPersist();
+    syncArchToggleAll();
+  });
+
+  // The filter box reaches these rows too, so a search never looks like it
+  // found nothing when the match is sitting in the archive. A match forces
+  // its group open; clearing the box restores whatever was open before.
+  document.getElementById("q").addEventListener("input", function (e) {
+    var f = e.target.value.trim().toLowerCase();
+    [].forEach.call(document.querySelectorAll(".arch .qrow"), function (row) {
+      var txt = (row.querySelector(".qtext").textContent || "").toLowerCase();
+      row.hidden = f ? txt.indexOf(f) === -1 : false;
+    });
+    [].forEach.call(document.querySelectorAll(".arch .arch-group"), function (g) {
+      var id = g.querySelector("[data-arch]").dataset.arch;
+      var any = [].some.call(g.querySelectorAll(".qrow"), function (r) { return !r.hidden; });
+      g.hidden = f ? !any : false;
+      var btn = g.querySelector("[data-arch]");
+      var list = g.querySelector(".qlist");
+      var show = f ? any : archOpen[id];
+      btn.setAttribute("aria-expanded", String(show));
+      list.hidden = !show;
+    });
+    syncArchToggleAll();
+  });
+
+  syncArchToggleAll();
+
+  render();
+  syncToggleAll();
+})();
+</script>

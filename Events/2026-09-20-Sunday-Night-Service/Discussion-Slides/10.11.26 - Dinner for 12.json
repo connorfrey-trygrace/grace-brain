@@ -1,0 +1,23 @@
+{
+  "_source": "2026-10-07. Registration link + $5 from Callie Taylor texts 2026-10-06 (rowids 195265, 195276); start time 7:45 PM from Connor's reply 195264; 12 seats, Q&A dinner Sun 10/18 from the action note 'Settle guest list and room for John's 10-18 dinner for 12'. Room not stated in texts, left off. Theme 'curiosity' per Connor 2026-10-07; question-mark glyph replaces the date badge, date moved to the kicker. Headline per Connor: 'Q&A dinner - 12 seats'. 2026-10-07 round 3: background = plane of question marks; QR huge on right (layout qr-right, 880px).",
+  "kicker": "SUNDAY NIGHT",
+  "hero": [
+    "Q&A",
+    "DINNER"
+  ],
+  "subhead": "12 seats",
+  "standfirst": "Bring your questions.",
+  "qr_url": "https://trygrace.org/registration/sunday-evening-dinner",
+  "cta": {
+    "big": "Scan to register",
+    "small": "trygrace.org/registration/sunday-evening-dinner"
+  },
+  "price": {
+    "amount": "$5",
+    "per": "to reserve"
+  },
+  "bg_glyph": "?",
+  "layout": "qr-right",
+  "qr_size": 880,
+  "when": "Oct 18 · 7:45 PM"
+}

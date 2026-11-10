@@ -1,0 +1,11 @@
+{
+  "_source": "Segment order from live PCO plan 91453887 (Sunday Night, 1804248), pulled 2026-09-23: Worship -> Host Transition (YoPros Q, Inspira) -> Q&A -> Message -> Communion -> Peer Discussion. The Host Transition/Inspira announcement is left off as a short stage moment, not a chapter. 'Q&A' is named 'Question of the Night' and 'Peer Discussion' is named 'Lobby Discussion', matching the host-script draft's signposting block (Events/2026-09-20-Sunday-Night-Service/2026-09-27-Sunday-Night-Service-Host-Script-Draft.md). No times are shown because only worship (18 min) and the response (10 min max) are locked. Shape: 393x1080 from Sunday Visuals/YouTube Thumbs/LED Panels; theme from Workflows/peer-discussion-slide.md.",
+  "date": "9.27.26",
+  "segments": [
+    ["Worship"],
+    ["Question", "of the Night"],
+    ["Message"],
+    ["Communion"],
+    ["Lobby", "Discussion"]
+  ]
+}

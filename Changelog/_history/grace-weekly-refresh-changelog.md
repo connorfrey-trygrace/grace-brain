@@ -1,0 +1,14 @@
+---
+type: changelog-history
+governs: "[[Workflows/grace-weekly-refresh]]"
+tags: [changelog]
+---
+# grace-weekly-refresh-changelog — changelog (pre-2026-08-12 history)
+
+Split out of the procedure file on **2026-08-12** so procedure text stays cheap to read. **Never read on a normal run.** New changes go in their own dated file under `/Changelog/`, not here.
+
+---
+
+## Changelog
+- 2026-08-11 (2): **Diffed against the live prompt** (Connor pasted it after the file was reconstructed). Three things the live prompt carried that the reconstruction had lost, now folded into the § Scheduled-task prompt kernel: the **Sky handle `9087980030` and the carve-out that group chats including her are in scope** (the reconstruction's bare "never the 1:1 thread with Sky" biased an unreadable-workflow run toward over-exclusion — silent data loss); the **transcript carve-out** that renaming + frontmatter edits during synthesis are allowed; and the **"Weekly refresh clean" one-liner** for a clean week. Four ways the live prompt was **stale against the vault**, which is the case for pointing at a workflow file rather than restating procedure: (1) it ran the **text scan to completion before the email sync**, inverting the write order the 2026-08-10 change made deliberate (email first, so the text pass can't raise a closure candidate against an item email just closed) and skipping the concurrent-analysis restructure entirely; (2) it named the sweep as "Steps 2.5, 3, 3.5, 4" — no **Step 0 index**, added 2026-08-10, so Monday runs were still reading the whole Actions folder; (3) it had **no drift check** (`actions-index.py --drift`), a standing weekly duty since 2026-08-10; (4) no timing. Every one of these was a change made to a workflow file that never reached the prompt — the failure mode this file exists to end.
+- 2026-08-11: **Created.** The weekly task's prompt enumerated its phases inline instead of pointing at a workflow file, so procedure changes had to be made in two places and the 2026-08-11 timing instrument landed in [[Workflows/grace-quick-refresh]] without reaching the Monday run. Phases 0-3 now delegate to the quick-refresh file (one definition, not two copies), with only the unattended differences, the three weekly-only duties, and the timing requirement stated here. The live prompt is now a thin pointer, mirrored above. Tier 3 (new workflow file + scheduled-task prompt replacement). Trigger: Connor. **Reconstructed from vault sources** — [[Trackers/Automation]], [[Workflows/grace-quick-refresh]], [[Workflows/Open-Actions-Tracker]] § standalone-sweep side duties, and [[Workflows/m365-to-obsidian-sync]] § Run Log health check — because the live prompt at `~/Claude/Scheduled/` is outside the folders connected to this session and could not be read. If the live prompt carried anything not derivable from those files, it is not reflected here.

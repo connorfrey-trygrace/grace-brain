@@ -1,0 +1,31 @@
+{
+  "_source": "V2 2026-09-26, cloned from '9.27.26 - Inspira 10-4.json' (see its _source for every other fact). ONLY CHANGE: price line. V1 read '$5 with code GCC26'. Maggie Dozier (Inspira) texted 2026-09-26 3:06 PM ET (rowid 194389, verified): 'i've set the overall price for the event at $5, so people can sign up for $5 with no code' -- GCC26 was erroring and Momence support is on it (rowid 194388). So the code is dropped. The 'per' line now reads 'includes lesson + dancing', from the Momence page itself, read 2026-09-26: 'Cover includes the lesson and social dancing!'. CONFLICT: that same Momence description still says 'For $5 entry, sign up with the code GCC26!' -- Maggie changed the price and not the description text. The checkout price could not be seen without signing in to Momence, so the flat $5 rests on Maggie's text. RISK: if Momence fixes GCC26 and Maggie restores the base price, this slide becomes wrong.",
+  "kicker": "Young Adults",
+  "hero": [
+    "Country",
+    "Night"
+  ],
+  "subhead": "Inspira Dance · Ballston Quarter",
+  "qr_url": "https://momence.com/Inspira-Dance/Young-Adults-Country-Night/144119258",
+  "cta": {
+    "big": "Scan to sign up"
+  },
+  "photo": "inspira-partiful-cover.jpg",
+  "price": {
+    "amount": "$5",
+    "per": "includes lesson + dancing"
+  },
+  "schedule": [
+    {
+      "time": "7:30",
+      "what": "Beginner lesson — no partner needed"
+    },
+    {
+      "time": "8:00",
+      "what": "Social dancing"
+    }
+  ],
+  "layout": "qr-right",
+  "qr_size": 840,
+  "when": "Sunday, October 4 · 7:30 PM"
+}

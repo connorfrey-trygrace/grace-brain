@@ -1,0 +1,116 @@
+filters:
+  and:
+    - file.inFolder("Events/2026-07-29-Boot-Camp/Leaders")
+properties:
+  note.interested:
+    displayName: Interested? (6/22 ask)
+views:
+  - type: table
+    name: All Leaders
+    order:
+      - name
+      - age_group
+      - in_group_chat
+      - response
+      - interested
+      - registered_lunch
+      - flagged
+      - phone
+      - email
+      - rock_note
+    sort:
+      - property: interested
+        direction: DESC
+      - property: response
+        direction: DESC
+    columnSize:
+      note.name: 238
+      note.response: 393
+  - type: table
+    name: Interested (Y/N)
+    order:
+      - name
+      - interested
+      - registered_lunch
+      - response
+      - age_group
+      - phone
+      - email
+    sort:
+      - property: interested
+        direction: DESC
+  - type: table
+    name: Young Leaders
+    filters:
+      and:
+        - age_group == "Young"
+    order:
+      - name
+      - in_group_chat
+      - response
+      - interested
+      - phone
+      - email
+      - rock_note
+    sort:
+      - property: name
+        direction: ASC
+  - type: table
+    name: Old Leaders
+    filters:
+      and:
+        - age_group == "Old"
+    order:
+      - name
+      - in_group_chat
+      - response
+      - interested
+      - phone
+      - email
+      - rock_note
+    sort:
+      - property: name
+        direction: ASC
+  - type: table
+    name: Flagged / Needs Review
+    filters:
+      and:
+        - flagged == true
+    order:
+      - name
+      - age_group
+      - interested
+      - phone
+      - email
+      - rock_note
+    sort:
+      - property: name
+        direction: ASC
+  - type: table
+    name: No Response Yet
+    filters:
+      and:
+        - interested == false
+    order:
+      - name
+      - age_group
+      - response
+      - phone
+      - email
+    sort:
+      - property: name
+        direction: ASC
+  - type: table
+    name: Registered for Lunch
+    filters:
+      and:
+        - registered_lunch == true
+    order:
+      - name
+      - age_group
+      - interested
+      - phone
+      - email
+    sort:
+      - property: name
+        direction: ASC

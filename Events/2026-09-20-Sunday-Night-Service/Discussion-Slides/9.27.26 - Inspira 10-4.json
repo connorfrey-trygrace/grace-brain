@@ -1,0 +1,31 @@
+{
+  "_source": "WHAT + COST: Transcripts/2026-08-30 13.10 Sunday Night Formation Lunch — 'Skylar Frey reported Inspira locked as the weekly off-ramp: Sunday-night country swing at $10 a head, which she priced up from the $7 Inspira offered so the rate would not have to rise later.' So $10 is Grace's own set rate, not the venue's list price. VENUE NAME: Transcripts/2026-07-30 Post-NYC call — 'InspiraDance', and 'dancing upstairs rather than a bar'. WHEN + WALK-DOWN: Trackers/Actions/Callie Taylor - Build the 10-4 Inspira Eventbrite page with Maggie — Sunday 2026-10-04, 7:30 PM, service ends 7:15, room walks down together. WHO: the evening targets 20s-30s young professionals (Transcripts/2026-09-21 12.33 post-launch call). STILL OMITTED: registration link/QR — Callie's Eventbrite and Connor's Partiful are both live and nobody has said which is canonical. CORRECTION 2026-09-22: an earlier draft of this file claimed a lesson ('Lesson, then open dancing') and 'no partner and no experience needed - they teach you'. Neither is anywhere in the vault; both were invented and removed before render. If Inspira does run a lesson, that is Skylar's or Maggie's to confirm. 2026-09-22: Connor settled the registration surface -- PARTIFUL, link supplied by him. QR encodes the BARE event URL https://partiful.com/e/KUB4Es5wEdR15GEdMfI1 and deliberately drops his '?c=GWnijqVg' query param: Trackers/Actions/Callie Taylor - Build the 10-4 Inspira Eventbrite page with Maggie records that Connor 'created a Partiful event and sent cohost links to this group', so a c= token could be a cohost grant, and a QR on an auditorium screen is a public broadcast. The bare URL reaches the same event page. Connor to confirm if the token is just invite attribution and he wants it back. Also: copy cut hard per 'SOOO much text' -- standfirst and the four-caption fact row removed. 2026-09-22 REBUILT FROM THE PARTIFUL PAGE ITSELF (read via browser; og:description + og:image). The event's own name is 'Grace Community Church Young Adults Country Night' -- so hero is COUNTRY NIGHT, not 'Country Swing', and the kicker is YOUNG ADULTS, not 'Young Professionals'. Partiful copy verbatim: '7:30pm: Beginner country swing lesson, no partner needed / 8-9:30pm: social dancing' and 'For discounted entry, sign up with the code GCC26 online! Sign up here: https://momence.com/l/Z4h2l9DE' and 'Connect with young adults from churches across the DMV'. PRICE REMOVED FROM THE SLIDE: the vault's $10 (Skylar, 8/30 formation lunch) conflicts with the event page's discounted-entry-via-code-GCC26 path on Momence, which is a THIRD surface after Partiful and Callie's Eventbrite. Putting '$10 at the door' on screen would push people to the more expensive path. Connor to resolve. Photo is the Partiful cover, saved as inspira-partiful-cover.jpg. 2026-09-22 FINAL: Connor redirected the QR to MOMENCE (the ticketing surface), not Partiful, and set the price: 'Grace folks cost $5'. Verified by loading the Momence page itself: 'Young Adults Country Night / Sun, October 4, 2026 / 7:30 PM / 2 hours / Ballston Quarter' and 'For $5 entry, sign up with the code GCC26!' -- so $5 is conditional on the code, which is why the code is on the slide next to the price rather than the price standing alone. Subhead changed from 'Upstairs at Inspira Dance' to 'Inspira Dance · Ballston Quarter': Momence gives the location as Ballston Quarter, and for a promo the neighbourhood is more use to a stranger than the floor of the building. The earlier vault figure of $10 (Skylar, 8/30) is superseded for this night. 2026-09-22 SCHEDULE ADDED at Connor's request. ⚠️ HE SAID '8:30 social dancing'; BOTH sources say 8:00 — Partiful og:description '8-9:30pm: Social Dancing', and Momence '7:30 PM / 2 hours' (= 7:30-9:30). Rendered with 8:00 and flagged to him, because a late time on a screen sends people in after the dancing has started. One-word change if 8:30 is actually right. 2026-09-22 TERMINOLOGY (raised and resolved): Connor first said 'it's not swing, it is just country dance', then reversed once reminded that the Partiful says 'Beginner Country Swing Lesson' — 'if it is on partiful, then that is correct'. It IS country swing. The slide never named a dance style anyway (the schedule row reads 'Beginner lesson — no partner needed'), so no render was affected in either direction.",
+  "kicker": "Young Adults",
+  "hero": [
+    "Country",
+    "Night"
+  ],
+  "subhead": "Inspira Dance · Ballston Quarter",
+  "qr_url": "https://momence.com/Inspira-Dance/Young-Adults-Country-Night/144119258",
+  "cta": {
+    "big": "Scan to sign up"
+  },
+  "photo": "inspira-partiful-cover.jpg",
+  "price": {
+    "amount": "$5",
+    "per": "with code GCC26"
+  },
+  "schedule": [
+    {
+      "time": "7:30",
+      "what": "Beginner lesson — no partner needed"
+    },
+    {
+      "time": "8:00",
+      "what": "Social dancing"
+    }
+  ],
+  "layout": "qr-right",
+  "qr_size": 840,
+  "when": "Sunday, October 4 · 7:30 PM"
+}

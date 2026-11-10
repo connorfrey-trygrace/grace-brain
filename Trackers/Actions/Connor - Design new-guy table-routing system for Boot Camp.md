@@ -1,0 +1,73 @@
+---
+name: "🚪 Connor: Design Boot Camp newcomer routing system (rotating accepting-table)"
+status: completed
+resolved: 2026-11-05
+priority: P1
+owner: "Connor"
+added: 2026-07-20
+reactivated: "2026-08-03 — the ~2026-07-31 check-back arrived; see the dated note below for why it did not get re-parked"
+deadline: none
+needs_by: 2026-09-02
+last_mentioned: "2026-11-05"
+source: "[[Transcripts/2026-07-19 13.51 Boot Camp Leaders' Vision Lunch — Fall Format & Session 3 Planning]]"
+projects:
+  - "Boot Camp"
+---
+
+# 🚪 Connor: Design Boot Camp newcomer routing system (rotating accepting-table)
+
+- **Status**: **Completed 2026-11-05** — superseded by the per-table greeting rotation once table leaders were set (Connor, 8/27); Boot Camp Season 3 ended 11/4. Closed by Connor (chat).
+
+- **Priority rationale**: needed before the Sept 16 launch but no hard deadline. (Originated as a P1 floor because John Slye delegated it directly at the 7/19 lunch — "he's the systems guy, he'll come up with something that makes good sense there" — but that was a casual, in-the-moment delegation with a ~2-month runway, and the design is now settled and parked on an external trigger, so P2/on-hold reflects reality.)
+- **Source**: [[Transcripts/2026-07-19 13.51 Boot Camp Leaders' Vision Lunch — Fall Format & Session 3 Planning]] (John's delegation); design direction settled in a Cowork working session 2026-07-24.
+- **Deadline rationale**: needed before the fall relaunch, Wed 2026-09-16
+- **Status history**: parked 2026-07-24 on leader/Greeting-team replies to the sign-up ask ([[Events/2026-09-16-Boot-Camp-Fall-Relaunch/2026-07-24-Boot-Camp-Team-Signup-Draft]], sent 7/24); released to Active 2026-08-03.
+- **Problem statement (from the 7/19 lunch)**: keep most tables consistent/stable week-to-week for intimacy, but find a way to identify first-time/new guys at the door and route them specifically rather than letting a new guy sit down at an already-set table and feel like an outsider (John: "you have that guy that walks in, he sits at the table, and then everybody comes in... you gotta hit the road").
+- **Settled design (rotating accepting-table)**: each week, one table (and its leader) is the designated **accepting table** — that leader becomes "greeting team leader" for the week, and the whole table stands outside the entrance to welcome arrivals and invite anyone without a table to sit with them. Detection and placement happen in one motion — no separate standing door-greeter team, no live cross-table headcount tracking. Once placed, a newcomer stays with that table going forward. This is a **week-by-week** system, superseding the earlier rejected idea of designating a fixed subset of "open" tables for the whole session (Connor: "this has to be week by week").
+- **Still open (resolve once sign-ups are in)**:
+  1. **Rotation order** — who's in the pool of accepting-table leaders, and in what order across the 8 weeks (spread the load so no one table absorbs newcomers every week).
+  2. **Backup plan** — what happens if the assigned leader can't make a given Wednesday (standing second, or skip the week).
+  3. **Reconcile with the sign-up text's framing** — the sent text asked people to pick a "Greeting team" as if it were a standing crew; this model reframes that as "willing to take rotation weeks as the accepting table." Decide whether to clarify with the group or just treat Greeting sign-ups as opting into the rotation.
+- **Notes**: Feeds [[Events/2026-09-16-Boot-Camp-Fall-Relaunch/2026-09-16-Boot-Camp-Fall-Relaunch]] (Program section). **2026-07-22 (John Slye email, "Boot Camp Notes"):** written recap corroborates and sharpens the ask — John frames welcoming new guys as one of the more important open threads, says "our hospitality team will be critical," and wants "a process that intentionally welcomes and places every new person before they ever reach a table." He also notes Grace is hiring an Events Coordinator (Callie Taylor) who "would support Boot Camp and basically run/execute the play/system you develop" — Connor designs it, the new hire may help execute. [Source: Email from john.slye@trygrace.org, "Boot Camp Notes", 2026-07-22]
+- **2026-07-27 (weekly refresh, text) — first reply in, trigger has NOT cleared.** [[Events/2026-07-29-Boot-Camp/Leaders/Brandon Brys|Brandon Brys]] replied 7/26 (12:48 PM ET): leading a table this fall, usually partnered with Steve, and will take **Greeting team or Question team, "wherever you need me."** That's **1 of ~21** leaders — not enough to resolve open questions 1 (rotation order) or 2 (backup plan), so this stays On Hold to the ~7/31 check-back. Brandon is the first name in the accepting-table rotation pool. Note he answered "Greeting **or** Question," which is consistent with open question 3: he read Greeting as a standing crew, not a rotation — the reframing still needs to be communicated. Reply log: [[Events/2026-09-16-Boot-Camp-Fall-Relaunch/2026-07-24-Boot-Camp-Team-Signup-Draft]] § Replies. [Source: Text from Brandon Brys, 2026-07-26]
+- **2026-08-03 (weekly refresh, text) — check-back performed. Sign-ups did NOT come in. Reactivated On Hold → Active anyway; ⚠️ Connor should confirm or reverse this.** The check-back date this item set for itself (~7/31) has passed. State of the trigger: still **1 of ~21** leaders replied (Brandon Brys, 7/26) — no new replies in 8 days, and that is *after* a second nudge. Connor texted the leaders' group again on **7/28 6:47 PM ET**, and the sign-up ask was explicitly re-opened in it: *"And if you haven't picked a team from my last text yet, that one's still open."* One nudge, one reply, silence.
+- **Why reactivated rather than re-parked** — and this is a judgment call, made unattended, so reverse it if you disagree: the On Hold bar requires that there be **nothing the owner can do right now**. That's no longer true. Open questions 1 (rotation order) and 2 (backup plan) are **design** questions, answerable with the names Connor already has plus the fall roster; they don't actually require 21 replies. Question 3 (reconciling "Greeting team" as a standing crew vs. a rotation) needs Connor to *decide and communicate*, which is also his move, not theirs. Waiting for near-universal reply to a volunteer text is a condition that may simply never clear — which is precisely the dead-trigger failure that cost [[Archive/Actions/Connor - Boot camp relaunch]] 37 parked days, documented in that note on 7/28. Two items in the same program failing the same way twice in ten days is a pattern, not a coincidence. **Re-park it if you'd rather wait; but then give it a real re-activation condition (a date, or "N replies"), not "once sign-ups are in."**
+- **Timing note:** relaunch is **Wed 2026-09-16**, needs-by 2026-09-02. Six weeks of runway left, and the routing system has to be designed *and* communicated to table leaders before launch — so the slack is smaller than the deadline suggests. Callie Taylor (Events Coordinator, now in post and in contact with Connor as of 7/29) is per John Slye the person who would *execute* whatever Connor designs; she is a resource here, not a blocker.
+- **2026-08-04 (quick refresh sweep) — ⚠️ flagged, and the flag is the point.** Eleven days with no movement since 7/24, and the 8/3 reactivation was made unattended with an explicit request that Connor confirm or reverse it. That request has not been answered, so the item is now sitting in Active on a decision nobody has ratified. Nothing here needs the missing sign-ups: open questions 1 (rotation order) and 2 (backup plan) are answerable from the fall roster Connor already has, and question 3 (whether "Greeting team" means a standing crew or a rotation) is his to decide and communicate. Six weeks to the 2026-09-16 relaunch, needs-by 2026-09-02.
+
+- **2026-08-06 (text sync) — third ask sent 8/04; the trigger still has not cleared, and the 8/03 reactivation is still unratified.** Connor texted the 14-person leaders' group **2026-08-04 11:17 AM ET**: *"Thanks to everyone so far who has confirmed their role and partners for leading a table and team commitment. If you haven't hit me up yet, please shoot me a text with what you're thinking! Thanks guys"*. That is ask #3 (original 7/24 → re-opened in the 7/28 nudge → this). **No new replies appear anywhere in the 8/04–8/06 scan window**, so the reply count this note can evidence is still **1 of ~21** (Brandon Brys, 7/26).
+    - `[hypothesis]` Connor's wording — *"everyone so far who has **confirmed their role and partners**"* — reads as plural and is more specific than anything Brandon Brys said (Brandon named a partner, Steve, but chose "Greeting **or** Question"). Either replies are arriving in channels this scan can't see (in person, on Sunday, by email, or in 1:1 threads whose messages fell outside the rowid window), or it's a social framing. **If leaders have in fact replied, those replies are the input open questions 1 and 2 have been waiting on and nothing here reflects them.** Worth Connor dumping whatever he has into the reply log at [[Events/2026-09-16-Boot-Camp-Fall-Relaunch/2026-07-24-Boot-Camp-Team-Signup-Draft]] § Replies.
+    - **The ⚠️ flag stands unchanged.** Three asks in eleven days is evidence for the 8/03 reasoning, not against it: the design questions (rotation order, backup plan, and whether "Greeting team" means a standing crew or a rotation) are answerable from the roster Connor already has. Six weeks to the **2026-09-16** relaunch; needs-by **2026-09-02**. [Source: Text from Connor Frey to the Boot Camp leaders' group, 2026-08-04]
+- **Blocked by**: none
+- **Needs-by rationale**: estimate, so the system is ready and communicated to table leaders before launch · (estimate)
+
+<!-- 2026-07-24: Consolidated with the duplicate "Design Boot Camp newcomer routing system (rotating greeting table)" note (added 7/24 from a Cowork session), which described the same John-delegated task at a different priority/status. This note is canonical (transcript-sourced, linked from the event note); the duplicate's settled design and open-questions content was folded in here and the duplicate archived. Approved by Connor 2026-07-24 during the weekly synthesis. -->
+
+- **2026-08-11 (transcript synthesis) — ⚠️ flag cleared: a concrete candidate design now exists, and it solves the greeter gap at the same time.** Source: [[Transcripts/2026-08-11 16.38 Connor–Derek Weekly Sync — Feedback Form Scoped & Catering Boundaries]]
+    - Connor named **two needs, not one**: *"There's one, we need a newcomer ingestion process, and we need a standing rule to figure out who will be in the lobby greeting people so that people feel warm when they get there."*
+    - **The design:** an **opt-in weekly rotation** where **one table spends the first 15–20 minutes in the lobby together, and any new arrivals join that table.** Not all tables — *"it would have to be an opt-in rotation. It's not like all say 8 tables of 8 to 10 guys would be on that rotation."*
+    - **It is derived from a specific failure last session, which is what makes it credible:** Connor personally played greeter most weeks, **there was no newcomer direction-giver role at all**, and a lone door greeter then has to rejoin his own table mid-conversation — *"there's a lot of friction with having someone at the door and then going back to their table, catching up on what everyone else has already been sharing. If the whole table was out there, that's kind of solving 3 problems."*
+    - **Derek endorsed it with two caveats.** Endorsement: *"that's probably the best way to do it without having someone who's literally just there to be a greeter slash connector."* Caveats: (1) **capacity** — what happens when a table outgrows itself, or when *"12 people show up and they're all new"*; (2) **the meal** — if a full buffet is running, the receiving table has to take food into the lobby (Connor thinks men would; *"have to be sensitive"* otherwise). Connor's rebuttal on (1): over-capacity is a risk under **any** routing method, so it is not an argument against this one.
+    - **Still unbuilt.** This is a design, not a mechanism: no rotation schedule, no way for leaders to opt in, and nothing written for leaders to actually do in the lobby. Same mechanism has been proposed for the Sunday Night Service — see that event note's Open Questions, and [[Trackers/Actions/Connor - Recruit Sunday night greeters (20s–30s pool)]].
+
+- **2026-08-12 (transcript synthesis)** — **design endorsed by John, with one refinement that changes the mechanism.** Don't send the whole table to the lobby — **leave a man at the table** so newcomers get hand-carried to a seat that is already occupied. That closes Derek's 8/11 caveat about a lone greeter rejoining mid-conversation. Prerequisite John named: guys have to **pair up** first, which is inside [[Archive/Actions/John Slye - Text each Boot Camp table-leader candidate personally]]. Still unresolved: table over-capacity and a large simultaneous newcomer arrival. [Source: [[Transcripts/2026-08-12 16.49 Connor–John Connect-Plan Call — Q&A Locked & Tables Pulled]]]
+
+### 2026-08-20 (standalone sweep)
+- flagged: quiet 8 days, no blocker, `needs_by` 2026-09-02 (13 days)
+- the design is **already endorsed by John with his refinement** (8/12) — what is missing is writing it down and telling table leaders
+- next physical action: **write the routing rule into the Boot Camp relaunch plan** so it exists somewhere other than two transcripts
+
+### 2026-08-26 (standalone sweep, Step 3.5) — priority P2 → P1
+- 7 days to `needs_by` **2026-09-02**, inside the ~1-week P1 window. The design has to exist before the **9/16** relaunch, and **9/9 is the leaders' meeting where it would be taught** — so 9/2 is the real preparation floor, not a soft target. ⚠️ Connor is out **9/04–9/07**. Band raised on the window only; nothing else changed.
+
+### 2026-08-28 (text)
+- 2:09 PM (8/27) · Connor to John: once table leaders are identified, rotation "also solves our newcomer routing question"
+- recorded as Connor's position, not a resolution — it depends on table leaders existing (11 unpaired as of the 8/18 roster report)
+[Source: Texts, Connor Frey → John Slye, 2026-08-27]
+
+### 2026-08-28 (Connor)
+- depends on table leaders being identified, which the 9/9 meeting does — Connor: 9/9 resolves it
+- → flag cleared (set earlier today); status: active → on-hold, release **on** 2026-09-09
+
+### 2026-11-05 (Connor, chat) — closed
+- Stale on-hold review: Connor closed it. superseded by the per-table greeting rotation once table leaders were set (Connor, 8/27); Boot Camp Season 3 ended 11/4. Closed by Connor (chat).

@@ -1,0 +1,111 @@
+<title>Felipe Stage Timer</title>
+<meta name="claude:viewport-fit-sides" content="cover">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Barlow+Condensed:wght@600;800&display=swap">
+<style>
+/* Layout: one full-screen color field; giant clock center, phase label above, controls bar that hides while running */
+:root{
+  --calm:#14201b; --calm-fg:#e9f2ec;
+  --warn:#ffcc1a; --warn-fg:#111;
+  --stop:#d91a1a; --stop-fg:#fff;
+  --ink:#000; --chip:rgba(255,255,255,.14);
+  --display:"Barlow Condensed","Arial Narrow","Helvetica Neue",Arial,sans-serif;
+  color-scheme:dark;
+}
+html,body{height:100%}
+body{margin:0;background:var(--calm);color:var(--calm-fg);font-family:var(--display);overflow:hidden;
+  -webkit-user-select:none;user-select:none;-webkit-tap-highlight-color:transparent;transition:background .25s,color .25s}
+body.warn{background:var(--warn);color:var(--warn-fg)}
+body.stop{background:var(--stop);color:var(--stop-fg)}
+body.flash{animation:flash 1s steps(1) infinite}
+body.over{animation:flash .5s steps(1) infinite}
+@keyframes flash{0%{background:var(--stop);color:var(--stop-fg)}50%{background:var(--ink);color:var(--stop-fg)}}
+
+.stage{height:100%;display:flex;flex-direction:column;align-items:center;justify-content:center;
+  padding-left:max(16px,env(safe-area-inset-left,0px));padding-right:max(16px,env(safe-area-inset-right,0px));box-sizing:border-box}
+.label{font-weight:800;font-size:min(9vw,12vh);letter-spacing:.06em;text-transform:uppercase;line-height:1;min-height:1em}
+.clock{font-weight:800;font-size:min(36vw,62vh);line-height:.9;font-variant-numeric:tabular-nums;letter-spacing:-.01em}
+
+.bar{position:fixed;left:0;right:0;bottom:0;display:flex;flex-wrap:wrap;gap:10px;justify-content:center;align-items:center;
+  padding:14px max(16px,env(safe-area-inset-right,0px)) calc(14px + env(safe-area-inset-bottom,0px)) max(16px,env(safe-area-inset-left,0px));
+  background:rgba(0,0,0,.55);color:#fff;transition:opacity .3s,transform .3s}
+body.hide-bar .bar{opacity:0;transform:translateY(100%);pointer-events:none}
+.bar button,.bar input{font:600 22px/1 var(--display);color:#fff;background:var(--chip);border:0;border-radius:10px;padding:12px 16px;min-width:56px}
+.bar button:focus-visible,.bar input:focus-visible{outline:3px solid #fff}
+.bar .go{background:#2f9e5b;min-width:120px}
+.bar .go.pause{background:#666}
+.bar input{width:72px;text-align:center}
+.bar .sep{width:1px;height:32px;background:rgba(255,255,255,.3)}
+.hint{position:fixed;top:calc(10px + env(safe-area-inset-top,0px));right:max(16px,env(safe-area-inset-right,0px));font:600 15px var(--display);opacity:.5}
+</style>
+
+<div class="stage" id="stage">
+  <div class="label" id="label">Ready</div>
+  <div class="clock" id="clock">10:00</div>
+</div>
+<div class="hint" id="hint">Tap screen to show / hide controls</div>
+
+<div class="bar" id="bar">
+  <button data-min="5">5</button><button data-min="10">10</button><button data-min="15">15</button>
+  <button data-min="20">20</button><button data-min="30">30</button>
+  <input id="custom" type="number" inputmode="numeric" min="1" max="180" placeholder="min" aria-label="Custom minutes">
+  <span class="sep"></span>
+  <button id="minus">−1</button><button id="plus">+1</button>
+  <span class="sep"></span>
+  <button id="go" class="go">Start</button>
+  <button id="reset">Reset</button>
+  <button id="fs">Full screen</button>
+</div>
+
+<script>
+const $=id=>document.getElementById(id);
+let total=10*60*1000, endAt=null, remainingPaused=total, tick=null, wake=null;
+
+function fmt(ms){
+  const neg=ms<0, s=Math.ceil(Math.abs(ms)/1000)*(neg?1:1);
+  const t=neg?Math.floor(Math.abs(ms)/1000):Math.ceil(ms/1000);
+  const m=Math.floor(t/60), r=t%60;
+  return (neg?"+":"")+m+":"+String(r).padStart(2,"0");
+}
+function remaining(){return endAt?endAt-Date.now():remainingPaused}
+function render(){
+  const ms=remaining(), b=document.body;
+  $("clock").textContent=fmt(ms);
+  b.classList.remove("warn","stop","flash","over");
+  let label=endAt?"":(ms===total?"Ready":"Paused");
+  if(ms<=0){b.classList.add("over");label="Time · Wrap up"}
+  else if(ms<=30000){b.classList.add("flash");label="Wrap up"}
+  else if(ms<=120000){b.classList.add("stop");label="2 min left"}
+  else if(ms<=300000){b.classList.add("warn");label="5 min left"}
+  $("label").textContent=label;
+}
+async function lockScreen(){try{wake=await navigator.wakeLock?.request("screen")}catch(e){}}
+function start(){
+  endAt=Date.now()+remainingPaused;
+  tick=setInterval(render,100);
+  $("go").textContent="Pause";$("go").classList.add("pause");
+  document.body.classList.add("hide-bar");$("hint").hidden=true;
+  lockScreen();render();
+}
+function pause(){
+  remainingPaused=remaining();endAt=null;clearInterval(tick);
+  $("go").textContent="Start";$("go").classList.remove("pause");render();
+}
+function setMinutes(m){
+  pause();total=Math.max(1,m)*60000;remainingPaused=total;render();
+}
+$("go").onclick=e=>{e.stopPropagation();endAt?pause():start()};
+$("reset").onclick=e=>{e.stopPropagation();pause();remainingPaused=total;render()};
+document.querySelectorAll("[data-min]").forEach(b=>b.onclick=e=>{e.stopPropagation();setMinutes(+b.dataset.min)});
+$("custom").onchange=e=>{const v=+e.target.value;if(v>0)setMinutes(v)};
+$("custom").onclick=e=>e.stopPropagation();
+function adjust(d){if(endAt)endAt+=d;else remainingPaused+=d;render()}
+$("plus").onclick=e=>{e.stopPropagation();adjust(60000)};
+$("minus").onclick=e=>{e.stopPropagation();adjust(-60000)};
+$("fs").onclick=e=>{e.stopPropagation();const el=document.documentElement;
+  (el.requestFullscreen||el.webkitRequestFullscreen||(()=>{})).call(el)?.catch?.(()=>{})};
+$("bar").onclick=e=>e.stopPropagation();
+$("stage").onclick=()=>document.body.classList.toggle("hide-bar");
+document.addEventListener("visibilitychange",()=>{if(document.visibilityState==="visible"&&endAt)lockScreen()});
+render();
+</script>

@@ -1,0 +1,123 @@
+<svg viewBox="0 0 1000 1100" xmlns="http://www.w3.org/2000/svg" role="img">
+<title>World Cup event: meeting and work-session timeline with contributions</title>
+<desc>Meetings and solo work sessions from June 8 to July 19, 2026, positioned by actual calendar date, flowing to the event workstreams each meeting contributed to, with markers for today and event day.</desc>
+
+<rect x="0" y="0" width="1000" height="1100" fill="#ffffff"/>
+
+<text x="30" y="34" font-family="sans-serif" font-size="19" font-weight="600" fill="#1a1a1a">World Cup Event — Meetings, Work Sessions &amp; Contributions</text>
+<text x="30" y="54" font-family="sans-serif" font-size="12" fill="#555555">Vertical position = calendar date &#183; solid chips = meetings (from transcripts) &#183; dashed chips = solo work sessions (from Hours.md) &#183; darker blue = later</text>
+
+<g fill="none" stroke-linecap="round" opacity="0.55">
+<path d="M330,148 C565,148 565,196.4 800,196.4" stroke="#93c5fd" stroke-width="9.5"/>
+<path d="M330,148 C565,148 565,107 800,107" stroke="#93c5fd" stroke-width="4.5"/>
+<path d="M330,148 C565,148 565,375.3 800,375.3" stroke="#93c5fd" stroke-width="4.5"/>
+<path d="M330,148 C565,148 565,464.7 800,464.7" stroke="#93c5fd" stroke-width="4.5"/>
+<path d="M330,148 C565,148 565,733 800,733" stroke="#93c5fd" stroke-width="4.5"/>
+<path d="M330,148 C565,148 565,554.1 800,554.1" stroke="#93c5fd" stroke-width="4.5"/>
+<path d="M330,148 C565,148 565,285.9 800,285.9" stroke="#93c5fd" stroke-width="4.5"/>
+
+<path d="M330,193 C565,193 565,643.6 800,643.6" stroke="#60a5fa" stroke-width="7"/>
+<path d="M330,193 C565,193 565,196.4 800,196.4" stroke="#60a5fa" stroke-width="4.5"/>
+<path d="M330,193 C565,193 565,375.3 800,375.3" stroke="#60a5fa" stroke-width="4.5"/>
+
+<path d="M330,394 C565,394 565,285.9 800,285.9" stroke="#3b82f6" stroke-width="7"/>
+<path d="M330,394 C565,394 565,196.4 800,196.4" stroke="#3b82f6" stroke-width="7"/>
+<path d="M330,394 C565,394 565,107 800,107" stroke="#3b82f6" stroke-width="4.5"/>
+
+<path d="M330,510 C565,510 565,107 800,107" stroke="#2563eb" stroke-width="9.5"/>
+<path d="M330,510 C565,510 565,464.7 800,464.7" stroke="#2563eb" stroke-width="4.5"/>
+
+<path d="M330,604 C565,604 565,554.1 800,554.1" stroke="#1d4ed8" stroke-width="4.5"/>
+
+<path d="M330,716 C565,716 565,107 800,107" stroke="#1e3a8a" stroke-width="7"/>
+</g>
+
+<g font-family="sans-serif">
+<rect x="55" y="76" width="260" height="28" rx="7" fill="none" stroke="#999999" stroke-dasharray="4,3"/>
+<text x="68" y="94" font-size="11" fill="#555555" font-style="italic">6/8 &#8212; solo: World Cup planning (1h)</text>
+
+<rect x="55" y="322" width="260" height="28" rx="7" fill="none" stroke="#999999" stroke-dasharray="4,3"/>
+<text x="68" y="340" font-size="11" fill="#555555" font-style="italic">6/15 &#8212; solo: World Cup planning (0.5h)</text>
+
+<rect x="55" y="438" width="260" height="28" rx="7" fill="none" stroke="#999999" stroke-dasharray="4,3"/>
+<text x="68" y="456" font-size="11" fill="#555555" font-style="italic">6/17 &#8212; solo: space walkthrough (0.25h)</text>
+</g>
+
+<g font-family="sans-serif">
+<rect x="40" y="128" width="290" height="40" rx="8" fill="#93c5fd"/>
+<text x="55" y="143" font-size="11" fill="#0f2a4d" font-weight="600">6/9 AM</text>
+<text x="55" y="159" font-size="12" fill="#0f2a4d">Planning Meeting</text>
+
+<rect x="40" y="173" width="290" height="40" rx="8" fill="#60a5fa"/>
+<text x="55" y="188" font-size="11" fill="#0f2a4d" font-weight="600">6/9 PM</text>
+<text x="55" y="204" font-size="12" fill="#0f2a4d">Date Change Sync</text>
+
+<rect x="40" y="374" width="290" height="40" rx="8" fill="#3b82f6"/>
+<text x="55" y="389" font-size="11" fill="#ffffff" font-weight="600">6/16</text>
+<text x="55" y="405" font-size="12" fill="#ffffff">Streaming Confirmed</text>
+
+<rect x="40" y="490" width="290" height="40" rx="8" fill="#2563eb"/>
+<text x="55" y="505" font-size="11" fill="#ffffff" font-weight="600">6/18</text>
+<text x="55" y="521" font-size="12" fill="#ffffff">Heather Marketing Intro</text>
+
+<rect x="40" y="584" width="290" height="40" rx="8" fill="#1d4ed8"/>
+<text x="55" y="599" font-size="11" fill="#ffffff" font-weight="600">6/21</text>
+<text x="55" y="615" font-size="12" fill="#ffffff">Nathan Volunteer Call</text>
+
+<rect x="40" y="696" width="290" height="40" rx="8" fill="#1e3a8a"/>
+<text x="55" y="711" font-size="11" fill="#ffffff" font-weight="600">6/25</text>
+<text x="55" y="727" font-size="12" fill="#ffffff">Announcement Prep</text>
+</g>
+
+<line x1="185" y1="213" x2="185" y2="322" stroke="#dddddd" stroke-width="1" stroke-dasharray="3,3"/>
+<text x="185" y="272" font-family="sans-serif" font-size="11" fill="#888888" text-anchor="middle" font-style="italic">5.7-day gap</text>
+
+<g font-family="sans-serif">
+<rect x="800" y="90" width="180" height="34" rx="8" fill="#f3f4f6" stroke="#dddddd"/>
+<text x="815" y="112" font-size="13" fill="#1a1a1a">Comms / Marketing</text>
+<text x="965" y="112" font-size="12" fill="#555555" text-anchor="end">7</text>
+
+<rect x="800" y="179" width="180" height="34" rx="8" fill="#f3f4f6" stroke="#dddddd"/>
+<text x="815" y="201" font-size="13" fill="#1a1a1a">Venue / Layout</text>
+<text x="965" y="201" font-size="12" fill="#555555" text-anchor="end">6</text>
+
+<rect x="800" y="269" width="180" height="34" rx="8" fill="#f3f4f6" stroke="#dddddd"/>
+<text x="815" y="291" font-size="13" fill="#1a1a1a">AV / Streaming</text>
+<text x="965" y="291" font-size="12" fill="#555555" text-anchor="end">3</text>
+
+<rect x="800" y="358" width="180" height="34" rx="8" fill="#f3f4f6" stroke="#dddddd"/>
+<text x="815" y="380" font-size="13" fill="#1a1a1a">Registration</text>
+<text x="965" y="380" font-size="12" fill="#555555" text-anchor="end">2</text>
+
+<rect x="800" y="448" width="180" height="34" rx="8" fill="#f3f4f6" stroke="#dddddd"/>
+<text x="815" y="470" font-size="13" fill="#1a1a1a">Programming</text>
+<text x="965" y="470" font-size="12" fill="#555555" text-anchor="end">2</text>
+
+<rect x="800" y="537" width="180" height="34" rx="8" fill="#f3f4f6" stroke="#dddddd"/>
+<text x="815" y="559" font-size="13" fill="#1a1a1a">Volunteers</text>
+<text x="965" y="559" font-size="12" fill="#555555" text-anchor="end">2</text>
+
+<rect x="800" y="627" width="180" height="34" rx="8" fill="#f3f4f6" stroke="#dddddd"/>
+<text x="815" y="649" font-size="13" fill="#1a1a1a">Date / Scheduling</text>
+<text x="965" y="649" font-size="12" fill="#555555" text-anchor="end">2</text>
+
+<rect x="800" y="716" width="180" height="34" rx="8" fill="#f3f4f6" stroke="#dddddd"/>
+<text x="965" y="738" font-size="12" fill="#555555" text-anchor="end">1</text>
+<text x="815" y="738" font-size="13" fill="#1a1a1a">Budget</text>
+</g>
+
+<path d="M175,760 l20,10 l-20,10 l20,10" fill="none" stroke="#999999" stroke-width="1.5"/>
+<text x="210" y="785" font-family="sans-serif" font-size="11" fill="#888888" font-style="italic">11-day gap (no logged World Cup work)</text>
+
+<line x1="20" y1="826" x2="980" y2="826" stroke="#d97706" stroke-width="2" stroke-dasharray="6,4"/>
+<text x="30" y="817" font-family="sans-serif" font-size="13" font-weight="700" fill="#d97706">TODAY — 7/6</text>
+
+<path d="M175,870 l20,10 l-20,10 l20,10" fill="none" stroke="#999999" stroke-width="1.5"/>
+<text x="210" y="895" font-family="sans-serif" font-size="11" fill="#888888" font-style="italic">13-day gap to the event</text>
+
+<line x1="20" y1="956" x2="980" y2="956" stroke="#16a34a" stroke-width="2" stroke-dasharray="6,4"/>
+<text x="30" y="947" font-family="sans-serif" font-size="13" font-weight="700" fill="#16a34a">EVENT DAY — 7/19, World Cup Final</text>
+
+<text x="30" y="1000" font-family="sans-serif" font-size="11" fill="#888888">Solo work-session dates and notes pulled from /Trackers/Hours.md daily log, filtered to entries mentioning "World Cup."</text>
+<text x="30" y="1018" font-family="sans-serif" font-size="11" fill="#888888">The Date/Scheduling edge (weight 2) moved the event from 7/11 to 7/19 — its real leverage exceeds its line weight.</text>
+</svg>

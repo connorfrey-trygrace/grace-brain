@@ -1,0 +1,133 @@
+filters:
+  and:
+    - file.inFolder("Trackers/Actions")
+views:
+  - type: table
+    name: Closure Candidates
+    filters:
+      and:
+        - status == "closure-candidate"
+    order:
+      - name
+      - owner
+      - priority
+      - deadline
+      - flagged
+      - source
+    sort:
+      - property: flagged
+        direction: DESC
+  - type: table
+    name: Active
+    filters:
+      and:
+        - status == "active"
+    order:
+      - name
+      - owner
+      - priority
+      - deadline
+      - needs_by
+      - flagged
+      - last_mentioned
+    sort:
+      - property: priority
+        direction: ASC
+      - property: flagged
+        direction: DESC
+    columnSize:
+      note.name: 496
+      note.deadline: 727
+  - type: table
+    name: In Progress
+    filters:
+      and:
+        - status == "in-progress"
+    order:
+      - name
+      - owner
+      - priority
+      - deadline
+      - last_mentioned
+    sort:
+      - property: flagged
+        direction: DESC
+      - property: priority
+        direction: ASC
+  - type: table
+    name: Waiting On
+    filters:
+      and:
+        - status == "waiting-on"
+    order:
+      - name
+      - owner
+      - waiting_on
+      - priority
+      - deadline
+  - type: table
+    name: On Hold
+    filters:
+      and:
+        - status == "on-hold"
+    order:
+      - name
+      - owner
+      - on_hold_since
+      - deadline
+      - blocked_by
+  - type: table
+    name: Flagged / Needs Review
+    filters:
+      and:
+        - flagged != null
+    order:
+      - name
+      - owner
+      - flagged
+      - priority
+      - status
+  - type: table
+    name: By Project
+    order:
+      - name
+      - projects
+      - owner
+      - status
+      - priority
+    sort:
+      - property: projects
+        direction: ASC
+  - type: table
+    name: Completed
+    filters:
+      and:
+        - status == "completed"
+    order:
+      - name
+      - owner
+      - resolved
+      - source
+    sort:
+      - property: resolved
+        direction: DESC
+  - type: table
+    name: All
+    order:
+      - name
+      - owner
+      - status
+      - priority
+      - deadline
+    sort:
+      - property: name
+        direction: ASC
+      - property: deadline
+        direction: DESC
+      - property: status
+        direction: ASC
+      - property: priority
+        direction: ASC
+    columnSize:
+      note.name: 288
+      note.deadline: 727

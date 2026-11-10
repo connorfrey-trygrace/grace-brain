@@ -1,0 +1,11 @@
+{
+  "_source": "2026-11-05. Segment order from live PCO plan 92214543: Worship -> Host Transition (announcements) -> Q&A (Q&A + Quick Qs) -> Message -> Do Good Groups (after message). Connor 2026-11-05: 'Question of the Night' -> 'Questions of the Night'; 'Lobby Discussion' -> 'Auditorium Discussion' (Do Good groups run in seats, groups of 2-4).",
+  "date": "11.08.26",
+  "segments": [
+    ["Worship"],
+    ["Announcements"],
+    ["Questions", "of the Night"],
+    ["Message"],
+    ["Auditorium", "Discussion"]
+  ]
+}

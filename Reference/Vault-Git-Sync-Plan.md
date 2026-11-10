@@ -1,0 +1,43 @@
+# Vault → GitHub sync: setup plan (draft for Connor's approval)
+
+**Goal:** let the 5am cloud routine read *and write* the vault, which the Dropbox connector can't do because it can't overwrite files (found 2026-11-10).
+
+## One change from what we discussed: the vault doesn't move
+
+Git's internal folder (`.git`) is the part Dropbox corrupts. So we keep it **outside Dropbox** (`~/GraceBrain.git`) and point it at the vault folder where it already is. That way:
+- No path changes. All 8 scheduled tasks, Claude's memory folder, `.claude/settings.local.json` and this desktop session keep working untouched. Each of them has the current Dropbox path written in.
+- Dropbox keeps syncing the files as it does now. It becomes a second backup, not the sync mechanism.
+- Obsidian still opens the same folder.
+
+## Steps
+
+| # | Who | What |
+|---|-----|------|
+| 1 | Connor | Create (or sign in to) a GitHub account and make one **private** repo, e.g. `grace-brain`. Free. |
+| 2 | Claude | Write `.gitignore` (below), run a secrets scan over everything that *would* be committed, and show you the list before anything leaves the Mac. |
+| 3 | Claude | Create the repo with its `.git` folder at `~/GraceBrain.git`, make the first commit, and generate an SSH key for this Mac. |
+| 4 | Connor | Paste that SSH public key into the repo's **Deploy keys** with write access. This works on this one repo only, not your whole GitHub account. |
+| 5 | Claude | First push, then add a background job (a macOS `launchd` agent) that runs `Workflows/vault-git-sync.sh` every 15 min: commit local changes → pull → push. **If a pull hits a conflict, it stops, leaves both versions untouched and logs it.** It never auto-resolves or force-pushes. |
+| 6 | Connor | On claude.ai, connect GitHub to Claude and allow the `grace-brain` repo for the routine's cloud environment. |
+| 7 | Claude | Rewrite the 5am routine's prompt to work on the cloned repo, commit, and push. Dropbox stays only for reading `/Office`. You review the prompt before it's saved. |
+| 8 | Both | Test run → check the commit on GitHub and that the Mac pulled it. If it works, retire `agent-hub-visit-local` (4 AM), or keep it for the text scan only. |
+
+## Kept out of GitHub (`.gitignore`)
+
+- `Contacts/Credentials.md`: passwords never leave the Mac.
+- `Contacts/*.vcf`: your exported address book (720 contacts).
+- `Contacts/Phone-Index.md`: phone number → name map. Only the Mac's text scan uses it.
+- `.obsidian/workspace*`, `.DS_Store`, `.claude/settings.local.json`: machine-local clutter.
+- Anything else the step-2 scan flags, at your call.
+
+**Effect:** the cloud run can't see these files, which is fine, because none of its steps use them.
+
+## Risks, honestly
+
+- **Two writers at once:** the background job and a local Claude task could edit the same note within the same 15 minutes. Different lines merge fine. Same-line edits stop the sync and wait for a fix, rather than silently losing an edit.
+- **Private ≠ secret:** GitHub staff and anyone you add to the repo can read it. The vault holds names, phone numbers and church-internal notes, so this is the same trust call as Dropbox, just with a different company.
+- **Undo:** stop the job, delete `~/GraceBrain.git`, and the vault is exactly what it is today.
+
+## What I need from you
+
+Approve the plan (or change it), then step 1. Tell me the repo name when it exists.
