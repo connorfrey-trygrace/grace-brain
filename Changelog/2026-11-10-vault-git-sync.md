@@ -7,3 +7,5 @@
 **Deviation from the plan:** a 15-min launchd job was the original step 5. macOS refused it access to the Dropbox folder, so the sync moved to session hooks. The hooks need no security-setting changes.
 
 **Also fixed:** `.claude/settings.local.json` had a missing comma, so Claude Code was ignoring the whole file, including the PCO auto-mode allow rule.
+
+**Result:** the 5am routine now clones the repo and pushes to main. First test failed with a 403 (the Claude GitHub App wasn't installed); the retest after Connor installed it pushed `95ba213`, and the Mac merged it cleanly.

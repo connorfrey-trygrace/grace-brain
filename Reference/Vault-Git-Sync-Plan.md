@@ -45,6 +45,8 @@ Git's internal folder (`.git`) is the part Dropbox corrupts. So we keep it **out
 
 - 2026-11-10: steps 4–5 done. Repo `connorfrey-trygrace/grace-brain`, first push OK. **Change to step 5:** macOS blocked the launchd job from reading the Dropbox folder ("Operation not permitted"), so the sync now runs from Claude Code session hooks instead: `SessionStart` (async) and `SessionEnd` in `.claude/settings.local.json`, calling `Workflows/vault-git-sync.sh`. Every Claude session in this vault syncs, the scheduled tasks included. Log: `~/Library/Logs/grace-brain-sync.log`. The unused launchd plist is in `Archive/LaunchAgents/`.
 
+- 2026-11-10: steps 6–8 done. Routine prompt rewritten (see [[Reference/5am-Routine-Prompt-Draft]]) with the repo attached. First test failed with a 403 (GitHub connected but the Claude GitHub App wasn't installed). After Connor installed it, the retest pushed `95ba213` to main, the Mac pulled it, and clock-check passed.
+
 ## What I need from you
 
-Step 6: on claude.ai, connect GitHub to Claude and give the 5am routine's cloud environment access to `connorfrey-trygrace/grace-brain`. Then I'll do step 7 (the routine's new prompt) for your review.
+Nothing more. Open decision: what happens to the 4 AM local task (`agent-hub-visit-local`) now that the cloud covers email + Notion.
