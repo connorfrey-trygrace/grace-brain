@@ -9,3 +9,5 @@
 **Also fixed:** `.claude/settings.local.json` had a missing comma, so Claude Code was ignoring the whole file, including the PCO auto-mode allow rule.
 
 **Result:** the 5am routine now clones the repo and pushes to main. First test failed with a 403 (the Claude GitHub App wasn't installed); the retest after Connor installed it pushed `95ba213`, and the Mac merged it cleanly.
+
+**Follow-up:** `agent-hub-visit-local` narrowed to the text scan plus the Hub's text-message check (Connor's call). The cloud routine owns email and the rest of the Hub visit, so nothing runs twice.

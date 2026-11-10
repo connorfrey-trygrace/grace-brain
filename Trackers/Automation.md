@@ -50,7 +50,7 @@ Three jobs, split by **lead time**, not by topic — Connor's framing: "Thursday
 
 | Task id | Cadence | Enabled | Governing workflow | Reads | Writes |
 | --- | --- | --- | --- | --- | --- |
-| `agent-hub-visit-local` | 4:09 AM daily (`0 4 * * *`, app adds a few minutes) | ✅ Created 2026-11-03, **temporary**, saved in Auto mode — the cloud routine below now covers email + Notion (2026-11-10); this local task still does the Mac-only text scan. Was to be retired once the cloud routine had the Notion connector ([[Trackers/Actions/Connor - Attach the Notion connector to the 5am Agent Hub routine]]) | [[Workflows/m365-to-obsidian-sync]] → [[Workflows/text-message-sync]] → Notion Hub Protocol + Start here: Grace Claude | Outlook (M365), `chat.db` via `query-messages.py`, Notion via connector or Claude in Chrome | Vault notes + both markers/run logs (`stamp.py`); Notion Grace Tasks + Agent Mail. Needs the Mac awake, the app open, and Chrome signed in to Notion |
+| `agent-hub-visit-local` ("Grace: 4 AM text scan (local)") | 4:09 AM daily (`0 4 * * *`, app adds a few minutes) | ✅ Narrowed 2026-11-10 to texts only, since the 5 AM cloud routine took over email + the rest of the Hub visit | [[Workflows/text-message-sync]] + the "Text-message check" section of Notion's Start here: Grace Claude | `chat.db` via `query-messages.py`; Notion Personal/St Onge Dashboard feed views | Text marker + run log (`stamp.py`); closure candidates in vault notes; Personal Tasks plans; Agent Mail FYIs. Needs the Mac awake and the app open |
 
 ## Cloud routines (claude.ai — run with the Mac off)
 
