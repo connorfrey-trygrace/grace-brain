@@ -28,7 +28,8 @@ Git's internal folder (`.git`) is the part Dropbox corrupts. So we keep it **out
 - `Contacts/*.vcf`: your exported address book (720 contacts).
 - `Contacts/Phone-Index.md`: phone number → name map. Only the Mac's text scan uses it.
 - `.obsidian/workspace*`, `.DS_Store`, `.claude/settings.local.json`: machine-local clutter.
-- Anything else the step-2 scan flags, at your call.
+- `Archive/_Stray-Vault-Content-2026-07-01/`: the old Connor–Sky finance vault plus a migration zip (personal, not Grace). Found by the step-2 scan.
+- All `*.vcf` anywhere, including the two archived contact exports.
 
 **Effect:** the cloud run can't see these files, which is fine, because none of its steps use them.
 
@@ -37,6 +38,10 @@ Git's internal folder (`.git`) is the part Dropbox corrupts. So we keep it **out
 - **Two writers at once:** the background job and a local Claude task could edit the same note within the same 15 minutes. Different lines merge fine. Same-line edits stop the sync and wait for a fix, rather than silently losing an edit.
 - **Private ≠ secret:** GitHub staff and anyone you add to the repo can read it. The vault holds names, phone numbers and church-internal notes, so this is the same trust call as Dropbox, just with a different company.
 - **Undo:** stop the job, delete `~/GraceBrain.git`, and the vault is exactly what it is today.
+
+## Progress
+
+- 2026-11-10: steps 2–3 done. `.gitignore` written, secrets scan clean (only false positives in Obsidian plugin code), local repo at `~/GraceBrain.git` with the first commit (1,086 files), deploy key `~/.ssh/grace_brain_deploy` generated.
 
 ## What I need from you
 
