@@ -147,7 +147,7 @@ Findings come exclusively from `chat.db`. Do not blend in email, calendar, or tr
 
 ## Last scan
 
-- last_rowid: 198363
+- last_rowid: 198364
 - last_run: 2026-11-11
 
 > ⛔ **This marker is written by `python3 "Workflows/stamp.py" mark --text-scan <rowid>`, never by hand** — the shell reports UTC, `ZoneInfo` does not. Verified every run by `Workflows/clock-check.py`, which compares the stamp against the file's real mtime. Retired the prose guard that stood here 8/17–8/21 and did not prevent the 8/21 recurrence: [[Changelog/2026-08-21-clock-enforced-in-code]].

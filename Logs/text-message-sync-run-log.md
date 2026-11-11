@@ -306,3 +306,5 @@ Format (adopted 2026-07-16, mirroring [[Workflows/m365-to-obsidian-sync]] §Run 
 - 2026-11-10 16:03 ET | quick-refresh | ROWID 198347–198350 | 4 msgs, 0 Grace | 0 writes
 
 - 2026-11-11 04:09 ET | agent-hub-visit-local | rowid 198351→198363 | 13 in scope (excluded 1:1 never read), 1 Grace: Connor's 11/10 set-list nudge to Seth → appended to Seth PCO reminder note; 0 closure candidates, 0 unresolved, 2 attachment-only rows; vCard unchanged → 3.5 skipped | elapsed 0m
+
+- 2026-11-11 12:24 ET | agent-hub-visit-local | rowid 198364→198364 | 1 in scope (excluded 1:1 never read), 0 Grace: 1 attachment-only row (+16094051434, 11/10 13:33) | 0 writes, 0 closure candidates | vCard unchanged → 3.5 skipped | elapsed <1m
