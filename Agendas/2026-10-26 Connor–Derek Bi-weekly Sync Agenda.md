@@ -61,7 +61,7 @@ participants:
 - **John's 11/1 outline (today):** Chris shares a story with childhood sexual abuse and suicidal thoughts. John wants a content notice during the music while people are standing, and says "Seth/Connor, we can work out how to do this during the PM service." Julie, Shelley and staff at the lobby high tops with lanyards.
 - Emily (11/1 captain) has asked for a second captain. Nobody asked yet.
 - **Ask:** is the 6 PM baptism happening, and who owns the night's content notice and the extra hands with Connor out?
-- Ref: [[Trackers/Actions/Connor - Line up a second captain and reception answer for the 11-1 baptism]] · Outlook, John Slye, "Nov. 1st Outline," 10/26
+- Ref: [[Archive/Actions/Connor - Line up a second captain and reception answer for the 11-1 baptism]] · Outlook, John Slye, "Nov. 1st Outline," 10/26
 
 ---
 
@@ -87,7 +87,7 @@ No shared meeting with Brian on the calendar in the next three weeks, so none of
 | **Boot Camp attendance number:** Brian's view (with Derek and Alexis) on what the homepage group-attendance number is for | Raised by Kay, 9/23 | Kay's Rock weekly-total store and whether Boot Camp's ~70 counts toward group attendance. Derek already said yes 9/25. |
 
 - **Ask:** keep waiting, or should Derek nudge? Baptism is the only one with a clock on it (6 days).
-- Ref: [[Trackers/Actions/Connor - Line up a second captain and reception answer for the 11-1 baptism]] · [[Trackers/Actions/Connor - Check on the second Sunday Night security person through Brian Parker]] · [[Archive/Actions/Brian Parker - Answer on a Sunday 4-6 PM volunteer door code]] · [[Trackers/Actions/John Slye - Set cadence and next date for the Sunday-evening dinner]] · [[Trackers/Actions/Connor - Plan a journaling workshop after a Sunday Night service]] · [[Archive/Actions/Connor - Remove Permission to Pause and CalledOut from PM pre-service rotation]] · [[Trackers/Actions/Kay Carter-Corker - Work out a Boot Camp weekly-total attendance store with Melissa]]
+- Ref: [[Archive/Actions/Connor - Line up a second captain and reception answer for the 11-1 baptism]] · [[Trackers/Actions/Connor - Check on the second Sunday Night security person through Brian Parker]] · [[Archive/Actions/Brian Parker - Answer on a Sunday 4-6 PM volunteer door code]] · [[Trackers/Actions/John Slye - Set cadence and next date for the Sunday-evening dinner]] · [[Trackers/Actions/Connor - Plan a journaling workshop after a Sunday Night service]] · [[Archive/Actions/Connor - Remove Permission to Pause and CalledOut from PM pre-service rotation]] · [[Trackers/Actions/Kay Carter-Corker - Work out a Boot Camp weekly-total attendance store with Melissa]]
 
 ---
 

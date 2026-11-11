@@ -6,7 +6,7 @@ owner: "Connor"
 added: 2026-10-22
 deadline: 2026-11-17
 needs_by: none
-last_mentioned: "2026-11-10"
+last_mentioned: "2026-11-11"
 source: "Connor, chat request 2026-10-22"
 projects:
   - "Sunday Night Launch"
@@ -68,3 +68,7 @@ blocks: []
 ### 2026-11-11 (text, agent-hub-visit-local)
 - 11/10 4:07 PM · Connor (ME) texted Seth the set-list reminder [198351]; no reply from Seth yet in this window
 [Source: Text, Seth Addison, rowid 198351]
+
+### 2026-11-11 (quick refresh, text)
+- 6:36 AM · Seth (THEM): working on it, ready end of day; going forward will try to be early, but says a Tuesday deadline isn't realistic most weeks [198365]
+[Source: Text, Seth Addison, rowid 198365]

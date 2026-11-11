@@ -28,6 +28,8 @@ Sequential (not parallel with anything) — synthesis writes to the same `/Track
 >
 > **Never assert an occasion this file does not contain.** Before writing any sentence of the form *"raise it at X," "bring it to X," "wait for X"* — in a note or in the report — query it: `python3 "Workflows/calendar-window.py" --who "<Name>" --before <date>`. `unknown` means the person could not be resolved to an address and is **not** the same as `none`.
 
+**Then the attendance gate** (added 2026-11-11): `python3 "Workflows/attendance-update.py" stale`. Exit 0 → skip. Exit 1 → pull the missing Sunday(s) from Rock per [[Workflows/attendance-pull]] (Chrome; needs Connor's Rock sign-in). Writes only [[Trackers/Attendance-Data.csv]] + [[Trackers/Attendance]], which no other phase touches, so it can run beside the subagents.
+
 Then run these two as **parallel subagents**. They share no inputs: the text scan reads `chat.db` off its own `## Last scan` marker, the email sync reads Outlook off its own `## Last successful run` marker, and neither reads the other's output. All the expensive work — decode, phone resolution, relevance filtering — is here.
 
 1. **Text scan** — [[Workflows/text-message-sync]] Steps 1–4, incremental off its `## Last scan` marker. ⛔ **`chat.db` is read only through `Workflows/query-messages.py`** — run `python3 "Workflows/query-messages.py" self-test` first and **stop the phase on a non-zero exit**, then `probe` / `scan`. This binds the parent agent too: **any double-check of the subagent's output goes through `verify`, never a hand-written query** — that is exactly how the 2026-08-28 exclusion breach happened. See [[Changelog/2026-08-28-messages-exclusion-enforced-in-code]].

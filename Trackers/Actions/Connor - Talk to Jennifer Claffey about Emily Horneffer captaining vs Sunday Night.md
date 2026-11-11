@@ -38,7 +38,7 @@ resolved: 2026-11-07
 - Flagged: no follow-up in 17 days since the 10/7 ask
 
 ### 2026-10-25 (quick refresh, text)
-- Emily (11/1 captain) asked for a second captain for the 11/1 baptism → [[Trackers/Actions/Connor - Line up a second captain and reception answer for the 11-1 baptism]] [196857]
+- Emily (11/1 captain) asked for a second captain for the 11/1 baptism → [[Archive/Actions/Connor - Line up a second captain and reception answer for the 11-1 baptism]] [196857]
 [Source: Text]
 
 - **Status**: **Completed 2026-11-07** — Connor marked it Done in the Agent Hub (Notion Grace Tasks, 11/7 afternoon); no further detail given.

@@ -6,7 +6,7 @@ owner: "John Slye"
 added: 2026-11-04
 deadline: none
 needs_by: none
-last_mentioned: "2026-11-04"
+last_mentioned: "2026-11-11"
 source: "Text from John Slye, 2026-11-04"
 projects:
   - "Boot Camp Fall Relaunch"
@@ -26,3 +26,7 @@ blocks: []
 
 ### 2026-11-04 (text) — created
 [Source: iMessage 197835, 197836]
+
+### 2026-11-11 (quick refresh, text)
+- 9:36 AM · John wants to set a date to gather Season 4 table leaders; survey's top request "What is My Purpose" → he sees Daniel + Revelation fitting, leaning toward guys [198366]. S4 booked Wed 1/20–3/10 (email, Callie)
+[Source: Text, John Slye, rowid 198366]

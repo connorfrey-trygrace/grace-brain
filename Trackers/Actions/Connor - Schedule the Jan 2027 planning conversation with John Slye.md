@@ -1,0 +1,34 @@
+---
+name: "🗓️ Connor: Schedule the Jan 2027 planning conversation with John Slye"
+status: active
+priority: P2
+owner: "Connor"
+added: 2026-11-11
+deadline: none
+needs_by: none
+last_mentioned: "2026-11-11"
+source: "Text from John Slye, 2026-11-11 9:36 AM [198366]"
+projects:
+  - "Sunday Night Launch"
+people:
+  - "[[People/Connor Frey]]"
+  - "[[People/John Slye]]"
+blocked_by: []
+blocks: []
+---
+# 🗓️ Connor: Schedule the Jan 2027 planning conversation with John Slye
+
+- [ ] Text John back a time (call or in person) to talk Jan 2027, and add any items of your own.
+
+- **John's agenda** (text 11/11 9:36 AM):
+  - Boot Camp Season 4 — date to gather table leaders; survey's top ask "What is My Purpose" (Daniel/Revelation, leaning guys). S4 runs Wed 1/20–3/10.
+  - 6 PM service — tweaks, an inspiring reason to come, marketing + opportunities mention
+  - Monthly 20-min post-service teaching + short Q&A on understanding the Bible, Jan–Mar; he'll write a handout
+  - Dance partnership dates
+  - Curiosity dinner dates + advertising
+- **Overlap (hypothesis)**: the post-service Bible Q&A uses the same after-service slot as [[Trackers/Actions/Connor - Plan a journaling workshop after a Sunday Night service]].
+- **Related**: [[Trackers/Actions/John Slye - Confirm the 11-11 Wednesday meeting with Connor]] (11/11 1:20 PM slot unconfirmed).
+- **Status**: Active — John asked for a time; no reply from Connor yet.
+
+### 2026-11-11 (quick refresh, text) — created
+[Source: Text, John Slye, rowid 198366]

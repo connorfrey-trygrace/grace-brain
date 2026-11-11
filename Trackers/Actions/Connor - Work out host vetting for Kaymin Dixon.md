@@ -1,12 +1,13 @@
 ---
 name: "🧭 Connor: Work out host vetting for Kaymin Dixon"
-status: active
+status: completed
+resolved: 2026-11-11
 priority: P2
 owner: "Connor"
 added: 2026-10-13
 deadline: none
 needs_by: none
-last_mentioned: "2026-11-10"
+last_mentioned: "2026-11-11"
 source: "Connor, chat, 2026-10-13"
 projects:
   - "Sunday Night Launch"
@@ -17,7 +18,9 @@ blocks: []
 ---
 # 🧭 Connor: Work out host vetting for Kaymin Dixon
 
-- [ ] Decide how a new volunteer gets vetted before hosting, and apply it to Kaymin Dixon (571-255-0958).
+- [x] Decide how a new volunteer gets vetted before hosting, and apply it to Kaymin Dixon (571-255-0958).
+
+- **Status**: ✅ Completed — decided 2026-11-11: a new volunteer is vetted for hosting through time involved (serve in other roles first). Kaymin is serving Front Doors (11/22, 12/6, 12/20) in the meantime.
 
 - **Source**: Connor, 2026-10-13: "Kaymin is not yet vetted as a host… I need to work that out."
 - **Context**: Kaymin offered 10/11 — "you can definitely count on me next Sunday and moving forward" [195632]; not in PCO yet (auto-welcome pending Kay's 10/14 Zoom).
@@ -46,3 +49,6 @@ blocks: []
 
 ### 2026-11-10 (Connor, chat)
 - Connor: still working on it; comes with more exposure to Kaymin → flag withdrawn
+
+### 2026-11-11 (Connor, chat)
+- Decision: vetted after time involved → closed

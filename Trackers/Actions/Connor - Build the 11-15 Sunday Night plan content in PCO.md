@@ -6,7 +6,7 @@ owner: "Connor Frey"
 added: 2026-11-09
 deadline: 2026-11-15
 needs_by: 2026-11-10
-last_mentioned: "2026-11-10"
+last_mentioned: "2026-11-11"
 source: "PCO Services, plan 92214544 (Sunday Night, 11/15)"
 projects:
   - "Sunday Night Launch"
@@ -50,3 +50,7 @@ blocks: []
 
 ### 2026-11-10 (Connor, chat)
 - Host - Announcements: added Do Good serve week + Country Night 12/6 beside Friendsgiving (cm-fit 6/6, verified via API)
+
+### 2026-11-11 (quick refresh, text)
+- 6:36 AM · Seth: rest of set "ready end of day" 11/11 (hypothesis: refers to the 11/15 set — triggering msg predates window) [198365]
+[Source: Text, Seth Addison, rowid 198365]

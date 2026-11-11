@@ -21,7 +21,7 @@ participants:
 ---
 
 ## Since last time *(recap — since the 10/26 sync)*
-- **11/1 Baptism Sunday ran without Connor.** Brian Parker and John Slye led it. Brian and Callie Taylor gave Emily extra hands, and Brian brought lobby cupcakes instead of a reception, per Derek's low-key suggestion. Seth and John wrote one content statement for Chris's story to use across all four services. → [[Trackers/Actions/Connor - Line up a second captain and reception answer for the 11-1 baptism]]
+- **11/1 Baptism Sunday ran without Connor.** Brian Parker and John Slye led it. Brian and Callie Taylor gave Emily extra hands, and Brian brought lobby cupcakes instead of a reception, per Derek's low-key suggestion. Seth and John wrote one content statement for Chris's story to use across all four services. → [[Archive/Actions/Connor - Line up a second captain and reception answer for the 11-1 baptism]]
 - **11/8 used Derek's Do Good groups prompt in place of the question of the night.** Derek proposed it 11/4 and asked whether it could replace the QOTN. Connor agreed and offered to use the freed time for some of the one-off questions people have sent in. The 11/8 plan had 18 items in PCO. → Outlook, "Sun Night Connecting Idea"
 - **Comms cadence:** Derek's FYI (11/4) is that Brian now submits the Sunday-morning comms request at the end of the Tuesday 11 AM meeting. Connor's Sunday Night QR request also goes in on Tuesdays. → [[Trackers/Actions/Connor - Submit Sunday Night QR landing-page comms request every Tuesday]]
 - **Volunteer onboarding is live.** Rock → PCO welcome email confirmed 10/26, and Connor now has Sunday Night services-admin access in PCO. → [[Synthesis/Weekly 2026-10-30]]

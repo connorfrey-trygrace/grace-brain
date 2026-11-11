@@ -6,7 +6,7 @@ owner: "John Slye"
 added: 2026-10-18
 deadline: none
 needs_by: none
-last_mentioned: "2026-10-26"
+last_mentioned: "2026-11-11"
 waiting_on: "John Slye — asked 10/18 10:55 AM [196136]"
 source: "Text, chat 2634 (Connor, John, Callie), 2026-10-18"
 projects:
@@ -55,3 +55,7 @@ blocks: []
 ### 2026-10-26 (text)
 - 11:34 AM · Anna moves today's noon call; rebooked Tue 10/27 11:30 AM (calendar) [196909]
 [Source: Text; Calendar-Window]
+
+### 2026-11-11 (quick refresh, text)
+- 9:36 AM · John put curiosity dinner dates + advertising on his Jan 2027 agenda [198366]
+[Source: Text, John Slye, rowid 198366]

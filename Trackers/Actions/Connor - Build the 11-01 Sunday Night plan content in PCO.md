@@ -38,7 +38,7 @@ resolved: 2026-11-04
 ### 2026-10-26 (weekly SNL service-prep check) — created
 - Plan 92214542 (Nov 1): 0 items — all five content checks open by default
 - Seth's lyrics: [[Trackers/Actions/Connor - Remind Seth to fill out PCO every Tuesday night]] (due 10/27)
-- 11/1 is a baptism date — see [[Trackers/Actions/Connor - Line up a second captain and reception answer for the 11-1 baptism]]; Derek 10/21: baptism not announced at Sunday Night
+- 11/1 is a baptism date — see [[Archive/Actions/Connor - Line up a second captain and reception answer for the 11-1 baptism]]; Derek 10/21: baptism not announced at Sunday Night
 
 ### 2026-10-26 (Connor, chat) — build draft started
 - Draft order of service + sourced content from John's "Nov. 1st Outline" (10/26) in [[Events/2026-09-20-Sunday-Night-Service/2026-11-01-Sunday-Night-Build-Draft]]; content-notice CM draft fits (cm-fit 8/8). Not yet written to PCO

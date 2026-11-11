@@ -6,7 +6,7 @@ owner: "Connor"
 added: 2026-11-09
 deadline: 2026-11-15
 needs_by: 2026-11-11
-last_mentioned: "2026-11-10"
+last_mentioned: "2026-11-11"
 source: "PCO Services, service type 1804248 (Sunday Night), snl-week-ahead scheduled check"
 projects:
   - "Sunday Night Launch"
@@ -42,3 +42,8 @@ blocks: []
 - 12/20 plan created (93289804), runway → 12/20; 12/27 held (holiday schedule on hold). Sign-up sheet reads Nov 15 – Dec 20
 - Greeters + Ushers sign-up notice drafted: [[Events/2026-09-20-Sunday-Night-Service/2026-11-10-Volunteer-Signups-Through-December-Draft]] — awaiting Connor's OK on wording
 - PCO email 'Sunday Night sign-ups open through December 20' sent to 23 (Greeters + Ushers incl. Skylar, excl. test person)
+
+### 2026-11-11 (email, quick refresh)
+- 9:47 AM · PCO: Kaymin Dixon confirmed Front Doors (Evening Greeters) 11/22, 12/6, 12/20
+- 10:03 AM · PCO: Sean Liesegang confirmed Usher (Evening Ushers) 12/20
+[Source: Email, PCO acceptance notices, 2026-11-11]

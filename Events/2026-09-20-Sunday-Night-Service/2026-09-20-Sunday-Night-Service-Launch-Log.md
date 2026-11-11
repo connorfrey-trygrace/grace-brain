@@ -672,3 +672,9 @@ Source: [[Transcripts/2026-08-04 15.59 Connor–Derek Weekly Sync — Expense Co
 - 2026-11-10 · PCO email 'Sunday Night sign-ups open through December 20' sent to 23 (Evening Greeters + Ushers)
 
 - 2026-11-10 4:30 PM · 11/15 plan, Host - Announcements CM rewritten (Connor): Do Good serve week (QR sign-up) + YoPro Friendsgiving 11/23 + Country Night @ Inspira 12/6; not split, cm-fit 6/6, PATCH verified, 15 items unchanged
+
+- 2026-11-10 11:08–11:10 PM (email) · YP invites sent: Sean Gilliam, Genesis Epstein, Gwendelyn Monge (separate emails), Alaina Kwiatkowski (adds roommate→Discord + Friendsgiving 11/23) → all 4 notes closed
+- 2026-11-10 4:52 PM–11/11 10:25 AM (email) · Lauren Wertz offered to volunteer at the 12/2 Christmas concert; Connor fwd to Callie; Callie will reach her directly with the sign-up link (asking experienced people before Eventbrite goes public)
+- 2026-11-11 (email) · Sunday Night chairs 180→118 (4 sections × 5 rows: 30/24/34/30; Derek: room should feel full); Boot Camp off till late Jan → Sunday-morning reset now custodial (Alex 11/12 this week, Emilso's team after); Brian diagram, Jennifer approved; Callie sent Emilso the 118-chair PDF 2:06 PM
+- 2026-11-11 (email) · Boot Camp S4 booked Wed 1/20/2027–3/10 (Callie + John); chair-reset arrangement likely changes then
+- 2026-11-11 (email) · PCO: Kaymin Dixon confirmed Front Doors 11/22, 12/6, 12/20; Sean Liesegang confirmed Usher 12/20

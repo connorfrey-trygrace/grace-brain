@@ -1,12 +1,13 @@
 ---
 name: "📅 John Slye: Confirm the 11-11 Wednesday meeting with Connor"
-status: waiting-on
+status: completed
+resolved: 2026-11-11
 priority: P1
 owner: "John Slye"
 added: 2026-11-04
 deadline: none
 needs_by: 2026-11-11
-last_mentioned: "2026-11-04"
+last_mentioned: "2026-11-11"
 source: "Text from Connor to John Slye, 2026-11-04"
 projects:
   - "Sunday Night Launch"
@@ -18,7 +19,9 @@ blocks: []
 ---
 # 📅 John Slye: Confirm the 11-11 Wednesday meeting with Connor
 
-- [ ] John confirms a time Wed 11/11 to talk Revelation, Sunday Night Jan–Mar discussions, and 2027.
+- [x] John confirms a time Wed 11/11 to talk Revelation, Sunday Night Jan–Mar discussions, and 2027.
+
+- **Status**: ✅ Closed — superseded. The Wed 11/11 1:20 PM slot was never confirmed; John asked again 11/11 for a time → [[Trackers/Actions/Connor - Schedule the Jan 2027 planning conversation with John Slye]].
 
 - **Source**: John asked for a time to plan Jan–Mar discussions (he has "dove into" Revelation for the 6 PM service) [197835]; Connor proposed next Wednesday, 1:20 PM [197837].
 - **needs_by rationale**: 2026-11-11 — the proposed date itself.
@@ -29,3 +32,10 @@ blocks: []
 
 ### 2026-11-04 (quick refresh, sweep, Step 3.5)
 - P2 → P1: ≤7 days to deadline/needs_by
+
+### 2026-11-11 (quick refresh, text)
+- 9:36 AM · John (THEM) asked to set a time (in person or call) to discuss Jan 2027 — reads as the 11/11 1:20 PM slot not locked; follow-on → [[Trackers/Actions/Connor - Schedule the Jan 2027 planning conversation with John Slye]] [198366]
+[Source: Text, John Slye, rowid 198366]
+
+### 2026-11-11 (Connor, chat)
+- Slot never happened; superseded by the Jan 2027 scheduling note
