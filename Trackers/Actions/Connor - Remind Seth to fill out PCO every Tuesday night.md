@@ -64,3 +64,7 @@ blocks: []
 
 ### 2026-11-10 (Connor, chat)
 - Connor: done (11/10 nudge) · deadline rolled 11/10 → 11/17 (recurring)
+
+### 2026-11-11 (text, agent-hub-visit-local)
+- 11/10 4:07 PM · Connor (ME) texted Seth the set-list reminder [198351]; no reply from Seth yet in this window
+[Source: Text, Seth Addison, rowid 198351]

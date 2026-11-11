@@ -304,3 +304,5 @@ Format (adopted 2026-07-16, mirroring [[Workflows/m365-to-obsidian-sync]] §Run 
 - 2026-11-10 15:05 ET | rows 198319–198346 (28 in scope), 2 Grace threads: Jeff Brady meeting set 12/5 noon → Jeff note + new dated item; Anna Maia Friendsgiving reg live + slide graphics → closure-candidate on Anna go-ahead; 0 unresolved, 0 garbled; vCard 10/22 → 3.5 skipped; elapsed 1m
 
 - 2026-11-10 16:03 ET | quick-refresh | ROWID 198347–198350 | 4 msgs, 0 Grace | 0 writes
+
+- 2026-11-11 04:09 ET | agent-hub-visit-local | rowid 198351→198363 | 13 in scope (excluded 1:1 never read), 1 Grace: Connor's 11/10 set-list nudge to Seth → appended to Seth PCO reminder note; 0 closure candidates, 0 unresolved, 2 attachment-only rows; vCard unchanged → 3.5 skipped | elapsed 0m
