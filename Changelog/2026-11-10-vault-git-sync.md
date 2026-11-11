@@ -11,3 +11,5 @@
 **Result:** the 5am routine now clones the repo and pushes to main. First test failed with a 403 (the Claude GitHub App wasn't installed); the retest after Connor installed it pushed `95ba213`, and the Mac merged it cleanly.
 
 **Follow-up:** `agent-hub-visit-local` narrowed to the text scan plus the Hub's text-message check (Connor's call). The cloud routine owns email and the rest of the Hub visit, so nothing runs twice.
+
+**Follow-up:** added a noon run to the local text scan (`0 4,12 * * *`). It catches up whenever the Mac was asleep or off at 4 AM (Connor's concern).

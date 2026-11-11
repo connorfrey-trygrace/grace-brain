@@ -50,7 +50,7 @@ Three jobs, split by **lead time**, not by topic — Connor's framing: "Thursday
 
 | Task id | Cadence | Enabled | Governing workflow | Reads | Writes |
 | --- | --- | --- | --- | --- | --- |
-| `agent-hub-visit-local` ("Grace: 4 AM text scan (local)") | 4:09 AM daily (`0 4 * * *`, app adds a few minutes) | ✅ Narrowed 2026-11-10 to texts only, since the 5 AM cloud routine took over email + the rest of the Hub visit | [[Workflows/text-message-sync]] + the "Text-message check" section of Notion's Start here: Grace Claude | `chat.db` via `query-messages.py`; Notion Personal/St Onge Dashboard feed views | Text marker + run log (`stamp.py`); closure candidates in vault notes; Personal Tasks plans; Agent Mail FYIs. Needs the Mac awake and the app open |
+| `agent-hub-visit-local` ("Grace: text scan (local, 4 AM + noon)") | 4 AM + noon daily (`0 4,12 * * *`, app adds a few minutes). Noon is the catch-up when the Mac slept at 4; the scan is incremental, so a quiet noon run is a one-liner | ✅ Narrowed 2026-11-10 to texts only, since the 5 AM cloud routine took over email + the rest of the Hub visit | [[Workflows/text-message-sync]] + the "Text-message check" section of Notion's Start here: Grace Claude | `chat.db` via `query-messages.py`; Notion Personal/St Onge Dashboard feed views | Text marker + run log (`stamp.py`); closure candidates in vault notes; Personal Tasks plans; Agent Mail FYIs. Needs the Mac awake and the app open |
 
 ## Cloud routines (claude.ai — run with the Mac off)
 
