@@ -34,3 +34,6 @@ blocks: []
 ### 2026-11-10 (Connor, chat)
 - Connor: done — routine now lists Dropbox, Microsoft_365, Notion (verified via RemoteTrigger get); no run since attach; next scheduled 11/11 5:03 AM ET
 - 4:49 PM · test run (cse_01R9y1dy2Q9ee9UdLQyBtPAn, 19s): Notion reads OK; stopped before any writes — Dropbox connector has create/move/delete but no overwrite. No email synced, marker unmoved, Notion untouched. m365 run log has no cloud-run lines ever → the routine has never synced email since 11/2
+
+### 2026-11-11 (cloud 5am)
+- 5:05 AM · cloud run in a git clone of the vault: email sync, vault edits, Notion visit all worked; push result in report

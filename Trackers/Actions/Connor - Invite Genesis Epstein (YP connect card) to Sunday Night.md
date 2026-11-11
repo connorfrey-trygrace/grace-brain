@@ -1,12 +1,13 @@
 ---
 name: "💌 Connor: Invite Genesis Epstein (YP connect card) to Sunday Night"
-status: active
+status: completed
 priority: P1
 owner: "Connor"
 added: 2026-11-09
 deadline: none
 needs_by: none
-last_mentioned: "2026-11-09"
+last_mentioned: "2026-11-10"
+resolved: 2026-11-10
 source: "Email, info@trygrace.org YP connect card, 2026-11-08 11:25 AM"
 projects:
   - "Sunday Night Launch"
@@ -18,12 +19,12 @@ blocks: []
 ---
 # 💌 Connor: Invite Genesis Epstein (YP connect card) to Sunday Night
 
-- [ ] Send Genesis the standard "Invitation to Sunday Night" email (YP Discord link included) to genesismareps@gmail.com.
+- [x] Send Genesis the standard "Invitation to Sunday Night" email (YP Discord link included) to genesismareps@gmail.com.
 
 - **Priority rationale**: YP connect cards are always P1 (Connor, 2026-11-01).
 - **Source**: connect card 2026-11-08 11:25 AM — email + mobile only, no other info.
 - **Note**: Same mobile as Sean Gilliam's card (submitted 1 min earlier) — likely a couple; one joint invite may fit. Hypothesis.
-- **Status**: Draft below, awaiting Connor's approval. Not sent.
+- **Status**: **Completed 2026-11-10** — Connor sent the invitation to Genesis (Sent Items, 11:08 PM ET).
 
 ### Draft (for approval — mirrors 11/7 Alyse send; web default signature)
 **Subject:** Invitation to Sunday Night
@@ -43,3 +44,7 @@ So glad you're with us.
 
 ### 2026-11-10 (Connor, chat)
 - 4:10 PM · invite saved to Outlook Drafts (web default signature) — not sent
+
+### 2026-11-11 (email, cloud 5am)
+- 2026-11-10 11:08 PM ET · Sent Items shows "Invitation to Sunday Night" to Genesis
+- → status: active → completed
