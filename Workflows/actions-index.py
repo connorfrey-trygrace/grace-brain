@@ -66,6 +66,10 @@ P2_WINDOW, P1_WINDOW = 21, 7
 # judgment calls -- that is the intended trade, since the gate is a subtraction
 # and this is the selection it subtracts from.
 HORIZON_DAYS = 14
+# Conversations (calls, meetings) are surfaced this many days ahead regardless
+# of status -- the prep and the time-confirm are Connor's even while the item is
+# waiting-on. See meeting_rows().
+MEETING_HORIZON_DAYS = 3
 
 
 def vault_root():
@@ -171,6 +175,10 @@ def load(root):
             "blocked_by": normalize_blocker(fm.get("blocked_by", "")) or "; ".join(fm.get("blocked_by[]", [])),
             "on_hold_since": fm.get("on_hold_since", ""),
             "waiting_on": fm.get("waiting_on", ""),
+            # When the item's next step is a conversation Connor will be in
+            # (call, meeting) agreed or proposed by text/email and therefore NOT
+            # on the Outlook calendar. `YYYY-MM-DD HH:MM` or `YYYY-MM-DD`.
+            "meeting": fm.get("meeting", ""),
             "resolved": fm.get("resolved", ""),
             "projects": fm.get("projects[]", []),
         })
@@ -247,6 +255,11 @@ def shared_meeting_note(n, today, cal):
         limit = None
     after = datetime.datetime.combine(today, datetime.time.min)
     m, status = CW.next_shared(who, cal=cal, after=after, before=limit)
+    # A conversation agreed off-calendar (text/email) is a real occasion the
+    # Outlook window cannot see. Prefer it when it comes first. 2026-11-12.
+    mt = first_date(n["meeting"])
+    if mt and mt >= today and (status != "ok" or mt < m["start"].date()):
+        return " | next w/ %s: %s (meeting field, off-calendar)" % (who, mt)
     if status == "ok":
         return " | next w/ %s: %s%s" % (who, m["start"].date(),
                                         " (its own date already passed)" if blown else "")
@@ -303,6 +316,65 @@ def open_blockers(n, status_by_file):
         if status_by_file.get(target) in OPEN_BLOCKER_STATUSES:
             out.append(target)
     return out
+
+
+def md_dates(s, today):
+    """`M/D` dates in free text, resolved to the nearest year (today's, or next
+    year's if that is closer). Backstop only -- the `meeting` field is the rule."""
+    out = []
+    for m in re.finditer(r"(?<![\d/])(\d{1,2})/(\d{1,2})(?![\d/])", s or ""):
+        mo, d = int(m.group(1)), int(m.group(2))
+        for y in (today.year, today.year + 1):
+            try:
+                dt = datetime.date(y, mo, d)
+            except ValueError:
+                continue
+            if (dt - today).days >= -180:
+                out.append(dt)
+                break
+    return out
+
+
+def meeting_rows(notes, today):
+    """Conversations in the next MEETING_HORIZON_DAYS, from any live status.
+
+    Added 2026-11-12. A call with John Slye was agreed by text for Fri 11/13
+    (John: "Friday afternoon works"; Connor proposed 3 PM, unconfirmed). The note
+    was `waiting-on`, so brief() suppressed it as "nothing for Connor to do," and
+    the call was never on Outlook, so Calendar-Window and the `next w/` column
+    said the next shared occasion was the 11/17 All Staff. The refresh report the
+    day before the call did not mention it. But a pending conversation always has
+    Connor-side work: confirm the time, and prep his own agenda items. So these
+    rows bypass the waiting-on suppression on purpose.
+
+    Source 1 (the rule): the `meeting` frontmatter field.
+    Source 2 (backstop): a waiting-on item with no `meeting` field whose
+    `waiting_on` text names an M/D or ISO date in the horizon -- printed with a
+    note to set the field, so a missed field degrades loudly, not silently.
+    """
+    rows = []
+    for n in notes:
+        if n["status"] not in LIVE:
+            continue
+        mt_dt, mt = first_dt(n["meeting"]), first_date(n["meeting"])
+        unconfirmed = " — time unconfirmed (waiting on %s)" % (awaited_party(n["waiting_on"]) or "reply") \
+            if n["status"] == "waiting-on" else ""
+        if mt:
+            days = (mt - today).days
+            if 0 <= days <= MEETING_HORIZON_DAYS:
+                when = mt_dt.strftime("%a %-m/%-d %-I:%M %p") if mt_dt else mt.strftime("%a %-m/%-d")
+                rows.append((days, n["priority"] or "P?", n["file"], "%s — prep%s" % (when, unconfirmed)))
+            continue
+        if n["status"] == "waiting-on":
+            tail = re.split(r"\s+since\s+\d{4}-\d{2}-\d{2}", n["waiting_on"], maxsplit=1)[-1]
+            hits = sorted(d for d in md_dates(tail, today) + all_dates(tail)
+                          if 0 <= (d - today).days <= MEETING_HORIZON_DAYS)
+            if hits:
+                rows.append(((hits[0] - today).days, n["priority"] or "P?", n["file"],
+                             "%s named in waiting_on, no `meeting:` field — set it; confirm + prep"
+                             % hits[0].strftime("%a %-m/%-d")))
+    rows.sort()
+    return rows
 
 
 def brief(notes, today):
@@ -371,6 +443,11 @@ def brief(notes, today):
             stalled.append((pri, n["file"], n["flagged"][:60]))
 
     print("# START HERE — %s" % today.strftime("%Y-%m-%d (%a)"))
+    meets = meeting_rows(notes, today)
+    if meets:
+        print("\n## [@] Conversations in the next %d days — confirm + prep (%d)" % (MEETING_HORIZON_DAYS, len(meets)))
+        for _, pri, f, why in meets[:8]:
+            print("  %-3s %s  <- %s" % (pri, f, why))
     for icon, title, rows, cap in (
         ("[!]", "Overdue or due today", due, 8),
         ("[>]", "Next %d days" % HORIZON_DAYS, week, 12),
@@ -393,7 +470,7 @@ def brief(notes, today):
             print("  %-3s %s  <- %s" % (pri, f, why))
         if len(rows) > cap:
             print("  ... +%d more (see the full sweep view)" % (len(rows) - cap))
-    if not any((due, week, decide, unparked, stalled)):
+    if not any((meets, due, week, decide, unparked, stalled)):
         print("\n  Nothing urgent. Clear runway.")
 
 
@@ -412,7 +489,7 @@ def malformed_date_fields(notes):
     """
     out = []
     for n in notes:
-        for f in ("deadline", "needs_by", "chase_by"):
+        for f in ("deadline", "needs_by", "chase_by", "meeting"):
             v = (n.get(f) or "").strip()
             if v and not DATE_FIELD_RE.match(v):
                 out.append("%s: %s = %s" % (n["file"], f, v[:60]))

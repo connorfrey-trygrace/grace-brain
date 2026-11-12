@@ -1,0 +1,320 @@
+<title>Dec–Mar Sunday Night Calendar</title>
+<meta name="claude:viewport-fit-sides" content="cover">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Lato:wght@300;400;700;900&display=swap">
+<style>
+/* Layout: brand-book Lato with light headers + wide-tracked subheads; 2x2 month grids beside a sticky "settle on the call" rail. */
+:root {
+  --active: #2F97A0;      /* Grace Active Blue, PANTONE 2235 C */
+  --stable: #1C3B6B;      /* Grace Stable Blue, PANTONE 534 C */
+  --cinder: #ABABAB;      /* Cinder Gray */
+  --cloud:  #E3E3E3;      /* Cloud Gray */
+  --bg: #FFFFFF;
+  --surface: #F6F8F9;
+  --fg: #1E2A36;
+  --muted: #5F6B76;
+  --line: #E3E3E3;
+  --c-boot: #1C3B6B;
+  --c-bible: #2F97A0;
+  --c-dinner: #B7791F;
+  --c-dance: #B24A68;
+  --c-journal: #6E5BA6;
+  --c-fixed: #8A939B;
+  --ok: #2E7D4F;
+  --warn: #B26A00;
+  --bad: #A23B3B;
+  --chip-bg: #EEF5F6;
+  --font: "Lato", "Helvetica Neue", Arial, sans-serif;
+}
+@media (prefers-color-scheme: dark) {
+  :root:not([data-theme="light"]) {
+    --bg: #0F1720; --surface: #16212C; --fg: #E6ECF0; --muted: #9AA7B2; --line: #26333F;
+    --c-boot: #6F95D6; --c-bible: #4FB8C1; --c-dinner: #E0A54A; --c-dance: #E07A98; --c-journal: #A898E0; --c-fixed: #7D8790;
+    --ok: #5CC489; --warn: #E5A33D; --bad: #E07070; --chip-bg: #1B2B36;
+    color-scheme: dark;
+  }
+}
+:root[data-theme="dark"] {
+  --bg: #0F1720; --surface: #16212C; --fg: #E6ECF0; --muted: #9AA7B2; --line: #26333F;
+  --c-boot: #6F95D6; --c-bible: #4FB8C1; --c-dinner: #E0A54A; --c-dance: #E07A98; --c-journal: #A898E0; --c-fixed: #7D8790;
+  --ok: #5CC489; --warn: #E5A33D; --bad: #E07070; --chip-bg: #1B2B36;
+  color-scheme: dark;
+}
+* { box-sizing: border-box; }
+body {
+  background: var(--bg); color: var(--fg); font-family: var(--font); font-size: 15px; line-height: 1.5;
+  padding-left: max(16px, env(safe-area-inset-left, 0px));
+  padding-right: max(16px, env(safe-area-inset-right, 0px));
+  padding-block: 28px 48px;
+}
+.wrap { max-width: 1240px; margin: 0 auto; display: grid; gap: 28px; }
+header { display: grid; gap: 6px; }
+.eyebrow { font-size: 12px; font-weight: 700; letter-spacing: 0.16em; text-transform: uppercase; color: var(--active); }
+h1 { font-weight: 300; font-size: clamp(28px, 4vw, 40px); line-height: 1.15; margin: 0; text-wrap: balance; }
+.sub { color: var(--muted); max-width: 70ch; margin: 0; }
+.legend { display: flex; flex-wrap: wrap; gap: 8px 16px; font-size: 13px; color: var(--muted); }
+.legend span { display: inline-flex; align-items: center; gap: 6px; }
+.sw { width: 10px; height: 10px; border-radius: 2px; display: inline-block; }
+.main { display: grid; grid-template-columns: minmax(0, 1fr) 340px; gap: 28px; align-items: start; }
+@media (max-width: 980px) { .main { grid-template-columns: minmax(0, 1fr); } }
+.months { display: grid; grid-template-columns: repeat(auto-fill, minmax(min(100%, 440px), 1fr)); gap: 28px 24px; align-items: start; }
+.month { display: grid; gap: 10px; min-width: 0; }
+.month h2 { margin: 0; font-size: 13px; font-weight: 700; letter-spacing: 0.16em; text-transform: uppercase; color: var(--stable); display: flex; justify-content: space-between; align-items: baseline; }
+:root[data-theme="dark"] .month h2 { color: var(--c-boot); }
+@media (prefers-color-scheme: dark) { :root:not([data-theme="light"]) .month h2 { color: var(--c-boot); } }
+.month h2 small { font-weight: 400; letter-spacing: 0; text-transform: none; color: var(--muted); font-size: 12px; }
+.grid { display: grid; grid-template-columns: repeat(7, minmax(0, 1fr)); border-top: 1px solid var(--line); border-left: 1px solid var(--line); }
+.dow { font-size: 11px; font-weight: 700; letter-spacing: 0.1em; color: var(--muted); padding: 4px 6px; border-right: 1px solid var(--line); border-bottom: 1px solid var(--line); text-transform: uppercase; }
+.dow.sun { color: var(--active); }
+.cell { min-height: 74px; padding: 4px 5px; border-right: 1px solid var(--line); border-bottom: 1px solid var(--line); display: flex; flex-direction: column; gap: 3px; min-width: 0; }
+.cell.out { background: var(--surface); }
+.cell.sun { background: color-mix(in srgb, var(--active) 5%, var(--bg)); }
+.cell.blackout { background: repeating-linear-gradient(135deg, var(--surface) 0 6px, var(--bg) 6px 12px); }
+.num { font-size: 12px; color: var(--muted); font-variant-numeric: tabular-nums; }
+.cell.sun .num { color: var(--fg); font-weight: 700; }
+.ev { font-size: 11px; line-height: 1.25; padding: 2px 4px; border-radius: 3px; border-left: 3px solid var(--k); background: color-mix(in srgb, var(--k) 12%, var(--bg)); color: var(--fg); overflow-wrap: anywhere; cursor: pointer; text-align: left; font-family: inherit; border-top: 0; border-right: 0; border-bottom: 0; }
+.ev.fixed { cursor: default; background: transparent; color: var(--muted); }
+.ev[data-st="agreed"] { background: color-mix(in srgb, var(--k) 30%, var(--bg)); font-weight: 700; }
+.ev[data-st="dropped"] { text-decoration: line-through; opacity: 0.5; }
+.ev[data-st="moved"] { outline: 1px dashed var(--warn); }
+.ev:focus-visible, button:focus-visible, input:focus-visible { outline: 2px solid var(--active); outline-offset: 1px; }
+@media (max-width: 520px) {
+  .cell { min-height: 44px; }
+  .ev { font-size: 0; padding: 0; height: 6px; border-left-width: 0; background: var(--k); border-radius: 2px; }
+  .ev.fixed { background: var(--c-fixed); opacity: 0.6; }
+}
+.list { display: grid; gap: 6px; margin: 0; padding: 0; list-style: none; }
+.item { display: grid; grid-template-columns: 62px minmax(0, 1fr) auto; gap: 10px; align-items: center; padding: 8px 10px; border-left: 3px solid var(--k); background: var(--surface); border-radius: 0 4px 4px 0; }
+.item .d { font-size: 12px; font-weight: 700; color: var(--muted); font-variant-numeric: tabular-nums; }
+.item .t { min-width: 0; }
+.item .t b { font-weight: 700; }
+.item .t .why { display: block; font-size: 12px; color: var(--muted); }
+.st { font: inherit; font-size: 11px; font-weight: 700; letter-spacing: 0.08em; text-transform: uppercase; padding: 4px 8px; border-radius: 999px; border: 1px solid var(--line); background: var(--bg); color: var(--muted); cursor: pointer; white-space: nowrap; }
+.st[data-st="agreed"] { color: var(--ok); border-color: var(--ok); }
+.st[data-st="moved"] { color: var(--warn); border-color: var(--warn); }
+.st[data-st="dropped"] { color: var(--bad); border-color: var(--bad); }
+.tag { font-size: 11px; font-weight: 700; letter-spacing: 0.08em; text-transform: uppercase; color: var(--muted); }
+aside { position: sticky; top: calc(env(safe-area-inset-top, 0px) + 16px); display: grid; gap: 18px; min-width: 0; }
+@media (max-width: 980px) { aside { position: static; } }
+.panel { background: var(--surface); border-radius: 6px; padding: 16px; display: grid; gap: 12px; }
+.panel h3 { margin: 0; font-size: 12px; font-weight: 700; letter-spacing: 0.16em; text-transform: uppercase; color: var(--active); }
+.q { display: grid; gap: 6px; padding-top: 10px; border-top: 1px solid var(--line); }
+.q:first-of-type { border-top: 0; padding-top: 0; }
+.q label.row { display: flex; gap: 8px; align-items: flex-start; font-size: 14px; cursor: pointer; }
+.q input[type=checkbox] { margin-top: 3px; accent-color: var(--active); }
+.q input[type=text] { width: 100%; font: inherit; font-size: 13px; padding: 6px 8px; border: 1px solid var(--line); border-radius: 4px; background: var(--bg); color: var(--fg); }
+.q.done label.row span { color: var(--muted); text-decoration: line-through; }
+.dibs { font-size: 14px; }
+.dibs b { color: var(--c-dinner); }
+.actions { display: flex; gap: 8px; flex-wrap: wrap; }
+.btn { font: inherit; font-weight: 700; font-size: 13px; padding: 8px 12px; border-radius: 4px; border: 0; background: var(--active); color: #fff; cursor: pointer; }
+.btn.ghost { background: transparent; color: var(--muted); border: 1px solid var(--line); }
+.toast { font-size: 13px; color: var(--ok); min-height: 1.2em; }
+textarea#recap { width: 100%; min-height: 140px; font: 12px/1.4 ui-monospace, Menlo, monospace; border: 1px solid var(--line); border-radius: 4px; padding: 8px; background: var(--bg); color: var(--fg); }
+.foot { font-size: 12px; color: var(--muted); }
+@media (prefers-reduced-motion: reduce) { * { transition: none !important; } }
+</style>
+
+<div class="wrap">
+  <header>
+    <div class="eyebrow">Call with John Slye · Fri 11/13, 3 PM (unconfirmed)</div>
+    <h1>Dec–Mar Sunday Night Calendar</h1>
+    <p class="sub">Connor's draft dates for the January plan. One add-on per Sunday night at most. Tap a proposed date to mark it agreed, moved or dropped as you talk; answers to the open questions go in the right-hand panel.</p>
+    <div class="legend" id="legend"></div>
+  </header>
+
+  <div class="main">
+    <section class="months" id="months" aria-label="Calendar months"></section>
+
+    <aside>
+      <div class="panel">
+        <h3>Settle on the call</h3>
+        <div id="questions"></div>
+      </div>
+      <div class="panel">
+        <h3>Next dinner — first dibs</h3>
+        <div class="dibs"><b>Kaymin, Jason, Simba</b> get the invite before the sign-up opens. Callie wants to join future dinners; Stephanie Torrance gets the link personally. Any one dinner can become the journaling workshop instead, if Brian Parker leads it.</div>
+      </div>
+      <div class="panel">
+        <h3>After the call</h3>
+        <div class="actions">
+          <button class="btn" id="copy" type="button">Copy recap</button>
+          <button class="btn ghost" id="reset" type="button">Clear my marks</button>
+        </div>
+        <div class="toast" id="toast" role="status"></div>
+        <textarea id="recap" readonly hidden aria-label="Recap text"></textarea>
+      </div>
+      <p class="foot">Sources: John's 11/11 agenda text, the vault action notes, PCO, and the Office 2026 Calendar (December only — no 2027 calendar exists yet). Your marks stay in this browser only.</p>
+    </aside>
+  </div>
+</div>
+
+<script>
+const KINDS = {
+  boot:    { label: "Boot Camp S4",        v: "--c-boot" },
+  bible:   { label: "Bible teaching + Q&A", v: "--c-bible" },
+  dinner:  { label: "Curiosity dinner",     v: "--c-dinner" },
+  dance:   { label: "Inspira dance",        v: "--c-dance" },
+  fixed:   { label: "Already set / blackout", v: "--c-fixed" },
+};
+// p = proposed (clickable), f = fixed
+const EVENTS = [
+  ["2026-12-06","dance","Inspira Country Night","f","Booked. 8 PM lesson, $5 w/ GCC26"],
+  ["2026-12-06","fixed","Annual Meeting","f","Time not on the calendar"],
+  ["2026-12-13","dinner","Curiosity dinner (Dec)","p","John preaches 12/13; 12/20 is too close to Christmas"],
+  ["2026-12-24","fixed","Christmas Eve 3:30 / 4:30 / 5:30","f","Connor excused"],
+  ["2026-12-27","fixed","Online only","f","No in-person services", true],
+  ["2027-01-03","fixed","Daniel & Revelation launch","f","AM series starts; first week back"],
+  ["2027-01-06","boot","S4 table-leader gathering","p","Wed, Boot Camp time, with a meal. Backup Wed 1/13"],
+  ["2027-01-10","dinner","Curiosity dinner (Jan)","p","Early in the series, while interest is high"],
+  ["2027-01-17","fixed","MLK weekend","f","Mon 1/18 holiday — left open", true],
+  ["2027-01-24","bible","Bible teaching #1","p","~20 min after service + short Q&A; John's handout"],
+  ["2027-02-07","dance","Inspira dance night","p","Every other month, first Sunday: 10/4 → 12/6 → 2/7"],
+  ["2027-02-07","fixed","Cross in the mall hall","f","John's ask (AM)"],
+  ["2027-02-14","fixed","Super Bowl / Valentine's","f","Super Bowl plan parked until after Thanksgiving", true],
+  ["2027-02-21","bible","Bible teaching #2","p",""],
+  ["2027-02-28","dinner","Curiosity dinner (Feb)","p",""],
+  ["2027-03-07","dinner","March dinner (optional)","p","Only clean slot before Easter — or skip March"],
+  ["2027-03-14","bible","Bible teaching #3","p",""],
+  ["2027-03-21","fixed","Palm Sunday","f","", true],
+  ["2027-03-28","fixed","Easter","f","", true],
+];
+// Boot Camp S4 Wednesdays 1/20–3/10
+["2027-01-20","2027-01-27","2027-02-03","2027-02-10","2027-02-17","2027-02-24","2027-03-03","2027-03-10"].forEach((d,i) => {
+  EVENTS.push([d,"boot", i===3 ? "Boot Camp wk 4 · Ash Wed" : "Boot Camp wk " + (i+1), "f", i===3 ? "Meet or skip? (on the question list)" : "Booked"]);
+});
+
+const QUESTIONS = [
+  ["preach","John's Jan–Mar preaching Sundays?","Dinners go with whoever preaches, so dinner dates may shift"],
+  ["s4content","S4 content: run Daniel & Revelation alongside the AM series?","Survey's top ask was \"What is My Purpose\""],
+  ["s4totals","How does S4 collect weekly totals?","Wks 6–8 lost 3–5 tables; Rock store still with Kay + Melissa"],
+  ["ash","Ash Wednesday 2/10 (Boot Camp wk 4): meet or skip?",""],
+  ["bibleroom","Bible teaching: room, time, who hosts the Q&A?",""],
+  ["inspira","Inspira on 2/7: available? Who holds the contact?",""],
+  ["march","March dinner on 3/7, or skip March?",""],
+  ["journal","Swap one curiosity dinner for the journaling workshop? Which date?","Only as a dinner replacement, never its own night. Needs Brian Parker's yes"],
+  ["reason","6 PM: the January \"reason to come\" + broadcast-list push?","Attendance 163 (10/4) → 70 (11/8)"],
+];
+
+const STATES = ["proposed","agreed","moved","dropped"];
+const KEY = "jsplan-v1";
+let store = { ev: {}, q: {} };
+try { const raw = localStorage.getItem(KEY); if (raw) store = Object.assign(store, JSON.parse(raw)); } catch (e) {}
+function save() { try { localStorage.setItem(KEY, JSON.stringify(store)); } catch (e) {} }
+
+const css = n => `var(${KINDS[n].v})`;
+const parse = s => { const [y,m,d] = s.split("-").map(Number); return new Date(y, m-1, d); };
+const fmt = d => (d.getMonth()+1) + "/" + d.getDate();
+const DOW = ["Sun","Mon","Tue","Wed","Thu","Fri","Sat"];
+const idOf = e => e[0] + "|" + e[2];
+
+// legend
+document.getElementById("legend").innerHTML = Object.entries(KINDS).map(([k,v]) =>
+  `<span><i class="sw" style="background:${css(k)}"></i>${v.label}</span>`).join("");
+
+function stateOf(e) { return store.ev[idOf(e)] || "proposed"; }
+function cycle(e) {
+  const s = stateOf(e); store.ev[idOf(e)] = STATES[(STATES.indexOf(s)+1) % STATES.length]; save(); render();
+}
+
+function render() {
+  const host = document.getElementById("months");
+  host.innerHTML = "";
+  const months = [[2026,11],[2027,0],[2027,1],[2027,2]];
+  months.forEach(([y,m]) => {
+    const first = new Date(y, m, 1), days = new Date(y, m+1, 0).getDate();
+    const evs = EVENTS.filter(e => { const d = parse(e[0]); return d.getFullYear()===y && d.getMonth()===m; })
+                      .sort((a,b) => a[0].localeCompare(b[0]) || (a[3]==="p" ? -1 : 1));
+    const proposed = evs.filter(e => e[3]==="p");
+    const agreed = proposed.filter(e => stateOf(e)==="agreed").length;
+    const sec = document.createElement("div"); sec.className = "month";
+    const name = first.toLocaleString("en-US", { month: "long" }) + " " + y;
+    let html = `<h2>${name}<small>${proposed.length ? agreed + " of " + proposed.length + " agreed" : "nothing to decide"}</small></h2><div class="grid">`;
+    html += DOW.map((d,i) => `<div class="dow${i===0?" sun":""}">${d.slice(0,2)}</div>`).join("");
+    for (let i = 0; i < first.getDay(); i++) html += `<div class="cell out"></div>`;
+    for (let d = 1; d <= days; d++) {
+      const date = new Date(y, m, d), iso = `${y}-${String(m+1).padStart(2,"0")}-${String(d).padStart(2,"0")}`;
+      const here = evs.filter(e => e[0] === iso);
+      const black = here.some(e => e[5]);
+      html += `<div class="cell${date.getDay()===0?" sun":""}${black?" blackout":""}"><span class="num">${d}</span>`;
+      here.forEach(e => {
+        const k = e[1], fixed = e[3]==="f";
+        html += fixed
+          ? `<div class="ev fixed" style="--k:${css(k)}" title="${e[2]}">${e[2]}</div>`
+          : `<button type="button" class="ev" data-id="${idOf(e)}" data-st="${stateOf(e)}" style="--k:${css(k)}" title="${e[2]} — ${stateOf(e)}">${e[2]}</button>`;
+      });
+      html += `</div>`;
+    }
+    const tail = (7 - ((first.getDay() + days) % 7)) % 7;
+    for (let i = 0; i < tail; i++) html += `<div class="cell out"></div>`;
+    html += `</div>`;
+    if (proposed.length) {
+      html += `<ul class="list">` + proposed.map(e => {
+        const d = parse(e[0]);
+        return `<li class="item" style="--k:${css(e[1])}"><span class="d">${DOW[d.getDay()]} ${fmt(d)}</span>
+          <span class="t"><b>${e[2]}</b>${e[4] ? `<span class="why">${e[4]}</span>` : ""}</span>
+          <button type="button" class="st" data-id="${idOf(e)}" data-st="${stateOf(e)}" aria-label="${e[2]}: ${stateOf(e)}. Tap to change">${stateOf(e)}</button></li>`;
+      }).join("") + `</ul>`;
+    }
+    sec.innerHTML = html;
+    host.appendChild(sec);
+  });
+  host.querySelectorAll("[data-id]").forEach(b => b.addEventListener("click", () => {
+    const e = EVENTS.find(x => idOf(x) === b.dataset.id); if (e) cycle(e);
+  }));
+}
+
+function renderQ() {
+  const host = document.getElementById("questions");
+  host.innerHTML = QUESTIONS.map(([id, q, hint]) => {
+    const s = store.q[id] || {};
+    return `<div class="q${s.done ? " done" : ""}" data-q="${id}">
+      <label class="row"><input type="checkbox" id="q-${id}" ${s.done ? "checked" : ""}><span>${q}</span></label>
+      ${hint ? `<div class="tag" style="text-transform:none;letter-spacing:0;font-weight:400">${hint}</div>` : ""}
+      <input type="text" id="a-${id}" placeholder="Answer…" value="${(s.a || "").replace(/"/g,"&quot;")}">
+    </div>`;
+  }).join("");
+  host.querySelectorAll(".q").forEach(div => {
+    const id = div.dataset.q;
+    div.querySelector("input[type=checkbox]").addEventListener("change", ev => {
+      store.q[id] = Object.assign(store.q[id] || {}, { done: ev.target.checked }); save();
+      div.classList.toggle("done", ev.target.checked);
+    });
+    div.querySelector("input[type=text]").addEventListener("input", ev => {
+      store.q[id] = Object.assign(store.q[id] || {}, { a: ev.target.value }); save();
+    });
+  });
+}
+
+function recapText() {
+  const lines = ["Call with John Slye — Jan 2027 plan", ""];
+  STATES.forEach(st => {
+    const rows = EVENTS.filter(e => e[3]==="p" && stateOf(e)===st);
+    if (!rows.length) return;
+    lines.push(st.toUpperCase() + ":");
+    rows.forEach(e => { const d = parse(e[0]); lines.push(`- ${DOW[d.getDay()]} ${fmt(d)} · ${e[2]}`); });
+    lines.push("");
+  });
+  const answered = QUESTIONS.filter(([id]) => store.q[id] && (store.q[id].a || store.q[id].done));
+  if (answered.length) {
+    lines.push("ANSWERS:");
+    answered.forEach(([id, q]) => lines.push(`- ${q} ${store.q[id].a ? "→ " + store.q[id].a : "(settled)"}`));
+  }
+  return lines.join("\n");
+}
+
+document.getElementById("copy").addEventListener("click", () => {
+  const t = recapText(), toast = document.getElementById("toast"), ta = document.getElementById("recap");
+  const fallback = () => { ta.hidden = false; ta.value = t; ta.focus(); ta.select(); toast.textContent = "Selected below — copy it from there."; };
+  try {
+    navigator.clipboard.writeText(t).then(() => { toast.textContent = "Recap copied."; ta.hidden = true; }, fallback);
+  } catch (e) { fallback(); }
+});
+document.getElementById("reset").addEventListener("click", () => {
+  store = { ev: {}, q: {} }; save(); render(); renderQ();
+  document.getElementById("toast").textContent = "Marks cleared.";
+});
+
+render(); renderQ();
+</script>

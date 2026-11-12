@@ -28,7 +28,7 @@ Drives **Grace Concerts** and the broader event/worship vision; a key sounding b
 - [[Transcripts/2026-09-21 11.36 Sunday Night Launch Debrief — One Question & Time Signposting]] — the 9/20 post-launch debrief; he arrived partway through, having preached. Read the room's energy as falling off around 8 PM and pushed for injected fun, recalling the mid-service popcorn pass at Hillsong from the NYC Redeemer/Hillsong day. Wanted to know how much energy people had for three answers versus two: *"we're going to learn a lot from that."*
 
 ## Agendas
-- [[Agendas/2026-06-16 John–Derek–Connor Check-in Agenda]] · [[Agendas/2026-06-25 4th Service Worship Download Agenda]]
+- [[Agendas/2026-06-16 John–Derek–Connor Check-in Agenda]] · [[Agendas/2026-06-25 4th Service Worship Download Agenda]] · [[Agendas/2026-11-13 Connor–John Slye Jan 2027 Planning Call Agenda]]
 
 ## Events & threads
 - [[Archive/2026-07-19-World-Cup/2026-07-19-World-Cup-Viewing-Party]] · [[Events/2026-09-13-Rend-Collective-Concert]] · [[Events/2026-09-16-Boot-Camp-Fall-Relaunch/2026-09-16-Boot-Camp-Fall-Relaunch]] · [[Trackers/Events]] · [[Trackers/Open Actions.base]]

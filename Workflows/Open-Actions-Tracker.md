@@ -59,7 +59,7 @@ Rules:
 - **One line per event.** `H:MM AM/PM · who + what`, target ≤12 words. Drop the timestamp only when the source has no time (email digests, transcripts) — then just `- <who> <what>`.
 - **No verbatim quotes** unless the quote *is* the content (a number, a date, a name, an exact commitment). The transcript and the email are the record; the note is the index to them.
 - **No interpretation, no advocacy, no ⭐/⚠️ essays.** If a finding needs judgment — a contradiction, a risk, a recommendation — it goes in the **run report to Connor**, not into the note. A note is a status ledger.
-- **A `→` line only when a field actually changed** (`status`, `priority`, `deadline`, `needs_by`, `chase_by`, `waiting_on`). One line, `→ field: old → new`. The reason, if it isn't obvious, is a clause on the same line — not a paragraph.
+- **A `→` line only when a field actually changed** (`status`, `priority`, `deadline`, `needs_by`, `chase_by`, `waiting_on`, `meeting`). One line, `→ field: old → new`. The reason, if it isn't obvious, is a clause on the same line — not a paragraph.
 - **Never restate what a prior entry already says.** If nothing moved, write nothing and bump `last_mentioned`.
 - **Superseded content is deleted, not struck through.** When a claim turns out wrong or an item resolves, remove the dead text and state what is true now. `~~strikethrough~~` leaves the wrong version on the page, doubles the bytes every future run reads, and makes the note read as an argument with itself. Never delete a *file* (move it to /Archive) — this rule is about dead lines inside a live note.
 

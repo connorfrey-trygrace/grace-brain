@@ -6,7 +6,7 @@ owner: "Connor"
 added: 2026-10-25
 deadline: none
 needs_by: none
-last_mentioned: "2026-10-26"
+last_mentioned: "2026-11-12"
 source: "Connor, Claude chat 2026-10-25"
 projects:
   - "Sunday Night Launch"
@@ -22,7 +22,7 @@ flagged: "2026-11-03 — reason: no follow-up in 8 days (Brian Parker never repl
 
 - **Source**: Connor, Claude chat 2026-10-25 — "we should do a journaling workshop after sunday night one night." Idea stage only; no date, leader, or format set.
 - **Priority rationale**: P3 — idea, no date or stakeholder ask yet.
-- **Status**: Idea captured. Next: choose a target Sunday, decide who leads it, and confirm space/time after service.
+- **Status**: Idea — runs only as a replacement for one curiosity dinner (Connor, 11/12), never its own night. Next: Brian Parker's yes, then pick which dinner date it takes.
 - **Blocked by**: none · **Blocks**: nothing
 
 ### 2026-10-25 (quick refresh, text)
@@ -35,3 +35,6 @@ flagged: "2026-11-03 — reason: no follow-up in 8 days (Brian Parker never repl
 
 ### 2026-11-03 (quick refresh, sweep)
 - Step 3: flagged — 8 days quiet; next: text Brian Parker for a yes/no
+
+### 2026-11-12 (Connor, chat)
+- Journaling workshop only replaces a curiosity dinner; not a separate night

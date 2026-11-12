@@ -31,7 +31,7 @@ blocks: []
 - **Source**: weekly SNL service-prep check, 2026-11-09 — `services_plans` on plan 92214544: `items_count: 0`.
 - **Needs-by rationale**: Tuesday lyrics/slides cadence.
 - **Related**: [[Trackers/Actions/Russ Sullivan - Reply with windows to connect before his 11-15 Sunday Night message]] · [[Trackers/Actions/Connor - Remind Seth to fill out PCO every Tuesday night]] · prior week [[Trackers/Actions/Connor - Build the 11-08 Sunday Night plan content in PCO]]
-- **Status**: **Active** — order built 11/10 (15 items, Seth's 3 kept); open: rest of Seth's set, message title/scripture from the AM plan once posted (none there as of 11/11).
+- **Status**: **Active** — order built 11/10 (15 items, Seth's 3 kept); open: message title/scripture from the AM plan once posted (none there as of 11/12 12:55 PM).
 
 ### 2026-11-09 (weekly SNL service-prep check) — created
 - Plan 92214544 (Nov 15): 0 items — all five content checks open by default
@@ -71,3 +71,8 @@ blocks: []
 
 ### 2026-11-12 (Connor, chat)
 - Worship section is Seth's when he leads; not part of Connor's open items
+
+### 2026-11-12 (Connor, chat) — AM plan re-checked
+- AM plan 92436081 (18 items): "Message: Russ Sullivan" unchanged since 11/10 — still no title, series or scripture → nothing to copy
+- Outlook search for a sermon outline rate-limited; not checked
+[Source: PCO Services 393784/92436081]

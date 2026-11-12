@@ -6,7 +6,7 @@ owner: "John Slye"
 added: 2026-10-18
 deadline: none
 needs_by: none
-last_mentioned: "2026-11-11"
+last_mentioned: "2026-11-12"
 waiting_on: "John Slye — asked 10/18 10:55 AM [196136]"
 source: "Text, chat 2634 (Connor, John, Callie), 2026-10-18"
 projects:
@@ -23,7 +23,7 @@ blocks: []
 - [ ] John picks a cadence (monthly / bi-monthly / quarterly) and whether November or December hosts the next dinner.
 
 - **Source**: Connor asked John 10/18 10:55 AM [196136].
-- **Notes**: Callie wants to join future dinners [196128]. Connor promised Stephanie Torrance (571-409-0551) the link personally when the next sign-up goes out [196175].
+- **Notes**: **First dibs on the next dinner: Kaymin, Jason, [[People/Simba Kanjanda|Simba]]** (Connor, 11/12) — invite them before the sign-up opens. Callie wants to join future dinners [196128]. Connor promised Stephanie Torrance (571-409-0551) the link personally when the next sign-up goes out [196175].
 
 ### 2026-10-18 (quick refresh, text) — created
 - Connor asked cadence + Nov/Dec [196136]; no reply yet
@@ -59,3 +59,6 @@ blocks: []
 ### 2026-11-11 (quick refresh, text)
 - 9:36 AM · John put curiosity dinner dates + advertising on his Jan 2027 agenda [198366]
 [Source: Text, John Slye, rowid 198366]
+
+### 2026-11-12 (Connor, chat)
+- First dibs on the next dinner: Kaymin, Jason, Simba

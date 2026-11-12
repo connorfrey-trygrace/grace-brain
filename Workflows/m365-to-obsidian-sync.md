@@ -24,6 +24,7 @@ This is distinct from [[Workflows/weekly-synthesis]], whose source is *only* /Tr
 - Action items / commitments / deadlines → [[Trackers/Open Actions.base]] (that file's entry schema).
 - Event status / logistics → [[Trackers/Events]] and the relevant [[Events]] note.
   - **Status-update history goes to the event's `-Log.md` companion, not the plan note** (e.g. [[Events/2026-09-20-Sunday-Night-Service/2026-09-20-Sunday-Night-Service-Launch-Log]]). Only changes to the *live plan* — owners, dates, scope, open questions — are folded into the plan note itself. Convention added 2026-08-11; see [[Workflows/event-planning-note]].
+- **A call or meeting agreed or proposed off-calendar sets `meeting:` on the item** (`YYYY-MM-DD HH:MM`, or a bare date if no time yet) — even when the item is `waiting-on` and even when the time is only proposed. Texts and email set up calls Outlook never sees, so without the field the conversation is invisible to [[Trackers/Calendar-Window]], the `next w/` column and Start Here. `actions-index.py --brief` lists every `meeting:` in the next 3 days under **[@] Conversations**; a waiting-on item whose `waiting_on` names a near date but has no field shows there with "set it." Added 2026-11-12 after John Slye's 11/13 call (agreed by text) was missing from the report the day before — [[Changelog/2026-11-12-off-calendar-meetings]].
 - **Prefer updating existing notes.** Do **not** create new notes unless a clearly new standalone topic warrants it.
 - **Entry format is mandatory: terse timestamped lines — see [[Workflows/Open-Actions-Tracker]] § Entry format.** One line per event, no verbatim quotes, no analysis; judgment goes in the run report, not the note.
 
@@ -71,8 +72,8 @@ After a run **completes successfully**, update the **## Last successful run** ma
 Full procedure: [[Workflows/m365-run-log-health-check]]. **Not part of a normal (quick-refresh) read** — split out 2026-09-09 because this file is read in full by every quick-refresh email-sync pass, and this check only ever runs from `grace-weekly-refresh`.
 
 ## Last successful run
-- timestamp: 2026-11-12 12:19 ET
-  *(Written by `Workflows/stamp.py` from `ZoneInfo("America/New_York")`, never from the shell clock — the shell reports UTC. Prior value: `2026-11-12 05:05 ET`.)*
+- timestamp: 2026-11-12 12:50 ET
+  *(Written by `Workflows/stamp.py` from `ZoneInfo("America/New_York")`, never from the shell clock — the shell reports UTC. Prior value: `2026-11-12 12:19 ET`.)*
 
 > ⛔ **This marker is written by `python3 "Workflows/stamp.py" mark --m365`, never by hand** — the shell reports UTC, `ZoneInfo` does not. Verified every run by `Workflows/clock-check.py`, which compares the stamp against the file's real mtime. Retired the prose guard that stood here 8/17–8/21 and did not prevent the 8/21 recurrence: [[Changelog/2026-08-21-clock-enforced-in-code]].
 

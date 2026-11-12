@@ -1,6 +1,7 @@
 ---
 name: "🔍 Connor: Scrutinize the 12/6 Inspira marketing"
-status: active
+status: completed
+resolved: 2026-11-12
 priority: P2
 owner: "Connor"
 added: 2026-11-07
@@ -17,10 +18,10 @@ blocks: []
 ---
 # 🔍 Connor: Scrutinize the 12/6 Inspira marketing
 
-- [ ] Review the marketing for the 12/6 Young Adults Country Night at Inspira — check every public piece for accuracy and consistency.
+- [x] Review the marketing for the 12/6 Young Adults Country Night at Inspira — check every public piece for accuracy and consistency.
 
 - **Source**: Connor asked for this task, 2026-11-07 (chat).
-- **Status**: Active — 11/12 second pass: website typo fixed; open: no Instagram post yet (Country Night slide added to 11/15 PCO 11/12).
+- **Status**: **Completed 2026-11-12** — website, Momence and slide verified, typo fixed, Country Night slide queued for 11/15; Instagram is Heather & team's (Connor closed).
 - **Priority rationale**: event is 4 weeks out; public-facing errors are costly to fix late.
 - **Notes**: Source of truth for details is the Momence page (https://momence.com/l/vrhe8zzO): 12/6, beginner lesson 8 PM, social 8:30–10, $5 with GCC26, Inspira Dance, Ballston Quarter. Submitted comms request: [[Events/2026-12-06-Inspira-Country-Night/2026-12-06-Inspira-Country-Night-Comms-Request]].
 - **Parent**: [[Trackers/Actions/Connor - Foster the Grace–Inspira relationship (Maggie)]]
@@ -45,3 +46,7 @@ blocks: []
 - 11/15 PCO Host - Announcements CM lists "Country Night - Sun 12/6" but Slides: names only the Wreaths slide — no Country Night graphic queued
 - Instagram @trygracecc: no Inspira/Country Night post among the recent posts (Veteran's Day, Battistelli, Do Good)
 - Connor OK'd → "Young Adults Inspira Dance.png" added to the 11/15 Host - Announcements Slides: line (PATCH 200, 17 items)
+
+### 2026-11-12 (Connor, chat)
+- Instagram post is up to Heather & team — dropped from Connor's open items
+- Connor: close it — bulletin/QR tile copy not checked

@@ -7,6 +7,7 @@ added: 2026-11-11
 deadline: none
 needs_by: none
 last_mentioned: "2026-11-12"
+meeting: "2026-11-13 15:00"
 waiting_on: "John Slye since 2026-11-11 — confirm Fri 11/13 3 PM [198390]"
 source: "Text from John Slye, 2026-11-11 9:36 AM [198366]"
 projects:
@@ -28,8 +29,10 @@ blocks: []
   - Dance partnership dates
   - Curiosity dinner dates + advertising
 - **Overlap (hypothesis)**: the post-service Bible Q&A uses the same after-service slot as [[Trackers/Actions/Connor - Plan a journaling workshop after a Sunday Night service]].
+- **Agenda**: [[Agendas/2026-11-13 Connor–John Slye Jan 2027 Planning Call Agenda]]
 - **Related**: [[Trackers/Actions/John Slye - Confirm the 11-11 Wednesday meeting with Connor]] (11/11 1:20 PM slot unconfirmed).
-- **Status**: Waiting on John — Connor proposed Fri 11/13 afternoon.
+- **Status**: Waiting on John to confirm 3 PM Fri 11/13 (he OK'd Friday afternoon); call not on Outlook. Connor-side: confirm the time, add his own items.
+- **Meeting rationale**: agreed by text, not on Outlook — so Calendar-Window can't see it.
 
 ### 2026-11-11 (quick refresh, text) — created
 [Source: Text, John Slye, rowid 198366]
