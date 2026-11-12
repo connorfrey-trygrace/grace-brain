@@ -33,22 +33,9 @@ Sequential (not parallel with anything) — synthesis writes to the same `/Track
 Then run these two as **parallel subagents**. They share no inputs: the text scan reads `chat.db` off its own `## Last scan` marker, the email sync reads Outlook off its own `## Last successful run` marker, and neither reads the other's output. All the expensive work — decode, phone resolution, relevance filtering — is here.
 
 1. **Text scan** — [[Workflows/text-message-sync]] Steps 1–4, incremental off its `## Last scan` marker. ⛔ **`chat.db` is read only through `Workflows/query-messages.py`** — run `python3 "Workflows/query-messages.py" self-test` first and **stop the phase on a non-zero exit**, then `probe` / `scan`. This binds the parent agent too: **any double-check of the subagent's output goes through `verify`, never a hand-written query** — that is exactly how the 2026-08-28 exclusion breach happened. See [[Changelog/2026-08-28-messages-exclusion-enforced-in-code]].
-2. **Email sync** — [[Workflows/m365-to-obsidian-sync]] through its capture/resolve stages, incremental off its `## Last successful run` marker (30-min overlap buffer). Outlook only, never Gmail; both Inbox and Sent Items. **Plus inbox triage** (below), in the same subagent.
+2. **Email sync** — [[Workflows/m365-to-obsidian-sync]] through its capture/resolve stages, incremental off its `## Last successful run` marker (30-min overlap buffer). Outlook only, never Gmail; both Inbox and Sent Items.
 
 Each returns a **findings list**, and neither writes to the vault yet.
-
-#### Inbox triage (inside the email subagent — read-only, writes nothing)
-
-Added 2026-11-11. Answers one question: **which inbox threads are waiting on a reply from Connor?** The sync's window is too short for this (a thread from Monday is still unanswered on Thursday), so triage uses its own fixed lookback and is **not** tied to the marker.
-
-1. **Pull:** Inbox, last **7 days** (one `outlook_email_search`, no `order`), and Sent Items, same 7 days (`folderName: "Sent Items"`). Pass UTC bounds (`...Z`) — same conversion rule as the sync.
-2. **Drop as answered:** any thread where Sent Items has a message in the same conversation (subject minus `RE:`/`FW:`, same counterpart) dated **after** the latest inbound one.
-3. **Classify what's left** — return only `needs-reply`:
-   - **needs-reply** — a person (not a system) asks Connor something or needs a decision/confirmation from him, and he is on **To** (not only CC).
-   - **skip** — newsletters, notifications, calendar accept/decline receipts, automated mail (Rock, PCO, ClickUp, vendors' no-reply), CC-only FYIs, and threads where Connor's answer is already "done" per a closed action note. Rock mail still goes through the sync's routing rules as before — triage just doesn't list it.
-4. **Return per needs-reply thread:** sender, subject, received date, one-line ask, and the matching `/Trackers/Actions/` note if one exists (`actions-index.py --titles`). **Never fetch full bodies for skipped mail** — previews decide skip.
-
-Triage creates no action notes and touches no markers. A needs-reply thread that carries a dated commitment is already handled by the sync's own rules; triage only surfaces it.
 
 > **Why analysis is parallel but writing is not:** both jobs fold findings into the *same* notes in `/Trackers/Actions/` and the same [[Events]] notes. Two agents editing one note concurrently loses one of the two edits silently — the exact failure this system has no way to detect, since neither run reports an error. Reading is safe to overlap; writing is not.
 
@@ -77,6 +64,10 @@ Both markers (`## Last scan`, `## Last successful run`) and both Run Log entries
 3. **Open Actions sweep** — [[Workflows/Open-Actions-Tracker]] in standalone sweep mode (Step 0, then 2.5, 3, 3.5, 3.6, 4) against `/Trackers/Actions/`. Genuinely gated on Phase 2: it must see both jobs' writes, and Step 0's index is built *after* them or it indexes stale frontmatter. **Step 3.6** (added 2026-09-15) runs `pending-drafts-check.py` over the whole vault, not just `/Trackers/Actions/` — it catches held drafts (leader texts, invite drafts) going stale outside the Actions folder entirely, which is a different failure class than a neglected action item.
 
 **Step 0's index now answers "when's the moment?" for every waiting-on item** (added 2026-08-20). Each one carries `next w/ <person>: <date>` computed from [[Trackers/Calendar-Window]], and a new list — **WAITING-ON WITH NO SHARED OCCASION** — names the items where there is no meeting to raise the wait at before its own date. Use it: an item in that list must **not** get a note line pointing at a meeting, and if the wait genuinely has to end, the channel is **text, then call** (see [[connor-works-remotely]] — Connor works remotely; "in person," "in the room" and "live" are the same error in different words). An item *not* in the list has a real occasion, and naming its date is the useful thing to tell him.
+
+### Phase 3b — inbox sort (beside the sweep)
+
+[[Workflows/inbox-sort]]: move Connor's **read** Inbox mail into his Outlook folders, automatically. Runs **after Phase 2** so the email sync has already read everything it moves, and only moves mail received before Phase 2's `--window-end`. Writes only to Outlook (via Claude in Chrome), so it can run while the Phase 3 sweep writes the vault. Added 2026-11-11.
 
 ### Phase 4 — Agent Hub visit (Notion)
 
@@ -130,12 +121,9 @@ python3 "Workflows/actions-index.py" --brief
 
 - **Name the next physical action, not the item title,** wherever the note makes one obvious — "text JeanPaul the call-time list" beats "Send JeanPaul the Sunday-night services general timeline." Connor is choosing what to do in the next hour; the title is a label, not an instruction.
 - **Don't pad it to look thorough.** If `--brief` returns nothing urgent, say so in one line and move on. A short queue is a real result, and inflating it trains him to skim past the section that matters most.
-- **Replies owed** (from inbox triage) — a reply is a physical action available today, so it belongs here. One line each: *Reply to <Sender> — <the ask>* (received date). If the thread maps to an action note already in the queue, fold it into that line instead of listing it twice. Oldest first. None → omit the group, no "inbox clear" line.
-  - **Offer drafts, don't write them unasked.** End the group with one line offering to draft any of them. On his pick, draft per [[Reference/Connor-Communication-Style]] in chat for approval — never save to Outlook or send without his explicit yes. Volunteer asks follow the "we, not I" rule.
-
 ### Part 2 — What changed this run
 
-Then, and more briefly: Agent Hub mail answered and Connor's Hub changes applied; transcripts processed this run (titled links) and any left `unprocessed` pending speaker confirmation; new findings from texts/email folded into trackers (with links), anything newly flagged or re-banded in `/Trackers/Actions/`, new closure candidates added this run, unresolved phone numbers, and any contradiction needing Connor's call.
+Then, and more briefly: Agent Hub mail answered and Connor's Hub changes applied; the inbox-sort block (per [[Workflows/inbox-sort]] § Report — counts per folder, any proposed folder); transcripts processed this run (titled links) and any left `unprocessed` pending speaker confirmation; new findings from texts/email folded into trackers (with links), anything newly flagged or re-banded in `/Trackers/Actions/`, new closure candidates added this run, unresolved phone numbers, and any contradiction needing Connor's call.
 
 Everything else — counts, windows scanned, "the sync looks healthy" — belongs in the Run Log under `/Logs`, not in this report.
 

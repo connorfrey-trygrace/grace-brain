@@ -64,3 +64,7 @@ blocks: []
 ### 2026-11-11 (Connor, chat)
 - Host - Announcements reordered: YoPro Friendsgiving first, then Do Good serve wk, then Country Night (cm-fit 6/6; PATCH 200; 15 items verified)
 - No Friendsgiving event page exists on trygrace.org — only the registration form
+
+### 2026-11-11 (Connor, chat)
+- Host - Announcements: added Wreaths Across America (Sat 12/19) + slide "11.15.26 - Wreaths Across America.png"; cm-fit 6/6; length 105; PATCH 200; 15 items verified
+- Reordered: Serve wk (Do Good) first, per Connor; cm-fit 6/6; PATCH 200

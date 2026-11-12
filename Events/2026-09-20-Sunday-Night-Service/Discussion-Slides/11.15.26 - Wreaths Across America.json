@@ -1,0 +1,18 @@
+{
+  "_superseded": "2026-11-11: Connor asked for brand conformance, no AI tells, no date circle. Final slide is built from '11.15.26 - Wreaths Across America.html' (Chrome headless), NOT this JSON. Do not re-run promo-slide-build.py on this file; it would overwrite the PNG with the old version.",
+  "_source": "Every fact from Brandon Geddes's flyer, texted to Connor 2026-11-04 ('a flyer we could use Sunday if approved'); copy saved at Events/2026-12-19-Wreaths-Across-America/2026-12-19-Wreaths-Across-America-Flyer.png. Date Dec 19, 2026; National Wreaths Across America Day; 'Join Grace Young Professionals as we honor our nation's heroes by placing wreaths at Arlington National Cemetery'; Meeting Spot: Seabee Memorial at Arlington National Cemetery; Meeting Time 7:30 AM; 'All are welcome, invite a friend'. Photo is cropped from the flyer. No QR/registration: comms-only, no sign-up link (Connor, 2026-11-11).",
+  "photo": "wreaths-cemetery.png",
+  "kicker": "Young Professionals",
+  "hero": [
+    "Wreaths Across",
+    "America"
+  ],
+  "subhead": "Arlington National Cemetery",
+  "standfirst": "Meet at the Seabee Memorial to place wreaths for our nation's heroes. Invite a friend!",
+  "badge": {
+    "dow": "Saturday",
+    "day": "19",
+    "month": "December",
+    "time": "7:30 AM"
+  }
+}

@@ -680,3 +680,8 @@ Source: [[Transcripts/2026-08-04 15.59 Connor–Derek Weekly Sync — Expense Co
 - 2026-11-11 (email) · PCO: Kaymin Dixon confirmed Front Doors 11/22, 12/6, 12/20; Sean Liesegang confirmed Usher 12/20
 
 - 2026-11-11 · 11/15 plan 92214544: Host - Announcements CM reordered (Friendsgiving first) at Connor's request; cm-fit 6/6; verified via API, 15 items unchanged
+- 2026-11-11 · 11/15 plan 92214544: Wreaths Across America (YP, Sat 12/19, Arlington) promo slide "11.15.26 - Wreaths Across America.png" built from Brandon Geddes flyer → Sunday Visuals; Host - Announcements CM re-fit 6/6 with Wreaths added, Slides: line added, length 90→105; PATCH 200, 15 items verified
+- 2026-11-11 · 11/15 Host - Announcements reordered: Do Good serve wk first, then Friendsgiving, Country Night, Wreaths (cm-fit 6/6; PATCH 200; 15 items)
+- 2026-11-11 · Wreaths slide rebuilt on-brand (Stable Blue field, Lato Light header, tracked Active Blue kicker, white Grace logo; flyer photo + date badge dropped) from "11.15.26 - Wreaths Across America.html"; same filename re-synced to Sunday Visuals (byte-identical), PCO Slides: ref unchanged
+- 2026-11-11 · Wreaths slide: flyer photo restored per Connor (blurred, toned, shifted right of the title); re-synced to Sunday Visuals
+- 2026-11-11 · Wreaths slide: eyebrow removed; logo 80px tall with brand-book p18 clear space (>= g width, ~55px) and a corner scrim; re-synced to Sunday Visuals
