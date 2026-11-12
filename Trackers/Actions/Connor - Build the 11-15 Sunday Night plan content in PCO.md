@@ -22,7 +22,7 @@ blocks: []
 
 - [x] Order of service built (plan 92214544 — 15 items, 11/10)
   - [x] **Live Q&A after the message** (Russ + some of his sons) replaces QOTN — order Worship → Announcements → Message → Live Q&A → Auditorium Discussion (Connor, 11/9)
-  - [ ] Worship items added **and linked to PCO song records** (Seth Addison; linking needs Song Viewer — Steve). Unlinked on 11/8 too
+  - [ ] Worship items added (Seth Addison) — song links not used (Connor, 11/11)
   - [x] Confidence Monitor Notes on every Host item (cm-notes-from-script)
   - [ ] Message/scripture section copied from the AM plan; translation verified (Michael Vacca's slides)
   - [ ] Closing Host item: discussion prompts + "optional — no pressure to stay" off-ramp
@@ -31,7 +31,7 @@ blocks: []
 - **Source**: weekly SNL service-prep check, 2026-11-09 — `services_plans` on plan 92214544: `items_count: 0`.
 - **Needs-by rationale**: Tuesday lyrics/slides cadence.
 - **Related**: [[Trackers/Actions/Russ Sullivan - Reply with windows to connect before his 11-15 Sunday Night message]] · [[Trackers/Actions/Connor - Remind Seth to fill out PCO every Tuesday night]] · prior week [[Trackers/Actions/Connor - Build the 11-08 Sunday Night plan content in PCO]]
-- **Status**: **Active** — order built 11/10 (15 items, Seth's 3 kept); open: rest of Seth's set, message title/scripture from the AM plan once posted, song links.
+- **Status**: **Active** — order built 11/10 (15 items, Seth's 3 kept); open: rest of Seth's set, message title/scripture from the AM plan once posted (none there as of 11/11).
 
 ### 2026-11-09 (weekly SNL service-prep check) — created
 - Plan 92214544 (Nov 15): 0 items — all five content checks open by default
@@ -54,3 +54,9 @@ blocks: []
 ### 2026-11-11 (quick refresh, text)
 - 6:36 AM · Seth: rest of set "ready end of day" 11/11 (hypothesis: refers to the 11/15 set — triggering msg predates window) [198365]
 [Source: Text, Seth Addison, rowid 198365]
+
+### 2026-11-11 (Connor, chat) — AM plan checked
+- AM plan 92436081 (last edited 11/10): only "Message: Russ Sullivan" (25 min) + Yaw intro story on handheld; no title, series or scripture yet → nothing to copy
+- SN plan 92214544: Seth's set still "New Item" placeholder + "How Great is Your Name" (unchanged since 11/9)
+- Connor: song links aren't used — dropped from the checklist
+[Source: PCO Services 393784/92436081, 1804248/92214544]

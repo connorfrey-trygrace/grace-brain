@@ -72,3 +72,7 @@ blocks: []
 ### 2026-11-11 (quick refresh, text)
 - 6:36 AM · Seth (THEM): working on it, ready end of day; going forward will try to be early, but says a Tuesday deadline isn't realistic most weeks [198365]
 [Source: Text, Seth Addison, rowid 198365]
+
+### 2026-11-11 (quick refresh, text)
+- 7:36 PM · Connor (ME) replied to Seth's 6:36 AM text: they can work something out, but have to respect Michael's time [198380] ("Michael" likely Vacca — hypothesis). No new cadence agreed yet
+[Source: Text, Seth Addison, rowid 198380]

@@ -6,7 +6,7 @@ owner: "Sunday Night hosts (Brandon Geddes, Emily Horneffer, Simba Kanjanda, Wil
 added: 2026-09-26
 deadline: none
 needs_by: none
-last_mentioned: "2026-10-25"
+last_mentioned: "2026-11-11"
 waiting_on: "PCO Evening Connection (host) team since 2026-10-25 — Nov–Dec blockout request sent to 8; PCO emails Connor as each replies"
 source: "Connor, chat, 2026-09-26 — PCO Blockout Request email sent by Claude at Connor's request"
 projects:
@@ -74,3 +74,7 @@ blocks: []
 
 ### 2026-11-07 (quick refresh, sweep, Step 3)
 - Owner gate: no Connor-side action; status active → waiting-on (matches its waiting_on field and Status bullet)
+
+### 2026-11-11 (quick refresh, text)
+- 3:24 PM · Connor (ME) asked Simba which weeks through 12/20 he'd like to host [198373]; 3:58 PM Simba (THEM): will check his schedule and let Connor know [198374]
+[Source: Text, Simba Kanjanda, rowids 198373–198374]

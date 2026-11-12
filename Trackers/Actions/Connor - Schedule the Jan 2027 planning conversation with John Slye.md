@@ -1,12 +1,13 @@
 ---
 name: "🗓️ Connor: Schedule the Jan 2027 planning conversation with John Slye"
-status: active
+status: waiting-on
 priority: P2
 owner: "Connor"
 added: 2026-11-11
 deadline: none
 needs_by: none
 last_mentioned: "2026-11-11"
+waiting_on: "John Slye since 2026-11-11 — confirm Fri 11/13 afternoon"
 source: "Text from John Slye, 2026-11-11 9:36 AM [198366]"
 projects:
   - "Sunday Night Launch"
@@ -28,7 +29,12 @@ blocks: []
   - Curiosity dinner dates + advertising
 - **Overlap (hypothesis)**: the post-service Bible Q&A uses the same after-service slot as [[Trackers/Actions/Connor - Plan a journaling workshop after a Sunday Night service]].
 - **Related**: [[Trackers/Actions/John Slye - Confirm the 11-11 Wednesday meeting with Connor]] (11/11 1:20 PM slot unconfirmed).
-- **Status**: Active — John asked for a time; no reply from Connor yet.
+- **Status**: Waiting on John — Connor proposed Fri 11/13 afternoon.
 
 ### 2026-11-11 (quick refresh, text) — created
 [Source: Text, John Slye, rowid 198366]
+
+### 2026-11-11 (quick refresh, text)
+- 6:49 PM · Connor (ME) replied to John's agenda text, proposed Friday afternoon 11/13 [198376]
+- → status: active → waiting-on
+[Source: Text, John Slye, rowid 198376]
