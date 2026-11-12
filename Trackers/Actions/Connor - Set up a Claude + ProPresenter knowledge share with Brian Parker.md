@@ -6,7 +6,7 @@ owner: "Connor"
 added: 2026-10-27
 deadline: none
 needs_by: none
-last_mentioned: "2026-10-26"
+last_mentioned: "2026-11-11"
 source: "Text, Connor ↔ Brian Parker [196955, 196958, 196959], 2026-10-26"
 projects:
   - "Sunday Night Launch"
@@ -15,7 +15,6 @@ people:
   - "[[People/Brian Parker]]"
 blocked_by: []
 blocks: []
-flagged: "2026-11-03 — reason: no follow-up in 8 days (no date proposed to Brian)"
 ---
 # 🧠 Connor: Set up a Claude + ProPresenter knowledge share with Brian Parker
 
@@ -23,7 +22,7 @@ flagged: "2026-11-03 — reason: no follow-up in 8 days (no date proposed to Bri
 
 - **Source**: 10/26 texts. Connor installed Claude on the Mac Thursday for faster slide builds; Brian wants to see the usage/history and is concerned Claude-driven ProPresenter changes could break linked programs and screens.
 - **Priority rationale**: no date set, nobody blocked.
-- **Status**: Active — no date agreed.
+- **Status**: Active — Connor proposed Mon 11/16 ~3pm to Brian 11/11; awaiting Brian's reply.
 - **Blocked by**: none · **Blocks**: nothing
 
 ### 2026-10-27 (quick refresh, text) — created
@@ -32,3 +31,7 @@ flagged: "2026-11-03 — reason: no follow-up in 8 days (no date proposed to Bri
 
 ### 2026-11-03 (quick refresh, sweep)
 - Step 3: flagged — 8 days quiet; next: propose Brian a time
+
+### 2026-11-12 (email, cloud 5am)
+- 7:50 PM · Connor emails Brian: Mon ~3pm; agenda Claude test cases on gfx Mac, Sunday-night sys preset, dimmer FOH, energy ideas
+- → flagged cleared (date now proposed)

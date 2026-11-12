@@ -30,3 +30,6 @@ blocks: []
 ### 2026-11-11 (quick refresh, text)
 - 9:36 AM · John wants to set a date to gather Season 4 table leaders; survey's top request "What is My Purpose" → he sees Daniel + Revelation fitting, leaning toward guys [198366]. S4 booked Wed 1/20–3/10 (email, Callie)
 [Source: Text, John Slye, rowid 198366]
+
+### 2026-11-12 (email, cloud 5am)
+- 11/11 · S4 thread: 8 weeks, ends 3-10; Ash Wed 2-10; John asks cross in mall hall Sun 2-7
