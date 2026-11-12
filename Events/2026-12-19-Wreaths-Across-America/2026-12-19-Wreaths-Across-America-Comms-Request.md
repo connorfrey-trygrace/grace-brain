@@ -44,3 +44,5 @@ Young Professionals service outing. Brandon Geddes has a finished flyer (attache
 - 2026-11-11: End Time set to 11:00 AM per Connor (field is required).
 - 2026-11-11: Submitted on Connor's clearance. Confirmation: "Thank You! Your submission has been received."
 - 2026-11-12 (text): 11/11 10:16 PM Connor (ME) sent Brandon a brand-guideline placeholder poster for Sunday; official one still in progress [198391]. Brandon (THEM): cleanup day is Fri Jan 8, 2027 [198396].
+- 2026-11-12 (email): 7:00 AM Connor → Heather: asked if the placeholder slide is OK for Sunday while comms builds the official one.
+- 2026-11-12 (email): 10:33 AM Heather: official graphic expected by Sun 11/15; she'll update. → [[Trackers/Actions/Heather Noble - Deliver official Wreaths Across America graphic by Sun 11-15]]

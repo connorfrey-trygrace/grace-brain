@@ -22,7 +22,7 @@ people:
 
 - **Source**: Connor, 2026-08-22: *"Add an open action to follow up on my email about the sermon schedule, need to get that to Brandon and Simba."*
 - **The email**: Connor → John Slye, Derek Adye, Brian Parker, *"Faith For Everyday Life schedule"*, **2026-08-12 10:44 AM ET**. Three asks: the weekly topics, who delivers each message, and what happens with the series after. **No reply as of the last sync.**
-- **This is the Connor-side half of a waiting-on that already exists.** [[Trackers/Actions/John Slye - FFEdL weekly topics + who delivers each message]] is the answer-side item and stays John's. **Do not dedupe them** — that one waits, this one chases and then distributes. The distribution half is new and appears nowhere else.
+- **This is the Connor-side half of a waiting-on that already exists.** [[Archive/Actions/John Slye - FFEdL weekly topics + who delivers each message]] is the answer-side item and stays John's. **Do not dedupe them** — that one waits, this one chases and then distributes. The distribution half is new and appears nowhere else.
 - **Needs-by rationale**: inherited from the parent item, not invented here. It is the date [[Archive/Actions/Connor - Circulate the launch Q&A link (live 9-13)]] carries, and the reason the parent exists at all.
 - **Deadline rationale**: Nobody has named a date for the follow-up itself.
 - **Priority rationale**: same band as the parent it unblocks.
@@ -44,7 +44,7 @@ Also the reason Brandon and Simba are now named on the deck: slide 5 of [[Events
 ### 2026-08-28 (email)
 - 10:51 AM · John sends the schedule unprompted — the chase is moot
 - 10:54 AM · John forwards it himself to Brandon Geddes and Simba Kanjanda — distribution is moot
-- speakers still unnamed, so the checkbox is not fully met; residual sits on [[Trackers/Actions/John Slye - FFEdL weekly topics + who delivers each message]]
+- speakers still unnamed, so the checkbox is not fully met; residual sits on [[Archive/Actions/John Slye - FFEdL weekly topics + who delivers each message]]
 - → status: active → closure-candidate
 [Source: Email, John Slye → staff + Fw to hosts, 2026-08-28]
 

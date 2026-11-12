@@ -35,7 +35,7 @@ John's own framing of what he is sending: *"the first 4 weeks, the themes. We al
 
 **Possible near-duplicate, deliberately not merged:** John emailed the Sept 13/20/27 + Oct 4 schedule to 16 staff on **2026-08-28 10:51 AM ET** and forwarded it to the *hosts* at 10:54. **Seth Addison is not on either recipient list on record** — which would explain both John's "didn't I?" and Seth's not having it. **Worth checking the send list before chasing John.**
 
-- **Related**: [[Trackers/Actions/John Slye - FFEdL weekly topics + who delivers each message]] — distinct: that one is *who preaches each week*, this one is *getting the existing four weeks to the worship leader*.
+- **Related**: [[Archive/Actions/John Slye - FFEdL weekly topics + who delivers each message]] — distinct: that one is *who preaches each week*, this one is *getting the existing four weeks to the worship leader*.
 - **Blocked by**: none
 
 ### 2026-08-31 (weekly refresh, email) — ⭐ Seth has it. Connor sent it, not John. Closure candidate.

@@ -30,7 +30,7 @@ people:
 - **Blocked by**: none · **Blocks**: nothing formally — but it is the rehearsal for 9/13
 
 ### 2026-08-28 — created
-Created rather than folded into a note because the finding carries its own named deadline. 🔎 **Hypothesis worth Connor's confirmation:** a 9/3 walkthrough John, Derek and Connor are all on would be the **first shared Connor–John occasion before the 9/6 `needs_by`** on [[Trackers/Actions/John Slye - FFEdL weekly topics + who delivers each message]] — which the calendar window says does not exist. **It is a text-declared plan, not an Outlook event**, so that note has not been changed on the strength of it.
+Created rather than folded into a note because the finding carries its own named deadline. 🔎 **Hypothesis worth Connor's confirmation:** a 9/3 walkthrough John, Derek and Connor are all on would be the **first shared Connor–John occasion before the 9/6 `needs_by`** on [[Archive/Actions/John Slye - FFEdL weekly topics + who delivers each message]] — which the calendar window says does not exist. **It is a text-declared plan, not an Outlook event**, so that note has not been changed on the strength of it.
 [Source: Texts, John Slye → Derek Adye + Connor Frey group, 2026-08-27 9:21 AM ET; Derek "Liked" 9:48 AM ET]
 
 ### 2026-08-28 (sweep)

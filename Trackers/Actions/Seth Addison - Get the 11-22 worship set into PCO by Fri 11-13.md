@@ -1,7 +1,7 @@
 ---
 name: "🎸 Seth Addison: Get the 11-22 worship set into PCO by Fri 11-13"
 status: active
-priority: P2
+priority: P1
 owner: "Seth Addison"
 added: 2026-11-12
 deadline: 2026-11-13
@@ -28,3 +28,6 @@ blocks: []
 - 11/11 7:39 PM · Connor (ME): Wed night hard deadline, Tue buffer; proposed working a week ahead [198382]
 - 11/11 7:57 PM · Seth (THEM): next week's set in by EOB Fri; then Tuesday a week ahead [198383]; 8:17 PM Connor loved it [198384]
 [Source: Text, Seth Addison, rowids 198382–198384]
+
+### 2026-11-12 (quick refresh, sweep, Step 3.5)
+- P2 → P1: within 7 days of needs_by/deadline

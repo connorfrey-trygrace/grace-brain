@@ -104,7 +104,7 @@ Source: [[Transcripts/2026-09-09 11.32 Connor–Derek Check-In — Q&A Launch Sc
 ### Status updates — 2026-08-12 (M365 email sync)
 
 - 9:38 AM · Connor → Derek Adye, Brian Parker (*"Counting Tech"*) · proposes measuring the **connect-portion stay rate**; asks whether a camera is aimed from the stage or at the Grace Space entrance. Two methods named: compare a 6:30 crowd photo to a 7:00 photo (from stage), or review video 6:45–7:00 (from camera). No deadline. → [[Archive/Actions/Derek Adye + Brian Parker - Confirm camera capability for stay-rate capture]]
-- 10:44 AM · Connor → John Slye, Derek Adye, Brian Parker (*"Faith For Everyday Life schedule"*) · asks (a) weekly topics, (b) who delivers each message, (c) what happens with the series after. **Launch night is Week 2 of the FFEdL series**, so the Q&A link circulates **9/6 at the latest**. → plan note § Launch seeding; [[Archive/Actions/Connor - Circulate the launch Q&A link (live 9-13)]] · [[Trackers/Actions/John Slye - FFEdL weekly topics + who delivers each message]]
+- 10:44 AM · Connor → John Slye, Derek Adye, Brian Parker (*"Faith For Everyday Life schedule"*) · asks (a) weekly topics, (b) who delivers each message, (c) what happens with the series after. **Launch night is Week 2 of the FFEdL series**, so the Q&A link circulates **9/6 at the latest**. → plan note § Launch seeding; [[Archive/Actions/Connor - Circulate the launch Q&A link (live 9-13)]] · [[Archive/Actions/John Slye - FFEdL weekly topics + who delivers each message]]
 - 12:44 PM · Jennifer Claffey → Connor, cc Kay Carter-Corker (*"PCO set up"*) · PCO side built — Sunday Night Plan set up, all tags created; **the Rock↔PCO glitch is not fixed**; another Zoom offered with no date. → HARD GATE in the plan note **still holds**; [[Trackers/Actions/Jennifer Claffey - Planning Center support Zoom on PCO tag creation + Rock sync (8-12 12-15 PM)]] → `closure-candidate`
 
 ---
@@ -429,7 +429,7 @@ Source: [[Transcripts/2026-08-04 15.59 Connor–Derek Weekly Sync — Expense Co
 ### 2026-08-28 (quick refresh, email) — the first four weeks of the message series arrived
 - John Slye emailed the **Sept 13 / 20 / 27 / Oct 4** schedule to 16 staff at **10:51 AM ET** and forwarded it to the hosts (Connor, Skylar Migliaccio, Simbarashe Kanjanda, Will Gralley, Brandon Geddes) at **10:54 AM ET** — *"Wanted you to see where we will be headed in the first 4 weeks."*
 - Folded into the plan note as **§ The message series behind the launch**. Launch night = Week 2, *"How is Jesus here?"*, **John 14:15–31**, practice DISCOVER.
-- **Speakers are still not named for any week**, and John scoped the email to the first four weeks only — both gaps stay on [[Trackers/Actions/John Slye - FFEdL weekly topics + who delivers each message]].
+- **Speakers are still not named for any week**, and John scoped the email to the first four weeks only — both gaps stay on [[Archive/Actions/John Slye - FFEdL weekly topics + who delivers each message]].
 - Also confirmed this run: the Rock↔PCO sync now genuinely runs **every 2 hours at the top of the hour** (Kay Carter-Corker, 2026-08-27 6:07 PM ET) — the plan note's "Kay is changing" line is updated to done.
 
 ## 2026-08-28 (quick refresh, 15:49 ET) — email + text
@@ -686,3 +686,4 @@ Source: [[Transcripts/2026-08-04 15.59 Connor–Derek Weekly Sync — Expense Co
 - 2026-11-11 · Wreaths slide: flyer photo restored per Connor (blurred, toned, shifted right of the title); re-synced to Sunday Visuals
 - 2026-11-11 · Wreaths slide: eyebrow removed; logo 80px tall with brand-book p18 clear space (>= g width, ~55px) and a corner scrim; re-synced to Sunday Visuals
 - 2026-11-12 8:21 AM (text) · Derek Adye → Connor: told Seth Tue AM about the more-energy goal for Sunday night, asked him to consider mixing upbeat songs into the worship set [198398]; John also in the loop on the energy goal [198402]
+- 2026-11-12 10:33 AM (email) · Heather: official Wreaths Across America graphic expected by Sun 11/15; placeholder slide "11.15.26 - Wreaths Across America.png" stands until then

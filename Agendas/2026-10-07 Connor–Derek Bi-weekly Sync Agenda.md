@@ -38,7 +38,7 @@ participants:
 ## 2. Who preaches Sunday night from 10/11 on? *(open since 8/12)*
 - John is confirmed for 9/20, 9/27 and 10/4. **10/11 onward has no named speaker**, and the series question (what happens after the Faith For Everyday Life run) was never answered. Derek was on the original 8/12 thread.
 - **Ask:** does Derek know John's plan, or does Connor need to settle it with John directly?
-- Ref: [[Trackers/Actions/John Slye - FFEdL weekly topics + who delivers each message]]
+- Ref: [[Archive/Actions/John Slye - FFEdL weekly topics + who delivers each message]]
 
 ---
 

@@ -23,7 +23,7 @@ blocks: []
 
 - **Source**: Connor's self-note email 10/25, "Register as volunteer."
 - **Priority rationale**: P3, with no date named.
-- **Status**: Completed — added to SNL-Greeter + SNL-Usher in Rock 10/28 (person 26115); welcome-email check rides on [[Trackers/Actions/Connor - Add new volunteers in Rock and confirm the PCO welcome email]]. Now that the welcome email is automated, adding Mikka to a Rock team triggers it.
+- **Status**: Completed — added to SNL-Greeter + SNL-Usher in Rock 10/28 (person 26115); welcome-email check rides on [[Archive/Actions/Connor - Add new volunteers in Rock and confirm the PCO welcome email]]. Now that the welcome email is automated, adding Mikka to a Rock team triggers it.
 - **Blocked by**: none · **Blocks**: nothing
 
 ### 2026-10-26 — created

@@ -51,7 +51,7 @@ resolved: 2026-11-07
 - 10/20 10:41 AM · Callie: a comms request gets 12/6 onto the events page; she'll add it to the calendar; supports a Sunday-night announcement [196352] (answers the 10/19 question)
 - 10/20 1:27 PM · Connor asked Maggie for a 12/6 Momence page [196383]; 10/21 10:52 PM Maggie sent https://momence.com/l/vrhe8zzO — proof + test GCC26 [196550–196552]
 - ⚠️ Connor is now driving 12/6 directly, but this note is waiting-on Skylar with "no Connor-side action" — ownership is Connor's call
-- New: [[Trackers/Actions/Connor - Proof the 12-6 Inspira Momence page and test GCC26]] · [[Trackers/Actions/Connor - Submit comms request for 12-6 Inspira collab]]
+- New: [[Archive/Actions/Connor - Proof the 12-6 Inspira Momence page and test GCC26]] · [[Trackers/Actions/Connor - Submit comms request for 12-6 Inspira collab]]
 [Source: Text, chats 2595, Callie Taylor, rowids 196352–196552]
 
 ### 2026-11-01 (quick refresh, email)
