@@ -6,8 +6,8 @@ owner: "Connor"
 added: 2026-11-11
 deadline: none
 needs_by: none
-last_mentioned: "2026-11-11"
-waiting_on: "John Slye since 2026-11-11 — confirm Fri 11/13 afternoon"
+last_mentioned: "2026-11-12"
+waiting_on: "John Slye since 2026-11-11 — confirm Fri 11/13 3 PM [198390]"
 source: "Text from John Slye, 2026-11-11 9:36 AM [198366]"
 projects:
   - "Sunday Night Launch"
@@ -38,3 +38,8 @@ blocks: []
 - 6:49 PM · Connor (ME) replied to John's agenda text, proposed Friday afternoon 11/13 [198376]
 - → status: active → waiting-on
 [Source: Text, John Slye, rowid 198376]
+
+### 2026-11-12 (text, agent-hub-visit-local)
+- 11/11 8:59 PM · John (THEM): Friday afternoon works [198386]; 9:48 PM Connor (ME) proposed 3 PM [198390]; no reply yet
+- 11/11 9:46 PM · Brandon Geddes (THEM, host chat 2662): post-Sunday evening may work better for him, depending on how formal [198389] — likely re John's Daniel/Revelation gathering (hypothesis)
+[Source: Text, John Slye / Brandon Geddes, rowids 198386, 198389, 198390]

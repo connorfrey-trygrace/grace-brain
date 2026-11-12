@@ -43,3 +43,4 @@ Young Professionals service outing. Brandon Geddes has a finished flyer (attache
 - 2026-11-11: Connor: skip End Time, Billing Code N/A. Form updated.
 - 2026-11-11: End Time set to 11:00 AM per Connor (field is required).
 - 2026-11-11: Submitted on Connor's clearance. Confirmation: "Thank You! Your submission has been received."
+- 2026-11-12 (text): 11/11 10:16 PM Connor (ME) sent Brandon a brand-guideline placeholder poster for Sunday; official one still in progress [198391]. Brandon (THEM): cleanup day is Fri Jan 8, 2027 [198396].

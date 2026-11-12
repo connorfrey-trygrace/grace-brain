@@ -312,3 +312,5 @@ Format (adopted 2026-07-16, mirroring [[Workflows/m365-to-obsidian-sync]] §Run 
 - 2026-11-11 15:06 ET | quick refresh · rowid 198365–198371 · 6 msgs (4 people, 2 automated) · Seth 11/15 set EOD + Tuesday cadence pushback; John Slye Jan 2027 agenda → new action + 3 notes; Mike Riggs dinner FYI · 0 unresolved · elapsed 1m
 
 - 2026-11-11 19:37 ET | quick refresh | ROWID 198372–198380 | 9 msgs | 3 notes updated (Simba hosts, John Slye Jan planning → waiting-on, Seth PCO cadence) | Derek mgmt question surfaced, not written
+
+- 2026-11-12 04:11 ET | agent-hub-visit-local | ROWID 198381–198396 | 16 msgs | 1 note created (Seth 11-22 set by Fri), 3 updated (Remind Seth, John Jan 2027 → 3 PM Fri pending, Wreaths comms: cleanup 1/8/27) | 0 closure candidates | Lauren 2 image-only | elapsed 1m

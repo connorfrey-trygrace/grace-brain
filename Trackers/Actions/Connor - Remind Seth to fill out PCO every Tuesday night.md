@@ -6,7 +6,7 @@ owner: "Connor"
 added: 2026-10-22
 deadline: 2026-11-17
 needs_by: none
-last_mentioned: "2026-11-11"
+last_mentioned: "2026-11-12"
 source: "Connor, chat request 2026-10-22"
 projects:
   - "Sunday Night Launch"
@@ -76,3 +76,9 @@ blocks: []
 ### 2026-11-11 (quick refresh, text)
 - 7:36 PM · Connor (ME) replied to Seth's 6:36 AM text: they can work something out, but have to respect Michael's time [198380] ("Michael" likely Vacca — hypothesis). No new cadence agreed yet
 [Source: Text, Seth Addison, rowid 198380]
+
+### 2026-11-12 (text, agent-hub-visit-local)
+- 11/11 7:39 PM · Connor (ME): Wed night hard deadline, Tue buffer; proposed working a week ahead [198382]
+- 11/11 7:57 PM · Seth (THEM): agreed — 11/22 set by EOB Fri 11/13, then Tuesday a week ahead, flags any week he needs Wed [198383] → [[Trackers/Actions/Seth Addison - Get the 11-22 worship set into PCO by Fri 11-13]]
+- Reminder cadence may shift to week-ahead — Connor's call
+[Source: Text, Seth Addison, rowids 198382–198384]
