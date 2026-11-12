@@ -20,7 +20,7 @@ Exit 0 means the store already has the most recent Sunday, so skip the pull. Exi
 ## Pulling
 
 1. In **Claude in Chrome**, open the metrics URL above. Rock needs Connor's sign-in. If the login page shows, stop and ask Connor to sign in, with "Keep me logged in" ticked. Never type credentials.
-2. Read the values for every Sunday after the store's latest date. The fetch method is recorded below once it has been verified on a live pull.
+2. Read the values for every Sunday after the store's latest date, using the Rock REST API from that signed-in tab. **Fetch method** below, verified 2026-11-11.
 3. Write them to a scratchpad TSV with columns `date<TAB>value<TAB>service` (for example `11/8/2026	70	Sunday 6:00pm`), then run:
    ```
    python3 "Workflows/attendance-update.py" import <tsv> --source "Rock metrics <YYYY-MM-DD>"
@@ -28,7 +28,13 @@ Exit 0 means the store already has the most recent Sunday, so skip the pull. Exi
    The import upserts: a value Rock has since corrected prints as `changed …`. Mention any changed value in the report, because it means Kay or a volunteer edited history.
 4. Dates are snapped to the Sunday on or before. Volunteers sometimes enter the 6 PM count on Monday; Rock shows the 10/4/2026 count under 10/5.
 
-**Fetch method:** *not yet verified. Fill this in on the first live pull, then delete this line.*
+**Fetch method** (verified 2026-11-11). Run it with `javascript_tool` in the signed-in Rock tab. It is read-only GET calls only and never posts.
+- Metric **2** = "Adult Attendance" (metric category 65). Partition **4** = schedule, and its `EntityId` maps to the service time: **4** = 9:00am, **5** = 10:15am, **561** = 11:30am, **1136** = 6:00pm. Easter uses other schedules; resolve any unknown id with `/api/Schedules?$filter=Id eq N`.
+- `GET /api/MetricValues?$filter=MetricId eq 2 and MetricValueDateTime ge datetime'<YYYY-MM-DD>T00:00:00'&$orderby=MetricValueDateTime` returns `YValue` (the count) and the date.
+- For each value, `GET /api/MetricValuePartitions?$filter=MetricValueId eq <Id>` and take the row with `MetricPartitionId == 4`.
+- ⚠️ Don't `$expand=MetricValuePartitions` on the values call: with the expand, `YValue` came back null. An OR-chained filter on the partitions endpoint also failed (it returned a non-array), so query one id at a time. That's only 4 calls a week.
+- Return the rows as one TSV string (`date\tvalue\tSunday <time>`). Returning objects let the tool's output filter hide some keys.
+- Start one Sunday before the store's latest date. The overlap acts as a cross-check, and the import should report `0 changed` on it.
 
 ## Report
 
