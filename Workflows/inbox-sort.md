@@ -21,6 +21,7 @@ Folders are subfolders of Inbox, nested — **the folder pane hides subfolders u
 | **Boot Camp** | Events › Boot Camp | Bible Bootcamp: John's weekly emails (incl. from "John Slye Jr." via info@), table-leader threads, host scripts, group-join notices |
 | **Concerts** | Events › Concerts | Grace concerts: dates, setup, concert volunteer asks, concerts calendar |
 | **Volunteers** | Events › Volunteers | Connor *as* a volunteer: PCO requests for kids/greeter slots, "extra hands" asks to him |
+| **Do Good** | Events › Do Good | Grace's annual Do Good generosity campaign: #DoGood team/sign-ups, t-shirt distribution, campaign blasts (added 2026-11-12) |
 | **20260719 World Cup** › **Registrations** | Events › … | World Cup only (event over) |
 | **Events** | Events | Event-process mail not tied to one event (comms-request how-to) |
 | **Sermon Outlines** | Sermon Outlines | Weekly outlines, outline-thread replies, series updates, testimony scripts for the message |

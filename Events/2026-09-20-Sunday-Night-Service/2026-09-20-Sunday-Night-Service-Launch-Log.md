@@ -685,3 +685,4 @@ Source: [[Transcripts/2026-08-04 15.59 Connor–Derek Weekly Sync — Expense Co
 - 2026-11-11 · Wreaths slide rebuilt on-brand (Stable Blue field, Lato Light header, tracked Active Blue kicker, white Grace logo; flyer photo + date badge dropped) from "11.15.26 - Wreaths Across America.html"; same filename re-synced to Sunday Visuals (byte-identical), PCO Slides: ref unchanged
 - 2026-11-11 · Wreaths slide: flyer photo restored per Connor (blurred, toned, shifted right of the title); re-synced to Sunday Visuals
 - 2026-11-11 · Wreaths slide: eyebrow removed; logo 80px tall with brand-book p18 clear space (>= g width, ~55px) and a corner scrim; re-synced to Sunday Visuals
+- 2026-11-12 8:21 AM (text) · Derek Adye → Connor: told Seth Tue AM about the more-energy goal for Sunday night, asked him to consider mixing upbeat songs into the worship set [198398]; John also in the loop on the energy goal [198402]
