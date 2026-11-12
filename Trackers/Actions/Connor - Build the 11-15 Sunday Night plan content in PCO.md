@@ -60,3 +60,7 @@ blocks: []
 - SN plan 92214544: Seth's set still "New Item" placeholder + "How Great is Your Name" (unchanged since 11/9)
 - Connor: song links aren't used — dropped from the checklist
 [Source: PCO Services 393784/92436081, 1804248/92214544]
+
+### 2026-11-11 (Connor, chat)
+- Host - Announcements reordered: YoPro Friendsgiving first, then Do Good serve wk, then Country Night (cm-fit 6/6; PATCH 200; 15 items verified)
+- No Friendsgiving event page exists on trygrace.org — only the registration form

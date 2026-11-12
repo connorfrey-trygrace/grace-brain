@@ -678,3 +678,5 @@ Source: [[Transcripts/2026-08-04 15.59 Connor–Derek Weekly Sync — Expense Co
 - 2026-11-11 (email) · Sunday Night chairs 180→118 (4 sections × 5 rows: 30/24/34/30; Derek: room should feel full); Boot Camp off till late Jan → Sunday-morning reset now custodial (Alex 11/12 this week, Emilso's team after); Brian diagram, Jennifer approved; Callie sent Emilso the 118-chair PDF 2:06 PM
 - 2026-11-11 (email) · Boot Camp S4 booked Wed 1/20/2027–3/10 (Callie + John); chair-reset arrangement likely changes then
 - 2026-11-11 (email) · PCO: Kaymin Dixon confirmed Front Doors 11/22, 12/6, 12/20; Sean Liesegang confirmed Usher 12/20
+
+- 2026-11-11 · 11/15 plan 92214544: Host - Announcements CM reordered (Friendsgiving first) at Connor's request; cm-fit 6/6; verified via API, 15 items unchanged

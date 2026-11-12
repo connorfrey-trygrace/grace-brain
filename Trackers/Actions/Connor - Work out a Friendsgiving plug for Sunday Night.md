@@ -45,3 +45,10 @@ blocks: []
 
 ### 2026-11-10 (Connor, chat)
 - Anna's go-ahead confirmed by Connor → blocked_by cleared
+
+### 2026-11-11 (Connor, chat)
+- Connor: put Friendsgiving at the top of the Sunday Night announcements → done in PCO plan 92214544 (Host - Announcements)
+- No event page on trygrace.org; only trygrace.org/registration/friendsgiving2026
+
+### 2026-11-11 (Connor, chat) — marketing check
+- Anna said 11/10 she has slide graphics and would share a Dropbox folder [198327]; as of 11/11 evening no folder is shared to Connor (Dropbox search), no email from Anna, no website event page
