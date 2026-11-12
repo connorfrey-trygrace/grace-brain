@@ -22,7 +22,7 @@ blocks: []
 
 - [x] Order of service built (plan 92214544 — 15 items, 11/10)
   - [x] **Live Q&A after the message** (Russ + some of his sons) replaces QOTN — order Worship → Announcements → Message → Live Q&A → Auditorium Discussion (Connor, 11/9)
-  - [ ] Worship items added (Seth Addison) — song links not used (Connor, 11/11)
+  - [ ] Worship items added — **Seth's job** (he's leading; Connor fills only for guest leaders, Connor 11/12) — song links not used (Connor, 11/11)
   - [x] Confidence Monitor Notes on every Host item (cm-notes-from-script)
   - [ ] Message/scripture section copied from the AM plan; translation verified (Michael Vacca's slides)
   - [ ] Closing Host item: discussion prompts + "optional — no pressure to stay" off-ramp
@@ -68,3 +68,6 @@ blocks: []
 ### 2026-11-11 (Connor, chat)
 - Host - Announcements: added Wreaths Across America (Sat 12/19) + slide "11.15.26 - Wreaths Across America.png"; cm-fit 6/6; length 105; PATCH 200; 15 items verified
 - Reordered: Serve wk (Do Good) first, per Connor; cm-fit 6/6; PATCH 200
+
+### 2026-11-12 (Connor, chat)
+- Worship section is Seth's when he leads; not part of Connor's open items

@@ -687,3 +687,4 @@ Source: [[Transcripts/2026-08-04 15.59 Connor–Derek Weekly Sync — Expense Co
 - 2026-11-11 · Wreaths slide: eyebrow removed; logo 80px tall with brand-book p18 clear space (>= g width, ~55px) and a corner scrim; re-synced to Sunday Visuals
 - 2026-11-12 8:21 AM (text) · Derek Adye → Connor: told Seth Tue AM about the more-energy goal for Sunday night, asked him to consider mixing upbeat songs into the worship set [198398]; John also in the loop on the energy goal [198402]
 - 2026-11-12 10:33 AM (email) · Heather: official Wreaths Across America graphic expected by Sun 11/15; placeholder slide "11.15.26 - Wreaths Across America.png" stands until then
+- 2026-11-12 · 11/15 Host - Announcements: Slides: line now adds Pre-Service Slides > "Young Adults Inspira Dance.png" (Country Night) ahead of the Wreaths slide; CM text unchanged; PATCH 200, 17 items unchanged
