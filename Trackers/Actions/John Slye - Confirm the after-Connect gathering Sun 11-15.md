@@ -27,7 +27,7 @@ resolved: 2026-11-13
 - **Source**: Host group chat 2662.
 - **Meeting rationale**: proposed by text, not on Outlook — time is "after Connect time," no clock time.
 - **Related**: [[Trackers/Actions/Connor - Respond to John on a Daniel-Revelation small gathering]] · [[Trackers/Actions/Connor - Schedule the Jan 2027 planning conversation with John Slye]]
-- **Status**: Waiting on John. Topic is likely the Daniel/Revelation gathering (hypothesis — follows Brandon Geddes's post-Sunday-evening suggestion [198389]).
+- **Status**: Completed — superseded by [[Trackers/Actions/Connor - Hold the Sunday Night planning huddle with Brandon and Simba after 11-15]] (agreed on the 11/13 call).
 
 ### 2026-11-13 (text, agent-hub-visit-local) — created
 - 11/12 12:58 PM · Connor (ME), host chat: "plan on that" — after Connect time this Sunday, asked John if it works [198410]; no reply in window

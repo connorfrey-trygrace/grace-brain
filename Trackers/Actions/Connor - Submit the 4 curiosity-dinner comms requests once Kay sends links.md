@@ -1,7 +1,7 @@
 ---
 name: "📣 Connor: Submit the 4 curiosity-dinner comms requests once Kay sends links"
 status: waiting-on
-priority: P3
+priority: P2
 owner: "Connor"
 added: 2026-11-13
 deadline: none
@@ -36,3 +36,10 @@ blocks: []
 ### 2026-11-13 (Connor, chat)
 - 5:25 PM · Connor emailed Callie ("Curiosity dinners - simpler menu"), asking for a simpler menu than the 10/18 dinner for all four dates
 [Source: Outlook Sent Items, 2026-11-13]
+
+### 2026-11-13 (quick refresh, email)
+- 5:17–5:19 PM · Rock: 4 "Event Request Completed" notices for "Curiosity Dinner" (00095–00098); body says "received by Callie Taylor." Still waiting on Kay's registration links
+[Source: Outlook Inbox, "Event Request Completed" ×4, 2026-11-13]
+
+### 2026-11-13 (quick refresh, sweep)
+- Step 3.5: P3 → P2 (16 days to needs_by 11/29)

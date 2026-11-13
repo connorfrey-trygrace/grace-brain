@@ -31,7 +31,7 @@ resolved: 2026-11-13
 - **Overlap (hypothesis)**: the post-service Bible Q&A uses the same after-service slot as [[Trackers/Actions/Connor - Plan a journaling workshop after a Sunday Night service]].
 - **Agenda**: [[Agendas/2026-11-13 Connor–John Slye Jan 2027 Planning Call Agenda]]
 - **Related**: [[Trackers/Actions/John Slye - Confirm the 11-11 Wednesday meeting with Connor]] (11/11 1:20 PM slot unconfirmed).
-- **Status**: Call confirmed — Fri 11/13 3 PM (text, 11/13 10:18 AM); Zoom invite sent 11:28 AM, now on Outlook. Connor-side: add his own items to the agenda before 3 PM. Close after the call.
+- **Status**: Completed — call held Fri 11/13 3 PM (see [[Transcripts/2026-11-13 15.40 Connor–John Slye Call — Jan–Mar 2027 Sunday Night Calendar]]).
 - **Meeting rationale**: agreed by text; Connor sent the Zoom invite 11/13 11:28 AM, so it is on Calendar-Window.
 
 ### 2026-11-11 (quick refresh, text) — created
