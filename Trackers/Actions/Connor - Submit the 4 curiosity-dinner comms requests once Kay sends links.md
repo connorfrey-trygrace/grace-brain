@@ -1,0 +1,38 @@
+---
+name: "📣 Connor: Submit the 4 curiosity-dinner comms requests once Kay sends links"
+status: waiting-on
+priority: P3
+owner: "Connor"
+added: 2026-11-13
+deadline: none
+needs_by: 2026-11-29
+last_mentioned: "2026-11-13"
+waiting_on: "Kay Carter-Corker / Callie Taylor since 2026-11-13 — process Rock requests 00095–00098"
+source: "Rock Event Requests 00095–00098, submitted 2026-11-13"
+projects:
+  - "Sunday Night Launch"
+people:
+  - "[[People/Connor Frey]]"
+  - "[[People/Kay Carter-Corker]]"
+  - "[[People/Callie Taylor]]"
+blocked_by: []
+blocks: []
+---
+# 📣 Connor: Submit the 4 curiosity-dinner comms requests once Kay sends links
+
+- [ ] When Kay returns each live registration link, submit that dinner's ClickUp Comms request with the link in Registration. Values are in [[Events/2026-09-20-Sunday-Night-Service/2026-11-13-Dec-Mar-Comms-Requests-Draft]]; Connor cleared them 11/13.
+
+- **Rock requests**:
+  - 12/13 = 00095
+  - 1/17 = 00096
+  - 2/28 = 00097
+  - 3/14 = 00098
+- **Needs-by rationale**: 12/13 is the first dinner, so it needs promotion about 2 weeks out.
+- **Status**: waiting on Kay (registration) and Callie (Flex Room and food). No chase set: the request went through the normal intake.
+
+### 2026-11-13 — created
+- Bible-teaching comms request submitted the same day (no registration needed)
+
+### 2026-11-13 (Connor, chat)
+- 5:25 PM · Connor emailed Callie ("Curiosity dinners - simpler menu"), asking for a simpler menu than the 10/18 dinner for all four dates
+[Source: Outlook Sent Items, 2026-11-13]

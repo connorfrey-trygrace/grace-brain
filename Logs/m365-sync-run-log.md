@@ -321,3 +321,5 @@ Log the line even when N=M=0 and K=J=0 — a logged "found nothing" run is exact
 - 2026-11-13 10:53 ET | quick refresh via Outlook web (Chrome; M365 connector absent) | window 2026-11-12 12:20 → 2026-11-13 10:53 ET | inbox 1 (Derek promo blurb, info only), sent 1 (Anna curiosity dinner 11/22) | notes 1 | dups 0 | elapsed 6m
 
 - 2026-11-13 15:48 ET | quick refresh: window 10:23–15:47 ET; 11 msgs (7 in/4 sent), 7 relevant; 4 notes updated, 1 created (Dan Kim, merged w/ text); 0 auto-close; elapsed ~2m
+
+- 2026-11-13 16:49 ET | window 15:17–16:47 ET; 1 inbox / 0 sent; 0 writes (Seth 'Setlist 11/22' doc already logged)

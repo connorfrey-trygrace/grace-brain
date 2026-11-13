@@ -1,6 +1,6 @@
 ---
 name: "🥁 Connor: Send Seth Dan Kim's contact info (evening-form drummer)"
-status: active
+status: closure-candidate
 priority: P2
 owner: "Connor"
 added: 2026-11-13
@@ -29,3 +29,8 @@ blocks: []
 - 2:15 PM · Connor → Steve Coy: "Volunteer Request: Dan Kim"; 2:19 PM Steve: no history with Dan, wants to fill in as drummer; 2:20 PM Connor unsure, notes Dan isn't on morning team; 2:22 PM Steve: welcome to explore, Seth should weigh in
 - 2:12 PM · Connor (ME) asked Seth how to handle percussion offers [198460]; 2:51 PM Seth (THEM): he'll reach out, did they leave an email? [198463]
 [Source: Outlook, "Volunteer Request: Dan Kim", 2026-11-13; Text, Seth Addison, rowids 198460, 198463]
+
+### 2026-11-13 (quick refresh, text) — closure candidate
+- 4:45 PM · Connor texted Seth Dan Kim's name, email and form response; no pressure to pursue; asked Seth's view on such requests + text vs email [198468]
+- Closure candidate: contact handed off
+[Source: Text, Seth Addison, rowid 198468]

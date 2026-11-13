@@ -72,8 +72,8 @@ After a run **completes successfully**, update the **## Last successful run** ma
 Full procedure: [[Workflows/m365-run-log-health-check]]. **Not part of a normal (quick-refresh) read** — split out 2026-09-09 because this file is read in full by every quick-refresh email-sync pass, and this check only ever runs from `grace-weekly-refresh`.
 
 ## Last successful run
-- timestamp: 2026-11-13 15:47 ET
-  *(Written by `Workflows/stamp.py` from `ZoneInfo("America/New_York")`, never from the shell clock — the shell reports UTC. Prior value: `2026-11-13 10:53 ET`.)*
+- timestamp: 2026-11-13 16:47 ET
+  *(Written by `Workflows/stamp.py` from `ZoneInfo("America/New_York")`, never from the shell clock — the shell reports UTC. Prior value: `2026-11-13 15:47 ET`.)*
 
 > ⛔ **This marker is written by `python3 "Workflows/stamp.py" mark --m365`, never by hand** — the shell reports UTC, `ZoneInfo` does not. Verified every run by `Workflows/clock-check.py`, which compares the stamp against the file's real mtime. Retired the prose guard that stood here 8/17–8/21 and did not prevent the 8/21 recurrence: [[Changelog/2026-08-21-clock-enforced-in-code]].
 

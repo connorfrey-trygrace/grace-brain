@@ -1,12 +1,12 @@
 ---
 name: "🍽️ John Slye: Set cadence and next date for the Sunday-evening dinner"
-status: waiting-on
+status: closure-candidate
 priority: P3
 owner: "John Slye"
 added: 2026-10-18
 deadline: none
 needs_by: none
-last_mentioned: "2026-11-12"
+last_mentioned: "2026-11-13"
 waiting_on: "John Slye — asked 10/18 10:55 AM [196136]"
 source: "Text, chat 2634 (Connor, John, Callie), 2026-10-18"
 projects:
@@ -66,3 +66,9 @@ blocks: []
 ### 2026-11-13 (quick refresh, email)
 - 11/12 8:56 PM · Connor emailed Anna Maia: any more thoughts on hosting a small dinner after the 11/22 service, and a topic? No reply yet
 [Source: Email, Sent Items, "Curiosity Dinner 11/22"]
+
+### 2026-11-13 (quick refresh, transcripts) — closure candidate
+- John's part answered on the 11/13 call: curiosity dinners **12/13, 1/17, 2/28, 3/14** (Bible teachings 1/10, 1/31, 3/7 in between)
+- 10/27 call (processed today): Anna Maia agreed to host a dinner after her 11/22 service; topic hers to pick — Connor's 11/12 email asking for it still unanswered
+- Closure candidate: cadence/date set; only Anna's 11/22 topic remains
+[Source: [[Transcripts/2026-11-13 15.40 Connor–John Slye Call — Jan–Mar 2027 Sunday Night Calendar]] · [[Transcripts/2026-10-27 11.56 Connor–Anna Maia Call — Do Good Sunday Night & Friendsgiving Worship]]]

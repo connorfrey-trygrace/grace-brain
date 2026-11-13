@@ -1,6 +1,6 @@
 ---
 name: "🗓️ Connor: Schedule the Jan 2027 planning conversation with John Slye"
-status: closure-candidate
+status: completed
 priority: P2
 owner: "Connor"
 added: 2026-11-11
@@ -16,6 +16,7 @@ people:
   - "[[People/John Slye]]"
 blocked_by: []
 blocks: []
+resolved: 2026-11-13
 ---
 # 🗓️ Connor: Schedule the Jan 2027 planning conversation with John Slye
 
@@ -55,3 +56,7 @@ blocks: []
 - 11:28 AM · Connor → John: Zoom invite "Connor / John - Jan 2027 planning", 3:00–3:30 PM
 - stays closure-candidate: close once Connor confirms the call happened
 [Source: Outlook Sent Items, "Connor / John - Jan 2027 planning", 2026-11-13]
+
+### 2026-11-13 (quick refresh, transcript) — completed
+- Call held Fri 11/13 3 PM (phone); Jan–Mar 2027 Sunday Night calendar set — see transcript
+[Source: [[Transcripts/2026-11-13 15.40 Connor–John Slye Call — Jan–Mar 2027 Sunday Night Calendar]]]

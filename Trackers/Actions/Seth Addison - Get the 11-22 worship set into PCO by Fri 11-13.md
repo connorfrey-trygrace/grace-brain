@@ -1,6 +1,6 @@
 ---
 name: "🎸 Seth Addison: Get the 11-22 worship set into PCO by Fri 11-13"
-status: active
+status: closure-candidate
 priority: P1
 owner: "Seth Addison"
 added: 2026-11-12
@@ -35,3 +35,8 @@ blocks: []
 ### 2026-11-13 (quick refresh, email)
 - 3:27 PM · Seth shared Google Doc "Setlist 11/22" with Connor (edit) — a draft, not yet PCO; verify the 11/22 PCO plan before closing
 [Source: Outlook, Google Docs share "Setlist 11/22", Seth Addison, 2026-11-13]
+
+### 2026-11-13 (quick refresh, text) — closure candidate
+- 3:52 PM · Seth: sent off the 11/22 setlist [198466]; 4:46 PM Connor thanked him for working ahead [198469]
+- Closure candidate: destination unstated (Google Doc vs PCO) — verify the 11/22 PCO plan before closing
+[Source: Text, Seth Addison, rowids 198466, 198469]

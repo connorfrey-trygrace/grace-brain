@@ -1,13 +1,13 @@
 ---
 name: "📅 Connor: Weigh in on Sunday Night holiday schedule (Christmas, 12/27, Super Bowl)"
-status: on-hold
+status: closure-candidate
 on_hold_since: "2026-10-22 — parked by Connor: needs a month to think on the Super Bowl 2/14 plan; address after Thanksgiving. Date-locked: re-activate 2026-11-30."
 priority: P3
 owner: "Connor"
 added: 2026-09-30
 deadline: none
 needs_by: none
-last_mentioned: "2026-10-27"
+last_mentioned: "2026-11-13"
 waiting_on: ""
 source: "Text, Sunday Night leadership chat 2446, 2026-09-30"
 projects:
@@ -57,3 +57,8 @@ flagged: ""
 ### 2026-10-27 (quick refresh, email)
 - 6:37 PM · Brian: Advent speakers — 11/29 Brian (potential, Luke 2:29–32), 12/6 Alexis (Luke 1:46–55), 12/13 / 12/20 / 12/24 John, 12/27 online Alexis + John
 [Source: Email, "Re: Christmas Eve Service Times", 2026-10-26]
+
+### 2026-11-13 (quick refresh, transcript) — closure candidate
+- Super Bowl input given on the John call: 2/14 earlier sermon (~5:30) + Q&A, then a World Cup–style party; Callie Taylor + Jennifer Claffey to support; Connor suggested an extended QOTN that night as a showcase
+- Closure candidate: the only open item (Super Bowl input) is answered; party planning is a future item
+[Source: [[Transcripts/2026-11-13 15.40 Connor–John Slye Call — Jan–Mar 2027 Sunday Night Calendar]]]

@@ -1,14 +1,14 @@
 ---
 name: "🤝 John Slye: Confirm the after-Connect gathering Sun 11/15"
-status: waiting-on
+status: completed
 priority: P2
 owner: "John Slye"
 added: 2026-11-13
 deadline: none
 needs_by: none
-last_mentioned: "2026-11-12"
+last_mentioned: "2026-11-13"
 meeting: "2026-11-15"
-waiting_on: "John Slye since 2026-11-12 — confirm after Connect time Sun 11/15 [198410]"
+waiting_on: ""
 source: "Text, host group chat 2662, 2026-11-12 12:58 PM [198410]"
 projects:
   - "Sunday Night Launch"
@@ -17,6 +17,7 @@ people:
   - "[[People/John Slye]]"
 blocked_by: []
 blocks: []
+resolved: 2026-11-13
 ---
 # 🤝 John Slye: Confirm the after-Connect gathering Sun 11/15
 
@@ -31,3 +32,8 @@ blocks: []
 ### 2026-11-13 (text, agent-hub-visit-local) — created
 - 11/12 12:58 PM · Connor (ME), host chat: "plan on that" — after Connect time this Sunday, asked John if it works [198410]; no reply in window
 [Source: Text, host chat 2662, rowid 198410]
+
+### 2026-11-13 (quick refresh, transcript) — completed
+- John answered on the call: he won't be at Sunday Night 11/15 (grandson visiting 2 weeks); can join by phone
+- Connor will hold it with Brandon + Simba after service, ~7:30–8 PM, volunteer room → [[Trackers/Actions/Connor - Hold the Sunday Night planning huddle with Brandon and Simba after 11-15]]
+[Source: [[Transcripts/2026-11-13 15.40 Connor–John Slye Call — Jan–Mar 2027 Sunday Night Calendar]]]

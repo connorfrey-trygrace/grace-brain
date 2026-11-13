@@ -7,7 +7,7 @@ added: 2026-08-12
 on_hold_since: "2026-08-12 — parked deliberately by Connor for December. Date-locked: re-activate 2026-12-01. The ask is only credible once the first 8-week experiment run (9/20 → 11/8) has produced a real Sunday-night crowd and real data on who is actually connecting."
 deadline: "2026-12-31"
 needs_by: 2026-12-15
-last_mentioned: "2026-08-24"
+last_mentioned: "2026-11-13"
 source: "Connor, 2026-08-12 (direct request while finalizing the Connect-portion 8-week plan)"
 projects:
   - "Sunday Night Launch"
@@ -74,3 +74,9 @@ Worth having ready when the conversation happens:
 - **Why it belongs on this note:** the December ask assumes the Sunday-night run *produces* young-pro groups. Here an existing one may **contract** first, and Alexis will learn it from Hannah rather than from Connor. Nothing here touches the on-hold date lock (re-activate 2026-12-01) — the timing rationale is about the 9/20 → 11/8 data, not about the group inventory. But by December this note's "if a group has already started informally" clause may need a matching "if one folded" read.
 - `last_mentioned` → 2026-08-24. `status`, `priority`, `deadline`, `needs_by`, `on_hold_since` unchanged.
 [Source: Texts, Hannah Sarradet (919-457-3162) ↔ Connor, 2026-08-22 11:46–11:53 AM ET]
+
+### 2026-11-13 (transcript)
+- Alexis launches groups the week of Sun 1/24; John asked her to let Boot Camp S4 start a week earlier (week of 1/17) — no answer yet
+- Connor wants Alexis on Sunday evening to advertise the next group season; she's expecting a baby early 2027 — stay flexible
+- On-hold date lock unchanged (2026-12-01)
+[Source: [[Transcripts/2026-11-13 15.40 Connor–John Slye Call — Jan–Mar 2027 Sunday Night Calendar]]]
