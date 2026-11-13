@@ -1,7 +1,7 @@
 ---
 name: "🎤 Connor: Text Jean Paul a hand-mic reminder Sunday morning 11/15"
 status: active
-priority: P2
+priority: P1
 owner: "Connor"
 added: 2026-11-13
 deadline: 2026-11-15
@@ -31,3 +31,6 @@ blocks: []
 - 9:51 PM · JP (THEM): 6 available, 1 dedicated to Seth → 5 for Connor [198436, 198437]
 - 9:54 PM · JP (THEM): text him Sunday morning as a reminder; Seth going for a similar setup to last week [198439]
 [Source: Text, Jean Paul, rowids 198434–198439]
+
+### 2026-11-13 (cloud 5am run)
+- → priority: P2 → P1 (2 days to deadline)

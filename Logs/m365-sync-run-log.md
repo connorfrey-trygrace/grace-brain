@@ -315,3 +315,5 @@ Log the line even when N=M=0 and K=J=0 — a logged "found nothing" run is exact
 - 2026-11-12 12:20 ET | window 11/12 04:35→12:19 ET; 3 emails (2 in/1 sent); 3 findings → WAA comms note, Launch Log, 11-15 handoff note; 1 new action (Heather WAA graphic); 0 auto-closes
 
 - 2026-11-12 12:50 ET | quick refresh | window 11:49→12:50 ET | 0 emails (inbox+sent) | no writes | elapsed <1m
+
+- 2026-11-13 05:08 ET | cloud 5am run | window 11/12 12:20→11/13 05:10 ET | ERROR: outlook_email_search returned Graph 502 on 3 attempts (inbox, sent, unfiltered) | 0 emails processed | marker NOT moved | elapsed ~4m
