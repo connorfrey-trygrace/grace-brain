@@ -1,6 +1,7 @@
 ---
 name: "🎸 Seth Addison: Get the 11-22 worship set into PCO by Fri 11-13"
-status: closure-candidate
+status: completed
+resolved: 2026-11-13
 priority: P1
 owner: "Seth Addison"
 added: 2026-11-12
@@ -18,7 +19,9 @@ blocks: []
 ---
 # 🎸 Seth Addison: Get the 11-22 worship set into PCO by Fri 11-13
 
-- [ ] Seth enters next week's (11/22) set in PCO by end of business Fri 11/13.
+- [x] Seth enters next week's (11/22) set in PCO by end of business Fri 11/13.
+
+- **Status**: **Completed 2026-11-13** — Seth's 11/22 set delivered (closed on Connor's confirm; PCO entry not separately verified).
 
 - **Source**: Text from Seth Addison, 2026-11-11 [198383]
 - **Deadline rationale**: Seth's own commitment — "next week's set" by EOB Friday (read as 11/22; hypothesis from timing — sent Wed 11/11 while the 11/15 set was in progress).
@@ -40,3 +43,6 @@ blocks: []
 - 3:52 PM · Seth: sent off the 11/22 setlist [198466]; 4:46 PM Connor thanked him for working ahead [198469]
 - Closure candidate: destination unstated (Google Doc vs PCO) — verify the 11/22 PCO plan before closing
 [Source: Text, Seth Addison, rowids 198466, 198469]
+
+### 2026-11-13 (Connor, chat) — completed
+- Connor confirmed all four open closure candidates closed

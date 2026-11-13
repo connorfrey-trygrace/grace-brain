@@ -1,13 +1,14 @@
 ---
 name: "🍽️ John Slye: Set cadence and next date for the Sunday-evening dinner"
-status: closure-candidate
+status: completed
+resolved: 2026-11-13
 priority: P3
 owner: "John Slye"
 added: 2026-10-18
 deadline: none
 needs_by: none
 last_mentioned: "2026-11-13"
-waiting_on: "John Slye — asked 10/18 10:55 AM [196136]"
+waiting_on: ""
 source: "Text, chat 2634 (Connor, John, Callie), 2026-10-18"
 projects:
   - "Sunday Night Launch"
@@ -20,7 +21,9 @@ blocks: []
 ---
 # 🍽️ John Slye: Set cadence and next date for the Sunday-evening dinner
 
-- [ ] John picks a cadence (monthly / bi-monthly / quarterly) and whether November or December hosts the next dinner.
+- [x] John picks a cadence (monthly / bi-monthly / quarterly) and whether November or December hosts the next dinner.
+
+- **Status**: **Completed 2026-11-13** — cadence and next date set; Anna's 11/22 topic is the only remainder.
 
 - **Source**: Connor asked John 10/18 10:55 AM [196136].
 - **Notes**: **First dibs on the next dinner: Kaymin, Jason, [[People/Simba Kanjanda|Simba]]** (Connor, 11/12) — invite them before the sign-up opens. Callie wants to join future dinners [196128]. Connor promised Stephanie Torrance (571-409-0551) the link personally when the next sign-up goes out [196175].
@@ -72,3 +75,6 @@ blocks: []
 - 10/27 call (processed today): Anna Maia agreed to host a dinner after her 11/22 service; topic hers to pick — Connor's 11/12 email asking for it still unanswered
 - Closure candidate: cadence/date set; only Anna's 11/22 topic remains
 [Source: [[Transcripts/2026-11-13 15.40 Connor–John Slye Call — Jan–Mar 2027 Sunday Night Calendar]] · [[Transcripts/2026-10-27 11.56 Connor–Anna Maia Call — Do Good Sunday Night & Friendsgiving Worship]]]
+
+### 2026-11-13 (Connor, chat) — completed
+- Connor confirmed all four open closure candidates closed

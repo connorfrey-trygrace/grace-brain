@@ -1,7 +1,7 @@
 ---
 name: "📅 Connor: Weigh in on Sunday Night holiday schedule (Christmas, 12/27, Super Bowl)"
-status: closure-candidate
-on_hold_since: "2026-10-22 — parked by Connor: needs a month to think on the Super Bowl 2/14 plan; address after Thanksgiving. Date-locked: re-activate 2026-11-30."
+status: completed
+resolved: 2026-11-13
 priority: P3
 owner: "Connor"
 added: 2026-09-30
@@ -21,10 +21,10 @@ flagged: ""
 ---
 # 📅 Connor: Weigh in on Sunday Night holiday schedule (Christmas, 12/27, Super Bowl)
 
-- [ ] Answer John Slye's open question: which other dates besides 12/27 need a schedule call (Christmas Eve/Day, New Year's), plus input on a Super Bowl 2/14 earlier service + party.
+- [x] Answer John Slye's open question: which other dates besides 12/27 need a schedule call (Christmas Eve/Day, New Year's), plus input on a Super Bowl 2/14 earlier service + party.
 
 - **Priority rationale**: months out; no one is blocked.
-- **Status**: On hold until 2026-11-30 (after Thanksgiving). 12/24 settled: John excused Connor, so he is not serving. Only open item: Connor's input on the Super Bowl 2/14 service + party, answered in the Sunday Night leadership group chat.
+- **Status**: **Completed 2026-11-13** — 12/24 settled (John excused Connor); Super Bowl 2/14 input given in the leadership group chat. Party planning is a future item.
 - **Known so far**: 12/27 online only, no in-person services. 12/24 (Thursday) likely 3 services between 3 and 6 PM. John floats moving 2/14 service up with a big Super Bowl party after ("#1 request after the World Cup was another party").
 - **Blocked by**: none · **Blocks**: nothing
 
@@ -62,3 +62,6 @@ flagged: ""
 - Super Bowl input given on the John call: 2/14 earlier sermon (~5:30) + Q&A, then a World Cup–style party; Callie Taylor + Jennifer Claffey to support; Connor suggested an extended QOTN that night as a showcase
 - Closure candidate: the only open item (Super Bowl input) is answered; party planning is a future item
 [Source: [[Transcripts/2026-11-13 15.40 Connor–John Slye Call — Jan–Mar 2027 Sunday Night Calendar]]]
+
+### 2026-11-13 (Connor, chat) — completed
+- Connor confirmed all four open closure candidates closed
