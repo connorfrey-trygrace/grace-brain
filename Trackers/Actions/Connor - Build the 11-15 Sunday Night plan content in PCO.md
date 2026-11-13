@@ -6,7 +6,7 @@ owner: "Connor Frey"
 added: 2026-11-09
 deadline: 2026-11-15
 needs_by: 2026-11-10
-last_mentioned: "2026-11-11"
+last_mentioned: "2026-11-12"
 source: "PCO Services, plan 92214544 (Sunday Night, 11/15)"
 projects:
   - "Sunday Night Launch"
@@ -76,3 +76,7 @@ blocks: []
 - AM plan 92436081 (18 items): "Message: Russ Sullivan" unchanged since 11/10 — still no title, series or scripture → nothing to copy
 - Outlook search for a sermon outline rate-limited; not checked
 [Source: PCO Services 393784/92436081]
+
+### 2026-11-13 (text, agent-hub-visit-local)
+- 11/12 9:51 PM · Live Q&A mics: JP has 6 handhelds, 1 for Seth → 5 for Q&A (3+ stage, rest ushers) [198434–198437]; reminder text Sun AM → [[Trackers/Actions/Connor - Text Jean Paul a hand-mic reminder Sunday morning 11-15]]
+[Source: Text, Jean Paul, rowids 198434–198439]

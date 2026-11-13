@@ -320,3 +320,5 @@ Format (adopted 2026-07-16, mirroring [[Workflows/m365-to-obsidian-sync]] §Run 
 - 2026-11-12 12:20 ET | 0 new messages (ROWID 198405 unchanged); no findings
 
 - 2026-11-12 12:50 ET | quick refresh | ROWID 198405→198408 | 2 in scope (Sky group chat, social invite) | 0 Grace findings | elapsed <1m
+
+- 2026-11-13 04:10 ET | agent-hub-visit-local | ROWID 198409–198441 | 32 msgs | 2 notes created (JP hand-mic reminder Sun AM; John Slye after-Connect 11/15), 11-15 plan note + Launch-Log appended | 0 closure candidates | unresolved 770-845-1489, 702-996-2402 (non-Grace) | elapsed 0m
