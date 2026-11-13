@@ -317,3 +317,5 @@ Log the line even when N=M=0 and K=J=0 — a logged "found nothing" run is exact
 - 2026-11-12 12:50 ET | quick refresh | window 11:49→12:50 ET | 0 emails (inbox+sent) | no writes | elapsed <1m
 
 - 2026-11-13 05:08 ET | cloud 5am run | window 11/12 12:20→11/13 05:10 ET | ERROR: outlook_email_search returned Graph 502 on 3 attempts (inbox, sent, unfiltered) | 0 emails processed | marker NOT moved | elapsed ~4m
+
+- 2026-11-13 10:53 ET | quick refresh via Outlook web (Chrome; M365 connector absent) | window 2026-11-12 12:20 → 2026-11-13 10:53 ET | inbox 1 (Derek promo blurb, info only), sent 1 (Anna curiosity dinner 11/22) | notes 1 | dups 0 | elapsed 6m

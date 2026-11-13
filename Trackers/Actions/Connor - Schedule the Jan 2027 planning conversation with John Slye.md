@@ -1,14 +1,13 @@
 ---
 name: "🗓️ Connor: Schedule the Jan 2027 planning conversation with John Slye"
-status: waiting-on
+status: closure-candidate
 priority: P2
 owner: "Connor"
 added: 2026-11-11
 deadline: none
 needs_by: none
-last_mentioned: "2026-11-12"
+last_mentioned: "2026-11-13"
 meeting: "2026-11-13 15:00"
-waiting_on: "John Slye since 2026-11-11 — confirm Fri 11/13 3 PM [198390]"
 source: "Text from John Slye, 2026-11-11 9:36 AM [198366]"
 projects:
   - "Sunday Night Launch"
@@ -31,7 +30,7 @@ blocks: []
 - **Overlap (hypothesis)**: the post-service Bible Q&A uses the same after-service slot as [[Trackers/Actions/Connor - Plan a journaling workshop after a Sunday Night service]].
 - **Agenda**: [[Agendas/2026-11-13 Connor–John Slye Jan 2027 Planning Call Agenda]]
 - **Related**: [[Trackers/Actions/John Slye - Confirm the 11-11 Wednesday meeting with Connor]] (11/11 1:20 PM slot unconfirmed).
-- **Status**: Waiting on John to confirm 3 PM Fri 11/13 (he OK'd Friday afternoon); call not on Outlook. Connor-side: confirm the time, add his own items.
+- **Status**: Call confirmed — Fri 11/13 3 PM (text, 11/13 10:18 AM). Not on Outlook. Connor-side: add his own items to the agenda before 3 PM. Close after the call.
 - **Meeting rationale**: agreed by text, not on Outlook — so Calendar-Window can't see it.
 
 ### 2026-11-11 (quick refresh, text) — created
@@ -46,3 +45,8 @@ blocks: []
 - 11/11 8:59 PM · John (THEM): Friday afternoon works [198386]; 9:48 PM Connor (ME) proposed 3 PM [198390]; no reply yet
 - 11/11 9:46 PM · Brandon Geddes (THEM, host chat 2662): post-Sunday evening may work better for him, depending on how formal [198389] — likely re John's Daniel/Revelation gathering (hypothesis)
 [Source: Text, John Slye / Brandon Geddes, rowids 198386, 198389, 198390]
+
+### 2026-11-13 (quick refresh, text)
+- 10:18 AM · Connor (ME) confirmed 3 PM [198455]; John (THEM) yes [198456]
+- → status: waiting-on → closure-candidate (scheduling done; verify: Connor's own agenda items added)
+[Source: Text, John Slye, rowids 198455–198457]

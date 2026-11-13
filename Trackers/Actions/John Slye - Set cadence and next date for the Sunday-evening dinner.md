@@ -62,3 +62,7 @@ blocks: []
 
 ### 2026-11-12 (Connor, chat)
 - First dibs on the next dinner: Kaymin, Jason, Simba
+
+### 2026-11-13 (quick refresh, email)
+- 11/12 8:56 PM · Connor emailed Anna Maia: any more thoughts on hosting a small dinner after the 11/22 service, and a topic? No reply yet
+[Source: Email, Sent Items, "Curiosity Dinner 11/22"]

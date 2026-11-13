@@ -1,4 +1,4 @@
-<title>Dec–Mar Sunday Night Calendar</title>
+<title>Nov–Mar Sunday Night Calendar</title>
 <meta name="claude:viewport-fit-sides" content="cover">
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
@@ -118,9 +118,9 @@ textarea#recap { width: 100%; min-height: 140px; font: 12px/1.4 ui-monospace, Me
 
 <div class="wrap">
   <header>
-    <div class="eyebrow">Call with John Slye · Fri 11/13, 3 PM (unconfirmed)</div>
-    <h1>Dec–Mar Sunday Night Calendar</h1>
-    <p class="sub">Connor's draft dates for the January plan. One add-on per Sunday night at most. Tap a proposed date to mark it agreed, moved or dropped as you talk; answers to the open questions go in the right-hand panel.</p>
+    <div class="eyebrow">Call with John Slye · Fri 11/13, 3 PM</div>
+    <h1>Nov–Mar Sunday Night Calendar</h1>
+    <p class="sub">Connor's draft dates for the January plan. One add-on per Sunday night at most. Purple marks a Sunday night that isn't run the usual way. Tap a proposed date to mark it agreed, moved or dropped as you talk; answers to the open questions go in the right-hand panel.</p>
     <div class="legend" id="legend"></div>
   </header>
 
@@ -156,10 +156,20 @@ const KINDS = {
   bible:   { label: "Bible teaching + Q&A", v: "--c-bible" },
   dinner:  { label: "Curiosity dinner",     v: "--c-dinner" },
   dance:   { label: "Inspira dance",        v: "--c-dance" },
+  odd:     { label: "Off-pattern Sunday night", v: "--c-journal" },
   fixed:   { label: "Already set / blackout", v: "--c-fixed" },
 };
 // p = proposed (clickable), f = fixed
 const EVENTS = [
+  ["2026-11-15","odd","Russ + live Q&A (no QOTN)","f","Q&A with Russ right after the message"],
+  ["2026-11-15","odd","After-Connect gathering?","f","John hasn't confirmed; no time set"],
+  ["2026-11-22","odd","Anna preaches · dinner after?","f","Asked Anna 11/12; no reply yet"],
+  ["2026-11-22","odd","Last Friendsgiving plug","f","Teaser not drafted"],
+  ["2026-11-23","fixed","YP Friendsgiving","f","Monday"],
+  ["2026-11-29","odd","Advent starts · Brian (tentative)","f","GOD WITH US, 11/29–12/24"],
+  ["2026-12-06","odd","Alexis speaks · JP out (audio fill-in)","f","No audio replacement yet"],
+  ["2026-12-13","odd","Seth out · worship lead needed","f","Seth's blockout; Band empty in PCO"],
+  ["2026-12-20","odd","John speaks","f","Last Sunday before Christmas"],
   ["2026-12-06","dance","Inspira Country Night","f","Booked. 8 PM lesson, $5 w/ GCC26"],
   ["2026-12-06","fixed","Annual Meeting","f","Time not on the calendar"],
   ["2026-12-13","dinner","Curiosity dinner (Dec)","p","John preaches 12/13; 12/20 is too close to Christmas"],
@@ -186,6 +196,8 @@ const EVENTS = [
 });
 
 const QUESTIONS = [
+  ["aftercon","After-Connect gathering this Sun 11/15: still on? Time, place, who?","Likely the Daniel/Revelation gathering (unconfirmed)"],
+  ["wl1213","Who leads worship 12/13?","Seth is out; John preaches"],
   ["preach","John's Jan–Mar preaching Sundays?","Dinners go with whoever preaches, so dinner dates may shift"],
   ["s4content","S4 content: run Daniel & Revelation alongside the AM series?","Survey's top ask was \"What is My Purpose\""],
   ["s4totals","How does S4 collect weekly totals?","Wks 6–8 lost 3–5 tables; Rock store still with Kay + Melissa"],
@@ -221,7 +233,7 @@ function cycle(e) {
 function render() {
   const host = document.getElementById("months");
   host.innerHTML = "";
-  const months = [[2026,11],[2027,0],[2027,1],[2027,2]];
+  const months = [[2026,10],[2026,11],[2027,0],[2027,1],[2027,2]];
   months.forEach(([y,m]) => {
     const first = new Date(y, m, 1), days = new Date(y, m+1, 0).getDate();
     const evs = EVENTS.filter(e => { const d = parse(e[0]); return d.getFullYear()===y && d.getMonth()===m; })

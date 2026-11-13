@@ -1,7 +1,7 @@
 ---
 title: "Connor–John Slye Jan 2027 Planning Call"
 date: 2026-11-13
-time: "3:00 PM (proposed by Connor 11/11; John OK'd Friday afternoon, 3 PM unconfirmed)"
+time: "3:00 PM (confirmed by text 11/13 10:18 AM [198456])"
 attendees:
   - John Slye
   - Connor Frey
@@ -15,7 +15,7 @@ source: "John's agenda text 2026-11-11 9:36 AM [198366]; Connor-side items from 
 # Connor–John Slye — Jan 2027 Planning Call
 
 > [!info] Purpose
-> Set the Jan–Mar 2027 plan for Boot Camp S4, the 6 PM service, and the related events. Items 1–5 are **John's agenda** (his 11/11 text). Items 6–8 are **Connor's adds** from vault notes.
+> Set the Jan–Mar 2027 plan for Boot Camp S4, the 6 PM service, and the related events. Items 1–5 are **John's agenda** (his 11/11 text). Items 6–10 are **Connor's adds** from vault notes.
 
 ## Context (what's already set)
 - **AM series:** Daniel & Revelation starts **Sun 1/3/27**. Advent "GOD WITH US" runs 11/29–12/24 [196485].
@@ -23,7 +23,7 @@ source: "John's agenda text 2026-11-11 9:36 AM [198366]; Connor-side items from 
 - **12/27:** online only, no in-person service.
 
 ## Proposed dates (Connor's draft — to react to)
-Calendar view for the call: https://claude.ai/artifact/MVUvqPgqQzLGgvqQmWrE8Q (source: `Agendas/2026-11-13-john-planning-calendar.html`).
+Calendar view for the call: https://claude.ai/artifact/MVUvqPgqQzLGgvqQmWrE8Q (source: `Agendas/2026-11-13-john-planning-calendar.html`). It now covers Nov–Mar and marks the off-pattern Sunday nights in purple.
 
 One add-on per Sunday night at most, so no two after-service items share a slot.
 
@@ -112,6 +112,12 @@ One add-on per Sunday night at most, so no two after-service items share a slot.
 6. **Journaling workshop — only as a replacement for one curiosity dinner** (Connor, 11/12), never its own night. Connor pitched it to Brian Parker 10/25 as a dinner he could lead; no reply yet. Decide which dinner date it would take.
 7. **Sunday-evening small groups (Alexis).** Parked until 12/1 by design. Raise it only if the January plan changes who the 6 PM crowd is; otherwise leave it parked.
 8. **Super Bowl Sunday 2/14** (earlier service + party). Connor parked his input until after Thanksgiving. **Not for this call** unless John raises it.
+9. **After-Connect gathering, this Sun 11/15 — raise first, it's 2 days out.** Connor proposed it in the host chat 11/12 ("after Connect time"); John hasn't replied [198410].
+   - **Confirm:** it's on, the clock time, where, and who's coming.
+   - **Topic:** likely the Daniel/Revelation gathering. That's a hypothesis, from Brandon Geddes's post-Sunday-evening comment [198389]; ties to item 3.
+   - Tracked in [[Trackers/Actions/John Slye - Confirm the after-Connect gathering Sun 11-15]].
+10. **12/13 worship leader.** Seth is out 12/13 (his blockout, texted 10/26). The 12/13 Band slot in PCO is empty. John preaches that night, and the Dec curiosity dinner is proposed for the same night.
+    - **Decide:** who leads worship 12/13. A guest leader means Connor builds the worship items in PCO instead of Seth.
 
 ## Notes
 -

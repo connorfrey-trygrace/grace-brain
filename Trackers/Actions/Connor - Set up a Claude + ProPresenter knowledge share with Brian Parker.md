@@ -6,6 +6,7 @@ owner: "Connor"
 added: 2026-10-27
 deadline: none
 needs_by: none
+meeting: "2026-11-16 15:00"
 last_mentioned: "2026-11-11"
 source: "Text, Connor ↔ Brian Parker [196955, 196958, 196959], 2026-10-26"
 projects:
@@ -35,3 +36,6 @@ blocks: []
 ### 2026-11-12 (email, cloud 5am)
 - 7:50 PM · Connor emails Brian: Mon ~3pm; agenda Claude test cases on gfx Mac, Sunday-night sys preset, dimmer FOH, energy ideas
 - → flagged cleared (date now proposed)
+
+### 2026-11-13 (quick refresh, sweep)
+- Set `meeting:` 2026-11-16 15:00 — proposed off-calendar (Sent, "Sunday Night/Claude Powow", 11/11 7:50 PM); unconfirmed
