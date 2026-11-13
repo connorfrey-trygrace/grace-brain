@@ -326,3 +326,5 @@ Format (adopted 2026-07-16, mirroring [[Workflows/m365-to-obsidian-sync]] §Run 
 - 2026-11-13 10:53 ET | quick refresh | ROWID 198442–198458 | 17 msgs | 1 Grace finding (John Slye 3 PM confirmed → closure-candidate) | unresolved 0
 
 - 2026-11-13 12:09 ET | agent-hub-visit-local | ROWID 198459 | 1 msg | 0 Grace findings (1 mortgage spam, +1 520-557-5335) | 0 closure candidates | unresolved 0 | elapsed <1m
+
+- 2026-11-13 15:48 ET | quick refresh: ROWID 198460–198465; 2 in scope (Seth); 1 action created (Dan Kim contact→Seth); 0 unresolved

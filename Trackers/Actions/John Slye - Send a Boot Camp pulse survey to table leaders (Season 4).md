@@ -6,7 +6,7 @@ owner: "John Slye"
 added: 2026-11-04
 deadline: none
 needs_by: none
-last_mentioned: "2026-11-11"
+last_mentioned: "2026-11-13"
 source: "Text from John Slye, 2026-11-04"
 projects:
   - "Boot Camp Fall Relaunch"
@@ -33,3 +33,8 @@ blocks: []
 
 ### 2026-11-12 (email, cloud 5am)
 - 11/11 · S4 thread: 8 weeks, ends 3-10; Ash Wed 2-10; John asks cross in mall hall Sun 2-7
+
+### 2026-11-13 (quick refresh, email)
+- 11/11 9:17 PM · John: cross in the mall hall; open to opinions on a stage cross
+- 11/13 11:24 AM · Heather Noble: will set up an Ash Wednesday (2/10) marketing campaign
+[Source: Outlook, "Re: Boot camp Season 4/Ash Wed.", Heather Noble, 2026-11-13]

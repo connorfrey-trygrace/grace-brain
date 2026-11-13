@@ -6,7 +6,7 @@ owner: "Connor Frey"
 added: 2026-11-04
 deadline: 2026-11-17
 needs_by: none
-last_mentioned: "2026-11-10"
+last_mentioned: "2026-11-13"
 source: "Outlook, \"QR Code Request Each Tuesday\", Derek Adye, 2026-11-04"
 projects:
   - "Sunday Night Launch"
@@ -47,3 +47,7 @@ blocks: []
 - 4:20 PM · Heather: all links point to Serve this weekend; asks for Friendsgiving registration link
 - 4:39 PM · Connor sends Friendsgiving link (trygrace.org/registration/friendsgiving2026)
 [Source: Outlook, "Sunday Night QR landing page - 11/15", 2026-11-10]
+
+### 2026-11-13 (quick refresh, email)
+- 11:35 AM · Heather: "Decemer" typo on the Inspira event page fixed; 2:11 PM Connor thanks
+[Source: Outlook, "Re: Sunday Night QR landing page - 11/15", Heather Noble, 2026-11-13]

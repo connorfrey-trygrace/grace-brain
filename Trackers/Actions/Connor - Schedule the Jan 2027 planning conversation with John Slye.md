@@ -30,8 +30,8 @@ blocks: []
 - **Overlap (hypothesis)**: the post-service Bible Q&A uses the same after-service slot as [[Trackers/Actions/Connor - Plan a journaling workshop after a Sunday Night service]].
 - **Agenda**: [[Agendas/2026-11-13 Connor–John Slye Jan 2027 Planning Call Agenda]]
 - **Related**: [[Trackers/Actions/John Slye - Confirm the 11-11 Wednesday meeting with Connor]] (11/11 1:20 PM slot unconfirmed).
-- **Status**: Call confirmed — Fri 11/13 3 PM (text, 11/13 10:18 AM). Not on Outlook. Connor-side: add his own items to the agenda before 3 PM. Close after the call.
-- **Meeting rationale**: agreed by text, not on Outlook — so Calendar-Window can't see it.
+- **Status**: Call confirmed — Fri 11/13 3 PM (text, 11/13 10:18 AM); Zoom invite sent 11:28 AM, now on Outlook. Connor-side: add his own items to the agenda before 3 PM. Close after the call.
+- **Meeting rationale**: agreed by text; Connor sent the Zoom invite 11/13 11:28 AM, so it is on Calendar-Window.
 
 ### 2026-11-11 (quick refresh, text) — created
 [Source: Text, John Slye, rowid 198366]
@@ -50,3 +50,8 @@ blocks: []
 - 10:18 AM · Connor (ME) confirmed 3 PM [198455]; John (THEM) yes [198456]
 - → status: waiting-on → closure-candidate (scheduling done; verify: Connor's own agenda items added)
 [Source: Text, John Slye, rowids 198455–198457]
+
+### 2026-11-13 (quick refresh, email)
+- 11:28 AM · Connor → John: Zoom invite "Connor / John - Jan 2027 planning", 3:00–3:30 PM
+- stays closure-candidate: close once Connor confirms the call happened
+[Source: Outlook Sent Items, "Connor / John - Jan 2027 planning", 2026-11-13]

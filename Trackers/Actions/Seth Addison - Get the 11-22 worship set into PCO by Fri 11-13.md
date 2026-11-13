@@ -6,7 +6,7 @@ owner: "Seth Addison"
 added: 2026-11-12
 deadline: 2026-11-13
 needs_by: none
-last_mentioned: "2026-11-12"
+last_mentioned: "2026-11-13"
 source: "Text from Seth Addison, 2026-11-11 7:57 PM [198383]"
 projects:
   - "Sunday Night Launch"
@@ -31,3 +31,7 @@ blocks: []
 
 ### 2026-11-12 (quick refresh, sweep, Step 3.5)
 - P2 → P1: within 7 days of needs_by/deadline
+
+### 2026-11-13 (quick refresh, email)
+- 3:27 PM · Seth shared Google Doc "Setlist 11/22" with Connor (edit) — a draft, not yet PCO; verify the 11/22 PCO plan before closing
+[Source: Outlook, Google Docs share "Setlist 11/22", Seth Addison, 2026-11-13]
