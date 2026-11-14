@@ -327,3 +327,5 @@ Log the line even when N=M=0 and K=J=0 — a logged "found nothing" run is exact
 - 2026-11-13 17:33 ET | window 16:17–17:32 ET; 4 inbox / 1 sent; 1 write (Rock 'Event Request Completed' ×4 → curiosity-dinner comms note); sent menu email already logged | elapsed ~1m
 
 - 2026-11-13 18:33 ET | quick refresh | window 17:02→18:33 ET | 8 msgs (3 new: 2 sent, 1 in; 5 dup) | 2 action notes updated | elapsed 6m
+
+- 2026-11-13 21:45 ET | quick refresh | window 18:03–21:45 ET | inbox 2, sent 2 (1 dup — Friendsgiving already logged) | notes 0 | dups 1 | 1 surfaced (Hosts as leaders → Derek/John, not written: personnel) | elapsed 2m

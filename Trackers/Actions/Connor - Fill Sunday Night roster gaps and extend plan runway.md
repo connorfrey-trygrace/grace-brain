@@ -6,7 +6,7 @@ owner: "Connor"
 added: 2026-11-09
 deadline: 2026-11-15
 needs_by: 2026-11-11
-last_mentioned: "2026-11-11"
+last_mentioned: "2026-11-13"
 on_hold_since: "2026-11-11 — this week's pass done; trigger: next snl-week-ahead check 2026-11-16"
 source: "PCO Services, service type 1804248 (Sunday Night), snl-week-ahead scheduled check"
 projects:
@@ -57,3 +57,9 @@ blocks: []
 - 11/11 3:24 PM · Connor asked Simba which weeks before 12/20 he'd like to host; Simba will check his schedule [198373–198374]
 - 11/13 5:56 PM · Connor followed up; Simba: forgot, "will do asap" [198474–198478]. No chase: he committed to reply
 [Source: Text, Simba Kanjanda, rowids 198373–198478]
+- 9:23 PM · Simba (THEM): can host 11/22; December tentatively 12/6, 12/13, 12/20 [198495]. 9:34 PM Connor (ME): will pencil him in [198497] → schedule Simba (Connection) in PCO for those dates
+[Source: Text, Simba Kanjanda, rowids 198495–198497]
+
+### 2026-11-13 (Connor, chat)
+- ~10:15 PM · Simba scheduled as Host (Evening Connection) on 11/22, 12/6, 12/13, 12/20 — API-verified, status unconfirmed
+- ~10:25 PM · PCO schedule-request emails sent to Simba for all 4 dates (Connor approved); PCO will email Connor as he accepts/declines

@@ -26,6 +26,8 @@ Sequential (not parallel with anything) — synthesis writes to the same `/Track
 >
 > **Exclude the daily self-blocks** (`Morning Availability`, `Afternoon Availability`, `Daily FTJ Conflict`) — Connor uses them to shape availability, they have no attendees. `calendar-window.py` drops them again by subject as a second line of defence.
 >
+> **Then copy the same pull into Notion's Grace Calendar** per [[Workflows/grace-calendar-sync]]: upsert by Outlook ID, tick Cancelled, and set the heartbeat. Don't make a second Outlook call (added 2026-11-13, MSG-28).
+>
 > **Never assert an occasion this file does not contain.** Before writing any sentence of the form *"raise it at X," "bring it to X," "wait for X"* — in a note or in the report — query it: `python3 "Workflows/calendar-window.py" --who "<Name>" --before <date>`. `unknown` means the person could not be resolved to an address and is **not** the same as `none`.
 
 **Then the attendance gate** (added 2026-11-11): `python3 "Workflows/attendance-update.py" stale`. Exit 0 → skip. Exit 1 → pull the missing Sunday(s) from Rock per [[Workflows/attendance-pull]] (Chrome; needs Connor's Rock sign-in). Writes only [[Trackers/Attendance-Data.csv]] + [[Trackers/Attendance]], which no other phase touches, so it can run beside the subagents.
