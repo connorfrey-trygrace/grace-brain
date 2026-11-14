@@ -690,3 +690,4 @@ Source: [[Transcripts/2026-08-04 15.59 Connor–Derek Weekly Sync — Expense Co
 - 2026-11-12 · 11/15 Host - Announcements: Slides: line now adds Pre-Service Slides > "Young Adults Inspira Dance.png" (Country Night) ahead of the Wreaths slide; CM text unchanged; PATCH 200, 17 items unchanged
 - 2026-11-12 9:51 PM (text) · Jean Paul: 5 hand mics for the 11/15 Live Q&A (6 total, 1 for Seth); Seth's setup similar to last week; Connor to text JP Sun AM as reminder [198434–198439]
 - 2026-11-12 12:58 PM (text) · Connor → host chat: proposed after Connect time Sun 11/15 to John (likely Daniel/Revelation gathering — hypothesis) [198410]; awaiting John
+- 2026-11-13 · PCO email 'Your early invite: YP Friendsgiving, Mon 11/23' sent to 19 under-35 volunteers (+JP) → [[Events/2026-09-20-Sunday-Night-Service/2026-11-13-Friendsgiving-Invite-Volunteers-Draft]]

@@ -1,12 +1,13 @@
 ---
 name: "🦃 Connor: Work out a plug at Friendsgiving inviting people to Sunday Night"
-status: active
+status: waiting-on
+waiting_on: "Anna Maia / Callie Taylor since 2026-11-13 — plug slot in the program + Dropbox location of the graphics"
 priority: P3
 owner: "Connor"
 added: 2026-10-26
 deadline: none
 needs_by: none
-last_mentioned: "2026-11-10"
+last_mentioned: "2026-11-13"
 source: "[[Transcripts/2026-10-26 17.04 Connor–Derek Bi-weekly Sync — Baptism, Tony Visit, Lighting & Dinners]]"
 projects:
   - "Sunday Night Launch"
@@ -22,7 +23,7 @@ blocks: []
 
 - **Source**: Derek on 10/26 suggested using Friendsgiving's captive audience to invite people to Sunday Night. Connor: *"I'll work on that."*
 - **Priority rationale**: P3. Friendsgiving is Mon 11/23, and the advertising go-ahead is still with Anna Maia.
-- **Status**: Active — Anna's go-ahead confirmed 11/10; teaser not drafted yet.
+- **Status**: Active — draft ready for Connor's review: [[Events/2026-09-20-Sunday-Night-Service/2026-11-23-Friendsgiving-Plug-Draft]]. Connor delivers it (full version). Waiting on Anna/Callie for the program slot + graphics folder (emailed 11/13).
 - **Blocked by**: [[Trackers/Actions/Anna Maia - Give the go-ahead to advertise Friendsgiving on Sunday night]] · **Blocks**: nothing
 
 ### 2026-10-26 — created
@@ -52,3 +53,10 @@ blocks: []
 
 ### 2026-11-11 (Connor, chat) — marketing check
 - Anna said 11/10 she has slide graphics and would share a Dropbox folder [198327]; as of 11/11 evening no folder is shared to Connor (Dropbox search), no email from Anna, no website event page
+
+### 2026-11-13 (Connor, chat)
+- Drafted short (worship leader) + full (Connor) plug and optional slide → [[Events/2026-09-20-Sunday-Night-Service/2026-11-23-Friendsgiving-Plug-Draft]]; hooks 11/29 Advent "God With Us" start
+- Connor will deliver the plug himself → use the full (~30 sec) version
+- Sent PCO email to 19 YP-age volunteers (+JP): personal early invite + registration link + sit-with-someone-new ask → [[Events/2026-09-20-Sunday-Night-Service/2026-11-13-Friendsgiving-Invite-Volunteers-Draft]]
+- 9:10 PM · Connor → Anna (cc Callie): asks for ~30 sec after the worship set + where the Dropbox graphics folder is; heads-up on volunteers at tables → status waiting-on
+[Source: Email, Sent Items, "Friendsgiving - Sunday Night plug + marketing folder", 2026-11-13]

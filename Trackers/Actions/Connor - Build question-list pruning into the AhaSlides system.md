@@ -1,18 +1,18 @@
 ---
 name: "✂️ Connor: Build question-list pruning into the AhaSlides system"
-status: active
+status: completed
+resolved: 2026-11-13
 priority: P3
 owner: "Connor"
 added: 2026-08-31
 deadline: none
-last_mentioned: "2026-09-25"
+last_mentioned: "2026-11-13"
 source: "[[Transcripts/2026-08-30 13.10 Sunday Night Formation Lunch — Team Assembled, Captain Roles Unfilled]]"
 projects:
   - "Sunday Night Launch"
 people:
   - "[[People/Connor Frey]]"
   - "[[People/Callie Taylor]]"
-flagged: "2026-10-13 — reason: no follow-up in 18 days"
 ---
 # ✂️ Connor: Build question-list pruning into the AhaSlides system
 
@@ -21,7 +21,7 @@ flagged: "2026-10-13 — reason: no follow-up in 18 days"
 - **Priority rationale**: Connor accepted it in the room, which is a P1 floor — **overridden to P3 because he framed the problem himself as a 40-weeks-in one** (*"instead of keeping all of the questions for all 40 weeks after we're 40 weeks in"*). Nothing about launch depends on it. Raise the band the first time a stale question tops the board.
 - **Source**: [[Transcripts/2026-08-30 13.10 Sunday Night Formation Lunch — Team Assembled, Captain Roles Unfilled]]
 - **Deadline rationale**: none stated. Do not derive one from launch night — this problem does not exist until several weeks of submissions have accumulated.
-- **Status**: Active — accepted as a real gap, no mechanism designed.
+- **Status**: Closed 11/13 — not needed (Connor): average QOTN vote counts are down; questions are being answered about as fast as they're asked. Proposal kept for reference: [[Events/2026-09-20-Sunday-Night-Service/2026-11-13-Question-Pruning-Proposal]]. Reopen if a stale question tops the board again.
 
 ### The problem, as Callie Taylor put it
 *"If there's 10 really good questions the first week and they all get 40 upvotes, someone who has a question the second week is much less likely to have that question near the top."* Her earlier version: unanswered questions *"build up pretty quickly"* — is there a system where a question that has sat for a few weeks comes off?
@@ -59,3 +59,7 @@ flagged: "2026-10-13 — reason: no follow-up in 18 days"
 
 ### 2026-10-13 (quick refresh, sweep, Step 3)
 - Flagged: no follow-up in 18 days
+
+### 2026-11-13 (Connor, chat)
+- Proposal drafted: weekly Mark-as-answered rule, fresh board each series (11/29, 1/3), Parking Lot routed to Bible teaching nights / curiosity dinners → [[Events/2026-09-20-Sunday-Night-Service/2026-11-13-Question-Pruning-Proposal]]; flag cleared
+- Connor: not necessary — avg QOTN vote count has dropped a lot; answering about as fast as they're asked → completed (no mechanism built)
