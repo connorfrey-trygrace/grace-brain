@@ -1,12 +1,13 @@
 ---
 name: "📋 Connor: Build the 11-15 Sunday Night plan content in PCO"
-status: active
+status: waiting-on
 priority: P1
 owner: "Connor Frey"
 added: 2026-11-09
 deadline: 2026-11-15
 needs_by: 2026-11-10
 last_mentioned: "2026-11-13"
+waiting_on: "Derek Adye / Brian Parker since 2026-11-13 — Russ's sermon notes (scripture slides?)"
 source: "PCO Services, plan 92214544 (Sunday Night, 11/15)"
 projects:
   - "Sunday Night Launch"
@@ -25,13 +26,14 @@ blocks: []
   - [ ] Worship items added — **Seth's job** (he's leading; Connor fills only for guest leaders, Connor 11/12) — song links not used (Connor, 11/11)
   - [x] Confidence Monitor Notes on every Host item (cm-notes-from-script)
   - [x] Message titled "Message:Do Good SERVE"; no scripture needed (Connor, 11/13)
+  - [ ] Scripture slides — Connor asked Derek + Brian 11/13 for Russ's sermon notes; thinks Russ will reference Moses / Pharaoh's daughter (conflicts with "no scripture" above). Waiting on reply
   - [ ] Closing Host item: discussion prompts + "optional — no pressure to stay" off-ramp
 
 - **Priority rationale**: Vacca renders slides from PCO early in the week; lyrics/landing copy due ~Tuesday.
 - **Source**: weekly SNL service-prep check, 2026-11-09 — `services_plans` on plan 92214544: `items_count: 0`.
 - **Needs-by rationale**: Tuesday lyrics/slides cadence.
 - **Related**: [[Trackers/Actions/Russ Sullivan - Reply with windows to connect before his 11-15 Sunday Night message]] · [[Trackers/Actions/Connor - Remind Seth to fill out PCO every Tuesday night]] · prior week [[Trackers/Actions/Connor - Build the 11-08 Sunday Night plan content in PCO]]
-- **Status**: **Active** — order built, message titled (17 items). Open: closing Host item's discussion prompts + off-ramp.
+- **Status**: **Waiting** — order built, message titled (17 items). Remaining items (scripture slides, closing Host prompts + off-ramp) are pending inputs; nothing for Connor until they arrive (Connor, 11/13).
 
 ### 2026-11-09 (weekly SNL service-prep check) — created
 - Plan 92214544 (Nov 15): 0 items — all five content checks open by default
@@ -85,3 +87,10 @@ blocks: []
 - Connor: title is "Serve", no scripture. Snapshot (17 items) taken; PATCH item 1254556355 title → "Message:Do Good SERVE" (format as 11/8's "Message:Do Good GIVE"); 200; read back 17 items, order unchanged
 - Seen: Seth's worship items now in (Intro, Praise, New Song, The Joy); Host - Welcome description started with a stray "try t" (edited 11/12 6:49 PM ET) — removed on Connor's OK; PATCH 200, 17 items
 [Source: PCO Services 1804248/92214544]
+
+### 2026-11-13 (quick refresh, email)
+- 5:44 PM · Connor to Derek Adye + Brian Parker: any sermon notes from Russ yet? Thinks he'll reference Moses / Pharaoh's daughter; no slides for it on SN or AM
+[Source: Outlook Sent Items, "Sermon Notes from Russ?", 2026-11-13]
+
+### 2026-11-13 (Connor, chat)
+- Connor: remaining items still pending, nothing for him to do yet → active → waiting-on

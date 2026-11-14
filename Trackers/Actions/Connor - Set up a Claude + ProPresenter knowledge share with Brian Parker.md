@@ -1,12 +1,12 @@
 ---
 name: "🧠 Connor: Set up a Claude + ProPresenter knowledge share with Brian Parker"
-status: active
+status: waiting-on
 priority: P3
 owner: "Connor"
 added: 2026-10-27
 deadline: none
 needs_by: none
-meeting: "2026-11-16 15:00"
+waiting_on: "Brian Parker since 2026-11-12 — reply to the proposed time (unconfirmed)"
 last_mentioned: "2026-11-11"
 source: "Text, Connor ↔ Brian Parker [196955, 196958, 196959], 2026-10-26"
 projects:
@@ -23,7 +23,7 @@ blocks: []
 
 - **Source**: 10/26 texts. Connor installed Claude on the Mac Thursday for faster slide builds; Brian wants to see the usage/history and is concerned Claude-driven ProPresenter changes could break linked programs and screens.
 - **Priority rationale**: no date set, nobody blocked.
-- **Status**: Active — Connor proposed Mon 11/16 ~3pm to Brian 11/11; awaiting Brian's reply.
+- **Status**: Waiting on Brian — Connor proposed Mon 11/16 ~3pm (emailed 11/12); time unconfirmed, so no `meeting:` field until he replies.
 - **Blocked by**: none · **Blocks**: nothing
 
 ### 2026-10-27 (quick refresh, text) — created
@@ -39,3 +39,6 @@ blocks: []
 
 ### 2026-11-13 (quick refresh, sweep)
 - Set `meeting:` 2026-11-16 15:00 — proposed off-calendar (Sent, "Sunday Night/Claude Powow", 11/11 7:50 PM); unconfirmed
+
+### 2026-11-13 (Connor, chat)
+- Connor: still pending, nothing for him to do → active → waiting-on; dropped `meeting:` (proposed time, not confirmed)

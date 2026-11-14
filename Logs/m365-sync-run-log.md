@@ -325,3 +325,5 @@ Log the line even when N=M=0 and K=J=0 — a logged "found nothing" run is exact
 - 2026-11-13 16:49 ET | window 15:17–16:47 ET; 1 inbox / 0 sent; 0 writes (Seth 'Setlist 11/22' doc already logged)
 
 - 2026-11-13 17:33 ET | window 16:17–17:32 ET; 4 inbox / 1 sent; 1 write (Rock 'Event Request Completed' ×4 → curiosity-dinner comms note); sent menu email already logged | elapsed ~1m
+
+- 2026-11-13 18:33 ET | quick refresh | window 17:02→18:33 ET | 8 msgs (3 new: 2 sent, 1 in; 5 dup) | 2 action notes updated | elapsed 6m

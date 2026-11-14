@@ -52,3 +52,8 @@ blocks: []
 ### 2026-11-11 (Connor, chat)
 - Connor: done — plan runway extended + schedule requests sent for 11/15, 11/22, 11/29
 - → status: active → on-hold until 11/16 weekly check
+
+### 2026-11-13 (quick refresh, text)
+- 11/11 3:24 PM · Connor asked Simba which weeks before 12/20 he'd like to host; Simba will check his schedule [198373–198374]
+- 11/13 5:56 PM · Connor followed up; Simba: forgot, "will do asap" [198474–198478]. No chase: he committed to reply
+[Source: Text, Simba Kanjanda, rowids 198373–198478]

@@ -332,3 +332,5 @@ Format (adopted 2026-07-16, mirroring [[Workflows/m365-to-obsidian-sync]] §Run 
 - 2026-11-13 16:49 ET | rowids 198466–198469; 3 Seth + 1 spam; 2 closure candidates (Seth 11/22 set, Dan Kim handoff); unresolved 520-557-5335 (spam)
 
 - 2026-11-13 17:33 ET | rowids 198470–198473; huddle confirmed 7:30 Sun (host group), Connor floated 2/7 Inspira to Maggie → new waiting-on item; 0 closure candidates; 0 unresolved
+
+- 2026-11-13 18:33 ET | quick refresh | rowid 198473→198478 | 3 in scope, Simba host-week follow-up (context via rescan) | 1 note

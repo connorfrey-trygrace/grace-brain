@@ -22,7 +22,7 @@ blocks: []
 
 - [ ] After the 11/15 service (~7:30–8 PM, volunteer room), walk Brandon Geddes and Simba through the 11/13 calendar with John on the phone.
 
-- **Prep**: bring the Jan–Mar calendar from the John call (dinners 12/13, 1/17, 2/28, 3/14; teachings 1/10, 1/31, 3/7; Inspira 2/7; Super Bowl 2/14).
+- **Prep**: bring the Jan–Mar calendar from the John call — PDF: [[Events/2026-09-20-Sunday-Night-Service/2026-11-13-Dec-Mar-Calendar.pdf]] (dinners 12/13, 1/17, 2/28, 3/14; teachings 1/10, 1/31, 3/7; Inspira 2/7; Super Bowl 2/14).
 - **Meeting rationale**: agreed on the 11/13 call; Connor's own Outlook block (no invitees). Confirmed by text 11/13: 7:30 PM, volunteer room, budget ~45 min (to ~8:15). Topics: 2027 broadly.
 - **Replaces**: [[Trackers/Actions/John Slye - Confirm the after-Connect gathering Sun 11-15]]
 
