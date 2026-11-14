@@ -338,3 +338,5 @@ Format (adopted 2026-07-16, mirroring [[Workflows/m365-to-obsidian-sync]] §Run 
 - 2026-11-13 21:45 ET | quick refresh | rowids 198479–198498 | 13 in scope | 3 Grace-relevant (Maggie ×2, Simba) | notes 3 | 1 unresolved (640-644-3975, personal spam — skip) | OK
 
 - 2026-11-13 22:02 ET | rowids 198499–198499 | 1 msg in scope (Brandon Geddes host-dates ask) | 1 action note | elapsed ~1m
+
+- 2026-11-14 04:59 ET | agent-hub-visit-local 4AM | no new rowids (max 198499) | 0 in scope | 0 notes | OK
