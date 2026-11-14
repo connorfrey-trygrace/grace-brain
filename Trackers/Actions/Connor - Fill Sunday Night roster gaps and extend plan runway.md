@@ -63,3 +63,7 @@ blocks: []
 ### 2026-11-13 (Connor, chat)
 - ~10:15 PM · Simba scheduled as Host (Evening Connection) on 11/22, 12/6, 12/13, 12/20 — API-verified, status unconfirmed
 - ~10:25 PM · PCO schedule-request emails sent to Simba for all 4 dates (Connor approved); PCO will email Connor as he accepts/declines
+
+### 2026-11-13 (quick refresh, text)
+- 9:59 PM · Connor (ME) asked Brandon Geddes which days until 12/20 he'd like to host [198499]. Awaiting his reply
+[Source: Text, Brandon Geddes, rowid 198499]

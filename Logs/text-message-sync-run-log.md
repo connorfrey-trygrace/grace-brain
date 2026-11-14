@@ -336,3 +336,5 @@ Format (adopted 2026-07-16, mirroring [[Workflows/m365-to-obsidian-sync]] §Run 
 - 2026-11-13 18:33 ET | quick refresh | rowid 198473→198478 | 3 in scope, Simba host-week follow-up (context via rescan) | 1 note
 
 - 2026-11-13 21:45 ET | quick refresh | rowids 198479–198498 | 13 in scope | 3 Grace-relevant (Maggie ×2, Simba) | notes 3 | 1 unresolved (640-644-3975, personal spam — skip) | OK
+
+- 2026-11-13 22:02 ET | rowids 198499–198499 | 1 msg in scope (Brandon Geddes host-dates ask) | 1 action note | elapsed ~1m
