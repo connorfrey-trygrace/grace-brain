@@ -691,3 +691,6 @@ Source: [[Transcripts/2026-08-04 15.59 Connor–Derek Weekly Sync — Expense Co
 - 2026-11-12 9:51 PM (text) · Jean Paul: 5 hand mics for the 11/15 Live Q&A (6 total, 1 for Seth); Seth's setup similar to last week; Connor to text JP Sun AM as reminder [198434–198439]
 - 2026-11-12 12:58 PM (text) · Connor → host chat: proposed after Connect time Sun 11/15 to John (likely Daniel/Revelation gathering — hypothesis) [198410]; awaiting John
 - 2026-11-13 · PCO email 'Your early invite: YP Friendsgiving, Mon 11/23' sent to 19 under-35 volunteers (+JP) → [[Events/2026-09-20-Sunday-Night-Service/2026-11-13-Friendsgiving-Invite-Volunteers-Draft]]
+- 2026-11-14 1:48 PM (email) · Renae Mittelmeier: can't attend YP Friendsgiving 11/23 (works); may miss Sunday evening volunteering for several weeks (gig season)
+- 2026-11-14 8:25 PM (email) · PCO: LaurenNichole Wertz declined Hall 11/22 (switch to auditorium), confirmed Auditorium Doors 11/22; confirmed Hall 11/15
+- 2026-11-14 6:00 PM (email) · YP connect card: Kenny Mok → invite sent by text 11/14 10:50 PM → [[Trackers/Actions/Connor - Invite Kenny (YP connect card) to Sunday Night]]

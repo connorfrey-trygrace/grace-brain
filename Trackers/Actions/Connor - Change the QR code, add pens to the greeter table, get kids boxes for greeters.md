@@ -1,13 +1,12 @@
 ---
 name: "🪧 Connor: Change the QR code, add pens to the greeter table, get kids boxes for greeters"
-status: on-hold
+status: active
 priority: P1
 owner: "Connor Frey"
 added: 2026-11-03
 deadline: 2026-11-15
 needs_by: none
-last_mentioned: "2026-11-11"
-on_hold_since: "2026-11-11 — done on Sunday only (Connor); trigger: 2026-11-15"
+last_mentioned: "2026-11-15"
 source: "Siri capture routed to Grace Tasks by Personal Claude (GRC-38/39/40), 2026-11-03"
 projects:
   - "Sunday Night Launch"
@@ -24,7 +23,7 @@ blocks: []
 
 - **Source**: Connor's Siri capture, routed into Grace Tasks by Personal Claude as three Sunday instances — GRC-38 (due Sun 11/8 5 PM), GRC-39 (11/15), GRC-40 (11/22). One vault note covers all three.
 - **Deadline rationale**: next open Notion instance, Sun 11/15 5 PM (GRC-39); repeats 11/22 (GRC-40) and 11/29 (GRC-50). 11/8 instance (GRC-38) done.
-- **Status**: On hold until Sun 11/15 — done on Sunday only. Which QR code is not stated in the capture (seatback QR? — hypothesis only).
+- **Status**: Active — released from hold 11/15 (trigger date reached); done on Sunday only. Which QR code is not stated in the capture (seatback QR? — hypothesis only).
 
 ### 2026-11-03 (Agent Hub visit)
 - Created from Notion GRC-38/39/40 (Siri capture via Personal Claude)
@@ -48,3 +47,6 @@ blocks: []
 
 ### 2026-11-11 (Connor, chat)
 - Connor: has to be done ON Sunday — nothing to do before then → on-hold, releases 11/15
+
+### 2026-11-15 (cloud 5am, agent hub)
+- → status: on-hold → active (11/15 trigger reached; Sun 5 PM instance GRC-39)
