@@ -97,3 +97,7 @@ blocks: []
 
 ### 2026-11-15 (Connor, chat)
 - Host - Announcements: Wreaths Across America pulled to 11/22 (official graphic mid-week). WAA lines + slide removed; Inspira slide kept; cm-fit 4/6; length 105 → 90; PATCH 200; 17 items verified
+- Host = Skylar (Connor). Closing Host prompts done: Host - Close rewritten from Alexis's AM "Service Close" (bag, adopt/foster team, serve-opps QR, stay for discussion) + Slide: "11.15.26 - Auditorium Discussion Question.png" (Moses story question, 5 options). New "Host - Do Good Update" (seq 12, 60s) from Alexis's AM "Do Good Update". cm-fit 6/6 both; POST 201 + PATCH 200; 18 items verified
+- Host - Do Good Update: added last wk GIVE total $177,171 (Connor); cm-fit 6/6; PATCH 200; 18 items
+- Do Good Update: "Not over yet!"; Host - Close highlights Project Belong (6,000+ foster kids) (Connor); cm-fit 6/6; PATCH 200 x2; 18 items
+- Project Belong moved to Do Good Update after partners line (Connor); split into Update + (cont.); Close reverted to adopt/foster/bag/QR/stay; 19 items verified
