@@ -94,3 +94,6 @@ blocks: []
 
 ### 2026-11-13 (Connor, chat)
 - Connor: remaining items still pending, nothing for him to do yet → active → waiting-on
+
+### 2026-11-15 (Connor, chat)
+- Host - Announcements: Wreaths Across America pulled to 11/22 (official graphic mid-week). WAA lines + slide removed; Inspira slide kept; cm-fit 4/6; length 105 → 90; PATCH 200; 17 items verified

@@ -337,3 +337,5 @@ Log the line even when N=M=0 and K=J=0 — a logged "found nothing" run is exact
 - 2026-11-14 10:46 ET | quick refresh: window 04:35–10:45 ET; inbox 0, sent 0, dups 0; 0 findings
 
 - 2026-11-15 05:05 ET | 2026-11-15 05:04 ET (cloud 5am) | inbox 5, sent 1 | notes updated 3 (Launch-Log, Kenny action, Good Noodles) | closed 0 | candidates 0 | dups 0 | elapsed 5m
+
+- 2026-11-15 10:13 ET | quick refresh | window 04:34–10:12 ET | 2 seen, 2 relevant (Heather WAA graphic slip → 11/18; Connor accepted) | 2 notes touched | elapsed 1m

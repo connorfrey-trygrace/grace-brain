@@ -1,7 +1,7 @@
 ---
 name: "🎚️ Jean Paul: Line up an audio replacement for Dec 6 (Sabaton tickets)"
 status: waiting-on
-priority: P3
+priority: P2
 owner: "Jean Paul"
 added: 2026-09-15
 deadline: 2026-12-06
@@ -32,3 +32,6 @@ waiting_on: "Jean Paul Tauler since 2026-10-13 — Dec 6 audio replacement"
 
 ### 2026-10-13 (quick refresh, sweep, Step 3)
 - Owner gate: Jean Paul's deliverable → status: active → waiting-on
+
+### 2026-11-15 (quick refresh, sweep, Step 3.5)
+- P3 → P2: within 21 days of needs_by 12/6

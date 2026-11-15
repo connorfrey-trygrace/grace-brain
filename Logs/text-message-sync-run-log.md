@@ -346,3 +346,5 @@ Format (adopted 2026-07-16, mirroring [[Workflows/m365-to-obsidian-sync]] §Run 
 - 2026-11-14 12:10 ET | agent-hub-visit-local noon | rowid 198500→198501 | 1 new (0 in the excluded 1:1, never read) | findings 0, folded 0 (marketing spam) | OK | elapsed <1m
 
 - 2026-11-15 04:10 ET | agent-hub-visit-local 4am | rowid 198501→198564 | 45 in scope (excluded 1:1 never read) | 1 Grace-relevant (Kenny invite) | folded 1 new note (closure-candidate) + 1 watchlist row | OK | elapsed 3m
+
+- 2026-11-15 10:13 ET | quick refresh | ROWID 198565–198579 (15 msgs) | 2 Grace findings (JP mic reminder → closure-candidate; Kenny reply logged) | Kenny Mok added to Phone-Index | elapsed 1m
