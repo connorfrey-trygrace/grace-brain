@@ -41,6 +41,7 @@ The **1:1 iMessage thread with Sky is excluded at the SQL level** by [[Workflows
 - [[Transcripts/2026-09-21 11.36 Sunday Night Launch Debrief — One Question & Time Signposting]] — at the 9/20 post-launch debrief she was **the one with the numbers**: sitting outside, she tracked departures at 6:55, 7:00, 7:05, a larger group at 7:15 when questions began, more at 7:26, and Simba Kanjanda's formal close at 7:41. On the Inspira side she argued an 8 PM dance start is too big an ask on a Sunday (*"the energy shift of starting something new in a different location and we're moving our bodies"*) while a casual on-site off-ramp can start later. Also the one who warned that late arrivals would miss a front-loaded peer-discussion slot.
 - [[Transcripts/2026-10-20 22.32 Connor Boot Camp Story — Rehearsal with Skylar]]: heard Connor's full Boot Camp story read-aloud and gave wording notes (the pact, 'believed Jesus died for my sins')
 - [[Transcripts/2026-10-07 17.09 Connor–Derek Weekly Sync — 160 Attendance, Host Pool & Survey Sundays]]: mentioned only. Ushered 10/4, added chairs, handled the first-time attendee and the volunteer form, and texted Maggie afterward
+- [[Transcripts/2026-11-15 20.17 Sunday Night Huddle — Revelation Series Plan & Host Availability]]: in the room. Flagged that people not into Revelation could skip connection for 12 weeks; suggested a lighter breakout-room track (e.g. "what is baptism") — adopted.
 
 ## Events & threads
 - [[Events/2026-09-20-Sunday-Night-Service/2026-09-20-Sunday-Night-Service-Launch]]

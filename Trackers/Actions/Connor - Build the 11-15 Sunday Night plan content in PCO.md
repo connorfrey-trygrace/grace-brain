@@ -1,6 +1,6 @@
 ---
 name: "📋 Connor: Build the 11-15 Sunday Night plan content in PCO"
-status: waiting-on
+status: closure-candidate
 priority: P1
 owner: "Connor Frey"
 added: 2026-11-09
@@ -101,3 +101,8 @@ blocks: []
 - Host - Do Good Update: added last wk GIVE total $177,171 (Connor); cm-fit 6/6; PATCH 200; 18 items
 - Do Good Update: "Not over yet!"; Host - Close highlights Project Belong (6,000+ foster kids) (Connor); cm-fit 6/6; PATCH 200 x2; 18 items
 - Project Belong moved to Do Good Update after partners line (Connor); split into Update + (cont.); Close reverted to adopt/foster/bag/QR/stay; 19 items verified
+
+### 2026-11-15 (quick refresh, text) — closure candidate
+- → status: waiting-on → closure-candidate
+- Service ran tonight (Anna Maia on CM, Live Q&A on, Russ needed no handler) [198595–198611]. Open sub-item: were scripture slides ever needed? Close on Connor's word.
+[Source: iMessage 198609–198611]

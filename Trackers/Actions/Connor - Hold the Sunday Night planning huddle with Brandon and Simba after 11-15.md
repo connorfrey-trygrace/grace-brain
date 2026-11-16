@@ -1,12 +1,12 @@
 ---
 name: "🗣️ Connor: Hold the Sunday Night planning huddle with Brandon and Simba after 11/15"
-status: active
+status: completed
 priority: P1
 owner: "Connor"
 added: 2026-11-13
 deadline: 2026-11-15
 needs_by: none
-last_mentioned: "2026-11-13"
+last_mentioned: "2026-11-15"
 meeting: "2026-11-15 19:30"
 source: "[[Transcripts/2026-11-13 15.40 Connor–John Slye Call — Jan–Mar 2027 Sunday Night Calendar]]"
 projects:
@@ -17,6 +17,7 @@ people:
   - "[[People/Simba Kanjanda]]"
 blocked_by: []
 blocks: []
+resolved: 2026-11-15
 ---
 # 🗣️ Connor: Hold the Sunday Night planning huddle with Brandon and Simba after 11/15
 
@@ -24,6 +25,7 @@ blocks: []
 
 - **Prep**: bring the Jan–Mar calendar from the John call — PDF: [[Events/2026-09-20-Sunday-Night-Service/2026-11-13-Dec-Mar-Calendar.pdf]] (dinners 12/13, 1/17, 2/28, 3/14; teachings 1/10, 1/31, 3/7; Inspira 2/7; Super Bowl 2/14).
 - **Meeting rationale**: agreed on the 11/13 call; Connor's own Outlook block (no invitees). Confirmed by text 11/13: 7:30 PM, volunteer room, budget ~45 min (to ~8:15). Topics: 2027 broadly.
+- **Status**: Completed 2026-11-15 — huddle held (Skylar Frey also in the room; John by phone). Follow-ups: [[Trackers/Actions/John Slye - Send the 12-week Revelation series overview to the host group]] · [[Trackers/Actions/Brandon Geddes - Send Connor availability through Easter 2027]] · [[Trackers/Actions/Simba Kanjanda - Send Connor availability through Easter 2027]] · [[Trackers/Actions/Connor - Text the Jan–Mar Sunday Night calendar to the huddle group]]
 - **Replaces**: [[Trackers/Actions/John Slye - Confirm the after-Connect gathering Sun 11-15]]
 
 ### 2026-11-13 (transcript) — created
@@ -35,3 +37,7 @@ blocks: []
 
 ### 2026-11-13 (quick refresh, sweep)
 - Step 3.5: P2 → P1 (2 days to 11/15)
+
+### 2026-11-15 (quick refresh, transcript) — completed
+- Huddle held 7:40 PM; recorded
+[Source: [[Transcripts/2026-11-15 20.17 Sunday Night Huddle — Revelation Series Plan & Host Availability]]]

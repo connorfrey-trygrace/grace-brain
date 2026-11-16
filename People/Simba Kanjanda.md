@@ -31,6 +31,7 @@ Worth reading as one position, not four remarks — it has been consistent since
 - [[Transcripts/2026-09-13 17.53 Sunday Night Hosts Prep — Week 1-2 Run-of-Show Set]]
 - [[Transcripts/2026-09-21 11.36 Sunday Night Launch Debrief — One Question & Time Signposting]]
 - [[Transcripts/2026-10-07 17.09 Connor–Derek Weekly Sync — 160 Attendance, Host Pool & Survey Sundays]]: mentioned only. Pencilled in as 10/11 co-host with Connor, pending his confirmation
+- [[Transcripts/2026-11-15 20.17 Sunday Night Huddle — Revelation Series Plan & Host Availability]]: by phone. Asked how John will handle competing millennial views and the lake of fire; voted for text as the team channel; owes availability through Easter.
 
 ## Events & threads
 - [[Events/2026-09-20-Sunday-Night-Service/2026-09-20-Sunday-Night-Service-Launch]] — week-1 host; connect-time breakout lead

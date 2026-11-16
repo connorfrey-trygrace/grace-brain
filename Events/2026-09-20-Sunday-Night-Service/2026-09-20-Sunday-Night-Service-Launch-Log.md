@@ -699,3 +699,7 @@ Source: [[Transcripts/2026-08-04 15.59 Connor–Derek Weekly Sync — Expense Co
 - 2026-11-15 (Connor, chat) · 11/15 Host - Do Good Update: last wk GIVE total $177,171 added (Connor); partners line shortened; cm-fit 6/6; PATCH 200; 18 items
 - 2026-11-15 (Connor, chat) · 11/15: Do Good Update adds "Not over yet!"; Host - Close leads with PROJECT BELONG (6,000+ foster kids, team outside), bag + serve QR merged; cm-fit 6/6 both; PATCH 200 x2; 18 items
 - 2026-11-15 (Connor, chat) · 11/15: Project Belong (6,000+ foster kids) moved into Do Good Update after "100% to our partners"; split → Host - Do Good Update (40s) + Host - Do Good Update (cont.) (20s: Not over yet / SERVE / Welcome Russ); Host - Close back to adopt/foster team + bag + serve QR + stay; cm-fit OK all three; PATCH 200 x2, POST 201; 19 items verified
+- 2026-11-15 2:42 PM (text) · 11/15 CM: Anna Maia ran the confidence monitor in place of Alexis; run-through ~4:30 [198595–198600]
+- 2026-11-15 3:41 PM (text) · 11/15: Brandon Geddes arrived 5:30 → greeted front entrance with Victory; Skylar hosted [198603–198608]
+- 2026-11-15 (text, chat2446) · 11/15: Russ needed no handler; Live Q&A on (Derek to John) [198609–198611]
+- 2026-11-15 7:40 PM · Post-service huddle held (John + Simba by phone) → [[Transcripts/2026-11-15 20.17 Sunday Night Huddle — Revelation Series Plan & Host Availability]]

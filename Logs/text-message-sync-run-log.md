@@ -350,3 +350,5 @@ Format (adopted 2026-07-16, mirroring [[Workflows/m365-to-obsidian-sync]] §Run 
 - 2026-11-15 10:13 ET | quick refresh | ROWID 198565–198579 (15 msgs) | 2 Grace findings (JP mic reminder → closure-candidate; Kenny reply logged) | Kenny Mok added to Phone-Index | elapsed 1m
 
 - 2026-11-15 12:10 ET | agent-hub-visit-local noon | ROWID 198580–198589 (10 msgs in scope, excluded 1:1 never read) | 0 Grace findings | no notes changed | OK
+
+- 2026-11-15 22:05 ET | quick refresh: rowid 198590–198633, 44 msgs; 4 Launch-Log lines, 2 closure candidates (11-15 PCO build, Jan–Mar calendar text)
