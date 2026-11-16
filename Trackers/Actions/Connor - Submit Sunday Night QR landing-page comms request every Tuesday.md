@@ -6,7 +6,7 @@ owner: "Connor Frey"
 added: 2026-11-04
 deadline: 2026-11-17
 needs_by: none
-last_mentioned: "2026-11-13"
+last_mentioned: "2026-11-16"
 source: "Outlook, \"QR Code Request Each Tuesday\", Derek Adye, 2026-11-04"
 projects:
   - "Sunday Night Launch"
@@ -51,3 +51,7 @@ blocks: []
 ### 2026-11-13 (quick refresh, email)
 - 11:35 AM · Heather: "Decemer" typo on the Inspira event page fixed; 2:11 PM Connor thanks
 [Source: Outlook, "Re: Sunday Night QR landing page - 11/15", Heather Noble, 2026-11-13]
+
+### 2026-11-16 (weekly SNL service-prep check)
+- No 11/22 landing-page send to Heather/Amanda in Sent Items since 11/11 (only the 11/15 thread). Content change implied: Do Good serve week ends (tiles all pointed to Serve for 11/15); Wreaths Across America moved to 11/22. Due Tue 11/17 (deadline already 11/17)
+[Source: Outlook Sent Items 2026-11-11 → 11-16; PCO 1804248/92214545]

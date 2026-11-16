@@ -4,8 +4,8 @@ status: active
 priority: P1
 owner: "Connor"
 added: 2026-11-09
-deadline: 2026-11-15
-needs_by: 2026-11-11
+deadline: 2026-11-22
+needs_by: 2026-11-18
 last_mentioned: "2026-11-16"
 source: "PCO Services, service type 1804248 (Sunday Night), snl-week-ahead scheduled check"
 projects:
@@ -19,11 +19,13 @@ blocks: []
 
 - [x] Run the ad-hoc task **`snl-extend-plans`** ("Run now") — plans end 12/13, under 6 weeks out
 - [x] Send PCO schedule requests for 11/15, 11/22, 11/29: Connection (hosts), Captain, Greeters, Band
+- [ ] Run **`snl-extend-plans`** ("Run now") again — plans end 12/20, 4.9 wks out (12/27 held for holiday schedule)
+- [ ] Fill 11/29 host (Connection empty) and 12/6 Audio (no one scheduled); Captain empty all three Sundays
 
-- **Priority rationale**: 11/15 is 6 days out with 12 positions open and no host or captain scheduled.
-- **Deadline rationale**: 11/15 is the first under-staffed Sunday.
+- **Priority rationale**: 11/22 is 6 days out with 7 positions open and no captain; 11/29 has no host.
+- **Deadline rationale**: 11/22 is the next under-staffed Sunday.
 - **Needs-by rationale**: requests out by Wed so volunteers can confirm before Sunday.
-- **Status**: Active 11/16 — 11/16 snl-week-ahead check due (released from hold); 11/11 pass done (Connor). Standing note for the weekly `snl-week-ahead` check; supersedes [[Trackers/Actions/Connor - Schedule Sunday Night volunteers for 10-18 onward]] (completed 11/7). Update this note weekly; don't mint a new one.
+- **Status**: Active 11/16 — snl-week-ahead check run; open gaps 11/22–12/6 and runway <6 wks (see 11/16 entry). Standing note for the weekly `snl-week-ahead` check; supersedes [[Trackers/Actions/Connor - Schedule Sunday Night volunteers for 10-18 onward]] (completed 11/7). Update this note weekly; don't mint a new one.
 - **Notes**: Set Up / Breakdown / Events teams are out of scope (Connor, 10/28). PCO read tool gives plan-level `needed_positions_count` only, not per team. Host blockouts: [[Trackers/Actions/Sunday Night hosts - Enter blockouts through November in PCO]].
 - **Blocked by**: none
 
@@ -69,3 +71,11 @@ blocks: []
 
 ### 2026-11-16 (cloud 5am, agent hub)
 - → status: on-hold → active (11/16 trigger reached: next snl-week-ahead check). PCO roster check itself not run from cloud
+
+### 2026-11-16 (snl-week-ahead, PCO read)
+- Runway: furthest plan 12/20 (4.9 wks, 5 future plans) — below 6; next step `snl-extend-plans` (12/27 still held)
+- 11/22: 11 on, 7 open · 11/29: 7 on, 11 open · 12/6: 7 on, 11 open
+- Captain empty all three. Connection: Simba only 11/22, 12/6 (unconfirmed); 11/29 none. Band = Seth only. Ushers: Sean + Michael Thompson 11/22; Sean only 11/29, 12/6. Audio/Visual: 12/6 Vacca (Slides) only — no Audio
+- Unconfirmed: Simba (Host 11/22, 12/6), Michael Vacca (Slides 11/29, 12/6). LaurenNichole Wertz declined Hall 11/22 — self-swap, confirmed Auditorium Doors same night
+- Brandon Geddes not yet on any plan (11/13 ask still open)
+[Source: PCO Services 1804248, plans 92214545–47]
