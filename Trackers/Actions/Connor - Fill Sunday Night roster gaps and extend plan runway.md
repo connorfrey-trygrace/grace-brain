@@ -1,13 +1,12 @@
 ---
 name: "📋 Connor: Fill Sunday Night roster gaps and extend plan runway"
-status: on-hold
+status: active
 priority: P1
 owner: "Connor"
 added: 2026-11-09
 deadline: 2026-11-15
 needs_by: 2026-11-11
-last_mentioned: "2026-11-13"
-on_hold_since: "2026-11-11 — this week's pass done; trigger: next snl-week-ahead check 2026-11-16"
+last_mentioned: "2026-11-16"
 source: "PCO Services, service type 1804248 (Sunday Night), snl-week-ahead scheduled check"
 projects:
   - "Sunday Night Launch"
@@ -24,7 +23,7 @@ blocks: []
 - **Priority rationale**: 11/15 is 6 days out with 12 positions open and no host or captain scheduled.
 - **Deadline rationale**: 11/15 is the first under-staffed Sunday.
 - **Needs-by rationale**: requests out by Wed so volunteers can confirm before Sunday.
-- **Status**: On hold until the 11/16 snl-week-ahead check — 11/11 pass done (Connor). Standing note for the weekly `snl-week-ahead` check; supersedes [[Trackers/Actions/Connor - Schedule Sunday Night volunteers for 10-18 onward]] (completed 11/7). Update this note weekly; don't mint a new one.
+- **Status**: Active 11/16 — 11/16 snl-week-ahead check due (released from hold); 11/11 pass done (Connor). Standing note for the weekly `snl-week-ahead` check; supersedes [[Trackers/Actions/Connor - Schedule Sunday Night volunteers for 10-18 onward]] (completed 11/7). Update this note weekly; don't mint a new one.
 - **Notes**: Set Up / Breakdown / Events teams are out of scope (Connor, 10/28). PCO read tool gives plan-level `needed_positions_count` only, not per team. Host blockouts: [[Trackers/Actions/Sunday Night hosts - Enter blockouts through November in PCO]].
 - **Blocked by**: none
 
@@ -67,3 +66,6 @@ blocks: []
 ### 2026-11-13 (quick refresh, text)
 - 9:59 PM · Connor (ME) asked Brandon Geddes which days until 12/20 he'd like to host [198499]. Awaiting his reply
 [Source: Text, Brandon Geddes, rowid 198499]
+
+### 2026-11-16 (cloud 5am, agent hub)
+- → status: on-hold → active (11/16 trigger reached: next snl-week-ahead check). PCO roster check itself not run from cloud

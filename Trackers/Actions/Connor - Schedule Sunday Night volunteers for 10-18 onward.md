@@ -75,3 +75,7 @@ resolved: 2026-11-07
 ### 2026-11-07 (quick refresh, agent hub — Connor changed)
 - Connor: Done ticked in Notion → completed
 [Source: Notion Grace Tasks, Connor: Done]
+
+### 2026-11-16 (email)
+- 11:33 PM · Mikka Mendoza confirmed Auditorium Doors (Evening Greeters) 11/22 (PCO)
+[Source: Outlook, PCO "Mikka Mendoza has accepted multiple requests", 2026-11-16]
