@@ -29,7 +29,7 @@ Source: Email — Derek Adye → AllStaff, "Staff Mtg Recap 8/11/26", 2026-08-11
 Source: Planning Center Services, plan 91130954 (9.20.2026 PM), team email sent 2026-09-20.
 
 - **Call-time reminder sent to all 9 scheduled greeters and ushers** at Connor's request, via the plan's team-email screen. Recipients — **Evening Greeters:** Cameron Waggener, Elizabeth Goodiel, Michael Thompson, Sarah Payne, Shannon Coen, Skylar Frey *(Skylar still unconfirmed on the plan)*; **Evening Ushers:** CJ Sidener, Sean Liesegang, Victoria Nayiga. Subject: *"Tonight: call time is 5:00 PM."* Body gave 5:00 call time (huddle + pray), 5:30 doors, 6:00 service.
-- **Connor asked for "before 5:30" and changed it to 5:00 when the discrepancy was raised** — the Day-Of Planner's 5:00 call time stands as the number volunteers are told, doors 5:30. Settles in practice the call time [[Trackers/Actions/Connor - Plan Sunday night pre-service huddle]] had left unagreed.
+- **Connor asked for "before 5:30" and changed it to 5:00 when the discrepancy was raised** — the Day-Of Planner's 5:00 call time stands as the number volunteers are told, doors 5:30. Settles in practice the call time [[Archive/Actions/Connor - Plan Sunday night pre-service huddle]] had left unagreed.
 - **A recurring Saturday-morning version was considered and deliberately not built** (Connor's call, 2026-09-20): PCO has no per-team automated reminder — its native scheduling reminders are org-wide and would also hit Sunday-morning teams — so it would take a scheduled task driving the PCO email screen in a browser. Revisit after a few weeks of the service running.
 
 
@@ -703,3 +703,7 @@ Source: [[Transcripts/2026-08-04 15.59 Connor–Derek Weekly Sync — Expense Co
 - 2026-11-15 3:41 PM (text) · 11/15: Brandon Geddes arrived 5:30 → greeted front entrance with Victory; Skylar hosted [198603–198608]
 - 2026-11-15 (text, chat2446) · 11/15: Russ needed no handler; Live Q&A on (Derek to John) [198609–198611]
 - 2026-11-15 7:40 PM · Post-service huddle held (John + Simba by phone) → [[Transcripts/2026-11-15 20.17 Sunday Night Huddle — Revelation Series Plan & Host Availability]]
+- 2026-11-16 8:31 AM (email) · Alexis Hendrickson OK'd 1/20 Boot Camp S4 start; created Rock group "Bible Bootcamp - Winter 2027"
+- 2026-11-16 11:15 AM (email) · Derek: hold off on Sean Liesegang + Liz Goodiel as host candidates for now (re: Connor's 11/13 ask) ["Re: Hosts as leaders"]
+- 2026-11-16 8:13 PM · YP connect card: Absala Abera → [[Trackers/Actions/Connor - Invite Absala Abera (YP connect card) to Sunday Night]]
+- 2026-11-16 8:56 PM (email) · Invitation to Sunday Night sent to Absala Abera

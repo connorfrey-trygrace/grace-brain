@@ -23,7 +23,7 @@ blocks: []
 - [ ] Make a 10-minute sign for Felipe's story
 
 - **Source**: John to group 8:21 AM: "Connor is printing the table guides and hosting" [197027]; Connor said he'd make the sign, 8:11 AM [197024].
-- **Parent**: [[Trackers/Actions/Connor - Run point hosting Boot Camp 10-28]]
+- **Parent**: [[Archive/Actions/Connor - Run point hosting Boot Camp 10-28]]
 - **Status**: **Completed 2026-11-01** — Connor confirmed done.
 
 ### 2026-10-28 (quick refresh, text) — created

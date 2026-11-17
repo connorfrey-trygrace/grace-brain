@@ -48,7 +48,7 @@ blocks: []
 ### 2026-10-28 (quick refresh, text)
 - 7:37 AM · John: host and run the show; Felipe's story runs long — suggests a 10-min sign + "find Felipe after" [197023]
 - 8:11 AM · Connor: will make the sign and sit in the booth [197024]
-- 8:21 AM · John (group): misses week 7; team covers setup/food/reset; Connor prints table guides + hosts [197027] — supersedes 10/26 "John handles all prep" for printing → [[Trackers/Actions/Connor - Print table guides and make Felipe time sign for Boot Camp 10-28]]
+- 8:21 AM · John (group): misses week 7; team covers setup/food/reset; Connor prints table guides + hosts [197027] — supersedes 10/26 "John handles all prep" for printing → [[Archive/Actions/Connor - Print table guides and make Felipe time sign for Boot Camp 10-28]]
 - 11/4: same length concern for Brian Sulc's story; John attending [197023]
 [Source: Text, John Slye, chat 2 + group 2659, 2026-10-28]
 

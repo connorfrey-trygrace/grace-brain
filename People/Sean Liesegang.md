@@ -17,6 +17,7 @@ tags: [person, grace-volunteer]
 This is the thing to know about him. Each was made, none was answered on the record:
 
 1. **Host pair with [[People/Liz Goodiel]]** — one of the four circulating pairs from 8/17. Both deferred their answer to the 8/30 formation lunch, and **the question was never actually put to them in the room.** Still open.
+   - 2026-11-16 · Derek: hold off on Sean + Liz as host candidates for now (living situation); Connor raised it 11/13 [Source: Outlook, "Re: Hosts as leaders", Derek Adye, 2026-11-16]
 2. **Question synthesis** — his own idea, texted the night of 8/30: group related questions under umbrella questions so someone whose question goes repeatedly unanswered isn't driven away. Nobody picked it up. It is arguably the same problem [[Trackers/Actions/Connor - Build question-list pruning into the AhaSlides system]] is now trying to solve.
 3. **Usher team lead** — Connor raised it with Derek Adye on 9/1; Derek's response was *"they did not say no."* Never converted into an ask to Sean himself.
 

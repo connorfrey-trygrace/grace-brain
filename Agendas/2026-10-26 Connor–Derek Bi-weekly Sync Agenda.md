@@ -26,7 +26,7 @@ participants:
 - **Christmas settled:** 12/24 is three 35-min family services (3:30 / 4:30 / 5:30), and John excused Connor. 12/27 is online only. Connor's Super Bowl 2/14 input is parked until 11/30. → [[Trackers/Actions/Connor - Weigh in on Sunday Night holiday schedule (Christmas, 12-27, Super Bowl)]]
 - **November teaching + dinners:** 11/8 Derek, 11/15 Russ Sullivan, 11/22 Anna. Derek confirmed Russ is OK with a short Q&A right after the sermon; 11/8 goes to in-seat groups of 2–4; no church-hosted dinner 11/8. → [[Trackers/Actions/John Slye - Set cadence and next date for the Sunday-evening dinner]]
 - **Security follow-up sent:** Connor emailed Brian Parker 10/22 per Derek's direction. No reply yet. → [[Trackers/Actions/Connor - Check on the second Sunday Night security person through Brian Parker]]
-- **Boot Camp:** Connor delivered his story 10/21; he runs point hosting 10/28. → [[Trackers/Actions/Connor - Run point hosting Boot Camp 10-28]]
+- **Boot Camp:** Connor delivered his story 10/21; he runs point hosting 10/28. → [[Archive/Actions/Connor - Run point hosting Boot Camp 10-28]]
 - **Volunteer onboarding:** Kay has the spec for Rock's automatic PCO welcome email (10/14), still in progress. → [[Archive/Actions/Kay Carter-Corker - Turn on Rock's automatic Planning Center welcome email]]
 - **All Staff share** moved from 10/20 to the 11/17 All Staff. → same note as 10/11 above
 

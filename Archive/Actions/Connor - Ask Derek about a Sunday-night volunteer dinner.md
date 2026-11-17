@@ -31,7 +31,7 @@ people:
   - Food already has an owner in **Callie Taylor** *(John Slye, 2026-08-12)*, and she is part-time wanting more hours, so the ask is welcome rather than an imposition.
   - Budget code already exists: **8092, Connection Sundays under Community Life** — the code Derek locked on 2026-08-04 for Sunday-night food and activity spend. So this is a question about appetite, not about whether there is a line to charge it to.
 - **What to actually ask**: does Grace want to feed the Sunday-night volunteers, who pays, and does it run from 9/20 or wait?
-- **Related**: [[Archive/Actions/Connor - Brief Callie Taylor through Jennifer Claffey on owning food]] · [[Trackers/Actions/Connor - Plan Sunday night pre-service huddle]] (the 5:00 block this would attach to)
+- **Related**: [[Archive/Actions/Connor - Brief Callie Taylor through Jennifer Claffey on owning food]] · [[Archive/Actions/Connor - Plan Sunday night pre-service huddle]] (the 5:00 block this would attach to)
 - **Blocked by**: none · **Blocks**: nothing
 
 ### 2026-08-22 — created

@@ -32,7 +32,7 @@ participants:
 
 The men's Boot Camp relaunches for an 8-week fall session, syncing with the new "Why It's All About Jesus" sermon series (launches Sun, Sept 13 — see [[Events/2026-09-20-Sunday-Night-Service/2026-09-20-Sunday-Night-Service-Launch]]). Format decisions came out of a leaders' vision-setting lunch on 2026-07-19 (12 leaders + Connor + John), reviewing what worked in session 1 (Judges) and session 2 (Ephesians): keep the big-group-then-small-tables structure, keep the same table assignments week to week, add a dedicated facilitator per table, simplify discussion questions to 1-3 deep prompts, and continue personal-testimony "stage stories" kept concise and on-theme. Session 3's book is the **Gospel of John**, studied verse-by-verse to track the new series. A second run is planned for January.
 
-**🗓️ Wed 10/28 (2026-10-22 text):** John + Derek out (Atlanta) — **Connor hosts**, Felipe Gomez shares his story ("My Colombian Brother," <10 min), Brian Sulc runs logistics; John is prepping Felipe + Sulc. Only 2 Wednesdays left in Season 3 → **11/4 finale**. → [[Trackers/Actions/Connor - Run point hosting Boot Camp 10-28]] [196575–196577]
+**🗓️ Wed 10/28 (2026-10-22 text):** John + Derek out (Atlanta) — **Connor hosts**, Felipe Gomez shares his story ("My Colombian Brother," <10 min), Brian Sulc runs logistics; John is prepping Felipe + Sulc. Only 2 Wednesdays left in Season 3 → **11/4 finale**. → [[Archive/Actions/Connor - Run point hosting Boot Camp 10-28]] [196575–196577]
 
 **🗓️ Wed 11/4 finale (2026-11-03 text):** Connor tells John Slye *"Strong chance I will miss BC tomorrow"* — no coverage named. [197830]
 
