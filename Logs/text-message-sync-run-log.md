@@ -360,3 +360,5 @@ Format (adopted 2026-07-16, mirroring [[Workflows/m365-to-obsidian-sync]] §Run 
 - 2026-11-16 20:42 ET | quick refresh | rowids 198649–198699 | 50 in scope | 1 Grace-relevant (John Slye: 2026 survey results coming, informational) | 0 new items | 0 closure candidates | 1 unresolved (640-644-3975, non-Grace) | elapsed <1m
 
 - 2026-11-17 06:07 ET | agent-hub-visit-local 4am | no new messages since ROWID 198699 (0 in scope, excluded 1:1 never read) | no notes changed | OK
+
+- 2026-11-17 12:59 ET | agent-hub-visit-local noon | ROWID 198700–198704: 3 in scope (late WAL replay of 11/16 evening), 1 Grace-relevant (Emily Horneffer offering call times) | 1 note created (Connor - Reply to Emily Horneffer and hold the 15-min captaining chat), meeting: set | 0 closure candidates | OK
