@@ -7,7 +7,7 @@ owner: "Connor"
 added: 2026-11-16
 deadline: none
 needs_by: none
-last_mentioned: "2026-11-16"
+last_mentioned: "2026-11-17"
 source: "Outlook, info@trygrace.org 'Absala Abera has filled out a Young Professionals connect card', 2026-11-16 8:13 PM ET"
 projects:
   - "Sunday Night Launch"
@@ -44,3 +44,7 @@ So glad you're with us.
 ### 2026-11-16 (Connor, chat)
 - 8:56 PM · "I" → "We" per Connor; invite sent → closed
 [Source: Outlook Sent Items, "Invitation to Sunday Night", 2026-11-16]
+
+### 2026-11-17 (quick refresh, email)
+- 9:22 AM · Absala replied: requested to join the WhatsApp group; plans to attend Sunday evenings starting 11/22
+[Source: Outlook, "Re: Invitation to Sunday Night", 2026-11-17]

@@ -10,9 +10,9 @@ needs_by: 2026-08-30
 last_mentioned: "2026-08-28"
 source: "[[Transcripts/2026-06-16 16.41 ROC Orientation with Kay — Event Registration & Comms Walkthrough]]; [[Transcripts/2026-07-07 09.58 Planning Center Training with Jennifer — Sunday Night Service Setup]]"
 blocks:
-  - "[[Trackers/Actions/Connor - Confirm Sunday night custodian (default Alex)]]"
-  - "[[Trackers/Actions/Connor - Recruit Sunday night greeters (20s–30s pool)]]"
-  - "[[Trackers/Actions/Connor - Recruit Sunday night usher crew (lean; CJ willing)]]"
+  - "[[Archive/Actions/Connor - Confirm Sunday night custodian (default Alex)]]"
+  - "[[Archive/Actions/Connor - Recruit Sunday night greeters (20s–30s pool)]]"
+  - "[[Archive/Actions/Connor - Recruit Sunday night usher crew (lean; CJ willing)]]"
 projects:
   - "Sunday Night Launch"
 source_line: 197
@@ -25,7 +25,7 @@ source_line: 197
 - **Needs-by rationale**: roster scheduled before launch (estimate)
 - **Status**: **Completed 2026-08-28 (Connor).** The 21 signups are loaded into their `SNL` Rock groups, the sync push ran, PCO teams are set as tag teams and members auto-populate — verified live on 8/28. The post-8/30-lunch pass for anyone who signs up at the lunch is **not** held here; it rides on [[Archive/Actions/Connor - Message the Sunday-night volunteers to sign up for shifts in PCO]].
 - **Notes**: As individual roles get staffed, they land here. **Gates:** greeters, ushers, custodian, host (and, downstream of greeters, name tags). Does **NOT** gate worship team, second leader, or lights (PCO-independent per Connor 6/21). **2026-07-21: the old blocked-by-a-Stale-item ambiguity is resolved by retiring the Stale section** — its blocker ([[Archive/Actions/Connor - Get Kay to create the Sunday Night service type + Rock↔Planning Center sync tags]]) is Active (flagged, restored from the old Stale bucket 2026-07-21), so per Step 3 this item is legitimately blocked and should not itself be flagged regardless of how long "Last mentioned" ages — that's now unambiguous since a flagged blocker is still an open, non-Completed item.
-- **Blocks**: [[Trackers/Actions/Connor - Confirm Sunday night custodian (default Alex)]] · [[Trackers/Actions/Connor - Recruit Sunday night greeters (20s–30s pool)]] · [[Trackers/Actions/Connor - Recruit Sunday night usher crew (lean; CJ willing)]] · and, one link further down, [[Trackers/Actions/Connor - Set up weekly name-tag station for Sunday night]] (gated on greeters)
+- **Blocks**: [[Archive/Actions/Connor - Confirm Sunday night custodian (default Alex)]] · [[Archive/Actions/Connor - Recruit Sunday night greeters (20s–30s pool)]] · [[Archive/Actions/Connor - Recruit Sunday night usher crew (lean; CJ willing)]] · and, one link further down, [[Archive/Actions/Connor - Set up weekly name-tag station for Sunday night]] (gated on greeters)
 - **2026-08-04 (quick refresh sweep) — bidirectional link repaired, no status change.** Four notes named this item in their `blocked_by`, but this note carried no `blocks` field at all, so the dependency was invisible from the linchpin end and from any Base query over `blocks`. The **Gates:** line in Notes had the information in prose since 6/21; it is now structured. Band left at **P3** deliberately: the critical-path P2 floor stays suspended while this item is itself blocked by the Kay/Rock item, per ## Priority. It floors to P2 the moment that clears — and needs-by 2026-08-30 puts it inside the ~3-week P2 escalation window in about four days regardless, so expect it to move at the next sweep.
 
 - **2026-08-06 (Connor) — the blocker is being actively worked for the first time since 7/07.** Connor is scheduling a three-way Kay + Jennifer Planning Center setup sync for early next week ([[Archive/Actions/Connor - Schedule the Kay + Jennifer Planning Center setup sync]], deadline 8/14), in which Kay would create the Rock service type and sync tags live. This item stays blocked, but the chain is moving.
@@ -91,7 +91,7 @@ source_line: 197
 ### 2026-08-28 (Connor asked for a bucket check)
 - worksheet built: [[Events/2026-09-20-Sunday-Night-Service/2026-09-20-Sunday-Night-Service-SNL-Group-Load-Check]] — expected membership of every SNL group, name by name, against the 8/26 load
 - **2 of 8 form areas loaded** (Greeter 15, Usher 9). Setup 10 · Breakdown 10 · Slide 6 · Host 3 · Band 4 = **43 memberships outstanding**
-- 3 registrants (Joe Lu, Lihong Lu, Mara Marin) have no area at all → [[Trackers/Actions/Connor - Follow up with the 4th-service volunteer signups on role placement]]
+- 3 registrants (Joe Lu, Lihong Lu, Mara Marin) have no area at all → [[Archive/Actions/Connor - Follow up with the 4th-service volunteer signups on role placement]]
 - 1 fake test record (Trixie Fake-Carter-Corker) to remove from SNL Greeter before any volunteer sees a schedule
 - caveat recorded: the load state is the 2026-08-26 Group Viewer read, not a live Rock read
 

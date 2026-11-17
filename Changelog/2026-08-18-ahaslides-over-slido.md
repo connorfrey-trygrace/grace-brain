@@ -2,7 +2,7 @@
 type: changelog
 date: 2026-08-18
 tier: 1
-touches: ["[[Trackers/Actions/Connor - Pay for the AhaSlides Pro plan + build the mock question rank]]", "[[Events/2026-09-20-Sunday-Night-Service/2026-09-20-Sunday-Night-Service-Run-of-Show-Experiment-Plan]]", "[[Events/2026-09-20-Sunday-Night-Service/2026-09-20-Sunday-Night-Service-Connect-8-Week-Plan]]"]
+touches: ["[[Archive/Actions/Connor - Pay for the AhaSlides Pro plan + build the mock question rank]]", "[[Events/2026-09-20-Sunday-Night-Service/2026-09-20-Sunday-Night-Service-Run-of-Show-Experiment-Plan]]", "[[Events/2026-09-20-Sunday-Night-Service/2026-09-20-Sunday-Night-Service-Connect-8-Week-Plan]]"]
 trigger: "Connor reversed the text-in Q&A tool from Slido to AhaSlides on cost"
 ---
 # The Q&A tool decision took six weeks to arrive where the research started

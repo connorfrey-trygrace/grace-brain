@@ -20,7 +20,7 @@ projects:
 - **Source**: [[Transcripts/2026-08-11 11.54 Sunday Night Service Rock Setup — SNL Groups Created, PCO Tags Blocked]]
 - **Added**: 2026-08-11 · **Needs-by**: 2026-09-13
 - **Status**: Active. One email. **Krista also needs a replacement** (Jennifer: *"Krista needs one too, she's lost hers"*) — worth mentioning in the same email so Jennifer places one order. Note: the transcript renders the surname as "Patini," which does not match any name in the Office staff directory; the Women's Ministry Director is **Krista Slye**. Not resolved — do not assume they are the same person.
-- **Notes**: Adjacent to but separate from [[Trackers/Actions/Connor - Set up weekly name-tag station for Sunday night]], which is the attendee-facing station and is parked behind greeter recruitment.
+- **Notes**: Adjacent to but separate from [[Archive/Actions/Connor - Set up weekly name-tag station for Sunday night]], which is the attendee-facing station and is parked behind greeter recruitment.
 - **Blocked by**: none
 
 - **2026-08-11 (email sync) — ✅ COMPLETED, 1h43m after this note was created.** Connor → Jennifer Claffey, **11:37 AM ET**, subject **"Name Tags"**: *"Can I have one pls - Krista too, per your comment!!!"* — one email, both people, which is exactly the exit criterion. He sent it from the meeting itself.

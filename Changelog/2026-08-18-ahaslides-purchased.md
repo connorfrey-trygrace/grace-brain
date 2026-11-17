@@ -2,7 +2,7 @@
 type: changelog
 date: 2026-08-18
 tier: 1
-touches: ["[[Trackers/Actions/Connor - Pay for the AhaSlides Pro plan + build the mock question rank]]", "[[Events/2026-09-20-Sunday-Night-Service/2026-09-20-Sunday-Night-Service-Run-of-Show-Experiment-Plan]]", "[[Events/2026-09-20-Sunday-Night-Service/2026-09-20-Sunday-Night-Service-Connect-8-Week-Plan]]"]
+touches: ["[[Archive/Actions/Connor - Pay for the AhaSlides Pro plan + build the mock question rank]]", "[[Events/2026-09-20-Sunday-Night-Service/2026-09-20-Sunday-Night-Service-Run-of-Show-Experiment-Plan]]", "[[Events/2026-09-20-Sunday-Night-Service/2026-09-20-Sunday-Night-Service-Connect-8-Week-Plan]]"]
 trigger: "Stripe receipt email, AhaSlides Pte Ltd → Connor, 2026-08-18 11:32 AM ET, folded in by the M365 email sync"
 ---
 # AhaSlides Pro is bought — and the annual plan turns out to cost exactly twelve monthly ones

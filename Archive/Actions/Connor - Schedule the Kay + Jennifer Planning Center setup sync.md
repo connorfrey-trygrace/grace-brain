@@ -30,7 +30,7 @@ projects:
 - **What this unblocks — the longest dependency chain in the tracker:**
   1. [[Archive/Actions/Connor - Get Kay to create the Sunday Night service type + Rock↔Planning Center sync tags]] (P1, idle since 7/07) →
   2. [[Archive/Actions/Connor - Build the Sunday night roster in Planning Center Online (PCO)]] (blocked on it) →
-  3. every volunteer role parked behind the roster: [[Trackers/Actions/Connor - Recruit Sunday night greeters (20s–30s pool)]], [[Trackers/Actions/Connor - Recruit Sunday night usher crew (lean; CJ willing)]], [[Trackers/Actions/Connor - Confirm Sunday night custodian (default Alex)]].
+  3. every volunteer role parked behind the roster: [[Archive/Actions/Connor - Recruit Sunday night greeters (20s–30s pool)]], [[Archive/Actions/Connor - Recruit Sunday night usher crew (lean; CJ willing)]], [[Archive/Actions/Connor - Confirm Sunday night custodian (default Alex)]].
   **Five items and 22 registered volunteers sit behind one Rock permission.** That is the case for P1.
 - **Suggested agenda (three things, ~30 min):** (1) confirm the Rock↔PCO sync is repaired; (2) Kay creates the Sunday Night service type + sync tags, live in the meeting if possible rather than as a follow-up ask; (3) agree who loads the 22 form registrants and by when — this is the natural moment to hand off, and it is currently nobody's job.
 - **Timing note**: Connor is on vacation **8/7–8/9**; Monday **8/10** already carries the 5:30 PM promo shoot; the Derek sync is **8/11**. Sending the invite Monday morning is realistic. Kay's scheduling history is slow — see [[Archive/Actions/Connor - Schedule ROC orientation with Kay Carter-Corker]] — so **don't leave it to Wednesday**.

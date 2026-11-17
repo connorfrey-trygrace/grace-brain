@@ -36,8 +36,8 @@ resolved: "2026-08-30"
 *(The two other questions this note opened on 8/17 — competing formats, and who owns the invite — were both answered the same afternoon; see below. Removed here rather than left standing.)*
 
 ### Related
-- [[Trackers/Actions/Connor - Build a reliable Sunday night core identify a second leader]] — the parent question. John's slot list is the first decomposition of it into named seats.
-- [[Trackers/Actions/Connor - Recruit Sunday night greeters (20s–30s pool)]] — John reframes that gap as needing a **greeter *leader* under Connor**, not more greeters (15 already signed up).
+- [[Archive/Actions/Connor - Build a reliable Sunday night core identify a second leader]] — the parent question. John's slot list is the first decomposition of it into named seats.
+- [[Archive/Actions/Connor - Recruit Sunday night greeters (20s–30s pool)]] — John reframes that gap as needing a **greeter *leader* under Connor**, not more greeters (15 already signed up).
 - [[Archive/Actions/Connor - Identify Sunday night hostMC (boot camp alumni pool)]] — the "hosts" slot.
 - [[Archive/Actions/Connor - Recruit Sunday night worship team (1–2 leaders, separate from morning)]] — the "music" slot; on-hold on Seth.
 - [[Archive/Actions/Connor - Boot Camp leaders prayer + planning meeting (9-9, with John Slye)]] — **⚠️ a DISTINCT meeting. Do not dedupe these.** That one is **Boot Camp table leaders**, on a **fixed date (Wed 2026-09-09)**, agreed by both parties. This one is **Sunday-night key volunteers**, with **no date** and only proposed. Different attendees, different project, different status.

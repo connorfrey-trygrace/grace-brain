@@ -6,8 +6,8 @@ owner: "Connor"
 added: 2026-11-13
 deadline: none
 needs_by: 2026-11-29
-last_mentioned: "2026-11-13"
-waiting_on: "Callie Taylor since 2026-11-13 — build registrations for Rock requests 00095–00098"
+last_mentioned: "2026-11-17"
+waiting_on: "Callie Taylor since 2026-11-13 — registration links + menu info for 00095–00098, promised by Fri 11/20"
 source: "Rock Event Requests 00095–00098, submitted 2026-11-13"
 projects:
   - "Sunday Night Launch"
@@ -48,3 +48,7 @@ blocks: []
 - 5:36 PM · Callie: will make the registrations ASAP; asked if "simpler" means fewer options
 - 5:39 PM · Connor: yes, fewer unique items, recognizable by sight, not by lid labels; 10/18 food was liked but setup was chaotic
 [Source: Outlook, "Re: Curiosity dinners - simpler menu", 2026-11-13]
+
+### 2026-11-17 (quick refresh, email)
+- 11/16 10:35 PM · Callie: menu kept limited; registration links + menu info to Connor by end of week (Fri 11/20). No chase — Callie committed to report back
+[Source: Outlook, "Re: Curiosity dinners - simpler menu", 2026-11-16]

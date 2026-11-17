@@ -175,7 +175,7 @@ That's the real advantage of running it this way rather than as four unrelated f
 
 | By when | What | Who |
 |---|---|---|
-| **Sept 7** | **AhaSlides Pro — bought 2026-08-18** (annual, $191.40). This gate now covers one thing: **tested on the auditorium screen**. The *"unlimited audience"* written confirmation was **dropped by Connor 2026-08-21** — the trigger is a real problem in use, not a date; do not re-propose it. Load-bearing — the Q&A runs all 8 weeks. *Fallback: cards and a bucket.* → [[Trackers/Actions/Connor - Pay for the AhaSlides Pro plan + build the mock question rank]] | Connor |
+| **Sept 7** | **AhaSlides Pro — bought 2026-08-18** (annual, $191.40). This gate now covers one thing: **tested on the auditorium screen**. The *"unlimited audience"* written confirmation was **dropped by Connor 2026-08-21** — the trigger is a real problem in use, not a date; do not re-propose it. Load-bearing — the Q&A runs all 8 weeks. *Fallback: cards and a bucket.* → [[Archive/Actions/Connor - Pay for the AhaSlides Pro plan + build the mock question rank]] | Connor |
 | **Sept 14** | **One named in-room next step exists** — the off-ramp bucket's minimum. *(added 2026-08-17)* → [[Archive/Actions/Connor - Name the in-room next step for Sunday night weeks 1-8 (off-ramp bucket)]] | Connor |
 | **Sept 7** | Feedback form built, QR printed | Connor |
 | **Sept 14** | Two hosts confirmed — ✅ **met 2026-09-02, early:** Emily Horneffer & Simba Kanjanda (9/20), Will Gralley & Brandon Geddes (9/27). Text, John Slye → Connor, 9/1 8:32 AM ET. | Connor / John |
@@ -241,4 +241,4 @@ The grid's first three Sundays now have real passages and themes to scope connec
 - **Weeks 4–8 (Oct 11 → Nov 8) have no topics yet** — John's email covers the first four Sundays only.
 - **2026-09-24 update (John Slye, "Series Update" email):** Oct 18 *How Do I Hear God?* (John 16:4–15) · Oct 25 *Where Is Jesus When Life Hurts?* (John 16:16–24, Communion) · Nov 1 *Take Heart!* (John 16:25–33, **Baptism Sunday**, series ends). **Oct 11 and Nov 8 still have no topic.** Full grid on [[Events/2026-09-20-Sunday-Night-Service/2026-09-20-Sunday-Night-Service-Launch]].
 - **Speaker: John Slye takes 9/20, 9/27 and 10/4** (Connor, 2026-08-28). **10/11 onward is unassigned** — so week 4 of this grid has neither a topic nor a preacher.
-- ⚠️ **Sept 27 is a Communion Sunday in the morning series.** Whether Sunday **night** 9/27 also takes communion is **not stated anywhere** — hypothesis, not fact. It is one question to John, and [[Trackers/Actions/Connor - Plan Sunday night communion logistics]] is the item it belongs to.
+- ⚠️ **Sept 27 is a Communion Sunday in the morning series.** Whether Sunday **night** 9/27 also takes communion is **not stated anywhere** — hypothesis, not fact. It is one question to John, and [[Archive/Actions/Connor - Plan Sunday night communion logistics]] is the item it belongs to.

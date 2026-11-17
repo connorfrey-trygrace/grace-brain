@@ -48,5 +48,5 @@ Minted from the 8/13 "Re: Counting Tech" thread: the question Connor asked was a
 - → flagged: no follow-up in 9 days, 3 consecutive sweeps without the ask being made
 
 ### 2026-09-11 (Connor, live session) — closed, reassigned to ushers
-- Connor: JeanPaul is not the stay-rate counter — the ushers are, using the same QR mechanism as attendance. See [[Trackers/Actions/Connor - Recruit Sunday night usher crew (lean; CJ willing)]].
+- Connor: JeanPaul is not the stay-rate counter — the ushers are, using the same QR mechanism as attendance. See [[Archive/Actions/Connor - Recruit Sunday night usher crew (lean; CJ willing)]].
 - → status: active → completed, resolved 2026-09-11; `flagged` cleared. Not delivered by JeanPaul — reassigned, not dropped.

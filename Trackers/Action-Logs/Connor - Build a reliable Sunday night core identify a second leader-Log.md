@@ -1,12 +1,12 @@
 ---
 type: log
-source_note: "[[Trackers/Actions/Connor - Build a reliable Sunday night core identify a second leader]]"
+source_note: "[[Archive/Actions/Connor - Build a reliable Sunday night core identify a second leader]]"
 tags: [log]
 ---
 
 # Connor - Build a reliable Sunday night core identify a second leader — History Log
 
-Append-only history, split out of [[Trackers/Actions/Connor - Build a reliable Sunday night core identify a second leader]] on **2026-08-17** so the live note stays cheap to read on every run (it was 17 KB, and every sync that appended one line read all of it). Same pattern as the 2026-08-11 event-note split.
+Append-only history, split out of [[Archive/Actions/Connor - Build a reliable Sunday night core identify a second leader]] on **2026-08-17** so the live note stays cheap to read on every run (it was 17 KB, and every sync that appended one line read all of it). Same pattern as the 2026-08-11 event-note split.
 
 **This file is not read during a normal run** — only when auditing or reconstructing how a decision was reached. Entries are **oldest-first**; append new history at the bottom. *(This is a deliberate divergence from the newest-first event `-Log` files: action notes have always been appended chronologically at the bottom, and flipping the order would guarantee mis-ordered appends by any writer following the habit.)*
 

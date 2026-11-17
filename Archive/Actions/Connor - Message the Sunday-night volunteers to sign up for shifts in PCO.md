@@ -28,7 +28,7 @@ people:
 - **Needs-by rationale**: Connor's own sequencing, not derived — he put the messages **before** the Sunday 8/30 lunch, with a second loading pass after it.
 - **Deadline rationale**: launch night; shifts have to be filled before there is a service to staff.
 - **Priority rationale**: P1 — inside the one-week window on Connor's own 8/30 timing, and it is the front of the critical path now that the mechanism works.
-- **Not a duplicate of** [[Archive/Actions/Connor - Build the Sunday night roster in Planning Center Online (PCO)]] (building the structure) or [[Trackers/Actions/Connor - Follow up with the 4th-service volunteer signups on role placement]] (placing people into the right role). This is the outbound ask that turns a tagged team member into a filled shift.
+- **Not a duplicate of** [[Archive/Actions/Connor - Build the Sunday night roster in Planning Center Online (PCO)]] (building the structure) or [[Archive/Actions/Connor - Follow up with the 4th-service volunteer signups on role placement]] (placing people into the right role). This is the outbound ask that turns a tagged team member into a filled shift.
 - ✅ **Wording drafted 2026-08-28** — v1 at [[Events/2026-09-20-Sunday-Night-Service/2026-09-20-Sunday-Night-Service-Volunteer-Signup-Email-Draft]].
 - **Status**: **Completed 2026-09-11** — Connor confirms the sign-up messages went out a while back.
 - **Blocked by**: none · **Blocks**: nothing

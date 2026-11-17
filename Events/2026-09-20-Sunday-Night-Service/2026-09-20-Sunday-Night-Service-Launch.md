@@ -110,7 +110,7 @@ Source: [[Transcripts/2026-08-12 16.49 Connor–John Connect-Plan Call — Q&A L
 
 **Host pairs: approved in principle, unassigned in fact.** John's designated-pairs idea stands; Connor added that pairs need not be permanent (a ladies' week was his example). ⚠️ **No first pair was picked and no date was set for the ask** — the agenda's decision #5 did not land, and **Jennifer Porter, the only person who has volunteered for host in writing, never came up.**
 
-**Tool: AhaSlides Pro** — decided and purchased 2026-08-18 (annual, $191.40, term to 2027-08-18); the pre-screening of submitted questions is the capability Connor selected it for (8/22 call). The 8/12 "sub-300 tier / $150-mo enterprise covers 5,000" call reasoned about **Slido** tiers that no longer apply — AhaSlides Pro is unlimited-audience, so there is no cap decision left. Open gate: the auditorium-screen test by **2026-09-07** → [[Trackers/Actions/Connor - Pay for the AhaSlides Pro plan + build the mock question rank]].
+**Tool: AhaSlides Pro** — decided and purchased 2026-08-18 (annual, $191.40, term to 2027-08-18); the pre-screening of submitted questions is the capability Connor selected it for (8/22 call). The 8/12 "sub-300 tier / $150-mo enterprise covers 5,000" call reasoned about **Slido** tiers that no longer apply — AhaSlides Pro is unlimited-audience, so there is no cap decision left. Open gate: the auditorium-screen test by **2026-09-07** → [[Archive/Actions/Connor - Pay for the AhaSlides Pro plan + build the mock question rank]].
 
 > [!success] Follow-up questions — settled 2026-08-17
 > Source: [[Transcripts/2026-08-17 14.11 Connor–John Q&A Call — Follow-Ups Redirected to the Room]] (the call John Slye asked for by text at 1:54 PM that day).

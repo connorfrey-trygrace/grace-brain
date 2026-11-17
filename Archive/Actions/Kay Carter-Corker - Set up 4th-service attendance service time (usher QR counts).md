@@ -21,7 +21,7 @@ projects:
 - **Status history**: **Deadline**: Before 2026-09-20 · **Needs-by**: 2026-09-13
 - **Status**: **Completed 2026-09-11** — Connor named the go-live date (9/14) and Kay agreed; Jennifer confirmed the QR location. Nothing left on either side.
 - **Original commitment (2026-08-11)**: *"I'll set that up so that you have that service time. And once the 4th service starts, then the ushers will be able to use the QR code to put in the attendance number… and it'll show up on the homepage."*
-- **Notes**: Depends on the SNL usher team existing (it does, in Rock, as of 8/11) but **not** on the broken Rock↔PCO sync — this is a Rock-side service time, not a tag. So it can proceed while the rest of the chain is parked. Connects to [[Trackers/Actions/Connor - Recruit Sunday night usher crew (lean; CJ willing)]] — whoever ends up ushering needs to be shown the QR flow. Feeds [[Events/2026-09-20-Sunday-Night-Service/2026-09-20-Sunday-Night-Service-Launch]].
+- **Notes**: Depends on the SNL usher team existing (it does, in Rock, as of 8/11) but **not** on the broken Rock↔PCO sync — this is a Rock-side service time, not a tag. So it can proceed while the rest of the chain is parked. Connects to [[Archive/Actions/Connor - Recruit Sunday night usher crew (lean; CJ willing)]] — whoever ends up ushering needs to be shown the QR flow. Feeds [[Events/2026-09-20-Sunday-Night-Service/2026-09-20-Sunday-Night-Service-Launch]].
 - **Blocked by**: none
 - **Needs-by rationale**: in place a week before launch so ushers can be shown the QR flow at the pre-service huddle
 

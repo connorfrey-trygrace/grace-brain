@@ -2,7 +2,7 @@
 type: changelog
 date: 2026-10-09
 tier: 1
-touches: ["[[Trackers/Actions/Connor - Plan Sunday night communion logistics]]", "[[Archive/Actions/Connor - Add peer-discussion prompts to the 9-27 closing Host item]]", "[[Archive/Actions/John Slye - Drive the 10-4 Inspira promo push]]", "[[Trackers/Actions/Connor - Foster the Grace–Inspira relationship (Maggie)]]", "[[Trackers/Actions/Connor - Recruit Sunday night greeters (20s–30s pool)]]", "[[Events/2026-09-20-Sunday-Night-Service/2026-09-20-Sunday-Night-Service-Launch]]"]
+touches: ["[[Archive/Actions/Connor - Plan Sunday night communion logistics]]", "[[Archive/Actions/Connor - Add peer-discussion prompts to the 9-27 closing Host item]]", "[[Archive/Actions/John Slye - Drive the 10-4 Inspira promo push]]", "[[Trackers/Actions/Connor - Foster the Grace–Inspira relationship (Maggie)]]", "[[Archive/Actions/Connor - Recruit Sunday night greeters (20s–30s pool)]]", "[[Events/2026-09-20-Sunday-Night-Service/2026-09-20-Sunday-Night-Service-Launch]]"]
 trigger: "weekly-synthesis light audit"
 ---
 # Repointed 6 broken wikilinks in live notes

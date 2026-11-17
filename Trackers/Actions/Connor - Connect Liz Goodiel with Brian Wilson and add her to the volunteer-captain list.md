@@ -24,7 +24,7 @@ people:
 - **Source**: Text, Connor → group ("Dream team" message), 2026-09-02 12:40 PM ET.
 - **Needs-by rationale**: Connor's own "either of the next two weeks" — estimate, not a hard date.
 - **Status**: **On Hold since 2026-09-15** — Connor's call: delay until Liz has some experience greeting as a non-leader first (she's now confirmed as a launch-night greeter, per [[Events/2026-09-20-Sunday-Night-Service/2026-09-20-Sunday-Night-Service-Launch]]). No date named for re-activation.
-- **Related**: [[Trackers/Actions/Connor - Build a reliable Sunday night core identify a second leader]] (on-hold core-team build-out) · [[Trackers/Actions/Connor - Recruit Sunday night greeters (20s–30s pool)]]
+- **Related**: [[Archive/Actions/Connor - Build a reliable Sunday night core identify a second leader]] (on-hold core-team build-out) · [[Archive/Actions/Connor - Recruit Sunday night greeters (20s–30s pool)]]
 
 ### 2026-09-02 (quick refresh, text) — created
 - 12:40 PM · Connor, group text: will connect Liz Goodiel with Brian Wilson for greeter orientation; will add her to the volunteer-captain list, orientation first — timeframe "either of the next two weeks"

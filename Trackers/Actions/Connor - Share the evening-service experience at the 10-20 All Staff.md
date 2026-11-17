@@ -1,12 +1,12 @@
 ---
-name: "🎤 Connor: Share the evening-service experience at the November All Staff (11-17)"
+name: "🎤 Connor: Share the evening-service experience at the December All Staff (12-15)"
 status: on-hold
 priority: P2
 owner: "Connor"
 added: 2026-10-13
-deadline: 2026-11-17
+deadline: 2026-12-15
 needs_by: none
-last_mentioned: "2026-10-26"
+last_mentioned: "2026-11-17"
 source: "Text, John Slye ↔ Connor, 2026-10-11, rowids 195726–195727; Email, John Slye → Connor, \"Fw: Feedback Evening Service\", 2026-10-10"
 projects:
   - "Sunday Night Launch"
@@ -15,16 +15,16 @@ people:
   - "[[People/John Slye]]"
 blocked_by: []
 blocks: []
-on_hold_since: "2026-11-04 — date-locked: re-activate on 2026-11-17 (November All Staff)"
+on_hold_since: "2026-11-17 — date-locked: re-activate on 2026-12-15 (December All Staff)"
 ---
 # 🎤 Connor: Share the evening-service experience at the 10-20 All Staff
 
-- [ ] Prep a short share on the evening service for the Tue 11/17 Monthly All Staff (moved from 10/20) (Kids Annex 2140, 12–2 PM; "Touchdowns" 12:45 / "Look Ahead" 1:15).
+- [ ] Prep a short share on the evening service for the Tue 12/15 Monthly All Staff (moved from 10/20, then 11/17) (Kids Annex 2140, 12–2 PM; "Touchdowns" 12:45 / "Look Ahead" 1:15).
 - [ ] Answer John's question: does Connor have survey results? → [[Events/2026-09-20-Sunday-Night-Service/2026-09-20-Sunday-Night-Service-Feedback-Survey]]
 
 - **Source**: 10/10 email — John forwards Julie Coy's feedback and invites Connor to present findings at an All Staff "at a time you pick"; 10/11 text — John: "Sharing at the October 20 All Staff regarding the evening service experience"; Connor: "I can do both."
 - **Inputs on hand**: 10/11 — 138 attendance, ~50% young folks, stayed until almost 8 (Connor's figures); Julie Coy 10/9 — disjointed, wants in-service questions, shorter (~1 hr), line dancing liked; Toni 10/26 text — simplicity/intimacy, may switch to evening as main service.
-- **Deadline rationale**: the meeting date — John named 10/20; Connor moved it to the November All Staff (Tue 11/17, per Outlook).
+- **Deadline rationale**: the meeting date — John named 10/20; moved to 11/17, then to the December All Staff (Tue 12/15, 12–2 PM, Kids Annex 2140, per Outlook).
 - **Priority rationale**: P2 — a week out; prep, not a reply.
 
 ### 2026-10-13 — created
@@ -52,3 +52,9 @@ on_hold_since: "2026-11-04 — date-locked: re-activate on 2026-11-17 (November 
 
 ### 2026-11-04 (quick refresh, sweep, Step 3 window gate)
 - Not flagged — the action is at the 11/17 All Staff (in Calendar-Window); parked on-hold, re-activates 11/17
+
+### 2026-11-17 (quick refresh, sweep, Step 3.5)
+- on-hold → active (11/17 date-lock reached; All Staff 12–2 PM today, in-person only); P2 → P1. Attendance vs. Daily FTJ block unconfirmed — share done, or move to the December All Staff? (Connor)
+
+### 2026-11-17 (Connor, chat) — moved to December
+- Not given at the 11/17 All Staff → deadline 2026-11-17 → 2026-12-15 (Outlook: Monthly All Staff Mtg, 12/15 12–2 PM); P1 → P2; on-hold until 12/15

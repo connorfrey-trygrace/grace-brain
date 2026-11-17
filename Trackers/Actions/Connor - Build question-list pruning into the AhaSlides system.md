@@ -35,7 +35,7 @@ people:
 
 ⚠️ **Simba Kanjanda's suggestion, unaddressed:** *"You can use AI for that."* It got a laugh from John (*"some people love AI, some people think AI is the devil"*) and no answer. Grouping and de-duplicating an up-voted question queue is exactly the shape of problem Connor already solves this way elsewhere.
 
-- **Related**: [[Trackers/Actions/Connor - Pay for the AhaSlides Pro plan + build the mock question rank]] — the tool this would live in.
+- **Related**: [[Archive/Actions/Connor - Pay for the AhaSlides Pro plan + build the mock question rank]] — the tool this would live in.
 - **Blocked by**: none
 
 ### 2026-09-09 (quick refresh, sweep, Step 3) — first sweep read; not flagged

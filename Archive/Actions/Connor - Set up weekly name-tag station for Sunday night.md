@@ -9,7 +9,7 @@ needs_by: 2026-09-13
 last_mentioned: "2026-09-20"
 on_hold_since: "2026-06-21 — trigger: Sunday-night greeters being recruited. Move back to Active once greeters are in place. (Note: greeters are themselves gated on the PCO roster, so this sits two links down the chain.)"
 source: "[[Transcripts/2026-06-16 10.03 Sunday Night Service — Launch Vision & Operations Planning]]"
-blocked_by: "[[Trackers/Actions/Connor - Recruit Sunday night greeters (20s–30s pool)]]"
+blocked_by: "[[Archive/Actions/Connor - Recruit Sunday night greeters (20s–30s pool)]]"
 projects:
   - "Sunday Night Launch"
 source_line: 371

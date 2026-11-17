@@ -31,7 +31,7 @@ governs: "recurring paid software and services Connor is on the hook for"
 
 - ⚠️ **AhaSlides — whose card is •7841?** The string appears nowhere else in the vault; [[Contacts/Credentials]] records a •0680 (Instacart). If it is personal, $191.40 is a **reimbursement**, not a 9003 code, and it lands on the August coding sheet differently. Same knot that has [[Archive/Actions/Connor - Code July 2026 credit card expenses]]'s NYC-trip line stuck as a closure candidate.
 - ⚠️ **AhaSlides — no nonprofit rate was applied.** $191.40 is exactly list. The note recorded that edu/nonprofit pricing exists and *"does not explicitly name religious organisations."* Asking now means requesting a credit against a paid invoice, routed through Derek / Jennifer Lonero. **Open decision, not a task yet.**
-- **AhaSlides — auto-renew is still on.** Tracked as a checkbox on [[Trackers/Actions/Connor - Pay for the AhaSlides Pro plan + build the mock question rank]]. 2027-08-18 is a long way off, which is exactly how these get paid twice.
+- **AhaSlides — auto-renew is still on.** Tracked as a checkbox on [[Archive/Actions/Connor - Pay for the AhaSlides Pro plan + build the mock question rank]]. 2027-08-18 is a long way off, which is exactly how these get paid twice.
 - **Zoom — term, amount, and renewal date are all unknown.** Recoverable from the Zoom billing page or the card statement in about two minutes. Worth doing once, whenever Connor is next in either.
 
 ## Not tracked here

@@ -28,7 +28,7 @@ people:
 - **Blocked by**: nothing · **Blocks**: John's 9/13 stage moment
 
 ### 2026-09-11 (Connor, live session) — ⚠️ the screen test this note's needs_by depends on just moved past 9/13
-- Connor rescheduled the AhaSlides auditorium screen test to **2026-09-17** (was 9/10) — see [[Trackers/Actions/Connor - Pay for the AhaSlides Pro plan + build the mock question rank]].
+- Connor rescheduled the AhaSlides auditorium screen test to **2026-09-17** (was 9/10) — see [[Archive/Actions/Connor - Pay for the AhaSlides Pro plan + build the mock question rank]].
 - This note's `needs_by` (2026-09-10) was set specifically because the screen test was "the first live test of AhaSlides in the actual room." That test no longer happens before 2026-09-13.
 - **Not resolved here** — flagging so the 9/13 morning question vote doesn't go forward on the assumption it was tested live first. Connor's call whether to proceed untested, find another way to validate, or adjust the 9/13 plan.
 - No status change.
@@ -38,13 +38,13 @@ people:
 - No status change — the setup itself still has to happen before 9/13.
 
 ### 2026-09-11 (Connor, correcting the quick-refresh report) — the content piece is pending John, not open work
-- Connor: "the poll for 9/13 is pending johns response." This note's mechanics (seat-back QR, screens) are separately resolved/moderation-only — see [[Archive/Actions/Connor - Get the seat-back QR pointed at the QOTN link for 9-13 morning]] (completed 2026-09-11). The genuinely blocked piece is the **starter-question content** for the board, already tracked and correctly parked: [[Trackers/Actions/Connor - Seed 2-3 starter questions on the QA board ahead of 9-13]] (`status: on-hold`, pending John Slye's validation of the 3 drafted questions).
+- Connor: "the poll for 9/13 is pending johns response." This note's mechanics (seat-back QR, screens) are separately resolved/moderation-only — see [[Archive/Actions/Connor - Get the seat-back QR pointed at the QOTN link for 9-13 morning]] (completed 2026-09-11). The genuinely blocked piece is the **starter-question content** for the board, already tracked and correctly parked: [[Archive/Actions/Connor - Seed 2-3 starter questions on the QA board ahead of 9-13]] (`status: on-hold`, pending John Slye's validation of the 3 drafted questions).
 - No status change here — flagging so this note isn't read as still-open work when the actual dependency sits on the other note.
 
 ### 2026-08-20 (standalone sweep)
 - flagged: quiet 8 days, no blocker, `needs_by` 2026-09-06
 - **It blocks John Slye's P1** ([[Archive/Actions/John Slye - Seed the launch Q&A question in the 9-13 morning message]] — *"John cannot run it if the poll isn't on the screens"*), so the neglect here is not self-contained
-- next physical action: **pay for AhaSlides Pro and build the mock rank** ([[Trackers/Actions/Connor - Pay for the AhaSlides Pro plan + build the mock question rank]]) — that is the prerequisite, and it is Connor's card, not a request to anyone
+- next physical action: **pay for AhaSlides Pro and build the mock rank** ([[Archive/Actions/Connor - Pay for the AhaSlides Pro plan + build the mock question rank]]) — that is the prerequisite, and it is Connor's card, not a request to anyone
 
 ### 2026-08-22 (transcript) — mentioned; flag cleared
 - Connor described the launch mechanic to Vacca: poll opens **during the 9/13 morning service**, question decided the following day, six days to prepare the answer for 9/20

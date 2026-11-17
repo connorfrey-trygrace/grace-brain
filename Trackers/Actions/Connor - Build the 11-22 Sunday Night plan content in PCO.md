@@ -6,7 +6,7 @@ owner: "Connor Frey"
 added: 2026-11-16
 deadline: 2026-11-22
 needs_by: 2026-11-18
-last_mentioned: "2026-11-16"
+last_mentioned: "2026-11-17"
 source: "PCO Services, plan 92214545 (Sunday Night, 11/22)"
 projects:
   - "Sunday Night Launch"
@@ -39,3 +39,7 @@ blocks: []
 - Plan 92214545 (Nov 22): 6 items, all Seth's worship (Worship header, Intro To Worship + Psalm 100, The Joy, New Song / Part 2, Scripture Reading Rom 8:38-39 + testimony, Relentless); last edited 11/13
 - No Host, QOTN, message or closing items yet → checks 1, 3, 5 open; message scripture unknown
 [Source: PCO Services 1804248, plan 92214545]
+
+### 2026-11-17 (quick refresh, email)
+- 11/16 8:57 PM · Connor asked Anna Maia for her sermon notes to check against the evening questions; no reply yet (assumes she preaches 11/22 — unconfirmed)
+[Source: Outlook Sent Items, "Sermon notes?", 2026-11-16]

@@ -7,7 +7,7 @@ tags: [sunday-night-service, qa-mechanic, ahaslides]
 
 # Q&A Test Queue — Noah's Ark
 
-> *Renamed from "Slido Test Queue" 2026-08-18 — the tool is **AhaSlides Pro** ([[Trackers/Actions/Connor - Pay for the AhaSlides Pro plan + build the mock question rank]]). The queue itself is tool-agnostic.*
+> *Renamed from "Slido Test Queue" 2026-08-18 — the tool is **AhaSlides Pro** ([[Archive/Actions/Connor - Pay for the AhaSlides Pro plan + build the mock question rank]]). The queue itself is tool-agnostic.*
 
 Twenty sample submissions on a message from Genesis 6–9. Paste them into AhaSlides as a test event and let whoever is going to screen work the queue cold. **Answer key is below — don't read it first.**
 
