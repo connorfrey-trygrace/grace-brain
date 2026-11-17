@@ -703,3 +703,6 @@ Source: [[Transcripts/2026-08-04 15.59 Connor–Derek Weekly Sync — Expense Co
 - 2026-11-15 3:41 PM (text) · 11/15: Brandon Geddes arrived 5:30 → greeted front entrance with Victory; Skylar hosted [198603–198608]
 - 2026-11-15 (text, chat2446) · 11/15: Russ needed no handler; Live Q&A on (Derek to John) [198609–198611]
 - 2026-11-15 7:40 PM · Post-service huddle held (John + Simba by phone) → [[Transcripts/2026-11-15 20.17 Sunday Night Huddle — Revelation Series Plan & Host Availability]]
+- 2026-11-16 8:13 PM (email) · YP connect card: Absala Abera → invite emailed by Connor 11/16 8:56 PM (already sent; no action note)
+- 2026-11-16 11:15 AM (email) · Derek: hold off on Sean Liesegang + Liz Goodiel as Sunday Night host candidates for now (Connor's 11/13 question); handle with care
+- 2026-11-16 10:35 PM (email) · Callie: curiosity-dinner menu stays limited; registration links + menu info to Connor by end of week → [[Trackers/Actions/Connor - Submit the 4 curiosity-dinner comms requests once Kay sends links]]
