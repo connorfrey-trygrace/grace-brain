@@ -4,9 +4,9 @@ status: active
 priority: P1
 owner: "Connor"
 added: 2026-10-22
-deadline: 2026-11-17
+deadline: 2026-11-24
 needs_by: none
-last_mentioned: "2026-11-12"
+last_mentioned: "2026-11-17"
 source: "Connor, chat request 2026-10-22"
 projects:
   - "Sunday Night Launch"
