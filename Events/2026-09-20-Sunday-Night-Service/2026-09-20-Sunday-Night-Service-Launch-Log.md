@@ -704,6 +704,11 @@ Source: [[Transcripts/2026-08-04 15.59 Connor–Derek Weekly Sync — Expense Co
 - 2026-11-15 (text, chat2446) · 11/15: Russ needed no handler; Live Q&A on (Derek to John) [198609–198611]
 - 2026-11-15 7:40 PM · Post-service huddle held (John + Simba by phone) → [[Transcripts/2026-11-15 20.17 Sunday Night Huddle — Revelation Series Plan & Host Availability]]
 - 2026-11-16 8:31 AM (email) · Alexis Hendrickson OK'd 1/20 Boot Camp S4 start; created Rock group "Bible Bootcamp - Winter 2027"
-- 2026-11-16 11:15 AM (email) · Derek: hold off on Sean Liesegang + Liz Goodiel as host candidates for now (re: Connor's 11/13 ask) ["Re: Hosts as leaders"]
+- 2026-11-16 11:15 AM (email) · Derek: hold off on Sean Liesegang + Liz Goodiel as host candidates for now (re: Connor's 11/13 ask); handle with care ["Re: Hosts as leaders"]
 - 2026-11-16 8:13 PM · YP connect card: Absala Abera → [[Trackers/Actions/Connor - Invite Absala Abera (YP connect card) to Sunday Night]]
 - 2026-11-16 8:56 PM (email) · Invitation to Sunday Night sent to Absala Abera
+- 2026-11-16 10:35 PM (email) · Callie: curiosity-dinner menu stays limited; registration links + menu info to Connor by end of week → [[Trackers/Actions/Connor - Submit the 4 curiosity-dinner comms requests once Kay sends links]]
+- 2026-11-17 9:22 AM (email) · Absala Abera replied to Connor's invite: requested WhatsApp group, will attend Sunday evenings starting 11/22 (Connor reacted 9:23 AM)
+- 2026-11-17 2:30 PM (email) · Anna Maia sent 11/22 blurb (#DoGood finale, "famous for love"; outline to follow); Connor replied 2:35 PM floating a QOTN segment before her message 11/22 (no pressure)
+- 2026-11-17 8:39 PM (email) · John Slye sent Connor the #1 ask from the 2026 survey: "Teach us how to understand the Bible" (48%) → context for [[Trackers/Actions/Connor - Promote the January Bible teaching from the 12-13 morning stage]]
+- 2026-11-17 8:41 PM (email) · John: "Let's discuss" on Connor's Hosts-as-leaders question (Derek's 11/16 answer was hold off); no decision yet

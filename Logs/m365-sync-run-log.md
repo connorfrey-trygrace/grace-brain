@@ -346,6 +346,10 @@ Log the line even when N=M=0 and K=J=0 — a logged "found nothing" run is exact
 
 - 2026-11-16 20:42 ET | 2026-11-16 20:40 ET · quick-refresh · window 11-16 04:35→20:40 ET · inbox 4 / sent 0 · 1 YP card (Absala Abera → new P1), Derek "hold off" Sean+Liz hosts → People notes, Alexis OK 1-20 Boot Camp S4 → pulse-survey note; 1 skipped (Do Good blast) · closed 0 · dups 0 · elapsed 3m
 
+- 2026-11-17 05:05 ET | 2026-11-17 05:1x ET | inbox 6, sent 3; 3 notes touched (curiosity-dinner action, Launch-Log, Good Noodles); 0 closed; dups 0; elapsed 8m (cloud 5am)
+
 - 2026-11-17 13:19 ET | window 2026-11-16 20:10→2026-11-17 13:18 ET · inbox 4 / sent 4 · 3 notes updated (curiosity-dinner waiting_on → Callie by Fri 11/20; Absala reply → starts 11/22; Anna Maia sermon-notes ask on 11-22 plan) · 0 closed · dups 2 · elapsed 1m
+
+- 2026-11-18 05:05 ET | 2026-11-18 05:05 ET cloud · inbox 4 sent 2 · launch-log +4, Good Noodles +1 (Absala) · 0 closed · elapsed 5m
 
 - 2026-11-18 11:11 ET | window 11/17 12:48–11/18 11:10 · 4 emails, 3 relevant · writes: 11-22 PCO note, 12-13 Bible promo note, Sean/Liz person notes, Good Noodles (Anna) · 0 auto-closes · elapsed ~1m
