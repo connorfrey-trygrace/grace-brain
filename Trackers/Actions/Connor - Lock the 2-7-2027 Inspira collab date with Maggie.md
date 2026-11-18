@@ -6,8 +6,8 @@ owner: "Connor"
 added: 2026-11-13
 deadline: none
 needs_by: none
-last_mentioned: "2026-11-13"
-waiting_on: "Maggie Dozier since 2026-11-13 — said yes to Feb 7; confirming the studio is open that night"
+last_mentioned: "2026-11-18"
+waiting_on: "Maggie Dozier since 2026-11-18 — 2/7 out; offered 2/21 (only free Feb Sunday), checking late Jan"
 source: "Text to Maggie Dozier, 2026-11-13"
 projects:
   - "Sunday Night Launch"
@@ -31,3 +31,8 @@ blocks: []
 - 6:56 PM · Maggie (THEM): let's do it; will double-check the studio is open that night [198480]
 - 7:17 PM · Connor (ME): let me know and I'll start marketing it [198485]
 [Source: Text, Maggie Dozier, rowids 198480–198485]
+
+### 2026-11-18 (text, quick refresh)
+- 7:56 AM · Maggie (THEM): 2/21 is the only free Sunday for Feb [198764]
+- 7:57 AM · Maggie (THEM): 7th would have fit Valentine's; checking late Jan too [198765–198766]
+[Source: Text, Maggie Dozier, rowids 198764–198766]

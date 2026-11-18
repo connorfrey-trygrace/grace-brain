@@ -4,7 +4,7 @@ status: active
 priority: P1
 owner: "Connor Frey"
 added: 2026-11-04
-deadline: 2026-11-17
+deadline: 2026-11-24
 needs_by: none
 last_mentioned: "2026-11-16"
 source: "Outlook, \"QR Code Request Each Tuesday\", Derek Adye, 2026-11-04"
@@ -55,3 +55,8 @@ blocks: []
 ### 2026-11-16 (weekly SNL service-prep check)
 - No 11/22 landing-page send to Heather/Amanda in Sent Items since 11/11 (only the 11/15 thread). Content change implied: Do Good serve week ends (tiles all pointed to Serve for 11/15); Wreaths Across America moved to 11/22. Due Tue 11/17 (deadline already 11/17)
 [Source: Outlook Sent Items 2026-11-11 → 11-16; PCO 1804248/92214545]
+
+### 2026-11-18 (quick refresh, sweep, Step 3)
+- Flagged: 11/17 Tuesday request not sent (no Sent Items match through 11/18 11:10). 11/22 changes: Do Good serve week over; WAA announcement runs 11/22
+- Flag withdrawn same run: Connor ticked Done in Notion (GRC-41, 11/18 10:17 AM) → 11/17 instance done; deadline rolled 11/17 → 11/24 (recurring)
+[Source: Notion Grace Tasks GRC-41, Connor: Done]

@@ -7,7 +7,7 @@ added: 2026-11-17
 deadline: 2026-11-18
 needs_by: none
 last_mentioned: 2026-11-17
-meeting: 2026-11-17 18:00
+meeting: 2026-11-18 18:00
 source: "Text from Emily Horneffer, 2026-11-16"
 projects:
   - "Sunday Night Launch"
@@ -40,3 +40,9 @@ flagged: ""
 
 ### 2026-11-17 (quick refresh, sweep, Step 3.5)
 - P2 → P1: 1 day to 11/18 deadline
+
+### 2026-11-18 (text, quick refresh)
+- 11/17 6:04 PM · Emily (THEM): working late, couldn't do the 6 PM call [198725]
+- 6:05 PM · Emily (THEM): asked for Wed 11/18 same time [198727]
+- 6:06 PM · Connor (ME): confirmed [198728]
+[Source: Text, Emily Horneffer, rowids 198725–198728]

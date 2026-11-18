@@ -1,6 +1,6 @@
 ---
 name: "☕ Connor: Meet Jeff Brady Sat 12/5 at noon"
-status: active
+status: on-hold
 priority: P2
 owner: "Connor"
 added: 2026-11-10
@@ -14,6 +14,7 @@ people:
   - "[[People/Good Noodles]]"
 blocked_by: []
 blocks: []
+on_hold_since: "2026-11-18 — window gate: nothing to do before the meeting; releases 2026-12-05"
 ---
 # ☕ Connor: Meet Jeff Brady Sat 12/5 at noon
 
@@ -32,3 +33,6 @@ blocks: []
 
 ### 2026-11-14 (cloud 5am run)
 - → priority: P3 → P2 (Step 3.5, 21 days to deadline)
+
+### 2026-11-18 (quick refresh, sweep, Step 3)
+- Neglect candidate (8 days quiet) → window gate: meeting is 12/5, already on Personal Tasks as a Plan; nothing to do before → active → on-hold, releases 12/5

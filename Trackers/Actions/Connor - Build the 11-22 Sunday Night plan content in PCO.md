@@ -6,7 +6,7 @@ owner: "Connor Frey"
 added: 2026-11-16
 deadline: 2026-11-22
 needs_by: 2026-11-18
-last_mentioned: "2026-11-17"
+last_mentioned: "2026-11-18"
 source: "PCO Services, plan 92214545 (Sunday Night, 11/22)"
 projects:
   - "Sunday Night Launch"
@@ -43,3 +43,8 @@ blocks: []
 ### 2026-11-17 (quick refresh, email)
 - 11/16 8:57 PM · Connor asked Anna Maia for her sermon notes to check against the evening questions; no reply yet (assumes she preaches 11/22 — unconfirmed)
 [Source: Outlook Sent Items, "Sermon notes?", 2026-11-16]
+
+### 2026-11-18 (quick refresh, email)
+- 11/17 2:30 PM · Anna Maia sent the 11/22 blurb to staff (#DoGood wrap-up, "famous for love"; outline to follow) → she preaches 11/22
+- 11/17 2:35 PM · Connor asked Anna whether she'd take some evening questions in a QOTN segment before her message; no reply yet
+[Source: Outlook, "11/22 Blurb (outline to follow)" / "Re: 11/22 Blurb", 2026-11-17]

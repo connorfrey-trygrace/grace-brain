@@ -23,6 +23,7 @@ Sunday-night core team, **confirmed launch-night greeter (9/20)** and **football
 ## Open threads
 - **Host pair with Sean Liesegang** — approved as a pair in principle 8/17, never asked. Open since.
 - 2026-11-16 · Derek: hold off on Sean + Liz as host candidates for now (living situation); Connor raised it 11/13 [Source: Outlook, "Re: Hosts as leaders", Derek Adye, 2026-11-16]
+- 2026-11-17 · John Slye: "let's discuss" — the hold stands; no date set [Source: Outlook, "Re: Hosts as leaders", John Slye, 2026-11-17]
 - [[Trackers/Actions/Connor - Connect Liz Goodiel with Brian Wilson and add her to the volunteer-captain list]] — on hold.
 - ⚠️ **Phone ambiguity, unresolved and not a tooling problem:** `571-344-1742` is an unexplained twin of her `703-344-1742`. No Rock person carries the 571, and her Rock profile (21386) lists only the 703. [[Contacts/Phone-Index]] concluded this *"is now a question for Connor's memory, not for any tool."*
 

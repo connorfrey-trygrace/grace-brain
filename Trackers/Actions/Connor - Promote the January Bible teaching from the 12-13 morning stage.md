@@ -6,7 +6,7 @@ owner: "Connor"
 added: 2026-11-13
 deadline: 2026-12-13
 needs_by: none
-last_mentioned: "2026-11-13"
+last_mentioned: "2026-11-18"
 source: "[[Transcripts/2026-11-13 15.40 Connor–John Slye Call — Jan–Mar 2027 Sunday Night Calendar]]"
 projects:
   - "Sunday Night Launch"
@@ -28,3 +28,7 @@ blocks: []
 
 ### 2026-11-13 (transcript) — created
 [Source: [[Transcripts/2026-11-13 15.40 Connor–John Slye Call — Jan–Mar 2027 Sunday Night Calendar]]]
+
+### 2026-11-18 (quick refresh, email)
+- 11/17 8:39 PM · John: 2026 survey #1 request is understanding the Bible (48%); frames the Revelation teaching + curiosity dinners as the direct answer — usable in the 12/13 pitch
+[Source: Outlook, "# 1 Request from Survey", John Slye, 2026-11-17]

@@ -364,3 +364,5 @@ Format (adopted 2026-07-16, mirroring [[Workflows/m365-to-obsidian-sync]] §Run 
 - 2026-11-17 12:59 ET | agent-hub-visit-local noon | ROWID 198700–198704: 3 in scope (late WAL replay of 11/16 evening), 1 Grace-relevant (Emily Horneffer offering call times) | 1 note created (Connor - Reply to Emily Horneffer and hold the 15-min captaining chat), meeting: set | 0 closure candidates | OK
 
 - 2026-11-17 13:19 ET | rowid 198704→198713 · 9 msgs · 1 note updated (Emily call confirmed ~6 PM 11/17) · Kaymin Dixon added to Good Noodles (WAA interest) · 0 unresolved · elapsed 1m
+
+- 2026-11-18 11:11 ET | rowids 198714–198779 · 49 msgs, 5 Grace-relevant · writes: Emily call → 11/18 18:00, Maggie Inspira 2/7 out · 1 unresolved (spam)
