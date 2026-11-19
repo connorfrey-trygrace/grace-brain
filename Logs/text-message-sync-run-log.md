@@ -368,3 +368,5 @@ Format (adopted 2026-07-16, mirroring [[Workflows/m365-to-obsidian-sync]] §Run 
 - 2026-11-18 11:11 ET | rowids 198714–198779 · 49 msgs, 5 Grace-relevant · writes: Emily call → 11/18 18:00, Maggie Inspira 2/7 out · 1 unresolved (spam)
 
 - 2026-11-18 12:09 ET | rowids 198780–198781 · 2 msgs, 0 Grace-relevant (personal group chat) · writes: none · 0 unresolved · agent-hub-visit-local noon
+
+- 2026-11-18 22:34 ET | quick refresh: ROWID 198782–198801, 15 msgs, 1 Grace (Emily 6:02 PM, already covered); 434-212-2249 spam unresolved

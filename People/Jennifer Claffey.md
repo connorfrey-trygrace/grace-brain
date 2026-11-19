@@ -22,6 +22,7 @@ Runs **volunteers and Sunday operations**; owns Planning Center (PCO) onboarding
 - [[Transcripts/2026-08-24 18.15 Sunday Night Rock–PCO Working Session — Sync Confirmed, Tag Teams Adopted]]
 - [[Transcripts/2026-08-28 10.35 Rock–PCO Tag Teams Resolved — Sunday Night Attendance Metrics]] — she confirmed the tag-team setup step was the gap (her own Sunday-morning test had failed the same way) and raised turning on Rock's automatic Planning Center welcome email.
 - [[Transcripts/2026-10-07 17.09 Connor–Derek Weekly Sync — 160 Attendance, Host Pool & Survey Sundays]]: mentioned only. Connor is to talk to her about Emily Horneffer's captaining; she's organizing survey boxes by service
+- [[Transcripts/2026-11-18 18.41 Connor–Emily Horneffer Call — Off the Sunday Night Core Team]]: mentioned only. Connor relayed her willingness to release Emily from morning captaining; Emily chose mornings.
 
 ## Events & threads
 - [[Archive/2026-07-19-World-Cup/2026-07-19-World-Cup-Viewing-Party]] · [[Archive/2026-07-19-World-Cup/2026-07-19-World-Cup-Halftime-Plan-and-Props]] · [[Events/2026-09-20-Sunday-Night-Service/2026-09-20-Sunday-Night-Service-Launch]]

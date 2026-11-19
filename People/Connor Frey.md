@@ -35,6 +35,7 @@ Host or participant in essentially every transcript; only ones with a distinct d
 - [[Transcripts/2026-10-20 22.32 Connor Boot Camp Story — Rehearsal with Skylar]]
 - [[Transcripts/2026-10-26 14.15 Connor–Kay Call — PCO Welcome Email Live & Services Admin Access]] — PCO welcome email confirmed live; Connor gets Services admin + People manager
 - [[Transcripts/2026-11-15 20.17 Sunday Night Huddle — Revelation Series Plan & Host Availability]] — walked the Jan–Mar extras with John, Simba, Brandon and Skylar; team channel set to text; asked Brandon and Simba for availability through Easter.
+- [[Transcripts/2026-11-18 18.41 Connor–Emily Horneffer Call — Off the Sunday Night Core Team]] — settled Emily Horneffer off the Sunday Night core team; took on telling John Slye.
 
 ## Hubs
 - [[Trackers/Open Actions.base]] — most action items are his

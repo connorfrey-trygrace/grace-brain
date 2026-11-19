@@ -6,8 +6,8 @@ owner: "Connor"
 added: 2026-10-27
 deadline: none
 needs_by: none
-waiting_on: "Brian Parker since 2026-11-12 — reply to the proposed time (unconfirmed)"
-last_mentioned: "2026-11-11"
+waiting_on: "Brian Parker since 2026-11-18 — House Right schematics/equipment list; knowledge-share time still unset"
+last_mentioned: 2026-11-18
 source: "Text, Connor ↔ Brian Parker [196955, 196958, 196959], 2026-10-26"
 projects:
   - "Sunday Night Launch"
@@ -23,7 +23,7 @@ blocks: []
 
 - **Source**: 10/26 texts. Connor installed Claude on the Mac Thursday for faster slide builds; Brian wants to see the usage/history and is concerned Claude-driven ProPresenter changes could break linked programs and screens.
 - **Priority rationale**: no date set, nobody blocked.
-- **Status**: Waiting on Brian — Connor proposed Mon 11/16 ~3pm (emailed 11/12); time unconfirmed, so no `meeting:` field until he replies.
+- **Status**: Waiting on Brian — 11/16 time never confirmed or held; 11/18 Brian replied he's waiting on House Right schematics/equipment lists first. Lighting asks split to [[Trackers/Actions/Brian Parker - Set lower Sunday Night lights this week]].
 - **Blocked by**: none · **Blocks**: nothing
 
 ### 2026-10-27 (quick refresh, text) — created
@@ -42,3 +42,10 @@ blocks: []
 
 ### 2026-11-13 (Connor, chat)
 - Connor: still pending, nothing for him to do → active → waiting-on; dropped `meeting:` (proposed time, not confirmed)
+
+### 2026-11-18 (email, quick refresh)
+- 12:27 PM · Brian: asked House Right for schematics/equipment lists, wants to wait; try things in ProPresenter meanwhile; will set lower lights this week
+- 12:45 PM · Connor: dimmer auditorium worship setting (not overriding preset 8) + dimmer lobby
+- 12:49 PM · Brian: lobby presets + switch walk-through; auditorium via light-board cues or touch screen; worried about overwrites
+- 3:15 PM · Connor: lower the dimmest lobby preset; separate worship setting (board OK); mindful of not overextending Michael Vacca
+[Source: Email, "Sunday Night/Claude Powow"]
