@@ -1,7 +1,7 @@
 ---
 name: "📝 John Slye: Send the 12/13 morning promo script for the January Bible teaching"
 status: waiting-on
-priority: P3
+priority: P2
 owner: "John Slye"
 added: 2026-11-13
 deadline: none
@@ -27,3 +27,6 @@ blocks:
 
 ### 2026-11-13 (transcript) — created
 [Source: [[Transcripts/2026-11-13 15.40 Connor–John Slye Call — Jan–Mar 2027 Sunday Night Calendar]]]
+
+### 2026-11-19 (agent hub visit)
+- → priority: P3 → P2 (needs_by 12-10 within 21 days)
