@@ -36,3 +36,7 @@ blocks: []
 - 7:56 AM · Maggie (THEM): 2/21 is the only free Sunday for Feb [198764]
 - 7:57 AM · Maggie (THEM): 7th would have fit Valentine's; checking late Jan too [198765–198766]
 [Source: Text, Maggie Dozier, rowids 198764–198766]
+
+### 2026-11-19 (text, agent-hub-visit-local)
+- 11/18 11:28 PM · Connor (ME): flexible, nothing set in stone; framing around other activities [198806]
+[Source: Text, Maggie Dozier, rowid 198806]

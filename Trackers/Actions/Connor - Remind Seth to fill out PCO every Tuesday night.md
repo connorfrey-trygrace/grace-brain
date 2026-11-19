@@ -6,7 +6,7 @@ owner: "Connor"
 added: 2026-10-22
 deadline: 2026-11-24
 needs_by: none
-last_mentioned: "2026-11-17"
+last_mentioned: "2026-11-18"
 source: "Connor, chat request 2026-10-22"
 projects:
   - "Sunday Night Launch"
@@ -82,3 +82,8 @@ blocks: []
 - 11/11 7:57 PM · Seth (THEM): agreed — 11/22 set by EOB Fri 11/13, then Tuesday a week ahead, flags any week he needs Wed [198383] → [[Trackers/Actions/Seth Addison - Get the 11-22 worship set into PCO by Fri 11-13]]
 - Reminder cadence may shift to week-ahead — Connor's call
 [Source: Text, Seth Addison, rowids 198382–198384]
+
+### 2026-11-19 (text, agent-hub-visit-local)
+- 11/18 10:33 PM · Connor (ME) reminded Seth to submit the 11/29 set list (week-ahead) [198802]
+- Same text: Connor will help record lyrics from the booth Sun 11/22 → [[Trackers/Actions/Connor - Help record lyrics from the booth Sun 11-22]]
+[Source: Text, Seth Addison, rowid 198802]
