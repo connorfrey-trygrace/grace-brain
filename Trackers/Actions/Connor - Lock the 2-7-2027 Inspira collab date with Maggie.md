@@ -1,12 +1,12 @@
 ---
 name: "🤝 Connor: Lock the 2/7/2027 Inspira collab date with Maggie"
-status: waiting-on
+status: closure-candidate
 priority: P3
 owner: "Connor"
 added: 2026-11-13
 deadline: none
 needs_by: none
-last_mentioned: "2026-11-18"
+last_mentioned: "2026-11-19"
 waiting_on: "Maggie Dozier since 2026-11-18 — 2/7 out; offered 2/21 (only free Feb Sunday), checking late Jan"
 source: "Text to Maggie Dozier, 2026-11-13"
 projects:
@@ -40,3 +40,10 @@ blocks: []
 ### 2026-11-19 (text, agent-hub-visit-local)
 - 11/18 11:28 PM · Connor (ME): flexible, nothing set in stone; framing around other activities [198806]
 [Source: Text, Maggie Dozier, rowid 198806]
+
+### 2026-11-19 (text, agent-hub-visit-local)
+- 7:59 AM · Maggie (THEM): the January dates are both available — Jan 24 and 31 [198812, 198817]
+- 9:27 AM · Connor (ME): lock us in for 1/24 [198824]
+- 9:19 AM · Connor (ME) to the John Slye/Simba group: Inspira changing to 1/24; will send updated doc + cal invites [198823]
+- **Closure candidate**: date locked as 1/24/2027 (not 2/7). Verify: Maggie acknowledged the 1/24 lock; then stand up the event folder. Follow-on tracked in [[Trackers/Actions/Connor - Send the updated Jan–Mar calendar and invites for Inspira 1-24]].
+[Source: Text, Maggie Dozier + Slye group, rowids 198812–198824]

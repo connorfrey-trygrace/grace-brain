@@ -6,7 +6,7 @@ owner: "Connor Frey"
 added: 2026-11-16
 deadline: 2026-11-22
 needs_by: 2026-11-18
-last_mentioned: "2026-11-18"
+last_mentioned: "2026-11-19"
 source: "PCO Services, plan 92214545 (Sunday Night, 11/22)"
 projects:
   - "Sunday Night Launch"
@@ -48,3 +48,9 @@ blocks: []
 - 11/17 2:30 PM · Anna Maia sent the 11/22 blurb to staff (#DoGood wrap-up, "famous for love"; outline to follow) → she preaches 11/22
 - 11/17 2:35 PM · Connor asked Anna whether she'd take some evening questions in a QOTN segment before her message; no reply yet
 [Source: Outlook, "11/22 Blurb (outline to follow)" / "Re: 11/22 Blurb", 2026-11-17]
+
+### 2026-11-19 (text, agent-hub-visit-local)
+- 9:00 AM · Brian Parker (THEM) asked for full lyrics + song order for Sunday; Connor (ME) re-shared it [198818, 198820]
+- 10:42 AM · Vacca (THEM): worship songs + sermon added; no host-part content in PCO [198832]
+- 11:28 AM · Connor (ME): will get host parts in ahead of time; still settling format with Anna [198833]
+[Source: Text, Brian Parker / Michael Vacca, rowids 198818–198833]
