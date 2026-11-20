@@ -23,3 +23,9 @@ Append-only history, split out of [[Trackers/Actions/Connor - Reconcile grace-qu
 
 ### 2026-10-23 (weekly-synthesis heartbeat) — still unresolved, fifth week
 `list_scheduled_tasks` returns 7 Grace tasks (adds `tuesday-seth-pco-reminder`, which matches its Automation.md row), all within cycle; `grace-quick-refresh` still absent while [[Trackers/Automation]] marks it ✅. Run Log shows on-demand runs through 2026-10-22 16:08 ET. Documentation mismatch only. No duplicate flag created.
+
+### 2026-10-30 (weekly-synthesis heartbeat) — still unresolved, sixth week
+`list_scheduled_tasks` returns the same 7 Grace tasks, all within cycle (`tuesday-seth-pco-reminder` fired 10/27 as scheduled); `grace-quick-refresh` still absent while [[Trackers/Automation]] marks it ✅. Run Log shows on-demand runs through 2026-10-28 13:44 ET. Documentation mismatch only. No duplicate flag created.
+
+### 2026-11-06 (weekly-synthesis heartbeat) — still unresolved, seventh week
+`list_scheduled_tasks` returns 8 Grace tasks (adds `agent-hub-visit-local`, which matches its Automation.md row), all within cycle; `grace-quick-refresh` still absent while [[Trackers/Automation]] marks it ✅. Run Log shows on-demand quick refreshes through 2026-11-06 10:50 ET. Documentation mismatch only. No duplicate flag created.

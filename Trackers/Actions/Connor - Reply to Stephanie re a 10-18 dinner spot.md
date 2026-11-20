@@ -1,6 +1,7 @@
 ---
 name: "🍽️ Connor: Reply to Stephanie re a 10-18 dinner spot"
 status: completed
+resolved: 2026-10-18
 priority: P1
 owner: "Connor"
 added: 2026-10-18

@@ -1,6 +1,7 @@
 ---
 name: "📣 Connor: Submit comms request for 12/6 Inspira collab"
 status: completed
+resolved: 2026-10-25
 priority: P3
 owner: "Connor"
 added: 2026-10-22
