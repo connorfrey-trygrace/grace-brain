@@ -1,7 +1,7 @@
 ---
 name: "💬 Connor: Design new ways to collect Sunday Night feedback (try them at Friendsgiving)"
 status: active
-priority: P2
+priority: P1
 owner: "Connor"
 added: 2026-11-19
 deadline: none
@@ -28,3 +28,6 @@ flagged: ""
 
 ### 2026-11-19 (agent hub visit)
 - Created from Notion task #84; no vault note existed
+
+### 2026-11-19 (quick refresh, sweep, Step 3.5)
+- → priority: P2 → P1 (needs_by 11/23 within 7 days)

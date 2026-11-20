@@ -6,7 +6,7 @@ owner: "John Slye"
 added: 2026-11-13
 deadline: none
 needs_by: 2026-12-10
-last_mentioned: "2026-11-13"
+last_mentioned: "2026-11-19"
 waiting_on: "John Slye since 2026-11-13 — offered the script (call)"
 source: "[[Transcripts/2026-11-13 15.40 Connor–John Slye Call — Jan–Mar 2027 Sunday Night Calendar]]"
 projects:
@@ -30,3 +30,7 @@ blocks:
 
 ### 2026-11-19 (agent hub visit)
 - → priority: P3 → P2 (needs_by 12-10 within 21 days)
+
+### 2026-11-19 (quick refresh, email)
+- 1:21 PM · Advent email gives the 12/13 format (Connor on stage, Bible Labs + Curiosity Dinners); not the script itself
+[Source: Outlook, "Advent-Dec. 13, 20, 24", John Slye, 2026-11-19]

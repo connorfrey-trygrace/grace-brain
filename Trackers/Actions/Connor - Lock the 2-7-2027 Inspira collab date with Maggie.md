@@ -1,6 +1,7 @@
 ---
 name: "🤝 Connor: Lock the 2/7/2027 Inspira collab date with Maggie"
-status: closure-candidate
+status: completed
+resolved: 2026-11-19
 priority: P3
 owner: "Connor"
 added: 2026-11-13
@@ -21,7 +22,7 @@ blocks: []
 - [ ] Once Maggie replies, confirm 2/7 (or the alternate) and stand up the event folder.
 
 - **Context**: 2/7 Inspira night is on the Jan–Mar calendar from [[Transcripts/2026-11-13 15.40 Connor–John Slye Call — Jan–Mar 2027 Sunday Night Calendar]], assuming Inspira can staff it. Follows [[Events/2026-12-06-Inspira-Country-Night]].
-- **Status**: Maggie said yes to 2/7 pending a studio-availability check; Connor will start marketing once she confirms. No chase: she committed to report back.
+- **Status**: **Completed 2026-11-19**: date locked as 1/24/2027, not 2/7 (Connor texted Maggie 11/19). Connor confirmed the close.
 
 ### 2026-11-13 — created (quick refresh, text)
 - 5:13 PM · Connor texted Maggie: excited for the upcoming collab; is it too early to schedule the next one for Feb 7?
@@ -47,3 +48,6 @@ blocks: []
 - 9:19 AM · Connor (ME) to the John Slye/Simba group: Inspira changing to 1/24; will send updated doc + cal invites [198823]
 - **Closure candidate**: date locked as 1/24/2027 (not 2/7). Verify: Maggie acknowledged the 1/24 lock; then stand up the event folder. Follow-on tracked in [[Trackers/Actions/Connor - Send the updated Jan–Mar calendar and invites for Inspira 1-24]].
 [Source: Text, Maggie Dozier + Slye group, rowids 198812–198824]
+
+### 2026-11-19 (Connor, chat): completed
+- → status: closure-candidate → completed (Connor confirmed; locked 1/24)

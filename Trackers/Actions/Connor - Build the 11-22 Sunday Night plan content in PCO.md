@@ -54,3 +54,7 @@ blocks: []
 - 10:42 AM · Vacca (THEM): worship songs + sermon added; no host-part content in PCO [198832]
 - 11:28 AM · Connor (ME): will get host parts in ahead of time; still settling format with Anna [198833]
 [Source: Text, Brian Parker / Michael Vacca, rowids 198818–198833]
+
+### 2026-11-19 (quick refresh, email)
+- 9:50 AM · Anna Maia sent the 11/22 outline (docx, "Do Good LOVE") to sermonoutline@
+[Source: Outlook, "11/22 Outline", Anna Maia, 2026-11-19]

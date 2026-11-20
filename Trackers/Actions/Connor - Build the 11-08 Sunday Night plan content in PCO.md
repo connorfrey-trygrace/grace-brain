@@ -39,7 +39,7 @@ blocks: []
 - Plan 92214543 (Nov 8): 0 items — all five content checks open by default
 - No John Slye 11/8 outline in Outlook since 10/28
 - Seth's lyrics: [[Trackers/Actions/Connor - Remind Seth to fill out PCO every Tuesday night]]
-- Prior week's build: [[Trackers/Actions/Connor - Build the 11-01 Sunday Night plan content in PCO]]
+- Prior week's build: [[Archive/Actions/Connor - Build the 11-01 Sunday Night plan content in PCO]]
 [Source: PCO Services 1804248, plan 92214543; Outlook search 2026-10-28 → 11-02]
 
 ### 2026-11-03 (email)

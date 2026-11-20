@@ -25,7 +25,7 @@ blocks: []
 
 - **Source**: John asked for a time to plan Jan–Mar discussions (he has "dove into" Revelation for the 6 PM service) [197835]; Connor proposed next Wednesday, 1:20 PM [197837].
 - **needs_by rationale**: 2026-11-11 — the proposed date itself.
-- **Related**: [[Trackers/Actions/Connor - Respond to John on a Daniel-Revelation small gathering]] — Connor also proposed Wed 11/11 there; may be the same meeting (hypothesis, unconfirmed).
+- **Related**: [[Archive/Actions/Connor - Respond to John on a Daniel-Revelation small gathering]] — Connor also proposed Wed 11/11 there; may be the same meeting (hypothesis, unconfirmed).
 
 ### 2026-11-04 (text) — created
 [Source: iMessage 197835, 197837]

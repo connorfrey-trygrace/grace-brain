@@ -13,7 +13,7 @@ tags: [sunday-night, build-draft]
 ---
 # 11/1 Sunday Night — Build Draft
 
-Working draft for [[Trackers/Actions/Connor - Build the 11-01 Sunday Night plan content in PCO]]. **Written to PCO 2026-10-26 (26 items).** PCO is now the source of truth; this note keeps the open list. **Connor is away 11/1**, so this has to run without him.
+Working draft for [[Archive/Actions/Connor - Build the 11-01 Sunday Night plan content in PCO]]. **Written to PCO 2026-10-26 (26 items).** PCO is now the source of truth; this note keeps the open list. **Connor is away 11/1**, so this has to run without him.
 
 ## Fixed (sourced)
 - **Title:** What Stops With Me?

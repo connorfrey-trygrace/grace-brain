@@ -26,3 +26,7 @@ blocks: []
 ### 2026-11-19 — created (text, agent-hub-visit-local)
 - 9:19 AM · Connor (ME): Inspira changing to 1/24; will send updated doc and cal invites [198823]
 [Source: Text, Slye group, rowid 198823]
+
+### 2026-11-19 (quick refresh, email)
+- 1:31 PM · John's speaking dates: Jan 3, 10, 17, 31; Feb 7, 14, 28; Mar 7, 14. Open: 1/24 ("groups launch"), 2/21, 3/21. Derek building speaking calendar
+[Source: Outlook, "speaking of Rev.....", John Slye, 2026-11-19]

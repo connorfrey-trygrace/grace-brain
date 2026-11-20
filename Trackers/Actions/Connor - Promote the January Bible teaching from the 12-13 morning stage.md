@@ -36,3 +36,8 @@ blocks: []
 ### 2026-11-19 (text, agent-hub-visit-local)
 - 9:44 AM · John Slye (THEM) proposed naming the extra Bible teaching time "Bible Labs"; Connor (ME): love that [198826, 198827]
 [Source: Text, Slye group, rowids 198826–198827]
+
+### 2026-11-19 (quick refresh, email)
+- 12:56 PM · John's "Rev. Ideas" email lists, under "6pm. Service": Connor on stage w/ John for Handel's Messiah, announcing Bible Labs + Curiosity Dinners; Rev begins 1/3
+- 1:21 PM · John's Advent email: 12/13 "Does God Hear Me?" (Luke 1:5–25), Handel's Messiah trivia; Connor joins John on stage to mention Bible Labs + Curiosity Dinners
+[Source: Outlook, "Rev. Ideas" / "Advent-Dec. 13, 20, 24", John Slye, 2026-11-19]

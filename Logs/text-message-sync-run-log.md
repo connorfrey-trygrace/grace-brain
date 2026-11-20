@@ -374,3 +374,5 @@ Format (adopted 2026-07-16, mirroring [[Workflows/m365-to-obsidian-sync]] §Run 
 - 2026-11-19 05:00 ET | rowids 198802–198810 · 8 msgs, 2 Grace-relevant (Seth 11/29 set-list nudge + 11/22 booth lyrics; Maggie Inspira date flexible) · writes: 2 appends, 1 new action · 0 unresolved · agent-hub-visit-local 4am
 
 - 2026-11-19 12:10 ET | agent-hub-visit-local (noon) · rowids 198812–198837 · 23 in scope, 9 Grace-relevant · 3 notes appended, 1 created, 1 closure candidate (Inspira date → 1/24) · 0 unresolved
+
+- 2026-11-19 14:14 ET | quick refresh: ROWID 198838–198869, 30 msgs; 0 tracker writes (JP FoH iPad info, KVM self-resolved); unresolved 571-867-6009; elapsed ~0.7m

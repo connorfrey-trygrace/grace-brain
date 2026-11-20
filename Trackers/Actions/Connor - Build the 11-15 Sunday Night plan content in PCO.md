@@ -1,12 +1,13 @@
 ---
 name: "📋 Connor: Build the 11-15 Sunday Night plan content in PCO"
-status: closure-candidate
+status: completed
+resolved: 2026-11-19
 priority: P1
 owner: "Connor Frey"
 added: 2026-11-09
 deadline: 2026-11-15
 needs_by: 2026-11-10
-last_mentioned: "2026-11-13"
+last_mentioned: "2026-11-19"
 waiting_on: "Derek Adye / Brian Parker since 2026-11-13 — Russ's sermon notes (scripture slides?)"
 source: "PCO Services, plan 92214544 (Sunday Night, 11/15)"
 projects:
@@ -33,7 +34,7 @@ blocks: []
 - **Source**: weekly SNL service-prep check, 2026-11-09 — `services_plans` on plan 92214544: `items_count: 0`.
 - **Needs-by rationale**: Tuesday lyrics/slides cadence.
 - **Related**: [[Trackers/Actions/Russ Sullivan - Reply with windows to connect before his 11-15 Sunday Night message]] · [[Trackers/Actions/Connor - Remind Seth to fill out PCO every Tuesday night]] · prior week [[Trackers/Actions/Connor - Build the 11-08 Sunday Night plan content in PCO]]
-- **Status**: **Waiting** — order built, message titled (17 items). Remaining items (scripture slides, closing Host prompts + off-ramp) are pending inputs; nothing for Connor until they arrive (Connor, 11/13).
+- **Status**: **Completed 2026-11-19**: the 11/15 service ran. Connor confirmed the close.
 
 ### 2026-11-09 (weekly SNL service-prep check) — created
 - Plan 92214544 (Nov 15): 0 items — all five content checks open by default
@@ -106,3 +107,6 @@ blocks: []
 - → status: waiting-on → closure-candidate
 - Service ran tonight (Anna Maia on CM, Live Q&A on, Russ needed no handler) [198595–198611]. Open sub-item: were scripture slides ever needed? Close on Connor's word.
 [Source: iMessage 198609–198611]
+
+### 2026-11-19 (Connor, chat): completed
+- → status: closure-candidate → completed (Connor confirmed)
