@@ -6,7 +6,7 @@ owner: "Connor Frey"
 added: 2026-11-16
 deadline: 2026-11-22
 needs_by: 2026-11-18
-last_mentioned: "2026-11-20"
+last_mentioned: "2026-11-21"
 source: "PCO Services, plan 92214545 (Sunday Night, 11/22)"
 projects:
   - "Sunday Night Launch"
@@ -62,3 +62,7 @@ blocks: []
 ### 2026-11-20 (email)
 - Heather delivered official Wreaths Across America graphic; swap into 11/22 slides
 [Source: Outlook, "Re: Placeholder graphic", Heather Noble, 2026-11-20]
+
+### 2026-11-21 (text, agent-hub-visit-local)
+- 11/20 6:41 PM · Connor (ME) asked Anna Maia if she still wants a QOTN Sunday; if not, proposed dropping it for Seth's songwriting time — worship → announcements → message [198924]; no reply yet
+[Source: Text, Anna Maia, rowid 198924]
