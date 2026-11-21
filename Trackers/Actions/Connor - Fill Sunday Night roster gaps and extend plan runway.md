@@ -6,7 +6,7 @@ owner: "Connor"
 added: 2026-11-09
 deadline: 2026-11-22
 needs_by: 2026-11-18
-last_mentioned: "2026-11-16"
+last_mentioned: "2026-11-20"
 source: "PCO Services, service type 1804248 (Sunday Night), snl-week-ahead scheduled check"
 projects:
   - "Sunday Night Launch"
@@ -79,3 +79,8 @@ blocks: []
 - Unconfirmed: Simba (Host 11/22, 12/6), Michael Vacca (Slides 11/29, 12/6). LaurenNichole Wertz declined Hall 11/22 — self-swap, confirmed Auditorium Doors same night
 - Brandon Geddes not yet on any plan (11/13 ask still open)
 [Source: PCO Services 1804248, plans 92214545–47]
+
+### 2026-11-20 (email)
+- Brian Parker sent 11/29 sermon outline ("What Am I Missing?")
+- Seth shared Setlist 11/29 (Google Doc); Connor reacted
+[Source: Outlook, 2026-11-20]

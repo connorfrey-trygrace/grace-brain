@@ -6,7 +6,7 @@ owner: "Connor Frey"
 added: 2026-11-16
 deadline: 2026-11-22
 needs_by: 2026-11-18
-last_mentioned: "2026-11-19"
+last_mentioned: "2026-11-20"
 source: "PCO Services, plan 92214545 (Sunday Night, 11/22)"
 projects:
   - "Sunday Night Launch"
@@ -58,3 +58,7 @@ blocks: []
 ### 2026-11-19 (quick refresh, email)
 - 9:50 AM · Anna Maia sent the 11/22 outline (docx, "Do Good LOVE") to sermonoutline@
 [Source: Outlook, "11/22 Outline", Anna Maia, 2026-11-19]
+
+### 2026-11-20 (email)
+- Heather delivered official Wreaths Across America graphic; swap into 11/22 slides
+[Source: Outlook, "Re: Placeholder graphic", Heather Noble, 2026-11-20]

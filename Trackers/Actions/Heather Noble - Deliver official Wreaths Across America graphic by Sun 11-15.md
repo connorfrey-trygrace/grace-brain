@@ -1,19 +1,20 @@
 ---
 name: "🎨 Heather Noble: Deliver official Wreaths Across America graphic by Sun 11-15"
-status: waiting-on
+status: completed
+resolved: 2026-11-20
 priority: P1
 owner: "Heather Noble"
 added: 2026-11-12
 deadline: 2026-11-18
 needs_by: none
-last_mentioned: "2026-11-15"
+last_mentioned: "2026-11-20"
 source: "Outlook — Heather Noble, Re: Placeholder graphic, 2026-11-15 7:19 AM"
 projects:
   - "Sunday Night Launch"
 people:
   - "[[People/Connor Frey]]"
   - "[[People/Heather Noble]]"
-waiting_on: "Heather Noble since 2026-11-15 — official WAA graphic mid-week (see deadline) + website event add"
+waiting_on: ""
 blocked_by: []
 blocks: []
 ---
@@ -23,7 +24,7 @@ blocks: []
 
 - **Priority rationale**: P1 (escalated 11/12 sweep, ≤7d to date); was P2 — placeholder slide already exists, so Sunday isn't at risk if it's late.
 - **Source**: 11/12 7:00 AM Connor asked Heather if his placeholder could run Sunday while comms builds the real one; 10:33 AM Heather: "We should have one by then. I'll keep you updated."
-- **Status**: **Waiting on Heather** — comms slipped (Do Good); graphic mid-week for Sun 11/22, website event this week. Connor agreed 11/15. She committed; no chase.
+- **Status**: **Completed 2026-11-20** — Heather emailed the official graphic and said the event goes on the website and app today; Connor thanked her. Swap it into the 11/22 PCO plan.
 - **Related**: [[Events/2026-12-19-Wreaths-Across-America/2026-12-19-Wreaths-Across-America-Comms-Request]] · [[Trackers/Actions/Connor - Build the 11-15 Sunday Night plan content in PCO]]
 
 ### 2026-11-12 (quick refresh, sweep, Step 3.5)
@@ -35,3 +36,8 @@ blocks: []
 
 ### 2026-11-15 (Connor, chat)
 - WAA announcement pulled from 11/15; runs 11/22 with the official graphic
+
+### 2026-11-20 (email)
+- 9:05 AM · Heather sent graphic (ProPresenter 1920x1080); event on website/app today
+- 9:11 AM · Connor thanked her
+- → status: waiting-on → completed

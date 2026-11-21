@@ -361,3 +361,5 @@ Log the line even when N=M=0 and K=J=0 — a logged "found nothing" run is exact
 - 2026-11-19 14:14 ET | quick refresh: window 04:35–14:13 ET; 8 msgs + 2 sent; 4 action notes appended (11-22 plan, 12-13 promote, John 12-13 script, Inspira 1-24 calendar); 0 closures; elapsed ~1.5m
 
 - 2026-11-20 05:05 ET | cloud 5am: inbox 3 (Anna Advent ugly-stocking thread, Do Good newsletter, reaction digest), sent 0; 0 notes updated, 0 closed, dups 0, elapsed 0m
+
+- 2026-11-21 05:05 ET | 2026-11-21 05:04 ET · cloud 5am · inbox 4, sent 2 · 1 closed (WAA graphic), 2 notes updated · dups 0 · elapsed 6m
