@@ -36,7 +36,7 @@ John's 8/18 report answered the question he was given (*who is a confirmed yes, 
 1. **The real table count.** Corroborated leader tables today: **1** (Connor + Nathan Ebikwo + Mike Riggs) and **2** (Brandon Brys + Steve). **3** is Xavier Swank leading alone if Connor's read on Goodman is right; **4** is Brandon Geddes leading alone with Brady wingmanning.
 2. ⚠️ **The greeting rotation.** Greeting was decided 2026-08-19 as a per-table rotation taken by tables open to new members — which **assumes each table has a man free to absorb a newcomer.** That man is the wingman. The bench is **Brady (committed to table 4), Ron (free), Ivan (never confirmed)** — at most three, against four tables. **If the role-check comes back thin on wingmen, the greeting decision needs revisiting, not just the leader count.**
 
-- **Related**: [[Events/2026-09-16-Boot-Camp-Fall-Relaunch/2026-09-16-Boot-Camp-Fall-Relaunch]] · [[Trackers/Actions/Connor - Design new-guy table-routing system for Boot Camp]] · [[Archive/Actions/John Slye - Text each Boot Camp table-leader candidate personally]] (closed 8/18 — closed on John's *reporting*, which was complete; this is a different question, not a reopening)
+- **Related**: [[Events/2026-09-16-Boot-Camp-Fall-Relaunch/2026-09-16-Boot-Camp-Fall-Relaunch]] · [[Archive/Actions/Connor - Design new-guy table-routing system for Boot Camp]] · [[Archive/Actions/John Slye - Text each Boot Camp table-leader candidate personally]] (closed 8/18 — closed on John's *reporting*, which was complete; this is a different question, not a reopening)
 - **Blocked by**: none · **Blocks**: nothing formally, but the table count and the greeting rotation both wait on the answer
 
 ### 2026-08-19 (Connor, live session) — created

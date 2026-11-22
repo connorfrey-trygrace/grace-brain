@@ -13,7 +13,7 @@ participants:
 
 # 📣 Young Adults Country Night at Inspira Dance (12/6) — Comms Request
 
-> **Status: SUBMITTED** 2026-10-25. Source for every value: the live Momence page (read 2026-10-25), https://momence.com/l/vrhe8zzO. Prior submission for reference: [[Events/2026-10-04-Inspira-Country-Night/2026-10-04-Inspira-Country-Night-Comms-Request]]. Action: [[Trackers/Actions/Connor - Submit comms request for 12-6 Inspira collab]].
+> **Status: SUBMITTED** 2026-10-25. Source for every value: the live Momence page (read 2026-10-25), https://momence.com/l/vrhe8zzO. Prior submission for reference: [[Events/2026-10-04-Inspira-Country-Night/2026-10-04-Inspira-Country-Night-Comms-Request]]. Action: [[Archive/Actions/Connor - Submit comms request for 12-6 Inspira collab]].
 
 ## Form Values
 

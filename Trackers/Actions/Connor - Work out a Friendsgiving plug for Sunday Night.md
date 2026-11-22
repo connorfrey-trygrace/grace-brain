@@ -1,13 +1,12 @@
 ---
 name: "🦃 Connor: Work out a plug at Friendsgiving inviting people to Sunday Night"
-status: waiting-on
-waiting_on: "Anna Maia / Callie Taylor since 2026-11-13 — plug slot in the program + Dropbox location of the graphics"
-priority: P3
+status: active
+priority: P1
 owner: "Connor"
 added: 2026-10-26
-deadline: none
+deadline: 2026-11-23
 needs_by: none
-last_mentioned: "2026-11-13"
+last_mentioned: "2026-11-21"
 source: "[[Transcripts/2026-10-26 17.04 Connor–Derek Bi-weekly Sync — Baptism, Tony Visit, Lighting & Dinners]]"
 projects:
   - "Sunday Night Launch"
@@ -23,7 +22,7 @@ blocks: []
 
 - **Source**: Derek on 10/26 suggested using Friendsgiving's captive audience to invite people to Sunday Night. Connor: *"I'll work on that."*
 - **Priority rationale**: P3. Friendsgiving is Mon 11/23, and the advertising go-ahead is still with Anna Maia.
-- **Status**: Active — draft ready for Connor's review: [[Events/2026-09-20-Sunday-Night-Service/2026-11-23-Friendsgiving-Plug-Draft]]. Connor delivers it (full version). Waiting on Anna/Callie for the program slot + graphics folder (emailed 11/13).
+- **Status**: Active — draft ready: [[Events/2026-09-20-Sunday-Night-Service/2026-11-23-Friendsgiving-Plug-Draft]]. Connor delivers it (full version). Anna/Callie never confirmed the program slot (emailed 11/13) → confirm the ~30-sec slot with Anna before Mon 11/23.
 - **Blocked by**: [[Trackers/Actions/Anna Maia - Give the go-ahead to advertise Friendsgiving on Sunday night]] · **Blocks**: nothing
 
 ### 2026-10-26 — created
@@ -60,3 +59,7 @@ blocks: []
 - Sent PCO email to 19 YP-age volunteers (+JP): personal early invite + registration link + sit-with-someone-new ask → [[Events/2026-09-20-Sunday-Night-Service/2026-11-13-Friendsgiving-Invite-Volunteers-Draft]]
 - 9:10 PM · Connor → Anna (cc Callie): asks for ~30 sec after the worship set + where the Dropbox graphics folder is; heads-up on volunteers at tables → status waiting-on
 [Source: Email, Sent Items, "Friendsgiving - Sunday Night plug + marketing folder", 2026-11-13]
+
+### 2026-11-21 (quick refresh, sweep, Step 3)
+- Awaited Anna/Callie 8 days, no reply on the plug slot; Friendsgiving is Mon 11/23 → waiting-on → active, follow up (text Anna; she texted Connor today about Sunday)
+- Deadline set to 11/23 (the event); P3 → P1 (within 7 days)

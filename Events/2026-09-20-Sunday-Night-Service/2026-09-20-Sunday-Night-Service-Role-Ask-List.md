@@ -89,7 +89,7 @@ No reply from anyone as of the 8/30 22:06 scan boundary.
 
 ## Notes
 - Source: [[Transcripts/2026-08-30 13.10 Sunday Night Formation Lunch — Team Assembled, Captain Roles Unfilled]]
-- Parent item: [[Trackers/Actions/Connor - Hand named chunks of Sunday night and Boot Camp to named owners]] — this list is how that item gets worked; it does not replace it.
+- Parent item: [[Archive/Actions/Connor - Hand named chunks of Sunday night and Boot Camp to named owners]] — this list is how that item gets worked; it does not replace it.
 - Host-pair context: [[Archive/Actions/Connor - Identify Sunday night hostMC (boot camp alumni pool)]]
 
 ## Changelog

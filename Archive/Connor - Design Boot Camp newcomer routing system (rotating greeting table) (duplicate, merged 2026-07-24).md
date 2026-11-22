@@ -14,7 +14,7 @@ projects:
 # 🥾 Connor: Design Boot Camp newcomer routing system (rotating greeting table)
 
 > [!warning] Archived 2026-07-24 — duplicate, merged.
-> This was a second note for the same John-delegated task tracked at [[Trackers/Actions/Connor - Design new-guy table-routing system for Boot Camp]] (the canonical, transcript-sourced item). Its settled design and open questions were folded into that note. Kept here for history only. Approved by Connor during the 2026-07-24 weekly synthesis.
+> This was a second note for the same John-delegated task tracked at [[Archive/Actions/Connor - Design new-guy table-routing system for Boot Camp]] (the canonical, transcript-sourced item). Its settled design and open questions were folded into that note. Kept here for history only. Approved by Connor during the 2026-07-24 weekly synthesis.
 
 - **Priority**: P2 — needed before Sept 16 launch, but no hard deadline yet.
 - **Source**: Direct discussion with Connor in Cowork session, 2026-07-24.

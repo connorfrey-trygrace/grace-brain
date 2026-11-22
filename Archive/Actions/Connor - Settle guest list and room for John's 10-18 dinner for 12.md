@@ -74,4 +74,4 @@ resolved: 2026-10-13
 [Source: Email, info@trygrace.org + Rock send, 2026-10-13]
 
 ### 2026-10-18 (quick refresh, text) — pointer only (stays completed)
-- Late ask + next-dinner cadence split out: [[Trackers/Actions/Connor - Reply to Stephanie re a 10-18 dinner spot]], [[Trackers/Actions/John Slye - Set cadence and next date for the Sunday-evening dinner]]
+- Late ask + next-dinner cadence split out: [[Archive/Actions/Connor - Reply to Stephanie re a 10-18 dinner spot]], [[Trackers/Actions/John Slye - Set cadence and next date for the Sunday-evening dinner]]

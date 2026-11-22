@@ -27,7 +27,7 @@ people:
 - **Date check — no contradiction.** John's *"the following Wednesday"* = **2026-09-16**, which matches the relaunch date already in [[Events/2026-09-16-Boot-Camp-Fall-Relaunch/2026-09-16-Boot-Camp-Fall-Relaunch]].
 - **⚠️ Sequencing problem worth resolving before the invite goes out.** John proposes inviting **Callie Taylor** to a leaders' meeting, but she has not been asked to own anything yet: [[Archive/Actions/Connor - Brief Callie Taylor through Jennifer Claffey on owning food]] and [[Archive/Actions/Derek Adye - Check with Jennifer Claffey on Callie Taylor's load before asking her to own Boot Camp catering]] are **both still open**. As it stands she would be invited to plan a launch before anyone has checked her capacity or made the ask — the exact thing Derek's item exists to prevent. **Settle the Jennifer/Callie question first, or leave Callie off 9/9.**
 - **Whose meeting is it?** John proposed it and holds the leader list; Connor accepted. **Nobody has said who sends the invite.** Recorded here as Connor's to drive, since it is his relaunch — worth one text to John to confirm rather than both assuming the other has it.
-- **Related**: [[Archive/Actions/John Slye - Text each Boot Camp table-leader candidate personally]] (the roster this meeting depends on) · [[Archive/Actions/Connor - Boot camp relaunch]] · [[Trackers/Actions/Connor - Design new-guy table-routing system for Boot Camp]]
+- **Related**: [[Archive/Actions/John Slye - Text each Boot Camp table-leader candidate personally]] (the roster this meeting depends on) · [[Archive/Actions/Connor - Boot camp relaunch]] · [[Archive/Actions/Connor - Design new-guy table-routing system for Boot Camp]]
 - **Blocked by**: none (soft: the Callie question) · **Blocks**: nothing
 
 ### 2026-08-17 (quick refresh, text sync) — created
@@ -65,7 +65,7 @@ Minted under the Step 5 named-deadline rule: an explicit commitment tied to a sp
 ### 2026-08-28 (text)
 - 2:05 PM (8/27) · John sends his 5-part Boot Camp night structure — host, weekly testimony, facilitation guide, greeting team, setup team
 - items 2, 3 and 5 are John's work-in-progress; 9/9 is where they get names. Item 5 re-confirms Felipe Gomez + Brian Sulc
-- 2:09 PM · Connor asks for all 8 weeks laid out in advance → [[Trackers/Actions/John Slye - Lay out the 8-week Boot Camp grid (week, passage, host, testimony)]]
+- 2:09 PM · Connor asks for all 8 weeks laid out in advance → [[Archive/Actions/John Slye - Lay out the 8-week Boot Camp grid (week, passage, host, testimony)]]
 - agenda conflicts to settle in the room: John plans a greeting team, vault decision is rotation by table; and the headcount gap
 [Source: Texts, John Slye → Connor 2026-08-27 2:05 PM ET; Connor → John 2:09 PM ET]
 
@@ -96,5 +96,5 @@ Minted under the Step 5 named-deadline rule: an explicit commitment tied to a sp
 - **Mike Riggs → Connor** [193153, verified `THEM`]: "Everything went great last night. We were packed out in the community room... 20+ guys. One guy was a week early thinking last night was night 1 of Bootcamp. We missed you."
 - Connor → Mike Riggs [193156, verified `ME`], 07:02 ET: feeling better, and on new-guy placement: "we'll see about breakfast. Our table's gonna look pretty lean!! So many new tables will be led by folks who were w us." Mike [193158, verified `THEM`]: "We will only be lean for a short time. It will grow quickly."
 - **One comms wrinkle worth a line, not a new item:** a guy showed up 9/9 thinking it was Bootcamp night 1 — a week early. Watch for repeat confusion around the actual 9/16 relaunch date.
-- → **status: active → completed, resolved: 2026-09-10.** The meeting happened, went well, and the only remaining thread on this note (new-table formation/leadership) is a live but undated topic better tracked, if it needs a home, against [[Trackers/Actions/Connor - Design new-guy table-routing system for Boot Camp]] rather than kept open here.
+- → **status: active → completed, resolved: 2026-09-10.** The meeting happened, went well, and the only remaining thread on this note (new-table formation/leadership) is a live but undated topic better tracked, if it needs a home, against [[Archive/Actions/Connor - Design new-guy table-routing system for Boot Camp]] rather than kept open here.
 [Source: Texts, Mike Riggs ↔ Connor, 2026-09-10; verified via `query-messages.py verify`, rowids 193153, 193156, 193158]

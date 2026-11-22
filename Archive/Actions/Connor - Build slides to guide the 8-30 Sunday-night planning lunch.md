@@ -37,7 +37,7 @@ resolved: "2026-08-30"
 - **Priority rationale**: **P1 floor overridden by the assignor.** Connor assigned it to himself and explicitly downgraded it in the same breath: *"Not that we need to do it, but that could just at least guide us to make sure we don't miss anything."* Recorded per the checklist's override clause; also inside the ~21-day P2 window.
 - **Source**: [[Transcripts/2026-08-17 14.11 Connor–John Q&A Call — Follow-Ups Redirected to the Room]] — Connor, 2026-08-17: *"I'm going to put some slides together."* A stated commitment.
 - **Deadline rationale**: the meeting. External date, named by John Slye on 8/17.
-- **Status**: **Completed 2026-08-30** — deck built and presented end to end; it carried the 78-minute meeting. The only slide that failed to do its job was the closing sign-up/emoji slide, which produced no volunteers; that outcome is tracked on [[Trackers/Actions/Connor - Hand named chunks of Sunday night and Boot Camp to named owners]].
+- **Status**: **Completed 2026-08-30** — deck built and presented end to end; it carried the 78-minute meeting. The only slide that failed to do its job was the closing sign-up/emoji slide, which produced no volunteers; that outcome is tracked on [[Archive/Actions/Connor - Hand named chunks of Sunday night and Boot Camp to named owners]].
 
 ### What the deck has to carry
 John's three sections, accepted on the call, are the outline — and the point of them is that attendees know which portion is theirs and can leave when it is done:
@@ -161,5 +161,5 @@ Connor: *"The passage changes week to week - no need to include it."* Correct, a
 
 ### 2026-08-31 (transcript synthesis — 8/30 formation lunch) — ✅ presented
 - Connor walked the whole deck in the room and it carried the meeting; the structure held (service structure → connection-opportunity experiments → the 2×2 grid → roles → feedback form → sign-up slide). He disclosed the authorship unprompted: *"this presentation was made by Claude, so there are some blurbs in here that I will say are irrelevant, but in general, I'm signing off on it as my own."*
-- **The one slide that did not work is the last one** — the emoji/sign-up sorting slide (Skylar Frey's idea, per Connor: *"Skylar suggested that we do one of these"*). It drew a laugh about E.T. and produced no sign-ups. See [[Trackers/Actions/Connor - Hand named chunks of Sunday night and Boot Camp to named owners]].
+- **The one slide that did not work is the last one** — the emoji/sign-up sorting slide (Skylar Frey's idea, per Connor: *"Skylar suggested that we do one of these"*). It drew a laugh about E.T. and produced no sign-ups. See [[Archive/Actions/Connor - Hand named chunks of Sunday night and Boot Camp to named owners]].
 - Source: [[Transcripts/2026-08-30 13.10 Sunday Night Formation Lunch — Team Assembled, Captain Roles Unfilled]]

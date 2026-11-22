@@ -139,7 +139,7 @@ Worth one sentence anyway: the **9/9 all-leaders prayer + planning meeting** now
 
 - [ ] **Connor** — Add contact fields at the **end** of the Google feedback form + a new-person flag (after sleeping on it; full anonymity remains his call) → [[Archive/Actions/Connor - Build the Sunday night feedback form as a Rock connect form]]
 - [ ] **Connor** — Put the feedback form + the usher attendance link on **Monday's** Rock/PCO agenda with Jennifer Claffey + Kay Carter-Corker, and send Kay the form → [[Archive/Actions/Connor - Put the feedback form + usher attendance link on the Monday Rock-PCO agenda with Jennifer Claffey and Kay Carter-Corker]]
-- [ ] **Connor** — Hand named chunks of Sunday night + Boot Camp to named owners (John Slye's ask) → [[Trackers/Actions/Connor - Hand named chunks of Sunday night and Boot Camp to named owners]]
+- [ ] **Connor** — Hand named chunks of Sunday night + Boot Camp to named owners (John Slye's ask) → [[Archive/Actions/Connor - Hand named chunks of Sunday night and Boot Camp to named owners]]
 - [ ] **Connor** — Text Derek how much of Deep and Wide to read for 8/25 → [[Archive/Actions/Connor - Text Derek Adye how much of Deep and Wide to read for the next sync]]
 - [ ] **Derek Adye + Kay Carter-Corker** — Separate Sunday-night intake from the Sunday-morning automated path → [[Archive/Actions/Derek Adye + Kay Carter-Corker - Separate Sunday-night new-person intake from the Sunday-morning automated path]]
 - [x] **Connor** — Bring Deep and Wide Section 1 → closed 2026-08-18

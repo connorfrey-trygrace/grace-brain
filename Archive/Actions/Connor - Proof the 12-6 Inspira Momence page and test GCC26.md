@@ -31,7 +31,7 @@ blocks: []
 ### 2026-10-22 (Claude, browser check))
 - Page proofed ("Young Adults Country Night", Sun 12/6 8 PM, $15 list; GCC26 → $5). Copy reads clean; one nit: "Proceeds … goes" → "go"
 - GCC26 NOT verified: applying it froze the Momence checkout both tries (page hung, no price shown). Needs a human test on phone/another browser
-- Comms request ([[Trackers/Actions/Connor - Submit comms request for 12-6 Inspira collab]]) waits on the code working (Connor)
+- Comms request ([[Archive/Actions/Connor - Submit comms request for 12-6 Inspira collab]]) waits on the code working (Connor)
 
 ### 2026-10-22 (Connor, chat) — waiting-on
 - Connor texted Maggie: GCC26 froze checkout on Apply (twice); asked her to check the code; flagged the "goes" → "go" typo; code failed with every capitalization [196578–196580]

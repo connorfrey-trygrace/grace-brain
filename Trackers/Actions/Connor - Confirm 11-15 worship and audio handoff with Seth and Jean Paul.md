@@ -33,7 +33,7 @@ blocks: []
   - Soundcheck: standing run-through done by 5:20
   - 2026-11-12 6:01 AM (email) · Seth shared Google Doc "Setlist 11/15" (edit) with Connor, Brian, Vacca — may name the "Praise" song / change the set vs PCO
 - **Status**: **Closed 2026-11-12 — not Connor's.** Connor: JP's Thursday text to Seth "is on him"; Seth owns the worship PCO items when he leads. No Connor check needed.
-- **Related**: prior week [[Trackers/Actions/Connor - Confirm 11-08 worship and audio handoff with Seth and Jean Paul]] · [[Trackers/Actions/Connor - Build the 11-15 Sunday Night plan content in PCO]]
+- **Related**: prior week [[Archive/Actions/Connor - Confirm 11-08 worship and audio handoff with Seth and Jean Paul]] · [[Trackers/Actions/Connor - Build the 11-15 Sunday Night plan content in PCO]]
 [Source: PCO Services 1804248/92214544; Text, JeanPaul Tauler rowids 197921–197940; Text, Seth Addison 198365–198384; Text, Derek Adye 198398–198402; Outlook 11/12 6:01 AM Google Docs share "Setlist 11/15"]
 
 ### 2026-11-12 (quick refresh, sweep, Step 3.5)

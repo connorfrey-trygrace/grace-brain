@@ -16,7 +16,7 @@ participants:
 # 🗓️ Connor–Derek Bi-weekly Sync — Agenda
 **Monday, November 9, 2026 · 4:00–4:45 PM ET · Zoom** *(Derek organizing)*
 
-> [!warning] **This sync may be short, or may already have happened.** On 11/5 Connor told Derek he's traveling 11/9 and can't make the 4 PM ([[Trackers/Actions/Connor - Decide how to handle the 11-09 Derek sync while in Chicago]]). Derek replied at 8:43 AM today: happy to chat for a few minutes once Connor is through airport security, with "no rush on my end." Connor offered about 30 minutes right then, or around the scheduled time "with more uncertainty." The calendar block is still there. If time is short, cover **1 and 2** and push the rest to the 11/23 sync.
+> [!warning] **This sync may be short, or may already have happened.** On 11/5 Connor told Derek he's traveling 11/9 and can't make the 4 PM ([[Archive/Actions/Connor - Decide how to handle the 11-09 Derek sync while in Chicago]]). Derek replied at 8:43 AM today: happy to chat for a few minutes once Connor is through airport security, with "no rush on my end." Connor offered about 30 minutes right then, or around the scheduled time "with more uncertainty." The calendar block is still there. If time is short, cover **1 and 2** and push the rest to the 11/23 sync.
 
 ---
 

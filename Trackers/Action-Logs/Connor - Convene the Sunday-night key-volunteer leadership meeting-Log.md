@@ -82,7 +82,7 @@ The 7:00 PM invite (ROWID 191656) sent as scheduled. Responses in "Sunday Night 
 
 ### 2026-08-18 (transcript synthesis) — the 8/30 roster, said out loud and in full (~15).
 - **John Slye, Krista Slye, Connor, Skylar Frey, Simba Kanjanda, Emily Horneffer, Sean Liesegang, Liz Goodiel, Brandon Geddes, Will Gralley, Felipe Gomez, Donovan Bonner, Seth Addison, Steve Coy, Callie Taylor.** Connor's expected turnout: *"15 to 18… I mean, I guess 10 to 20."*
-- Derek's read: *"is that sort of emerging into kind of a core team thinking?"* — Connor: *"Yeah."* So this list is now the de-facto Sunday-night core team, and the owner pool for [[Trackers/Actions/Connor - Hand named chunks of Sunday night and Boot Camp to named owners]].
+- Derek's read: *"is that sort of emerging into kind of a core team thinking?"* — Connor: *"Yeah."* So this list is now the de-facto Sunday-night core team, and the owner pool for [[Archive/Actions/Connor - Hand named chunks of Sunday night and Boot Camp to named owners]].
 - Attendance will be in-and-out (Seth Addison leads worship; the lunch starts before the 3rd service).
 - ⚠️ Connor said *"next Sunday"* in the room; every other vault record has this on **2026-08-30**, 11:00 AM, volunteer room. Treating 8/30 as correct.
 [Source: [[Transcripts/2026-08-18 17.09 Connor–Derek Weekly Sync — Feedback Form Becomes the Sunday Night Funnel]]]

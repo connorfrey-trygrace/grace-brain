@@ -66,3 +66,9 @@ blocks: []
 ### 2026-11-21 (text, agent-hub-visit-local)
 - 11/20 6:41 PM · Connor (ME) asked Anna Maia if she still wants a QOTN Sunday; if not, proposed dropping it for Seth's songwriting time — worship → announcements → message [198924]; no reply yet
 [Source: Text, Anna Maia, rowid 198924]
+
+### 2026-11-21 (quick refresh, text)
+- 10:37 AM · Anna Maia (THEM): no time to look at the questions → no pre-message QOTN; offers a general Q&A at the end instead, like Russ last week [198968]
+- Anna (THEM): mention Friendsgiving again, 100 spots still open [198969]
+- Connor (ME) reacted only; Q&A offer not answered → open: add an end-of-message Q&A to the closing Host item, or not
+[Source: Text, Anna Maia, rowids 198968–198972]
