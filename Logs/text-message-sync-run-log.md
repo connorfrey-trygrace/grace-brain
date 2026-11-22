@@ -386,3 +386,5 @@ Format (adopted 2026-07-16, mirroring [[Workflows/m365-to-obsidian-sync]] §Run 
 - 2026-11-21 12:10 ET | agent-hub-visit-local (noon) · ROWID 198907–198926 · 13 in scope · 1 tracker write (11-22 SN plan: QOTN-drop proposal to Anna) · 0 closure candidates · Step 2b skipped (4am ran)
 
 - 2026-11-21 21:39 ET | 47 msgs (198927–198973) | 1 note updated (11-22 PCO plan) | 0 unresolved | 0 closure candidates | quick refresh | elapsed 1m
+
+- 2026-11-22 04:09 ET | agent-hub-visit-local (4am) · ROWID 198974–198975 · 2 in scope · 0 Grace-relevant · 0 tracker writes · 0 closure candidates · elapsed 1m
