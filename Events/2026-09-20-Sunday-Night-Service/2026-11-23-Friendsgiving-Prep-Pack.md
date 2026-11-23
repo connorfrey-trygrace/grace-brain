@@ -18,16 +18,22 @@ Your three goals tonight: tell them what Sunday Night is, find out if they've be
 Anna sent the program by text at 1:08 PM today. Callie does the welcome and prayer, Anna emcees, Cam gives his testimony, **then you share about Sunday Evening**, then Callie covers upcoming events and Anna closes by pointing people to you and Callie. Arrivals are at 6:30 and worship is at 8:30.
 - Fallback if the slot gets cut: skip the plug and work the room with the guide below.
 
-## Plug (~30 sec)
+## Plug (~90 sec, the "why we built it" story; draft for Connor to refine)
 
-> Real quick: if tonight felt like your kind of thing, we do a version of it every week. Sunday Night is 6 PM in the Auditorium. There's worship, a message, and then we stick around and actually talk about it, with real questions and no pressure to have it figured out.
+> Hey everybody, I'm Connor. I get to help lead our Sunday evening service.
 >
-> This Sunday is the first week of Advent. Brian's talking about Simeon: "What am I missing?" Great week to try it.
+> Quick story. You may have seen the headlines: young adults are going back to church. Gallup found the share of young men going to church at least once a month jumped from 33% to 40% in just two years, and young women are up too.
+>
+> When we've asked people our age why, the answer we keep hearing is connection. Not a show, not a lecture. People want to actually know people and talk about real stuff.
+>
+> So we built Sunday Night for that. Sundays at 6 in the Auditorium: worship, a message, and then we stick around and talk about it, with real questions and no pressure to have it figured out.
+>
+> This Sunday is the first week of Advent. Brian's talking about Simeon: "What am I missing?" It's a great week to try it.
 >
 > And honestly, I want to hear from you. Whether you've been or not, find me tonight. I'd love to know what would make Sunday night worth your time.
 
-- The sermon is Brian's 11/29 outline, "What Am I Missing?" (Luke, Simeon).
-- Seth is moving the worship to Christmas music this week, but that isn't locked until his Tuesday PCO submit, so the plug doesn't promise it.
+- Stat source: [Axios on Gallup (Apr 2026)](https://axios.com/2026/04/16/gen-z-religion-poll-gallup). Young men attending at least monthly went from 33% (2022–23) to 40% (2024–25), +7 points; young women +3 points. Pew and PRRI read flatter, and Axios calls it a targeted uptick, not a broad revival. The Barna frequency stat (1.9×/month) was dropped per Connor.
+- "Connection" is Connor's own read of the feedback. It isn't from a survey number.
 
 ## Conversation guide (1:1s and small clusters)
 
