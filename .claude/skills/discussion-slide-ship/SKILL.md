@@ -10,3 +10,5 @@ disable-model-invocation: true
 4. Same name already there? Move the old one to `Sunday Night/Archive/<name> (superseded M-D).png` first. Never delete.
 
 Due Wednesday night; Vacca renders from PCO Thursday morning. Then run `discussion-pco-check`.
+
+After shipping, update the service's booth handoff note (`Sunday Visuals/Sunday Night/_HANDOFF M.D.YY.md`) per `Workflows/booth-handoff.md`.

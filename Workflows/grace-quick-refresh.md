@@ -20,6 +20,8 @@ Sequential (not parallel with anything) — synthesis writes to the same `/Track
 
 ### Phase 1 — pull and analyze, concurrently (no writes)
 
+**Booth replies:** if a `Sunday Visuals/Sunday Night/_HANDOFF M.D.YY.md` exists for the coming or just-past Sunday, read its `## Booth → laptop` section. Report new lines in Part 2; on Monday, archive the past Sunday's note per [[Workflows/booth-handoff]].
+
 **First, before the two subagents: pull the calendar.** One `outlook_calendar_search` call, next ~3 weeks, and write [[Trackers/Calendar-Window]] per the format documented in that file's header. Cheap (one call, ~2 KB) and it is the input everything downstream needs to stop guessing.
 
 > **This is a phase step, not a rule, because a rule saying "check the calendar first" had already been written three times and still didn't stop a fabricated meeting from reaching a report** (2026-08-20 incident in reference). Fetching the fact removes the inference gap a fourth rule can't.

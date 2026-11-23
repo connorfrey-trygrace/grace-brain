@@ -50,3 +50,5 @@ Use Claude in Chrome on `services.planningcenteronline.com/plans/<plan_id>`.
 - Close the Chrome tab.
 - Append one dated line to the event's `-Log.md` (e.g. `Events/2026-09-20-Sunday-Night-Service/2026-09-20-Sunday-Night-Service-Launch-Log.md`): which items changed, split or not, verified.
 - Mirror the final wording into the vault draft if one exists (e.g. `2026-09-27-Connor-Host-Intro-Draft.md`) so the draft and the plan don't drift.
+
+After shipping, update the service's booth handoff note (`Sunday Visuals/Sunday Night/_HANDOFF M.D.YY.md`) per `Workflows/booth-handoff.md`.

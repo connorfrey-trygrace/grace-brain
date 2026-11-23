@@ -1,0 +1,11 @@
+{
+  "_source": "2026-11-22. Segment order from live PCO plan 92214545 after Connor's 11/22 edits: Worship -> Host Transition (announcements, intro Anna) -> Message (Anna Maia, Do Good LOVE) -> Communion -> Auditorium Discussion. Connor dropped the live Q&A ('not nearly as engaging as last week') and confirmed communion.",
+  "date": "11.22.26",
+  "segments": [
+    ["Worship"],
+    ["Announcements"],
+    ["Message"],
+    ["Communion"],
+    ["Auditorium", "Discussion"]
+  ]
+}
