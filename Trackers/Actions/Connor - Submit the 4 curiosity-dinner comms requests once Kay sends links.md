@@ -1,7 +1,7 @@
 ---
 name: "📣 Connor: Submit the 4 curiosity-dinner comms requests once Kay sends links"
 status: waiting-on
-priority: P2
+priority: P1
 owner: "Connor"
 added: 2026-11-13
 deadline: none
@@ -52,3 +52,6 @@ blocks: []
 ### 2026-11-17 (quick refresh, email)
 - 11/16 10:35 PM · Callie: menu kept limited; registration links + menu info to Connor by end of week (Fri 11/20). No chase — Callie committed to report back
 [Source: Outlook, "Re: Curiosity dinners - simpler menu", 2026-11-16]
+
+### 2026-11-23 (quick refresh, sweep, Step 3.5)
+- → priority: P2 → P1 (needs_by 11/29 within 7 days)

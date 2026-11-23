@@ -392,3 +392,5 @@ Format (adopted 2026-07-16, mirroring [[Workflows/m365-to-obsidian-sync]] §Run 
 - 2026-11-23 05:15 ET | agent-hub-visit-local · ROWID 198976–199037 · 37 in scope · 6 Grace-relevant · 0 new items · 2 notes appended (Friendsgiving plug, Brian lights → closure-candidate) · launch log +4 · 0 unresolved · 0 garbled
 
 - 2026-11-23 12:44 ET | agent-hub-visit-local (noon) · ROWID 199038–199049 · 12 in scope · 8 Grace-relevant · 1 new item (12-06 QOTN) · 1 note appended (11-29 PCO build) · launch log +4 · 0 unresolved · 0 garbled
+
+- 2026-11-23 13:49 ET | quick refresh | ROWID 199050–199068 (19 msgs) | 4 Grace threads | notes updated: 11-29 PCO, Seth Tue reminder, 12-06 QOTN, Friendsgiving plug; new: Seth Christmas setlist (waiting-on) | 1 unresolved (St Onge, non-Grace)

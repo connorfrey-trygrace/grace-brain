@@ -29,7 +29,7 @@ flagged: ""
 - **Deadline rationale**: Emily's later option is Wed 11/18 6–7 PM.
 - **Meeting**: proposed only; confirmed 11/17 for ~6 PM today [198710]. The other option is Wed 11/18 6–7 PM. No reply from Connor found as of ROWID 198704.
 - **Status**: **Completed 2026-11-18** — call held Wed 11/18 ~6:20 PM ([[Transcripts/2026-11-18 18.41 Connor–Emily Horneffer Call — Off the Sunday Night Core Team]]). Emily stays on Sunday mornings and is off the Sunday Night core team. Follow-up: [[Trackers/Actions/Connor - Tell John Slye Emily Horneffer is off the Sunday Night core team]].
-- **Context**: follows [[Trackers/Actions/Connor - Talk to Jennifer Claffey about Emily Horneffer captaining vs Sunday Night]] (completed 11/7).
+- **Context**: follows [[Archive/Actions/Connor - Talk to Jennifer Claffey about Emily Horneffer captaining vs Sunday Night]] (completed 11/7).
 
 ### 2026-11-17 (text, agent-hub-visit-local)
 - 11/16 9:14 PM · Emily (THEM): free Tue 11/17 ~6 PM or Wed 11/18 6–7 PM [198702]

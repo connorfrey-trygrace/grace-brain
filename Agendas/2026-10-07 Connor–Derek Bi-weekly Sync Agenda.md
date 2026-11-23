@@ -31,7 +31,7 @@ participants:
 ## 1. 10/4 Inspira young-professionals night: how did it land? *(Derek's read)*
 - Service ended by 7:15 for the walk to Inspira. No debrief or attendance figure is recorded in the vault yet.
 - **Ask:** did Derek hear anything, and is a repeat or another off-ramp date worth planning?
-- Ref: [[Events/2026-10-04-Inspira-Country-Night/2026-10-04-Inspira-Country-Night-Comms-Request]] · [[Trackers/Actions/Connor - Foster the Grace–Inspira relationship (Maggie)]]
+- Ref: [[Events/2026-10-04-Inspira-Country-Night/2026-10-04-Inspira-Country-Night-Comms-Request]] · [[Archive/Actions/Connor - Foster the Grace–Inspira relationship (Maggie)]]
 
 ---
 

@@ -25,7 +25,7 @@ blocks: []
 - **Priority rationale**: 11/29 is 6 days out with 11 positions open, no host, no captain; runway under 4 weeks.
 - **Deadline rationale**: 11/29 is the next under-staffed Sunday.
 - **Needs-by rationale**: requests out by Wed so volunteers can confirm before Sunday.
-- **Status**: Active 11/23 — snl-week-ahead check run; open gaps 11/29–12/13 and runway 3.9 wks (see 11/23 entry). Standing note for the weekly `snl-week-ahead` check; supersedes [[Trackers/Actions/Connor - Schedule Sunday Night volunteers for 10-18 onward]] (completed 11/7). Update this note weekly; don't mint a new one.
+- **Status**: Active 11/23 — snl-week-ahead check run; open gaps 11/29–12/13 and runway 3.9 wks (see 11/23 entry). Standing note for the weekly `snl-week-ahead` check; supersedes [[Archive/Actions/Connor - Schedule Sunday Night volunteers for 10-18 onward]] (completed 11/7). Update this note weekly; don't mint a new one.
 - **Notes**: Set Up / Breakdown / Events teams are out of scope (Connor, 10/28). PCO read tool gives plan-level `needed_positions_count` only, not per team. Host blockouts: [[Trackers/Actions/Sunday Night hosts - Enter blockouts through November in PCO]].
 - **Blocked by**: none
 

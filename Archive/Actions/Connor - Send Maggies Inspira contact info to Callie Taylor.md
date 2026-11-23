@@ -26,7 +26,7 @@ resolved: 2026-09-22
 - **Deadline rationale**: **Callie and Jonathan sit down Tuesday 2026-09-23** to build it. If the contact hasn't arrived by then, that session is wasted and the next one is a week out.
 - **Status**: **Completed 2026-09-22** — Maggie's contact info sent to Callie Taylor (Connor confirmed in chat).
 - **Notes**: ⚠️ **Date discrepancy worth resolving in the same message.** Connor's text says dancing on **Sunday 10/7** — 2026-10-07 is a **Wednesday**. The Sundays either side are 10/4 and 10/11, and 10/4 is the date the launch thread calls the first Inspira night. Confirm the real date with Maggie before Callie builds a page around the wrong one.
-- **Related**: [[Trackers/Actions/Connor - Foster the Grace–Inspira relationship (Maggie)]] — Skylar owns the relationship; this is a handoff of her contact, not a transfer of ownership.
+- **Related**: [[Archive/Actions/Connor - Foster the Grace–Inspira relationship (Maggie)]] — Skylar owns the relationship; this is a handoff of her contact, not a transfer of ownership.
 - **Blocked by**: none · **Blocks**: Callie + Jonathan's 9/23 Eventbrite build
 
 ### 2026-09-21 (quick refresh, sweep, Step 3.5) — re-banded P2 → P1

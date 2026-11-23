@@ -22,7 +22,7 @@ blocks: []
 
 - **Source**: Russ (THEM) offered 11/5 after staff practice, 11/5 night, or Fri AM [197879]; Connor (ME) picked 11/5 after the run-through and asked Russ to call [197880].
 - **Deadline rationale**: the day Connor agreed to. Fallbacks Russ named: 11/5 night or Fri 11/6 AM.
-- **Notes**: Parent → [[Trackers/Actions/Russ Sullivan - Reply with windows to connect before his 11-15 Sunday Night message]]
+- **Notes**: Parent → [[Archive/Actions/Russ Sullivan - Reply with windows to connect before his 11-15 Sunday Night message]]
 - **Status**: **Completed 2026-11-10** — Connor marked it Done in the Agent Hub; Connor and Russ spoke Sun 11/8 (Agent Mail MSG-16).
 
 ### 2026-11-05 (text) — created

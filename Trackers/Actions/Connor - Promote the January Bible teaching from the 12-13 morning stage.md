@@ -1,7 +1,7 @@
 ---
 name: "📣 Connor: Promote the January Bible teaching from the 12/13 morning stage"
 status: active
-priority: P3
+priority: P2
 owner: "Connor"
 added: 2026-11-13
 deadline: 2026-12-13
@@ -41,3 +41,6 @@ blocks: []
 - 12:56 PM · John's "Rev. Ideas" email lists, under "6pm. Service": Connor on stage w/ John for Handel's Messiah, announcing Bible Labs + Curiosity Dinners; Rev begins 1/3
 - 1:21 PM · John's Advent email: 12/13 "Does God Hear Me?" (Luke 1:5–25), Handel's Messiah trivia; Connor joins John on stage to mention Bible Labs + Curiosity Dinners
 [Source: Outlook, "Rev. Ideas" / "Advent-Dec. 13, 20, 24", John Slye, 2026-11-19]
+
+### 2026-11-23 (quick refresh, sweep, Step 3.5)
+- → priority: P3 → P2 (deadline 12/13 within 21 days)

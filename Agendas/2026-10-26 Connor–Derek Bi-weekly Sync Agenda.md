@@ -69,7 +69,7 @@ participants:
 - Derek told Connor to ping Jennifer about Emily captaining Sunday mornings vs. her Sunday Night role. Not done; flagged 10/24.
 - Since then Emily offered (10/18) to captain Sunday Night volunteers and is the 11/1 captain, which may partly answer it.
 - **Ask:** does Derek still want the Jennifer conversation, or has Emily's choice settled it?
-- Ref: [[Trackers/Actions/Connor - Talk to Jennifer Claffey about Emily Horneffer captaining vs Sunday Night]]
+- Ref: [[Archive/Actions/Connor - Talk to Jennifer Claffey about Emily Horneffer captaining vs Sunday Night]]
 
 ---
 

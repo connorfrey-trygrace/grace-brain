@@ -13,7 +13,7 @@ tags: [person, grace-volunteer]
 [[People/Connor Frey]]'s wife (married spring 2026) and the closest thing the Sunday Night launch has to an unpaid co-founder. Not Grace staff and holds no formal role — but she **owns one named external relationship outright** and has been in the room for the launch's structural conversations since June.
 
 ## What she actually owns
-- **The Grace–Inspira partnership.** Inspira is the line-dancing venue popular with young professionals that moved into the mall on Grace's level; [[People/John Slye]] surfaced it 7/16 as *"very interested in partnering with us."* Connor, 7/30: *"The relationship with InspiraDance is progressing very nicely. **That's something that Skylar's undertaken completely.** She spoke with Maggie today. They are so excited."* [[People/Derek Adye]] confirmed the same framing on 8/04: *"Skylar owns the Inspira relationship and is on board with leaning into young adults."* She met Maggie independently at the World Cup party (7/19) and answered the original ask with *"I'm SO in"* (7/16 text). Tracked: [[Trackers/Actions/Connor - Foster the Grace–Inspira relationship (Maggie)]].
+- **The Grace–Inspira partnership.** Inspira is the line-dancing venue popular with young professionals that moved into the mall on Grace's level; [[People/John Slye]] surfaced it 7/16 as *"very interested in partnering with us."* Connor, 7/30: *"The relationship with InspiraDance is progressing very nicely. **That's something that Skylar's undertaken completely.** She spoke with Maggie today. They are so excited."* [[People/Derek Adye]] confirmed the same framing on 8/04: *"Skylar owns the Inspira relationship and is on board with leaning into young adults."* She met Maggie independently at the World Cup party (7/19) and answered the original ask with *"I'm SO in"* (7/16 text). Tracked: [[Archive/Actions/Connor - Foster the Grace–Inspira relationship (Maggie)]].
 - Note the ownership is **hers, not Connor's** — this note exists partly so that relationship has a node in the graph that isn't routed through Connor.
 
 ## Her own ministry role — still open
@@ -46,7 +46,7 @@ The **1:1 iMessage thread with Sky is excluded at the SQL level** by [[Workflows
 ## Events & threads
 - [[Events/2026-09-20-Sunday-Night-Service/2026-09-20-Sunday-Night-Service-Launch]]
 - [[Archive/2026-07-19-World-Cup/2026-07-19-World-Cup-Viewing-Party]]
-- [[Trackers/Actions/Connor - Foster the Grace–Inspira relationship (Maggie)]]
+- [[Archive/Actions/Connor - Foster the Grace–Inspira relationship (Maggie)]]
 - [[Archive/Actions/Connor - Shoot the Sunday Night promo video with Simba for Heather's campaign]]
 - [[Contacts/Phone-Index]] · [[Trackers/Open Actions.base]]
 

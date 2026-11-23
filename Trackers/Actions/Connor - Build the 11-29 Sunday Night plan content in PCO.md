@@ -44,3 +44,10 @@ blocks: []
 - 11:53 AM · John Slye (group): Advent → traditional Christmas music (Seth's set); candle lighting in evening service [199045]
 - 12:01 PM · Brian: lining up Advent readers + candle lighting, has candles/wreath, on site 11/29, details by email [199049]
 [Source: Texts from Brian Parker and John Slye, 2026-11-23]
+
+### 2026-11-23 (text, quick refresh)
+- 12:02 PM · Brian Parker: all Sunday Night notes due in PCO by 10 AM Tue 11/24 (else Connor finishes them himself before Sun evening); Vacca not in to set up slides; message slides in, waiting on music + speaker notes [199051]
+- 12:29 PM · Seth: worship swapped to Christmas set, to PCO Tue 11/24 → [[Trackers/Actions/Seth Addison - Submit updated Christmas setlist to PCO by Tue 11-24]] [199054]
+- 12:29–12:44 PM · Brian on QOTN: #4, #3, #1 overlap — weave them, or lead with #4 and reference the other two [199055, 199061]
+- 1:37–1:45 PM · "KM" unknown → treat as anonymous; Brian: no need to chase it [199065, 199067]
+[Source: Texts from Brian Parker and Seth Addison, 2026-11-23]

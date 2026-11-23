@@ -40,7 +40,7 @@ Worth reading as one position, not four remarks — it has been consistent since
 
 ## Open items
 - [[Archive/Actions/Simba Kanjanda - Make Boot Camp week-2 testimony slides]] — waiting-on, P1
-- [[Trackers/Actions/Connor - Take Simba Kanjandas call re connect team and discussion leaders]] — waiting-on
+- [[Archive/Actions/Connor - Take Simba Kanjandas call re connect team and discussion leaders]] — waiting-on
 - [[Archive/Actions/Connor - Add peer-discussion prompts to the 9-27 closing Host item]] — he and Brandon Geddes supply the prompts
 
 ## Changelog

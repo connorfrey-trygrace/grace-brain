@@ -6,7 +6,7 @@ owner: "Connor"
 added: 2026-10-26
 deadline: 2026-11-23
 needs_by: none
-last_mentioned: "2026-11-22"
+last_mentioned: "2026-11-23"
 source: "[[Transcripts/2026-10-26 17.04 Connor–Derek Bi-weekly Sync — Baptism, Tony Visit, Lighting & Dinners]]"
 projects:
   - "Sunday Night Launch"
@@ -69,3 +69,7 @@ blocks: []
 - 8:13 PM · Connor (ME) told John Slye he'll share who Sunday Night is for at Friendsgiving and try to arrive early to talk with John [199035]
 - Plug slot itself still not explicitly confirmed by Anna in texts
 [Source: Text, chat2706 (Anna Maia, Callie Taylor) + chat2 (John Slye), 2026-11-22]
+
+### 2026-11-23 (text, quick refresh)
+- 1:08 PM · Anna's program: Callie welcome + prayer; Anna emcee; Cam testimony; Connor shares about Sunday Evening; Callie upcoming events; Anna close → plug slot confirmed [199062]
+[Source: Text, chat2706 (Anna Maia, Callie Taylor), 2026-11-23]

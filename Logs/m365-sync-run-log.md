@@ -365,3 +365,5 @@ Log the line even when N=M=0 and K=J=0 — a logged "found nothing" run is exact
 - 2026-11-21 05:05 ET | 2026-11-21 05:04 ET · cloud 5am · inbox 4, sent 2 · 1 closed (WAA graphic), 2 notes updated · dups 0 · elapsed 6m
 
 - 2026-11-21 21:39 ET | inbox 0, sent 0, dups 0 | window 11/21 04:34–21:37 ET | quick refresh | elapsed <1m
+
+- 2026-11-23 13:49 ET | quick refresh | window 11/21 21:07–11/23 13:47 ET | 11 inbox + 3 sent scanned, 5 relevant, 2 dup | new: Naomi Shoger YP invite note, Brittany Fraser signup row, Launch-Log ×3 | 0 auto-closes

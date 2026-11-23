@@ -23,7 +23,7 @@ blocks: []
 - [x] Get Brandon's yes/no for hosting 10/4 — answered: Brandon can't (prep), so Simba + Connor host 10/4.
 
 - **Source**: Emily Horneffer is unavailable 10/4 (Connor to John, 9:09 AM). Simba: "I can host!" [194785]. Brandon has not replied in scanned texts.
-- **Brief for hosts**: John's QOTN and John 15:9-17 as scripture are already in the plan. Related: [[Trackers/Actions/Connor - Schedule Sunday Night volunteers for 10-18 onward]]
+- **Brief for hosts**: John's QOTN and John 15:9-17 as scripture are already in the plan. Related: [[Archive/Actions/Connor - Schedule Sunday Night volunteers for 10-18 onward]]
 - **Status**: **Completed 2026-09-30** — Brandon declined 10/4 (can't prep; next available 10/18); Connor and Simba host 10/4.
 - **Blocked by**: none · **Blocks**: nothing
 

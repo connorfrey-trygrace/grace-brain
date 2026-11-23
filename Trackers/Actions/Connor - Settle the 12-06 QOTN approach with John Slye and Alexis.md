@@ -26,3 +26,7 @@ blocks: []
 
 ### 2026-11-23 — created
 - 9:05 AM · John Slye → Connor: Alexis asking how we want to handle QOTN for 12/6; "we can talk" [199038]; Connor liked it, no reply yet [199039]
+
+### 2026-11-23 (text, quick refresh)
+- 12:37 PM · Alexis → Connor: would love to chat about 12/6 QOTN; first time, doesn't feel prepared; at Friendsgiving tonight [199058, 199059] — no reply yet
+[Source: Text, Alexis Hendrickson, 2026-11-23]

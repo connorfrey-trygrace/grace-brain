@@ -28,7 +28,7 @@ resolved: 2026-11-07
 - **Source**: [[Transcripts/2026-10-07 17.09 Connor–Derek Weekly Sync — 160 Attendance, Host Pool & Survey Sundays]]: Derek: *"you should definitely ping Jennifer. Let her know how important she is for you."* If both sides still want Emily, check whether she's overextended. If Sunday Night should win, bring it back to Derek and he'll get involved.
 - **Priority rationale**: P1 floor, because Derek assigned it directly.
 - **Deadline rationale**: none named.
-- **Context**: on 10/18 Emily offered to captain Sunday Night volunteers, date unspecified ([[Trackers/Actions/Connor - Schedule Sunday Night volunteers for 10-18 onward]]). That may already partly answer the question.
+- **Context**: on 10/18 Emily offered to captain Sunday Night volunteers, date unspecified ([[Archive/Actions/Connor - Schedule Sunday Night volunteers for 10-18 onward]]). That may already partly answer the question.
 
 ### 2026-10-21 — created
 - Minted when the 10/7 transcript was processed (two weeks after the call). Not checked against texts or email from 10/7 onward

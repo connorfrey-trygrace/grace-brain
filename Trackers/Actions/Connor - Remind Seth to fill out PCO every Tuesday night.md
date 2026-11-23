@@ -6,7 +6,7 @@ owner: "Connor"
 added: 2026-10-22
 deadline: 2026-11-24
 needs_by: none
-last_mentioned: "2026-11-18"
+last_mentioned: "2026-11-23"
 source: "Connor, chat request 2026-10-22"
 projects:
   - "Sunday Night Launch"
@@ -87,3 +87,7 @@ blocks: []
 - 11/18 10:33 PM · Connor (ME) reminded Seth to submit the 11/29 set list (week-ahead) [198802]
 - Same text: Connor will help record lyrics from the booth Sun 11/22 → [[Trackers/Actions/Connor - Help record lyrics from the booth Sun 11-22]]
 [Source: Text, Seth Addison, rowid 198802]
+
+### 2026-11-23 (text, quick refresh)
+- 12:29 PM · Seth committed to submitting the Christmas setlist Tue 11/24 → [[Trackers/Actions/Seth Addison - Submit updated Christmas setlist to PCO by Tue 11-24]] [199054]
+[Source: Text, Seth Addison, 2026-11-23]

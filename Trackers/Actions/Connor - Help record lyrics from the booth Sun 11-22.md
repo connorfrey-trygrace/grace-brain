@@ -1,6 +1,6 @@
 ---
 name: "🎤 Connor: Help record lyrics from the booth (Sun 11/22)"
-status: active
+status: closure-candidate
 priority: P1
 owner: "Connor"
 added: 2026-11-19
@@ -25,3 +25,6 @@ blocks: []
 
 ### 2026-11-19 (quick refresh, sweep, Step 3.5)
 - → priority: P2 → P1 (deadline 11/22 within 7 days)
+
+### 2026-11-23 (quick refresh, sweep, Step 3)
+- Deadline 11/22 passed; no text/email evidence either way → closure candidate: confirm whether it happened

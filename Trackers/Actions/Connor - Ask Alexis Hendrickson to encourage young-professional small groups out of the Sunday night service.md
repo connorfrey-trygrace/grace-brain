@@ -48,7 +48,7 @@ Worth having ready when the conversation happens:
 
 - [[Events/2026-09-20-Sunday-Night-Service/2026-09-20-Sunday-Night-Service-Connect-8-Week-Plan]] — the run that produces the evidence for this ask
 - [[Agendas/2026-08-12 Connor–John Slye 4th Service Connect Time Agenda]] — § ③ Groups out of the gate
-- [[Trackers/Actions/Connor - Foster the Grace–Inspira relationship (Maggie)]] — the other post-service community thread; Skylar owns it
+- [[Archive/Actions/Connor - Foster the Grace–Inspira relationship (Maggie)]] — the other post-service community thread; Skylar owns it
 
 - **Blocked by**: nothing — parked on a date, not a dependency
 - **Blocks**: nothing

@@ -37,4 +37,4 @@ people:
 
 ## What is still missing
 
-[[Trackers/Actions/Heather Noble - Email Connor the updated brand-guidelines document]] is still open. These artifacts give the geometry; they do not give the **written rules** — logo minimum-spacing, minimum print size, whether the `g` badge has a rule governing when it applies, or whether colour inversions are permitted.
+[[Archive/Actions/Heather Noble - Email Connor the updated brand-guidelines document]] is still open. These artifacts give the geometry; they do not give the **written rules** — logo minimum-spacing, minimum print size, whether the `g` badge has a rule governing when it applies, or whether colour inversions are permitted.

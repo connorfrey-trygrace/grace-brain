@@ -22,7 +22,7 @@ blocks: []
 
 - **Source**: Maggie asked Connor to proofread and test the code, 10/21 10:52 PM.
 - **Status**: **Completed 2026-10-28** — Connor confirmed the page and code to Maggie 10/24 ("Confirmed") and closed it 10/28.
-- **Parent**: [[Trackers/Actions/Connor - Foster the Grace–Inspira relationship (Maggie)]]
+- **Parent**: [[Archive/Actions/Connor - Foster the Grace–Inspira relationship (Maggie)]]
 
 ### 2026-10-22 (quick refresh, text) — created
 - 10/20 1:27 PM · Connor asked Maggie for the page [196383]; 10/21 10:52 PM Maggie sent link + GCC26 ask [196550–196552]

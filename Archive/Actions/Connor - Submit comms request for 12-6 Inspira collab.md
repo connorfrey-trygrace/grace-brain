@@ -22,7 +22,7 @@ blocks: []
 - [x] Submit a Grace comms request for the 12/6 Inspira collab so it goes on the events page (Callie adds it to the calendar).
 
 - **Source**: Callie, 10/20 10:41 AM — comms request is the path to the events page; she also backed a Sunday-night announcement.
-- **Parent**: [[Trackers/Actions/Connor - Foster the Grace–Inspira relationship (Maggie)]]
+- **Parent**: [[Archive/Actions/Connor - Foster the Grace–Inspira relationship (Maggie)]]
 
 ### 2026-10-22 (quick refresh, text) — created
 - 10/19 Connor asked whether 12/6 needs a comms request [196324]; 10/20 Callie: yes for the events page [196352]

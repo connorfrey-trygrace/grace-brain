@@ -1,6 +1,6 @@
 ---
 name: "📋 Connor: Build the 11-22 Sunday Night plan content in PCO"
-status: active
+status: closure-candidate
 priority: P1
 owner: "Connor Frey"
 added: 2026-11-16
@@ -72,3 +72,6 @@ blocks: []
 - Anna (THEM): mention Friendsgiving again, 100 spots still open [198969]
 - Connor (ME) reacted only; Q&A offer not answered → open: add an end-of-message Q&A to the closing Host item, or not
 [Source: Text, Anna Maia, rowids 198968–198972]
+
+### 2026-11-23 (quick refresh, sweep, Step 3)
+- Deadline 11/22 passed; the 11/22 service ran (attendance logged, 65 at 6 PM) → closure candidate: confirm PCO content was complete and close

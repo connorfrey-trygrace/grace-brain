@@ -46,7 +46,7 @@ participants:
 >
 > Arithmetic: 17 (7/26) + 5 new (Bader, Goodiel, Liesegang, Gomez Trujillo, Bonner) − Sumay Lu = **21**.
 
-**27 registrants** (re-pulled 2026-10-05; was 22 registrations · 25 registrants as of 2026-08-17). *Historical note on the original batch: the first 17 registrations all came in on 7/26 between 7:45 AM and 12:58 PM — the sign's first-Sunday result.*
+**28 registrants** (27 at the 2026-10-05 re-pull + Brittany Fraser by email 2026-11-22, unverified against Rock; was 22 registrations · 25 registrants as of 2026-08-17). *Historical note on the original batch: the first 17 registrations all came in on 7/26 between 7:45 AM and 12:58 PM — the sign's first-Sunday result.*
 
 > **⚠️ Attribution correction, added 2026-07-27 (weekly refresh, text).** The surge was **not** the sign alone. John Slye asked Connor by text on 7/24 (8:45 PM ET): *"What are your thoughts on joining me on stage for the end of the message at all 3 services and saying a few brief words about a volunteer team for Sunday evening and you will be at a high top in the lobby for any questions?"* Connor agreed the same night (*"Surely!"*, 10:37 PM). So 7/26 carried **three** stacked drivers, not one: the printed QR sign, a **pulpit ask from John at all three services**, and **Connor staffing a lobby high-top** for live questions. Connor also texted the preschool team (7/24, 10:35 PM) that he and John would be recruiting at the end of service and therefore couldn't cover kids that weekend — Michele Smith acknowledged, no coverage gap raised.
 >
@@ -139,6 +139,7 @@ participants:
 | **Victoria Nayiga** | ~~proiicon@gmail.com~~ ⚠️ **BOUNCES** | (617) 460-3994 | Greeter/Welcome, Usher, Teardown | Once a month | First team | 45+ |
 | ~~**Eric Wright**~~ ⛔ **Removed 2026-10-18** — doesn't do email or phone calls (Connor) | ~~ericleewrightjr124@gmail.com~~ | (917) 331-5586 | Greeter/Welcome, Usher, Setup, Teardown, Not sure | **Every week** | First team | 45+ |
 | **Sarai Wilburn** | saraiperkins22@gmail.com | (541) 260-4789 | Tech/Slides, Usher, Setup, Teardown, Not sure | Not sure | **Currently serving** | 25–34 | ⭐ **Not a cold sign-up — captain-track.** World Cup registrant 7/01 (row 19, Yes to both Setup and Cleanup, [[Archive/2026-07-19-World-Cup/World-Cup-Registrants]]) and named by Emily Horneffer at [4:51] of [[Transcripts/2026-06-22 16.14 Emily Horneffer Call — Women's Cohort Volunteer Outreach]]: *"I know Sarai and I are jumping into like the captain side of the house for like making Sundays happen."* See [[Archive/Actions/Connor - Build a reliable Sunday night core identify a second leader]] |
+| **Brittany Fraser** | brittanyfraser76@gmail.com | (501) 240-3789 | | | | | email-only — re-pull instance 542 (registered 2026-11-22 5:21 PM) |
 
 > **Added 2026-08-17 (quick refresh, Rock re-pull): LaurenNichole Wertz (11:28 AM), Victoria Nayiga (12:30 PM), Eric Wright (12:41 PM)** — registrants #22–24, registrations #19–21, all on **Sunday 2026-08-16**, all within 73 minutes of each other across the late-morning services.
 >
