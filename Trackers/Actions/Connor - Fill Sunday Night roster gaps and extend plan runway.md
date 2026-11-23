@@ -92,3 +92,9 @@ blocks: []
 - Unconfirmed: Simba (Host 12/6, 12/13), Michael Vacca (Slides 11/29, 12/6, 12/13). No declines
 - → deadline: 2026-11-22 → 2026-11-29 · → needs_by: 2026-11-18 → 2026-11-25
 [Source: PCO Services 1804248, plans 92214546–48]
+
+### 2026-11-23 (Connor, chat — text check)
+- No availability windows from Brandon or Simba since the 11/15 huddle ask (texts 11/15–11/23). Simba's last dates (11/13): host 11/22; Dec tentatively 12/6, 12/13, 12/20 — 11/29 not offered [198495]. Simba 11/22: asked if the schedule is on the Planning Center app [198976]. Brandon: only 11/15 day-of (greeted at front entrance) [198602–198608]
+
+### 2026-11-23 (Connor, chat)
+- 11/29 Connection host: Connor at least; Connor asked Brandon (maybe)

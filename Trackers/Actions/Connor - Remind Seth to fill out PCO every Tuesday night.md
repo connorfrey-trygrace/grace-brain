@@ -91,3 +91,6 @@ blocks: []
 ### 2026-11-23 (text, quick refresh)
 - 12:29 PM · Seth committed to submitting the Christmas setlist Tue 11/24 → [[Trackers/Actions/Seth Addison - Submit updated Christmas setlist to PCO by Tue 11-24]] [199054]
 [Source: Text, Seth Addison, 2026-11-23]
+
+### 2026-11-23 (Connor, chat)
+- Connor: "Brian has this covered - I will text tm am" → Connor texts Seth Tue 11/24 AM

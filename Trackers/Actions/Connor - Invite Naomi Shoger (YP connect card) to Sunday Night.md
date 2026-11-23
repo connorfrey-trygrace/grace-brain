@@ -1,6 +1,6 @@
 ---
 name: "💌 Connor: Invite Naomi Shoger (YP connect card) to Sunday Night"
-status: active
+status: completed
 priority: P1
 owner: "Connor"
 added: 2026-11-23
@@ -13,27 +13,29 @@ projects:
 people:
   - "[[People/Connor Frey]]"
   - "[[People/Good Noodles]]"
+resolved: 2026-11-23
 blocked_by: []
 blocks: []
 ---
 # 💌 Connor: Invite Naomi Shoger (YP connect card) to Sunday Night
 
-- [ ] Send Naomi the standard "Invitation to Sunday Night" email (YP Discord link included) to neshoger@gmail.com.
+- [x] Send Naomi the standard "Invitation to Sunday Night" email (YP Discord link included) to neshoger@gmail.com.
 
 - **Priority rationale**: YP connect cards are always P1 (Connor, 2026-11-01).
+- **Status**: ✅ Completed — sent 11/23 2:21 PM (Sent Items, "Invitation to Sunday Night").
 - **Source**: connect card 2026-11-22 7:51 PM — email + mobile only.
 
-### Draft (for approval — personalized per Connor 11/23; web default signature)
+### Draft (for approval — toned down per Connor 11/23; web default signature)
 **Subject:** Invitation to Sunday Night
-Hey Naomi!!
+Hey Naomi!
 
-So great to have you and Derek with us last night - so glad you came out for your first time at Grace!
+It was great to meet you and Derek last night - thanks for coming out!
 
-We'd love to see you both at Friendsgiving tonight (7pm here at Grace) if you can make it: https://trygrace.org/registration/friendsgiving2026
+If you're free tonight, we'd love to see you at Friendsgiving: https://trygrace.org/registration/friendsgiving2026
 
-And save the date for Country Night on Sunday, Dec 6 - right after the evening service: https://trygrace.org/eventdetails/747/young-adults-country-night-at-inspira-dance
+We've also got a Country Night coming up on Sunday, Dec 6, right after the evening service: https://trygrace.org/eventdetails/747/young-adults-country-night-at-inspira-dance
 
-Also - come hang with us in the Young Professionals Discord: https://discord.gg/R6gGQ4qWYQ
+And here's the Young Professionals Discord if you'd like to connect: https://discord.gg/R6gGQ4qWYQ
 
 So glad you're with us.
 
@@ -43,3 +45,9 @@ So glad you're with us.
 
 ### 2026-11-23 (Connor, chat)
 - Naomi + husband Derek attended Sunday Night 11/22 (first time at Grace) → draft personalized: Friendsgiving tonight + 12/6 Country Night event link
+
+- Draft toned down per Connor (nice to meet them, not too strong)
+
+### 2026-11-23 (Connor, chat)
+- 2:21 PM · Connor approved; invite sent from Outlook web (Sent Items verified) → closed
+[Source: Outlook Sent Items, "Invitation to Sunday Night", 2026-11-23]

@@ -5,7 +5,7 @@ priority: P1
 owner: "Connor Frey"
 added: 2026-11-23
 deadline: 2026-11-29
-needs_by: 2026-11-25
+needs_by: 2026-11-24
 last_mentioned: "2026-11-23"
 source: "PCO Services, plan 92214546 (Sunday Night, 11/29)"
 projects:
@@ -21,10 +21,10 @@ blocks: []
 # 📋 Connor: Build the 11-29 Sunday Night plan content in PCO
 
 - [ ] Order of service built — only Seth's worship section is in (5 items)
-  - [ ] Host items + Confidence Monitor Notes (none exist yet)
-  - [ ] QOTN — Brian Parker hasn't answered Connor's 11/21 formation/habits question list (or skip for 11/29)
+  - [x] Host items + Confidence Monitor Notes (shipped 11/23)
+  - [x] QOTN — #4 (seeking God) leading, #3/#1 referenced (shipped 11/23)
   - [ ] Message item: Brian Parker, "What Am I Missing?" (Luke 2:21–32; Zech 4:10) + scripture slides → Michael Vacca
-  - [ ] Closing Host item: discussion prompts + "optional — no pressure to stay" off-ramp
+  - [x] Closing Host item: discussion prompts + "optional — no pressure to stay" off-ramp
 
 - **Priority rationale**: Vacca renders slides from PCO Thursday AM; Wednesday is the content deadline (Thanksgiving week).
 - **Source**: weekly SNL service-prep check, 2026-11-23 — `services_plan_items` on plan 92214546.
@@ -51,3 +51,11 @@ blocks: []
 - 12:29–12:44 PM · Brian on QOTN: #4, #3, #1 overlap — weave them, or lead with #4 and reference the other two [199055, 199061]
 - 1:37–1:45 PM · "KM" unknown → treat as anonymous; Brian: no need to chase it [199065, 199067]
 [Source: Texts from Brian Parker and Seth Addison, 2026-11-23]
+
+### 2026-11-23 (Connor, chat)
+- → needs_by: 2026-11-25 → 2026-11-24 (Brian's 10 AM Tue deadline; Connor's call to overwrite)
+- Usual format kept: QOTN between worship and message; host items framed in chat for refinement
+
+### 2026-11-23 (Connor, chat) — host items shipped
+- ~2:15 PM · Added via PCO API, cm-fit OK, verified 17 items in order; Seth's 4 + Brian's message untouched: Opener hdr, Host - Welcome, Welcome (cont.), Host Transition hdr, Host - Announcements, Question of the Night hdr, Host - QOTN, Host - Intro Brian, Message hdr, Auditorium Discussion hdr, Host - Close
+- Still open: Advent reading + candle-lighting slot (Brian); Seth's Christmas set; 11.29.26 signpost + discussion-slide PNGs referenced in Welcome/Close

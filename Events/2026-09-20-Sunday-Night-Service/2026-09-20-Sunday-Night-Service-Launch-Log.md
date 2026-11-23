@@ -734,3 +734,5 @@ Source: [[Transcripts/2026-08-04 15.59 Connor–Derek Weekly Sync — Expense Co
 - 2026-11-23 11:02 AM (email) · John Slye (all-staff "Re: Rev. Ideas"): Seth's "He Is Lord" targeted for 1/10 (Dan. 3); Revelation Trivia idea (sign out front + coffee-bar screen) for next gathering
 - 2026-11-23 12:29 PM (text) · Seth: this week's PCO set isn't Christmas → bumped to after New Year; updated Christmas setlist to PCO Tue 11/24 + Word doc to Brian, Connor, Michael [199054]
 - 2026-11-23 1:08 PM (text) · Anna Maia: Friendsgiving program set — Connor shares about Sunday Evening [199062]
+- 2026-11-23 ~2:15 PM (PCO) · 11/29 plan 92214546: 11 host/header items added via API (Welcome, Annc, QOTN, Intro Brian, Close + headers); cm-fit OK; verified 17 items, nothing else changed
+- 2026-11-23 2:21 PM (email) · Invite sent to Naomi Shoger (attended 11/22 w/ husband Derek)
