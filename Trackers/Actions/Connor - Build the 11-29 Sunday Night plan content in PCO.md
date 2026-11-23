@@ -59,3 +59,9 @@ blocks: []
 ### 2026-11-23 (Connor, chat) — host items shipped
 - ~2:15 PM · Added via PCO API, cm-fit OK, verified 17 items in order; Seth's 4 + Brian's message untouched: Opener hdr, Host - Welcome, Welcome (cont.), Host Transition hdr, Host - Announcements, Question of the Night hdr, Host - QOTN, Host - Intro Brian, Message hdr, Auditorium Discussion hdr, Host - Close
 - Still open: Advent reading + candle-lighting slot (Brian); Seth's Christmas set; 11.29.26 signpost + discussion-slide PNGs referenced in Welcome/Close
+
+### 2026-11-23 (text, quick refresh, evening)
+- 2:59 PM · Brian Parker: Advent person comes up after Connor's welcome, before music (explain Advent, light candle, pray) — differs from AM slot so Seth's set runs uninterrupted [199097]
+- 3:01 PM · Brian: new person from the leadership cohort, sign-ups slow [199100]; 3:02 Connor (ME) offered 4 young candidates; Brian: "Sounds good" [199101, 199102] — reader TBD
+- → Advent slot proposed: after Welcome, before worship → PCO order + host CM notes affected
+[Source: Text, Brian Parker, 2026-11-23]

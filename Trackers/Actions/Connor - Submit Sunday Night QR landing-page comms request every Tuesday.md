@@ -64,3 +64,7 @@ blocks: []
 ### 2026-11-23 (weekly SNL service-prep check)
 - No 11/29 landing-page send to Heather/Amanda in Sent Items since 11/18. Content change implied: Friendsgiving (11/23) Events tile goes stale; Advent "God With Us" starts 11/29. Due Tue 11/24 (deadline already 11/24)
 [Source: Outlook Sent Items 2026-11-18 → 11-23; PCO 1804248/92214546]
+
+### 2026-11-23 (text, quick refresh)
+- 3:10 PM · Connor (ME) committed to Alexis: add a Boundaries book link to the 12/6 seatback QR landing page [199108] → include in the Tue 12/1 request
+[Source: Text, Alexis Hendrickson, 2026-11-23]

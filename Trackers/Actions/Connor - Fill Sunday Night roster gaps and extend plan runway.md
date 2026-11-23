@@ -98,3 +98,8 @@ blocks: []
 
 ### 2026-11-23 (Connor, chat)
 - 11/29 Connection host: Connor at least; Connor asked Brandon (maybe)
+
+### 2026-11-23 (text, quick refresh, evening)
+- 2:20 PM · Connor (ME) asked Brandon to host 11/29 [199077]; 2:41 PM Brandon: can't commit 11/29 (family) [199087]; 2:42 PM: can do 12/6 and 12/13 [199088]
+- → next: schedule Brandon as Host (Evening Connection) 12/6 + 12/13 in PCO (Simba already on both); 11/29 Connection still Connor only
+[Source: Text, Brandon Geddes, 2026-11-23]

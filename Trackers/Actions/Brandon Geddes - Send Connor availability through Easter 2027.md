@@ -6,7 +6,7 @@ owner: "Brandon Geddes"
 added: 2026-11-15
 deadline: none
 needs_by: none
-last_mentioned: "2026-11-15"
+last_mentioned: "2026-11-23"
 waiting_on: "Brandon Geddes since 2026-11-15 — asked at huddle"
 source: "[[Transcripts/2026-11-15 20.17 Sunday Night Huddle — Revelation Series Plan & Host Availability]]"
 projects:
@@ -27,3 +27,7 @@ blocks: []
 
 ### 2026-11-15 (transcript) — created
 [Source: [[Transcripts/2026-11-15 20.17 Sunday Night Huddle — Revelation Series Plan & Host Availability]]]
+
+### 2026-11-23 (text, quick refresh)
+- 2:41–2:42 PM · Brandon: not 11/29 (family); can host 12/6 and 12/13 [199087, 199088] — partial; through-Easter windows still not sent
+[Source: Text, Brandon Geddes, 2026-11-23]
