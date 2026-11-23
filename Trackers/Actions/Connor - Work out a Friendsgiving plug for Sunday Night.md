@@ -6,7 +6,7 @@ owner: "Connor"
 added: 2026-10-26
 deadline: 2026-11-23
 needs_by: none
-last_mentioned: "2026-11-21"
+last_mentioned: "2026-11-22"
 source: "[[Transcripts/2026-10-26 17.04 Connor–Derek Bi-weekly Sync — Baptism, Tony Visit, Lighting & Dinners]]"
 projects:
   - "Sunday Night Launch"
@@ -63,3 +63,9 @@ blocks: []
 ### 2026-11-21 (quick refresh, sweep, Step 3)
 - Awaited Anna/Callie 8 days, no reply on the plug slot; Friendsgiving is Mon 11/23 → waiting-on → active, follow up (text Anna; she texted Connor today about Sunday)
 - Deadline set to 11/23 (the event); P3 → P1 (within 7 days)
+
+### 2026-11-22 (text, agent-hub-visit-local)
+- 5:09 PM · Anna's Friendsgiving run of show: 5:30 sound check/ProPresenter, 6:30 arrivals, 7:00 welcome + dinner, 8:30 worship + gratitude, 9:00 dessert [199008]; 5:55 PM worship confirmed [199013]
+- 8:13 PM · Connor (ME) told John Slye he'll share who Sunday Night is for at Friendsgiving and try to arrive early to talk with John [199035]
+- Plug slot itself still not explicitly confirmed by Anna in texts
+[Source: Text, chat2706 (Anna Maia, Callie Taylor) + chat2 (John Slye), 2026-11-22]

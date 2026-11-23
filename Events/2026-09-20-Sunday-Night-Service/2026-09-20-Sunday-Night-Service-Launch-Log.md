@@ -721,3 +721,7 @@ Source: [[Transcripts/2026-08-04 15.59 Connor–Derek Weekly Sync — Expense Co
 - 2026-11-22 · Plan 92214545: Connor dropped the live Q&A → deleted Host - Q&A, Live Q&A header, Host - Live Q&A; added Communion header + item after the message; Welcome line → "-> then communion"; Announcements now points to "11.22.26 - Wreaths Across America.png" (Heather's 11/20 graphic, saved to Sunday Visuals). Verified 18 items via API.
 - 2026-11-22 · 11.22.26 signposts (Worship, Announcements, Message, Communion, Auditorium Discussion) built + copied to Sunday Visuals; listed off-monitor on Host - Welcome (API-verified). First booth handoff note: Sunday Visuals/Sunday Night/_HANDOFF 11.22.26.md
 - 2026-11-22 · Seatback QR (HoverCode "Auditorium Seatbacks", hovqr.to/10b72531) scan destination changed https://trygrace.org/DoGood → https://bit.ly/QR_SunNight; live scan resolves to trygrace.org/sundaynightqr (verified)
+- 2026-11-22 1:07 PM (text) · Kaymin Dixon out sick for 11/22 volunteering; Connor: no make-up needed [198984–198985]
+- 2026-11-22 4:36 PM (text) · Simba Kanjanda at 4:30 call; Connor asked folks to wear Give Serve Love shirts [198980–198982, 199004]
+- 2026-11-22 8:07 PM (text) · Connor → Brian Parker: Q-SYS presets 1 & 8 likely written over (board was in write mode); Malaya set Connor up, preset 8 no longer needed [199031]
+- 2026-11-22 8:12 PM (text) · Connor → John Slye: low attendance, high vibes [199033]
