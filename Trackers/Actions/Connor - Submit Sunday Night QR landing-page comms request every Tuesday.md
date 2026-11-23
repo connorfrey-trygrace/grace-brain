@@ -6,7 +6,7 @@ owner: "Connor Frey"
 added: 2026-11-04
 deadline: 2026-11-24
 needs_by: none
-last_mentioned: "2026-11-16"
+last_mentioned: "2026-11-23"
 source: "Outlook, \"QR Code Request Each Tuesday\", Derek Adye, 2026-11-04"
 projects:
   - "Sunday Night Launch"
@@ -60,3 +60,7 @@ blocks: []
 - Flagged: 11/17 Tuesday request not sent (no Sent Items match through 11/18 11:10). 11/22 changes: Do Good serve week over; WAA announcement runs 11/22
 - Flag withdrawn same run: Connor ticked Done in Notion (GRC-41, 11/18 10:17 AM) → 11/17 instance done; deadline rolled 11/17 → 11/24 (recurring)
 [Source: Notion Grace Tasks GRC-41, Connor: Done]
+
+### 2026-11-23 (weekly SNL service-prep check)
+- No 11/29 landing-page send to Heather/Amanda in Sent Items since 11/18. Content change implied: Friendsgiving (11/23) Events tile goes stale; Advent "God With Us" starts 11/29. Due Tue 11/24 (deadline already 11/24)
+[Source: Outlook Sent Items 2026-11-18 → 11-23; PCO 1804248/92214546]
