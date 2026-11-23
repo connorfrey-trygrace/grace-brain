@@ -4,9 +4,9 @@ status: active
 priority: P1
 owner: "Connor"
 added: 2026-11-09
-deadline: 2026-11-22
-needs_by: 2026-11-18
-last_mentioned: "2026-11-20"
+deadline: 2026-11-29
+needs_by: 2026-11-25
+last_mentioned: "2026-11-23"
 source: "PCO Services, service type 1804248 (Sunday Night), snl-week-ahead scheduled check"
 projects:
   - "Sunday Night Launch"
@@ -19,13 +19,13 @@ blocks: []
 
 - [x] Run the ad-hoc task **`snl-extend-plans`** ("Run now") — plans end 12/13, under 6 weeks out
 - [x] Send PCO schedule requests for 11/15, 11/22, 11/29: Connection (hosts), Captain, Greeters, Band
-- [ ] Run **`snl-extend-plans`** ("Run now") again — plans end 12/20, 4.9 wks out (12/27 held for holiday schedule)
-- [ ] Fill 11/29 host (Connection empty) and 12/6 Audio (no one scheduled); Captain empty all three Sundays
+- [ ] Run **`snl-extend-plans`** ("Run now") again — plans end 12/20, 3.9 wks out (12/27 held for holiday schedule)
+- [ ] Fill 11/29 host (Connection empty), 12/6 Audio, 12/13 Greeters (none) + Band (none — see worship-leader note); Captain empty 11/29–12/13
 
-- **Priority rationale**: 11/22 is 6 days out with 7 positions open and no captain; 11/29 has no host.
-- **Deadline rationale**: 11/22 is the next under-staffed Sunday.
+- **Priority rationale**: 11/29 is 6 days out with 11 positions open, no host, no captain; runway under 4 weeks.
+- **Deadline rationale**: 11/29 is the next under-staffed Sunday.
 - **Needs-by rationale**: requests out by Wed so volunteers can confirm before Sunday.
-- **Status**: Active 11/16 — snl-week-ahead check run; open gaps 11/22–12/6 and runway <6 wks (see 11/16 entry). Standing note for the weekly `snl-week-ahead` check; supersedes [[Trackers/Actions/Connor - Schedule Sunday Night volunteers for 10-18 onward]] (completed 11/7). Update this note weekly; don't mint a new one.
+- **Status**: Active 11/23 — snl-week-ahead check run; open gaps 11/29–12/13 and runway 3.9 wks (see 11/23 entry). Standing note for the weekly `snl-week-ahead` check; supersedes [[Trackers/Actions/Connor - Schedule Sunday Night volunteers for 10-18 onward]] (completed 11/7). Update this note weekly; don't mint a new one.
 - **Notes**: Set Up / Breakdown / Events teams are out of scope (Connor, 10/28). PCO read tool gives plan-level `needed_positions_count` only, not per team. Host blockouts: [[Trackers/Actions/Sunday Night hosts - Enter blockouts through November in PCO]].
 - **Blocked by**: none
 
@@ -84,3 +84,11 @@ blocks: []
 - Brian Parker sent 11/29 sermon outline ("What Am I Missing?")
 - Seth shared Setlist 11/29 (Google Doc); Connor reacted
 [Source: Outlook, 2026-11-20]
+
+### 2026-11-23 (snl-week-ahead, PCO read)
+- Runway: furthest plan 12/20 (3.9 wks, 4 future plans) — below 6; next step `snl-extend-plans`
+- 11/29: 7 on, 11 open · 12/6: 7 on, 11 open · 12/13: 4 on, 14 open
+- Captain empty all three. Connection: none 11/29; Simba 12/6, 12/13 (unconfirmed). Band: Seth only 11/29, 12/6; none 12/13. Ushers: Sean only all three. Greeters: 3 (11/29), 3 (12/6), none 12/13. Audio/Visual: 12/6 Vacca only — no Audio
+- Unconfirmed: Simba (Host 12/6, 12/13), Michael Vacca (Slides 11/29, 12/6, 12/13). No declines
+- → deadline: 2026-11-22 → 2026-11-29 · → needs_by: 2026-11-18 → 2026-11-25
+[Source: PCO Services 1804248, plans 92214546–48]
