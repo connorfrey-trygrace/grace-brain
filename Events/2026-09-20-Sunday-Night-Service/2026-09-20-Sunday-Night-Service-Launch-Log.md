@@ -725,3 +725,7 @@ Source: [[Transcripts/2026-08-04 15.59 Connor–Derek Weekly Sync — Expense Co
 - 2026-11-22 4:36 PM (text) · Simba Kanjanda at 4:30 call; Connor asked folks to wear Give Serve Love shirts [198980–198982, 199004]
 - 2026-11-22 8:07 PM (text) · Connor → Brian Parker: Q-SYS presets 1 & 8 likely written over (board was in write mode); Malaya set Connor up, preset 8 no longer needed [199031]
 - 2026-11-22 8:12 PM (text) · Connor → John Slye: low attendance, high vibes [199033]
+- 2026-11-23 9:05 AM (text) · John Slye → Connor: Alexis asking how to handle QOTN for 12/6; "we can talk" [199038]
+- 2026-11-23 11:26 AM (text) · Brian Parker → Connor: needs all Sunday Night notes in PCO early (Thanksgiving-week schedule); Connor asked "by when?" — no answer yet [199044, 199046]
+- 2026-11-23 11:53 AM (text) · John Slye → Connor, Seth, Brian, Alexis: Advent starts 11/29 — lean into traditional Christmas music; candle lighting in the evening service like AM; Brian speaks 11/29, Alexis 12/6 [199045]
+- 2026-11-23 11:55 AM–12:01 PM (text) · Connor asked for candle-lighting procedure; John: Brian owns it. Brian lining up Advent readers + candle lighting (AM: between 2nd and 3rd song), has candles + wreath, will be there 11/29, sending details by email [199047–199049]

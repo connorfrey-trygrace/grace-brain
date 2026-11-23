@@ -390,3 +390,5 @@ Format (adopted 2026-07-16, mirroring [[Workflows/m365-to-obsidian-sync]] §Run 
 - 2026-11-22 04:09 ET | agent-hub-visit-local (4am) · ROWID 198974–198975 · 2 in scope · 0 Grace-relevant · 0 tracker writes · 0 closure candidates · elapsed 1m
 
 - 2026-11-23 05:15 ET | agent-hub-visit-local · ROWID 198976–199037 · 37 in scope · 6 Grace-relevant · 0 new items · 2 notes appended (Friendsgiving plug, Brian lights → closure-candidate) · launch log +4 · 0 unresolved · 0 garbled
+
+- 2026-11-23 12:44 ET | agent-hub-visit-local (noon) · ROWID 199038–199049 · 12 in scope · 8 Grace-relevant · 1 new item (12-06 QOTN) · 1 note appended (11-29 PCO build) · launch log +4 · 0 unresolved · 0 garbled

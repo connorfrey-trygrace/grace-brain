@@ -37,3 +37,10 @@ blocks: []
 - No Host, QOTN, message, scripture or closing items yet → checks 1, 3, 4, 5 open
 - 11/20 · Brian Parker sent 11/29 outline (cc Vacca); 11/21 9:42 PM · Connor → Brian: QOTN options on formation/habits, or skip? No reply yet
 [Source: PCO Services 1804248, plan 92214546; Outlook, "Re: 11/29 Sermon Outline", 2026-11-21]
+
+### 2026-11-23 (text sync, noon)
+- [ ] Advent reading + candle lighting item (Brian Parker owns logistics; details coming by email) — slot TBD for evening
+- 11:26 AM · Brian Parker → Connor: all notes in PCO early (Thanksgiving week); 11:53 Connor: "By when?" — unanswered [199044, 199046]
+- 11:53 AM · John Slye (group): Advent → traditional Christmas music (Seth's set); candle lighting in evening service [199045]
+- 12:01 PM · Brian: lining up Advent readers + candle lighting, has candles/wreath, on site 11/29, details by email [199049]
+[Source: Texts from Brian Parker and John Slye, 2026-11-23]
