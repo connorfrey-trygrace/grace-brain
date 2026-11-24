@@ -723,3 +723,6 @@ Source: [[Transcripts/2026-08-04 15.59 Connor–Derek Weekly Sync — Expense Co
 - 2026-11-22 · Seatback QR (HoverCode "Auditorium Seatbacks", hovqr.to/10b72531) scan destination changed https://trygrace.org/DoGood → https://bit.ly/QR_SunNight; live scan resolves to trygrace.org/sundaynightqr (verified)
 - 2026-11-22 7:51 PM (email) · YP connect card: Naomi Shoger (email + mobile only); invite drafted, not sent → [[Trackers/Actions/Connor - Invite Naomi Shoger (YP connect card) to Sunday Night]]
 - 2026-11-22 (email) · PCO: LaurenNichole Wertz declined 11/22 Auditorium Doors (greeter) 3:48 PM; Cameron Waggener confirmed that slot 6:13 PM; Simba Kanjanda confirmed Host 6:36 PM
+- 2026-11-23 2:21 PM (email) · Connor sent Naomi Shoger the Sunday Night invite (Friendsgiving, 12/6 Country Night, YP Discord) → action closed
+- 2026-11-23 6:01 PM (email) · QR landing page 11/29: Country Night first, Winter Social 12/18 replaces Friendsgiving (Connor → Heather)
+- 2026-11-23 (email) · John Slye: top Sunday for Seth's "He Is Lord" song is 1/10 (Rev series, Dan. 3 focus); Callie sent YP Winter Social graphic PDF

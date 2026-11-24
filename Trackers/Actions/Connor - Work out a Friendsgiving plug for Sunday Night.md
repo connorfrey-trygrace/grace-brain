@@ -1,12 +1,12 @@
 ---
 name: "🦃 Connor: Work out a plug at Friendsgiving inviting people to Sunday Night"
-status: active
+status: closure-candidate
 priority: P1
 owner: "Connor"
 added: 2026-10-26
 deadline: 2026-11-23
 needs_by: none
-last_mentioned: "2026-11-21"
+last_mentioned: "2026-11-24"
 source: "[[Transcripts/2026-10-26 17.04 Connor–Derek Bi-weekly Sync — Baptism, Tony Visit, Lighting & Dinners]]"
 projects:
   - "Sunday Night Launch"
@@ -22,7 +22,7 @@ blocks: []
 
 - **Source**: Derek on 10/26 suggested using Friendsgiving's captive audience to invite people to Sunday Night. Connor: *"I'll work on that."*
 - **Priority rationale**: P3. Friendsgiving is Mon 11/23, and the advertising go-ahead is still with Anna Maia.
-- **Status**: Active — draft ready: [[Events/2026-09-20-Sunday-Night-Service/2026-11-23-Friendsgiving-Plug-Draft]]. Connor delivers it (full version). Anna/Callie never confirmed the program slot (emailed 11/13) → confirm the ~30-sec slot with Anna before Mon 11/23.
+- **Status**: Closure candidate — event was 11/23, delivery unconfirmed. Draft was: [[Events/2026-09-20-Sunday-Night-Service/2026-11-23-Friendsgiving-Plug-Draft]]. Connor delivers it (full version). Anna/Callie never confirmed the program slot (emailed 11/13) → confirm the ~30-sec slot with Anna before Mon 11/23.
 - **Blocked by**: [[Trackers/Actions/Anna Maia - Give the go-ahead to advertise Friendsgiving on Sunday night]] · **Blocks**: nothing
 
 ### 2026-10-26 — created
@@ -63,3 +63,9 @@ blocks: []
 ### 2026-11-21 (quick refresh, sweep, Step 3)
 - Awaited Anna/Callie 8 days, no reply on the plug slot; Friendsgiving is Mon 11/23 → waiting-on → active, follow up (text Anna; she texted Connor today about Sunday)
 - Deadline set to 11/23 (the event); P3 → P1 (within 7 days)
+
+### 2026-11-24 (email, cloud 5am run)
+- Friendsgiving was Mon 11/23; no email confirms the plug was delivered or the slot confirmed
+- 6:01 PM · Connor's 11/29 QR email drops Friendsgiving for Winter Social
+- → status: active → closure-candidate (verify the plug was given 11/23; close or dismiss)
+[Source: Outlook Sent Items, 2026-11-23]

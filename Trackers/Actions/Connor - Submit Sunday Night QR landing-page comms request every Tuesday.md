@@ -4,9 +4,9 @@ status: active
 priority: P1
 owner: "Connor Frey"
 added: 2026-11-04
-deadline: 2026-11-24
+deadline: 2026-12-01
 needs_by: none
-last_mentioned: "2026-11-16"
+last_mentioned: "2026-11-24"
 source: "Outlook, \"QR Code Request Each Tuesday\", Derek Adye, 2026-11-04"
 projects:
   - "Sunday Night Launch"
@@ -60,3 +60,8 @@ blocks: []
 - Flagged: 11/17 Tuesday request not sent (no Sent Items match through 11/18 11:10). 11/22 changes: Do Good serve week over; WAA announcement runs 11/22
 - Flag withdrawn same run: Connor ticked Done in Notion (GRC-41, 11/18 10:17 AM) → 11/17 instance done; deadline rolled 11/17 → 11/24 (recurring)
 [Source: Notion Grace Tasks GRC-41, Connor: Done]
+
+### 2026-11-24 (email, cloud 5am run)
+- 11/23 6:01 PM · Connor → Heather: 11/29 landing page; Inspira Country Night (12/6) first, Winter Social (12/18) replaces Friendsgiving
+- → deadline: 2026-11-24 → 2026-12-01 (recurring; 11/24 instance sent early)
+[Source: Outlook Sent Items, "Sunday Night QR landing page - 11/29", 2026-11-23]
