@@ -4,7 +4,7 @@ status: active
 priority: P1
 owner: "Connor Frey"
 added: 2026-11-04
-deadline: 2026-11-24
+deadline: 2026-12-01
 needs_by: none
 last_mentioned: "2026-11-23"
 source: "Outlook, \"QR Code Request Each Tuesday\", Derek Adye, 2026-11-04"
@@ -68,3 +68,12 @@ blocks: []
 ### 2026-11-23 (text, quick refresh)
 - 3:10 PM · Connor (ME) committed to Alexis: add a Boundaries book link to the 12/6 seatback QR landing page [199108] → include in the Tue 12/1 request
 [Source: Text, Alexis Hendrickson, 2026-11-23]
+
+### 2026-11-23 (Connor, chat)
+- 11/29 landing page: no Advent block; include Inspira Country Night (trygrace.org/eventdetails/747/young-adults-country-night-at-inspira-dance) + a Christmas gathering block (which event TBD)
+- Seatback QR now points straight at the feedback form, not bit.ly/QR_SunNight — the landing page only gets traffic from other links until switched back
+
+### 2026-11-23 (Connor, chat → Outlook)
+- 6:01 PM · Connor → Heather: 11/29 landing page — swap Friendsgiving for Winter Social (Fri 12/18), Inspira (12/6) first
+- deadline rolled 11/24 → 12/1 (recurring); 12/1 request still owes the Boundaries book link for 12/6
+[Source: Outlook Sent Items, "Sunday Night QR landing page - 11/29", 2026-11-23]

@@ -736,3 +736,6 @@ Source: [[Transcripts/2026-08-04 15.59 Connor–Derek Weekly Sync — Expense Co
 - 2026-11-23 1:08 PM (text) · Anna Maia: Friendsgiving program set — Connor shares about Sunday Evening [199062]
 - 2026-11-23 ~2:15 PM (PCO) · 11/29 plan 92214546: 11 host/header items added via API (Welcome, Annc, QOTN, Intro Brian, Close + headers); cm-fit OK; verified 17 items, nothing else changed
 - 2026-11-23 2:21 PM (email) · Invite sent to Naomi Shoger (attended 11/22 w/ husband Derek)
+- 2026-11-23 ~5:45 PM (PCO) · 11/29 plan 92214546: Brian answers QOTN — "Host - Intro Brian" → "Host - Submit + Intro Brian" (submit cue + intro, cm-fit OK) moved under QOTN; added "QOTN Answer: Brian" (3 min) + "Scripture Reading: Luke 2:21–32" (NIV, top of Message); verified 19 items, nothing else changed
+- 2026-11-23 (PCO) · 11/29: Connor reads Luke 2:21–32 → scripture item retitled "Host - Scripture Reading: Luke 2:21–32"
+- 2026-11-23 (PCO) · 11/29 Host - Announcements: + Winter Social (Fri 12/18) in date order, "NEXT" dropped for fit (cm-fit 6/6); Slides: "11.29.26 - Country Night Inspira.png" (copy of Pre-Service "2026.12.06 Young Adults Inspira Dance.png") + "11.29.26 - Wreaths Across America.png" (copy of 11.22); no Winter Social graphic found → Heather ask drafted

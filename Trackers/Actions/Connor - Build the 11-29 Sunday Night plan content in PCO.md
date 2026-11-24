@@ -23,7 +23,8 @@ blocks: []
 - [ ] Order of service built — only Seth's worship section is in (5 items)
   - [x] Host items + Confidence Monitor Notes (shipped 11/23)
   - [x] QOTN — #4 (seeking God) leading, #3/#1 referenced (shipped 11/23)
-  - [ ] Message item: Brian Parker, "What Am I Missing?" (Luke 2:21–32; Zech 4:10) + scripture slides → Michael Vacca
+  - [x] Scripture Reading: Luke 2:21–32 (NIV) at top of Message — Connor reads
+  - [x] Brian answers QOTN; intro moved to QOTN hand-off (shipped 11/23)
   - [x] Closing Host item: discussion prompts + "optional — no pressure to stay" off-ramp
 
 - **Priority rationale**: Vacca renders slides from PCO Thursday AM; Wednesday is the content deadline (Thanksgiving week).
@@ -65,3 +66,16 @@ blocks: []
 - 3:01 PM · Brian: new person from the leadership cohort, sign-ups slow [199100]; 3:02 Connor (ME) offered 4 young candidates; Brian: "Sounds good" [199101, 199102] — reader TBD
 - → Advent slot proposed: after Welcome, before worship → PCO order + host CM notes affected
 [Source: Text, Brian Parker, 2026-11-23]
+
+### 2026-11-23 (Connor, chat) — QOTN/Message reorder
+- Flow now: Host - QOTN → Host - Submit + Intro Brian → QOTN Answer: Brian → Message hdr → Scripture Reading: Luke 2:21–32 → Message: Brian; verified 19 items
+- Connor reads the scripture → item retitled "Host - Scripture Reading: Luke 2:21–32"
+- Open: Host - QOTN still 4 min (sized for Connor answering)
+
+### 2026-11-23 (Connor, chat)
+- Advent reader candidates (Connor's 4 for Brian): Victory, Michael, Mikka, Kaymin
+
+### 2026-11-23 (Connor, chat) — announcement slides
+- Host - Announcements: + Winter Social (Fri 12/18); slides Country Night Inspira + Wreaths (11.29.26 copies in Sunday Visuals > Sunday Night)
+- [ ] Winter Social slide — waiting on Callie Taylor to send it (Connor, 11/23). **When it arrives (email or text):** save as `Sunday Visuals/Sunday Night/11.29.26 - Winter Social.png`, add it to Host - Announcements `Slides:` between Country Night and Wreaths (PCO 92214546, item 1258285077), log it — Connor pre-approved, no need to ask
+- Heather email + comms-request drafts archived (Connor: Callie's slide covers it) → Archive/Drafts/

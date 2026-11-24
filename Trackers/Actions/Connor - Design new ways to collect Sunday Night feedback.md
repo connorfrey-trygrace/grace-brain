@@ -31,3 +31,7 @@ flagged: ""
 
 ### 2026-11-19 (quick refresh, sweep, Step 3.5)
 - → priority: P2 → P1 (needs_by 11/23 within 7 days)
+
+### 2026-11-23 (Connor, chat)
+- HoverCode "Auditorium Seatbacks" (hovqr.to/10b72531) destination: bit.ly/QR_SunNight → trygrace.org/sundaynightserviceconnectcard (Sunday Night feedback/connect card); scan-tested OK
+- Connor: needs_by passing is fine

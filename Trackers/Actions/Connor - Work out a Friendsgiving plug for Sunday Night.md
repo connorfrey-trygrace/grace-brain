@@ -1,11 +1,12 @@
 ---
 name: "🦃 Connor: Work out a plug at Friendsgiving inviting people to Sunday Night"
-status: active
+status: completed
 priority: P1
 owner: "Connor"
 added: 2026-10-26
 deadline: 2026-11-23
 needs_by: none
+resolved: 2026-11-23
 last_mentioned: "2026-11-23"
 source: "[[Transcripts/2026-10-26 17.04 Connor–Derek Bi-weekly Sync — Baptism, Tony Visit, Lighting & Dinners]]"
 projects:
@@ -22,7 +23,7 @@ blocks: []
 
 - **Source**: Derek on 10/26 suggested using Friendsgiving's captive audience to invite people to Sunday Night. Connor: *"I'll work on that."*
 - **Priority rationale**: P3. Friendsgiving is Mon 11/23, and the advertising go-ahead is still with Anna Maia.
-- **Status**: Active — draft ready: [[Events/2026-09-20-Sunday-Night-Service/2026-11-23-Friendsgiving-Plug-Draft]]. Connor delivers it (full version). Anna/Callie never confirmed the program slot (emailed 11/13) → confirm the ~30-sec slot with Anna before Mon 11/23.
+- **Status**: **Completed 2026-11-23** — plug slot confirmed in Anna's program (Connor shares about Sunday Evening); Connor: "all good".
 - **Blocked by**: [[Trackers/Actions/Anna Maia - Give the go-ahead to advertise Friendsgiving on Sunday night]] · **Blocks**: nothing
 
 ### 2026-10-26 — created
@@ -73,3 +74,6 @@ blocks: []
 ### 2026-11-23 (text, quick refresh)
 - 1:08 PM · Anna's program: Callie welcome + prayer; Anna emcee; Cam testimony; Connor shares about Sunday Evening; Callie upcoming events; Anna close → plug slot confirmed [199062]
 [Source: Text, chat2706 (Anna Maia, Callie Taylor), 2026-11-23]
+
+### 2026-11-23 (Connor, chat)
+- Closed: Connor "all good" — plug delivered/set for tonight's program

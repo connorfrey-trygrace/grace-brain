@@ -1,11 +1,12 @@
 ---
 name: "📋 Connor: Settle the 12-06 QOTN approach with John Slye and Alexis"
-status: closure-candidate
+status: completed
 priority: P2
 owner: "Connor Frey"
 added: 2026-11-23
 deadline: 2026-12-06
 needs_by: 2026-12-03
+resolved: 2026-11-23
 last_mentioned: "2026-11-23"
 source: "Text from John Slye, 2026-11-23"
 projects:
@@ -19,7 +20,7 @@ blocks: []
 ---
 # 📋 Connor: Settle the 12-06 QOTN approach with John Slye and Alexis
 
-- **Status**: Closure candidate 2026-11-23 — Alexis locked option #1 (boundaries QOTN + Boundaries book plug); confirm John Slye needs no loop-in.
+- **Status**: **Completed 2026-11-23** — Alexis locked option #1 by text (boundaries QOTN + Boundaries book plug); Connor confirmed close, no John loop-in needed.
 
 - **Priority rationale**: Alexis speaks 12/6 and is asking; QOTN runs on the Q&A-board bookmarklet, so no Wednesday PCO deadline.
 - **Source**: Text from John Slye, 2026-11-23 [199038]
@@ -46,3 +47,6 @@ blocks: []
 - 4:27 PM · Connor (ME): optional run-through 4:30; service ends by 7:15 [199114]
 - → closure-candidate: approach agreed with Alexis; John Slye not shown looped in — Connor to confirm
 [Source: Text, Alexis Hendrickson, 2026-11-23]
+
+### 2026-11-23 (Connor, chat)
+- Closed: Connor confirmed, no John loop-in needed
