@@ -396,3 +396,5 @@ Format (adopted 2026-07-16, mirroring [[Workflows/m365-to-obsidian-sync]] §Run 
 - 2026-11-23 13:49 ET | quick refresh | ROWID 199050–199068 (19 msgs) | 4 Grace threads | notes updated: 11-29 PCO, Seth Tue reminder, 12-06 QOTN, Friendsgiving plug; new: Seth Christmas setlist (waiting-on) | 1 unresolved (St Onge, non-Grace)
 
 - 2026-11-23 17:40 ET | ROWID 199069–199121 · 51 msgs · 5 notes touched (12-06 QOTN → closure-candidate; roster gaps; Brandon availability; 11-29 PCO build; QR comms) · 1 unresolved (parking bot) · elapsed 1m
+
+- 2026-11-24 05:41 ET | agent-hub-visit-local | ROWID 199122–199139 · 15 msgs · 2 notes touched (Seth Tue reminder; Seth Christmas setlist) · 0 closure candidates · 0 unresolved

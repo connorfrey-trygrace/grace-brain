@@ -94,3 +94,7 @@ blocks: []
 
 ### 2026-11-23 (Connor, chat)
 - Connor: "Brian has this covered - I will text tm am" → Connor texts Seth Tue 11/24 AM
+
+### 2026-11-24 (text, agent-hub-visit-local)
+- 11/23 11:20 PM · Connor (ME) asked Seth to update PCO with the 11/29 Christmas set ASAP so Brian can do slides Tue [199138]; no reply from Seth yet in this window. Recurring — not closed; deadline roll is Connor's
+[Source: Text, Seth Addison, rowid 199138]

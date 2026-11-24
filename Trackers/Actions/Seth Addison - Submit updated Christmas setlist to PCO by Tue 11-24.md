@@ -28,3 +28,7 @@ blocks: []
 
 ### 2026-11-23 (quick refresh, sweep, Step 3.5)
 - → priority: P2 → P1 (deadline 11/24 within 7 days)
+
+### 2026-11-24 (text, agent-hub-visit-local)
+- 11/23 11:20 PM · Connor (ME) nudged Seth to put the 11/29 Christmas set in PCO soon, ahead of Brian's Tue slides [199138]; no reply yet
+[Source: Text, Seth Addison, rowid 199138]
