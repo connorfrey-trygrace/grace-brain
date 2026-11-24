@@ -70,12 +70,16 @@ blocks: []
 ### 2026-11-23 (Connor, chat) — QOTN/Message reorder
 - Flow now: Host - QOTN → Host - Submit + Intro Brian → QOTN Answer: Brian → Message hdr → Scripture Reading: Luke 2:21–32 → Message: Brian; verified 19 items
 - Connor reads the scripture → item retitled "Host - Scripture Reading: Luke 2:21–32"
-- Open: Host - QOTN still 4 min (sized for Connor answering)
+- ~~Open: Host - QOTN still 4 min~~ → resolved 11/23: answer cues dropped, 240→60s (Brian answers)
 
 ### 2026-11-23 (Connor, chat)
 - Advent reader candidates (Connor's 4 for Brian): Victory, Michael, Mikka, Kaymin
 
 ### 2026-11-23 (Connor, chat) — announcement slides
 - Host - Announcements: + Winter Social (Fri 12/18); slides Country Night Inspira + Wreaths (11.29.26 copies in Sunday Visuals > Sunday Night)
-- [ ] Winter Social slide — waiting on Callie Taylor to send it (Connor, 11/23). **When it arrives (email or text):** save as `Sunday Visuals/Sunday Night/11.29.26 - Winter Social.png`, add it to Host - Announcements `Slides:` between Country Night and Wreaths (PCO 92214546, item 1258285077), log it — Connor pre-approved, no need to ask
+- [x] Winter Social slide saved → `Sunday Visuals/Sunday Night/11.29.26 - Winter Social.png` (Callie's PDF, email 11/23 6:10 PM "Friendsgiving Slide", rendered 1920×1080)
+- [x] Winter Social slide added to Host - Announcements `Slides:` between Country Night and Wreaths (PCO 92214546, item 1258285077; Connor, 11/23)
+- [ ] **Sunday 11/29 (before service): re-check Rock RegistrationInstance/577** (max 30; 11/30 on 11/23). If full → remove `"11.29.26 - Winter Social.png"` from Host - Announcements `Slides:` AND drop the Winter Social CM line. Not full → leave as is. Connor pre-approved; log it
 - Heather email + comms-request drafts archived (Connor: Callie's slide covers it) → Archive/Drafts/
+- [x] Welcome + Welcome (cont.) merged into one CM page (Host - Welcome, 60s) — Connor 11/23
+- [x] Peer discussion slide built + in Sunday Visuals (11.29.26 - Peer Discussion Questions.png): holiday Qs from outline, 3 prompts — Connor 11/24
