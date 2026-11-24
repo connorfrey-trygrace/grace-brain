@@ -6,7 +6,7 @@ owner: "Connor Frey"
 added: 2026-11-23
 deadline: 2026-11-29
 needs_by: 2026-11-24
-last_mentioned: "2026-11-23"
+last_mentioned: "2026-11-24"
 source: "PCO Services, plan 92214546 (Sunday Night, 11/29)"
 projects:
   - "Sunday Night Launch"
@@ -83,3 +83,9 @@ blocks: []
 - Heather email + comms-request drafts archived (Connor: Callie's slide covers it) → Archive/Drafts/
 - [x] Welcome + Welcome (cont.) merged into one CM page (Host - Welcome, 60s) — Connor 11/23
 - [x] Peer discussion slide built + in Sunday Visuals (11.29.26 - Peer Discussion Questions.png): holiday Qs from outline, 3 prompts — Connor 11/24
+
+### 2026-11-24 (text, agent-hub-visit-local, noon)
+- 8:51 AM · Seth: finishing the Christmas set in PCO within the hour [199152]
+- 10:39 AM · Brian Parker (THEM): all slides updated; asks Connor's Claude to update the "side panels" if needed [199166]; 11:09 Connor: thanks [199167]
+- [ ] Update side panels (CM notes?) to match the final slides/order, if needed — Brian's ask [199166]
+[Source: Texts, Seth Addison + Brian Parker, rowids 199152, 199166, 199167]
