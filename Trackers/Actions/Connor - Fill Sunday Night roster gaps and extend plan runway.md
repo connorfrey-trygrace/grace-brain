@@ -106,3 +106,7 @@ blocks: []
 
 ### 2026-11-23 (Connor, chat)
 - Brandon scheduled as Host (Evening Connection) on 12/6 + 12/13 via PCO API (PlanPerson 1393348532, 1393348534), status unconfirmed; no schedule-request email sent yet
+
+### 2026-11-25 (Connor, chat)
+- 11/29 host + captain gaps: Connor covers them himself ("It's me")
+- snl-extend-plans dispatched (Run now) as its own session; it asks Connor to OK the exact dates before writing

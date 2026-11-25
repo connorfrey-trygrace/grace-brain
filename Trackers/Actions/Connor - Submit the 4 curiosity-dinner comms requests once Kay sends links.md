@@ -59,3 +59,6 @@ blocks: []
 ### 2026-11-25 (quick refresh, sweep, Step 3)
 - Callie's Fri 11/20 promise (links + menu info) passed; quiet 9 days since 11/16; needs_by 11/29 → status: waiting-on → active
 - Next: text Callie for the 12/13 link first (no shared meeting before 11/29), then call
+
+### 2026-11-25 (Connor, chat)
+- Reply to Callie drafted in Outlook Drafts (thread "Re: Curiosity dinners - simpler menu"): 12/13 link first, Monday OK; not sent — Connor sends
