@@ -26,7 +26,7 @@ participants:
 - **Comms cadence:** Derek's FYI (11/4) is that Brian now submits the Sunday-morning comms request at the end of the Tuesday 11 AM meeting. Connor's Sunday Night QR request also goes in on Tuesdays. → [[Trackers/Actions/Connor - Submit Sunday Night QR landing-page comms request every Tuesday]]
 - **Volunteer onboarding is live.** Rock → PCO welcome email confirmed 10/26, and Connor now has Sunday Night services-admin access in PCO. → [[Synthesis/Weekly 2026-10-30]]
 - **Boot Camp 10/28:** Connor ran point while Derek was in Atlanta (closed).
-- **Notion connector:** Derek approved it this morning, 11/9. → [[Trackers/Actions/Connor - Attach the Notion connector to the 5am Agent Hub routine]]
+- **Notion connector:** Derek approved it this morning, 11/9. → [[Archive/Actions/Connor - Attach the Notion connector to the 5am Agent Hub routine]]
 - **Second security person:** Brian said 10/26 he'd check with Brian Sulc. Connor is leaving it with Brian (on hold, no chase). → [[Trackers/Actions/Connor - Check on the second Sunday Night security person through Brian Parker]]
 
 ---
@@ -36,14 +36,14 @@ participants:
 - **Russ has gone quiet.** The planned 11/5 call never happened. Connor texted Russ 11/6 with no reply, and Derek hadn't heard from him either as of 11/6, though he said the staff run-through was "awesome."
 - The 11/15 plan in PCO is empty (0 items as of 11/9).
 - **Ask:** does Derek have a better channel to Russ? And does the Q&A replace the question of the night again, as on 11/8?
-- Ref: [[Trackers/Actions/Connor - Take Russ Sullivan's call 11-05 after his staff run-through]] · [[Trackers/Actions/Connor - Build the 11-15 Sunday Night plan content in PCO]]
+- Ref: [[Archive/Actions/Connor - Take Russ Sullivan's call 11-05 after his staff run-through]] · [[Trackers/Actions/Connor - Build the 11-15 Sunday Night plan content in PCO]]
 
 ## 2. 11/22: Anna Maia's Sunday, Friendsgiving, and the dinner
 - **Q&A:** Derek recommended the same post-sermon format with Anna, fielding questions about the Do Good partners and Grace's compassion and justice work (11/5 email).
 - **Friendsgiving (Mon 11/23):** Anna still hasn't given the go-ahead to promote it from the Sunday Night stage (asked 10/22), and only 11/15 and 11/22 are left. Connor's Friendsgiving → Sunday Night plug (Derek's 10/26 idea) is blocked on the same answer.
 - **Dinner after 11/22:** after the last sync Connor was going to ask Anna on 10/27 about hosting the curiosity dinner after her Sunday. The vault doesn't record an answer, and John's cadence decision for the dinner is still open.
 - **Ask:** can Derek nudge Anna on promotion timing? *(Connor to fill in: what Anna said 10/27 about the dinner.)*
-- Ref: [[Trackers/Actions/Anna Maia - Give the go-ahead to advertise Friendsgiving on Sunday night]] · [[Trackers/Actions/Connor - Work out a Friendsgiving plug for Sunday Night]] · [[Trackers/Actions/John Slye - Set cadence and next date for the Sunday-evening dinner]]
+- Ref: [[Archive/Actions/Anna Maia - Give the go-ahead to advertise Friendsgiving on Sunday night]] · [[Trackers/Actions/Connor - Work out a Friendsgiving plug for Sunday Night]] · [[Trackers/Actions/John Slye - Set cadence and next date for the Sunday-evening dinner]]
 
 ## 3. Survey data for the 11/17 All Staff share *(8 days out)*
 - Derek said 10/7 that Sunday Night's survey responses would be segmented out in about a month. On 10/26 they weren't back yet. John has asked whether Connor will have survey results for his share.

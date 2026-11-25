@@ -33,7 +33,7 @@ resolved: 2026-11-07
 ### 2026-11-05 (text, agent-hub-visit-local)
 - 11/4 10:38 PM · Russ (THEM) offered 11/5 after his staff practice, 11/5 night, or Fri AM [197879]
 - 11/4 11:56 PM · Connor (ME) took 11/5 after the run-through; asked Russ to call [197880]
-- Closure candidate: Russ replied with windows — verify and close; the call itself → [[Trackers/Actions/Connor - Take Russ Sullivan's call 11-05 after his staff run-through]]
+- Closure candidate: Russ replied with windows — verify and close; the call itself → [[Archive/Actions/Connor - Take Russ Sullivan's call 11-05 after his staff run-through]]
 [Source: Text, Russ Sullivan, rowids 197879–197880]
 
 ### 2026-11-07 (quick refresh, agent hub — Connor changed)

@@ -1,12 +1,13 @@
 ---
 name: "📋 Connor: Build the 11-29 Sunday Night plan content in PCO"
-status: active
+status: completed
+resolved: 2026-11-25
 priority: P1
 owner: "Connor Frey"
 added: 2026-11-23
 deadline: 2026-11-29
 needs_by: 2026-11-24
-last_mentioned: "2026-11-24"
+last_mentioned: "2026-11-25"
 source: "PCO Services, plan 92214546 (Sunday Night, 11/29)"
 projects:
   - "Sunday Night Launch"
@@ -27,6 +28,7 @@ blocks: []
   - [x] Brian answers QOTN; intro moved to QOTN hand-off (shipped 11/23)
   - [x] Closing Host item: discussion prompts + "optional — no pressure to stay" off-ramp
 
+- **Status**: Completed 11/25 — Connor ticked Done in Grace Tasks (Notion) 11/24. Brian owns the Advent reader; the 11/29 Winter Social Rock re-check stays as a Sunday-before-service step.
 - **Priority rationale**: Vacca renders slides from PCO Thursday AM; Wednesday is the content deadline (Thanksgiving week).
 - **Source**: weekly SNL service-prep check, 2026-11-23 — `services_plan_items` on plan 92214546.
 - **Needs-by rationale**: Wednesday PCO cadence (Vacca renders Thursday AM).
@@ -89,3 +91,11 @@ blocks: []
 - 10:39 AM · Brian Parker (THEM): all slides updated; asks Connor's Claude to update the "side panels" if needed [199166]; 11:09 Connor: thanks [199167]
 - [ ] Update side panels (CM notes?) to match the final slides/order, if needed — Brian's ask [199166]
 [Source: Texts, Seth Addison + Brian Parker, rowids 199152, 199166, 199167]
+
+### 2026-11-25 (text, quick refresh)
+- 11:04 AM · Brian Parker sent leadership-cohort list (24), asked who attends evening — confirming 6 PM Advent readers [199239, 199240]
+- 2:28 PM · Connor (ME): Kaymin Dixon + Cameron Waggener; no others night-familiar [199263] → reader still TBD (Brian owns)
+[Source: Text, Brian Parker, rowids 199239, 199240, 199263]
+
+### 2026-11-25 (quick refresh, agent hub — Connor changed) — closed
+- Connor's Done tick in Grace Tasks (11/24) mirrored → status: completed

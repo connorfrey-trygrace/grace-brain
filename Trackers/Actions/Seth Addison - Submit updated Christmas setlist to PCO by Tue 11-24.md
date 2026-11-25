@@ -1,6 +1,7 @@
 ---
 name: "🎄 Seth Addison: Submit updated Christmas setlist + Word doc to PCO"
-status: closure-candidate
+status: completed
+resolved: 2026-11-25
 priority: P1
 owner: "Seth Addison"
 added: 2026-11-23
@@ -17,6 +18,8 @@ blocked_by: []
 blocks: []
 ---
 # 🎄 Seth Addison: Submit updated Christmas setlist + Word doc to PCO
+
+- **Status**: Completed 11/25 — Connor confirmed closed; setlist doc shared 11/24, Brian confirmed, slides updated.
 
 - [ ] Seth submits the updated Christmas setlist to PCO and shares the updated Word doc with Brian, Connor and Michael (Tue 11/24).
 
@@ -38,3 +41,11 @@ blocks: []
 - 10:39 AM · Brian Parker (THEM): all slides updated [199166] → implies Seth's set landed
 - → status: closure-candidate. Verify: PCO plan 92214546 worship items show the Christmas set; Word doc to Brian/Connor/Michael not confirmed by text
 [Source: Texts, Seth Addison + Brian Parker, rowids 199152, 199166]
+
+### 2026-11-25 (email, quick refresh)
+- 11/24 9:44 AM · Seth shared Google Doc "Setlist 11/29 - Advent" with Brian, cc Connor + Vacca; 9:45 Brian: "Received, thanks" → doc half confirmed (Google Doc, not Word)
+- Stays closure-candidate: PCO plan 92214546 worship items not checked directly
+[Source: Outlook, "Setlist 11/29 - Advent", 2026-11-24]
+
+### 2026-11-25 (Connor, chat) — closed
+- Connor confirmed the closure candidate → status: completed

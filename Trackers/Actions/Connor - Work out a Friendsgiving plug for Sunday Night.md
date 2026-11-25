@@ -24,7 +24,7 @@ blocks: []
 - **Source**: Derek on 10/26 suggested using Friendsgiving's captive audience to invite people to Sunday Night. Connor: *"I'll work on that."*
 - **Priority rationale**: P3. Friendsgiving is Mon 11/23, and the advertising go-ahead is still with Anna Maia.
 - **Status**: **Completed 2026-11-23** — plug slot confirmed in Anna's program (Connor shares about Sunday Evening); Connor: "all good".
-- **Blocked by**: [[Trackers/Actions/Anna Maia - Give the go-ahead to advertise Friendsgiving on Sunday night]] · **Blocks**: nothing
+- **Blocked by**: [[Archive/Actions/Anna Maia - Give the go-ahead to advertise Friendsgiving on Sunday night]] · **Blocks**: nothing
 
 ### 2026-10-26 — created
 [Source: [[Transcripts/2026-10-26 17.04 Connor–Derek Bi-weekly Sync — Baptism, Tony Visit, Lighting & Dinners]]]

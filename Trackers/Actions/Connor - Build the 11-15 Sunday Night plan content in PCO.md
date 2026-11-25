@@ -33,7 +33,7 @@ blocks: []
 - **Priority rationale**: Vacca renders slides from PCO early in the week; lyrics/landing copy due ~Tuesday.
 - **Source**: weekly SNL service-prep check, 2026-11-09 — `services_plans` on plan 92214544: `items_count: 0`.
 - **Needs-by rationale**: Tuesday lyrics/slides cadence.
-- **Related**: [[Archive/Actions/Russ Sullivan - Reply with windows to connect before his 11-15 Sunday Night message]] · [[Trackers/Actions/Connor - Remind Seth to fill out PCO every Tuesday night]] · prior week [[Trackers/Actions/Connor - Build the 11-08 Sunday Night plan content in PCO]]
+- **Related**: [[Archive/Actions/Russ Sullivan - Reply with windows to connect before his 11-15 Sunday Night message]] · [[Trackers/Actions/Connor - Remind Seth to fill out PCO every Tuesday night]] · prior week [[Archive/Actions/Connor - Build the 11-08 Sunday Night plan content in PCO]]
 - **Status**: **Completed 2026-11-19**: the 11/15 service ran. Connor confirmed the close.
 
 ### 2026-11-09 (weekly SNL service-prep check) — created

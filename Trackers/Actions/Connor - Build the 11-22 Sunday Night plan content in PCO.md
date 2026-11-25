@@ -1,6 +1,7 @@
 ---
 name: "📋 Connor: Build the 11-22 Sunday Night plan content in PCO"
-status: closure-candidate
+status: completed
+resolved: 2026-11-25
 priority: P1
 owner: "Connor Frey"
 added: 2026-11-16
@@ -19,6 +20,8 @@ blocked_by: []
 blocks: []
 ---
 # 📋 Connor: Build the 11-22 Sunday Night plan content in PCO
+
+- **Status**: Completed 11/25 — Connor confirmed closed (refresh reply); 11/22 service ran.
 
 - [ ] Order of service built — only Seth's worship section is in (6 items)
   - [ ] Host items + Confidence Monitor Notes (none exist yet)
@@ -75,3 +78,6 @@ blocks: []
 
 ### 2026-11-23 (quick refresh, sweep, Step 3)
 - Deadline 11/22 passed; the 11/22 service ran (attendance logged, 65 at 6 PM) → closure candidate: confirm PCO content was complete and close
+
+### 2026-11-25 (Connor, chat) — closed
+- Connor confirmed the closure candidate → status: completed

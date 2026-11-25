@@ -95,7 +95,7 @@ No shared meeting with Brian on the calendar in the next three weeks, so none of
 - Derek said he'd circle with Anna Maia so Callie Taylor carries Friendsgiving support and Connor stays a connector. No update in 19 days.
 - Friendsgiving is Mon 11/23; Anna's go-ahead to advertise on Sunday night is also pending, with four Sundays left. Connor separately plans to ask Anna about hosting the November dinner.
 - **Ask:** did Derek reach Anna, and is Callie on it?
-- Ref: [[Archive/Actions/Derek Adye - Circle with Anna Maia on Callie Taylor supporting Friendsgiving]] · [[Trackers/Actions/Anna Maia - Give the go-ahead to advertise Friendsgiving on Sunday night]]
+- Ref: [[Archive/Actions/Derek Adye - Circle with Anna Maia on Callie Taylor supporting Friendsgiving]] · [[Archive/Actions/Anna Maia - Give the go-ahead to advertise Friendsgiving on Sunday night]]
 
 ---
 

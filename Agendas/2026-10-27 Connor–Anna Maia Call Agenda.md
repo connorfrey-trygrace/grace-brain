@@ -38,7 +38,7 @@ participants:
 
 ## 2. 🦃 Friendsgiving × Sunday Night marketing
 *Connor's ask.*
-- **Go-ahead to advertise:** When can Sunday Night start promoting Friendsgiving? Connor asked by text on 10/22 and hasn't had an answer. → [[Trackers/Actions/Anna Maia - Give the go-ahead to advertise Friendsgiving on Sunday night]]
+- **Go-ahead to advertise:** When can Sunday Night start promoting Friendsgiving? Connor asked by text on 10/22 and hasn't had an answer. → [[Archive/Actions/Anna Maia - Give the go-ahead to advertise Friendsgiving on Sunday night]]
 - **Collateral:** What's the status of the comms request (Anna's) and Callie's graphics or sign-up link? Sunday Night needs a slide or link to promote it.
 - **Stage plug dates:** Connor is away 11/1, which is also Baptism Sunday. That leaves 11/8, 11/15 and 11/22.
 - **11/22 crossover:** Anna is on stage the night before Friendsgiving. Should she give the invite herself?

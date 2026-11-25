@@ -580,7 +580,7 @@ Source: [[Transcripts/2026-09-25 16.03 Derek Sync — Sunday Night Week 1 Debrie
 
 Source: [[Transcripts/2026-10-07 17.09 Connor–Derek Weekly Sync — 160 Attendance, Host Pool & Survey Sundays]]
 - **Attendance ~160 on 10/4.** Chairs came from behind the stage-left curtain. Setup kept as-is for the 10/11 holiday weekend (John agreed); keep chair stacks of ~4 ready behind the curtains. Connor redid Brian Parker's chair chart with photos that night → `Chair-Reset-Layout-v2…v16.png`
-- **Host seats**: reserve them stage left → [[Trackers/Actions/Connor - Reserve host seats stage left at Sunday Night]]
+- **Host seats**: reserve them stage left → [[Archive/Actions/Connor - Reserve host seats stage left at Sunday Night]]
 - **Church-wide survey, Sun 10/11 + 10/18**: paper survey for every attendee (two per couple), pens in seatback pockets and under the front row, ~7 min with music, ushers collect in baskets, stragglers drop theirs at the doors. Label the stacks for the 6 PM service. Results come back segmented for Sunday Night in about a month (demographics, interests, skills, "one question for God"). Derek: check the Sunday-morning PCO plans for housekeeping like this from now on
 - **Anonymous one-off questions** (women's 50+ groups, "does Grace give Bibles"): don't answer from the stage. The host says "see Connor in the lobby"; answer from the stage only if many people would benefit (e.g. which Bible translation to buy)
 - **Disruptive first-time attendee (10/4)**: she also submitted the volunteer form. Derek: build rapport if she returns, slow-play the form and leave it to her to raise it, don't put her on a team

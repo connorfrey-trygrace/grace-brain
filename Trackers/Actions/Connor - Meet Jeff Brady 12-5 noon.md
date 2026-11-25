@@ -22,7 +22,7 @@ on_hold_since: "2026-11-18 — window gate: nothing to do before the meeting; re
 
 - **Source**: Connor proposed 12/5 noon [198319]; Jeff agreed [198324].
 - **Deadline rationale**: the meeting date.
-- **Notes**: Location is only a maps link — not decoded. Parent: [[Trackers/Actions/Jeff Brady - Propose days and times to meet Connor]]. P3 was a placeholder; raised to P2 on 2026-11-14 (21 days out).
+- **Notes**: Location is only a maps link — not decoded. Parent: [[Archive/Actions/Jeff Brady - Propose days and times to meet Connor]]. P3 was a placeholder; raised to P2 on 2026-11-14 (21 days out).
 
 ### 2026-11-10 (text, quick refresh) — created
 [Source: Text, Jeff Brady, rowids 198319, 198324]

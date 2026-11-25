@@ -1,6 +1,6 @@
 ---
 name: "💡 Brian Parker: Set lower Sunday Night lights (auditorium worship setting + dimmer lobby preset)"
-status: closure-candidate
+status: waiting-on
 priority: P1
 owner: "Brian Parker"
 added: 2026-11-18
@@ -33,3 +33,6 @@ flagged: ""
 - 8:07 PM · Connor (ME) → Brian: Q-SYS presets 1 & 8 likely written over (board in write mode); Malaya set Connor up, no longer needs preset 8 [199031]
 - Closure candidate: verify with Connor whether Malaya's setup covers the lower-lights ask, and whether presets 1/8 need restoring (new issue, Brian's call)
 [Source: Text, chat2465 (Brian Parker), 2026-11-22]
+
+### 2026-11-25 (Connor, chat)
+- Closure candidate dismissed: lower lights still open → status: waiting-on (Brian)

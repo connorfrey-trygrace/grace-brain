@@ -1,12 +1,12 @@
 ---
 name: "📣 Connor: Submit the 4 curiosity-dinner comms requests once Kay sends links"
-status: waiting-on
+status: active
 priority: P1
 owner: "Connor"
 added: 2026-11-13
 deadline: none
 needs_by: 2026-11-29
-last_mentioned: "2026-11-17"
+last_mentioned: "2026-11-25"
 waiting_on: "Callie Taylor since 2026-11-13 — registration links + menu info for 00095–00098, promised by Fri 11/20"
 source: "Rock Event Requests 00095–00098, submitted 2026-11-13"
 projects:
@@ -55,3 +55,7 @@ blocks: []
 
 ### 2026-11-23 (quick refresh, sweep, Step 3.5)
 - → priority: P2 → P1 (needs_by 11/29 within 7 days)
+
+### 2026-11-25 (quick refresh, sweep, Step 3)
+- Callie's Fri 11/20 promise (links + menu info) passed; quiet 9 days since 11/16; needs_by 11/29 → status: waiting-on → active
+- Next: text Callie for the 12/13 link first (no shared meeting before 11/29), then call
