@@ -6,7 +6,7 @@ owner: "Jean Paul"
 added: 2026-09-15
 deadline: 2026-12-06
 needs_by: 2026-12-06
-last_mentioned: "2026-09-28"
+last_mentioned: "2026-11-26"
 source: "Text, Jean Paul Tauler → Connor, 2026-09-15 6:31 PM ET"
 projects:
   - "Sunday Night Launch"
@@ -35,3 +35,7 @@ waiting_on: "Jean Paul Tauler since 2026-10-13 — Dec 6 audio replacement"
 
 ### 2026-11-15 (quick refresh, sweep, Step 3.5)
 - P3 → P2: within 21 days of needs_by 12/6
+
+### 2026-11-26 (snl-thursday-alignment)
+- PCO plan 92214547 (12/6): no Audio or Audio 2 scheduled, 10 days out; no JP text on a replacement since 9/15
+[Source: PCO Services 1804248/92214547 plan_people, 2026-11-26]
