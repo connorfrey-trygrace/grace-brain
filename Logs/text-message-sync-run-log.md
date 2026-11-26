@@ -406,3 +406,5 @@ Format (adopted 2026-07-16, mirroring [[Workflows/m365-to-obsidian-sync]] §Run 
 - 2026-11-25 14:48 ET | quick refresh | ROWIDs 199236–199268 | 25 in scope | 1 note touched (11-29 plan: Advent reader thread) | 0 unresolved | OK
 
 - 2026-11-26 04:10 ET | agent-hub-visit-local | ROWID 199269–199283 · 15 msgs · 0 Grace-relevant · 0 notes touched · 0 closure candidates · 0 unresolved · elapsed 1m
+
+- 2026-11-26 12:10 ET | agent-hub-visit-local | ROWID 199284–199342 · 52 msgs · 0 Grace-relevant (Pastor John Thanksgiving broadcast only) · 0 notes touched · 0 closure candidates · 0 unresolved · elapsed 1m
