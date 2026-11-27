@@ -36,3 +36,6 @@ blocks: []
 
 ### 2026-11-20 (weekly-synthesis heartbeat) — still unresolved, ninth week
 `list_scheduled_tasks` returns the same 8 Grace tasks, all within cycle; `grace-quick-refresh` still absent while [[Trackers/Automation]] marks it ✅. Run Log shows on-demand quick refreshes through 2026-11-19 14:14 ET. Documentation mismatch only. No duplicate flag created.
+
+### 2026-11-27 (weekly-synthesis heartbeat) — still unresolved, tenth week
+`list_scheduled_tasks` returns the same 8 Grace tasks, all within cycle; `grace-quick-refresh` still absent while [[Trackers/Automation]] marks it ✅. Run Log (Mac copy) shows on-demand quick refreshes through 2026-11-25 14:48 ET. Documentation mismatch only. No duplicate flag created.

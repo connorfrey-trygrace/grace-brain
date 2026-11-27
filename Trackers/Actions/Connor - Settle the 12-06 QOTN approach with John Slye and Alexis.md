@@ -14,7 +14,7 @@ projects:
 people:
   - "[[People/Connor Frey]]"
   - "[[People/John Slye]]"
-  - "[[People/Alexis Hendrickson]]"
+  - "[[People/Good Noodles]]"
 blocked_by: []
 blocks: []
 ---
