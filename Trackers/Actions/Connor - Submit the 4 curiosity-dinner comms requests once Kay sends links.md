@@ -6,7 +6,7 @@ owner: "Connor"
 added: 2026-11-13
 deadline: none
 needs_by: 2026-11-29
-last_mentioned: "2026-11-17"
+last_mentioned: "2026-11-25"
 waiting_on: "Callie Taylor since 2026-11-13 — registration links + menu info for 00095–00098, promised by Fri 11/20"
 source: "Rock Event Requests 00095–00098, submitted 2026-11-13"
 projects:
@@ -52,3 +52,8 @@ blocks: []
 ### 2026-11-17 (quick refresh, email)
 - 11/16 10:35 PM · Callie: menu kept limited; registration links + menu info to Connor by end of week (Fri 11/20). No chase — Callie committed to report back
 [Source: Outlook, "Re: Curiosity dinners - simpler menu", 2026-11-16]
+
+### 2026-11-25 (email)
+- 3:04 PM · Connor chased Callie: send 12/13 registration link first (promo ~2 wks out); menu info
+- Links not received as of 11/27 5 AM scan (promised Fri 11/20)
+[Source: Outlook Sent Items, "Re: Curiosity dinners - simpler menu", 2026-11-25]

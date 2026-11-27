@@ -369,3 +369,5 @@ Log the line even when N=M=0 and K=J=0 — a logged "found nothing" run is exact
 - 2026-11-23 05:05 ET | 2026-11-23 05:04 ET (cloud 5am) · window 2026-11-21 21:07→2026-11-23 05:04 ET · inbox 9, sent 3 · notes: 4 touched (1 new: Naomi Shoger YP invite P1; Good Noodles row; Launch-Log; 4th-Service-Volunteer-Signups +Brittany Fraser) · closed 0 · dups 0 · elapsed 4m
 
 - 2026-11-24 05:05 ET | 2026-11-24 05:04 ET | cloud 5am | inbox 2, sent 2 | updated 5 (Naomi invite closed, QR weekly rolled, Friendsgiving plug → closure-candidate, Good Noodles, Launch-Log) | dups 0 | elapsed 0m
+
+- 2026-11-27 05:05 ET | 2026-11-27 cloud 5am · window 11-24 04:34→11-27 05:04 ET · inbox 7, sent 3 · 2 notes updated (1 closed: Tell John Slye re Emily) · 0 dups · elapsed 6m

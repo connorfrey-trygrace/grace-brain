@@ -1,12 +1,13 @@
 ---
 name: "💬 Connor: Tell John Slye Emily Horneffer is off the Sunday Night core team"
-status: active
+status: completed
 priority: P2
 owner: "Connor"
 added: 2026-11-18
 deadline: none
 needs_by: none
-last_mentioned: 2026-11-18
+last_mentioned: 2026-11-25
+resolved: 2026-11-25
 source: "[[Transcripts/2026-11-18 18.41 Connor–Emily Horneffer Call — Off the Sunday Night Core Team]]"
 projects:
   - "Sunday Night Launch"
@@ -27,3 +28,9 @@ flagged: ""
 - **Priority rationale**: P2. Explicit commitment, no date; low cost. Connor expected it might take John a few tries to land.
 - **Deadline rationale**: none stated.
 - **Context**: Emily's emergency fill-in offer stands, but Connor said he won't write it down. Closes the thread from [[Trackers/Actions/Connor - Reply to Emily Horneffer and hold the 15-min captaining chat]].
+- **Status**: **Completed 2026-11-25** — Connor emailed Derek, Jennifer Claffey and John Slye the 11/18 recap (Emily off Sunday Night core team, staying on Sunday mornings) (Outlook Sent Items).
+
+### 2026-11-25 (email)
+- 10:40 PM · Connor emailed Derek, Jennifer, John: Emily off Sunday Night core team
+- → status: active → completed
+[Source: Outlook Sent Items, "Emily Horneffer - off the Sunday Night core team", 2026-11-25]
