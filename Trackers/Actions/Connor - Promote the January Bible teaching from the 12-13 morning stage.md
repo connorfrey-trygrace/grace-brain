@@ -6,7 +6,7 @@ owner: "Connor"
 added: 2026-11-13
 deadline: 2026-12-13
 needs_by: none
-last_mentioned: "2026-11-19"
+last_mentioned: "2026-11-27"
 source: "[[Transcripts/2026-11-13 15.40 Connor–John Slye Call — Jan–Mar 2027 Sunday Night Calendar]]"
 projects:
   - "Sunday Night Launch"
@@ -46,3 +46,4 @@ blocks: []
 
 ### 2026-11-27 (Connor, chat)
 - John's script not needed (Connor) → unblocked; Connor promotes from the 12/13 AM stage without it
+- Sent 11/27 by Connor (Outlook, "Sunday Night + Boot Camp - a few open items")

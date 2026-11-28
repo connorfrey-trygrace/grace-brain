@@ -6,7 +6,7 @@ owner: "John Slye"
 added: 2026-11-15
 deadline: none
 needs_by: none
-last_mentioned: "2026-11-15"
+last_mentioned: "2026-11-27"
 waiting_on: "John Slye since 2026-11-15 — committed to this week (huddle)"
 source: "[[Transcripts/2026-11-15 20.17 Sunday Night Huddle — Revelation Series Plan & Host Availability]]"
 projects:
@@ -31,3 +31,4 @@ blocks: []
 
 ### 2026-11-27 (Connor, chat)
 - Outlook draft to John ("Sunday Night + Boot Camp - a few open items") covers this item; not sent — Connor sends
+- Sent 11/27 by Connor (Outlook, "Sunday Night + Boot Camp - a few open items")

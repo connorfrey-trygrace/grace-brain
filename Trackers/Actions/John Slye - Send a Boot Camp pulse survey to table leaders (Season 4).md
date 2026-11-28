@@ -6,7 +6,7 @@ owner: "John Slye"
 added: 2026-11-04
 deadline: none
 needs_by: none
-last_mentioned: "2026-11-13"
+last_mentioned: "2026-11-27"
 source: "Text from John Slye, 2026-11-04"
 projects:
   - "Boot Camp Fall Relaunch"
@@ -47,3 +47,4 @@ blocks: []
 - Outlook draft to John ("Sunday Night + Boot Camp - a few open items") covers this item; not sent — Connor sends
 - Connor: Daniel + Revelation is definite → survey's topic question dropped; no sign in Outlook or texts that the survey went out
 - John draft rewritten: Boot Camp section lists invite S3 table leaders to 1/6 roundup (Wed 7 PM), survey before 1/6 (lead a table again? / change? / keep?), 8-week grid; asks if John wants Connor to draft invite + survey for John to send. Assumes same leaders as S3 (Connor). Not sent
+- Sent 11/27 by Connor (Outlook, "Sunday Night + Boot Camp - a few open items")

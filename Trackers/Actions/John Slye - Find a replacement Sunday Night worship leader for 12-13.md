@@ -6,7 +6,7 @@ owner: "John Slye"
 added: 2026-11-13
 deadline: none
 needs_by: 2026-12-09
-last_mentioned: "2026-11-13"
+last_mentioned: "2026-11-27"
 waiting_on: "John Slye since 2026-11-13 — said he'll find someone (call)"
 source: "[[Transcripts/2026-11-13 15.40 Connor–John Slye Call — Jan–Mar 2027 Sunday Night Calendar]]"
 projects:
@@ -32,3 +32,4 @@ blocks: []
 
 ### 2026-11-27 (Connor, chat)
 - Outlook draft to John ("Sunday Night + Boot Camp - a few open items") covers this item; not sent — Connor sends
+- Sent 11/27 by Connor (Outlook, "Sunday Night + Boot Camp - a few open items")
