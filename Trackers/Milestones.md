@@ -13,7 +13,7 @@
 | 2026-12-24 | Christmas Eve — Connor away through 12/27 | Staff & relationships |
 | 2026-12-27 | No Sunday Night service (Connor, 11/27) | Sunday Service (weekly) |
 | 2027-01-03 | Revelation series starts (John) | Bible Labs |
-| 2027-01-06 | Boot Camp S4 table-leader roundup | Boot Camp |
+| 2027-01-06 | Boot Camp S4 table-leader roundup, 7 PM | Boot Camp |
 | 2027-01-10 | Bible Lab #1 (John) | Bible Labs |
 | 2027-01-17 | Curiosity Dinner #2 | Curiosity Dinners |
 | 2027-01-20 | Boot Camp S4 week 1 | Boot Camp |

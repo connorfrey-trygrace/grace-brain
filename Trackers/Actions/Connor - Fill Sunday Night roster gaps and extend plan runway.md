@@ -20,7 +20,8 @@ blocks: []
 - [x] Run the ad-hoc task **`snl-extend-plans`** ("Run now") — plans end 12/13, under 6 weeks out
 - [x] Send PCO schedule requests for 11/15, 11/22, 11/29: Connection (hosts), Captain, Greeters, Band
 - [x] Run **`snl-extend-plans`** ("Run now") again — done 11/27: runway → 2/14/27
-- [ ] Fill 11/29 host (Connection empty), 12/6 Audio, 12/13 Greeters (none) + Band (none — see worship-leader note); Captain empty 11/29–12/13
+- [x] Fill 11/29 host + Captain 11/29–12/13 — Connor himself (scheduled confirmed in PCO 11/27)
+- [ ] Fill 12/6 Audio (Jean Paul lining up), 12/13 Greeters + Band (see worship-leader note)
 
 - **Priority rationale**: 11/29 is 6 days out with 11 positions open, no host, no captain; runway under 4 weeks.
 - **Deadline rationale**: 11/29 is the next under-staffed Sunday.
@@ -125,3 +126,11 @@ blocks: []
 ### 2026-11-27 (Connor, chat)
 - No 12/27 Sunday Night service (Connor). PCO plan for 12/27 (from the 11/27 snl-extend-plans run) still exists — Connor decides whether to delete it
 - Connor approved: 12/27 plan 93638915 (0 items, 0 people) deleted via PCO API — 204, re-check 404. Runway still 2/14/27
+
+### 2026-11-27 (quick refresh 2, email)
+- 11/27 8:23 PM · PCO: Michael Thompson confirmed Usher (Evening Ushers) 12/6 (+ further dates, "multiple requests")
+- 11/27 8:24 PM · PCO: Shannon Coen confirmed Hall (Evening Greeters) 12/6 + Auditorium (further dates, "multiple requests")
+[Source: Outlook, PCO acceptance notices, 2026-11-27]
+
+### 2026-11-27 (Connor, chat)
+- Connor: "I am the host and captain" → added Connor via PCO API, status C, no notification: Host 11/29 (92214546); Captain 11/29, 12/6, 12/13 (92214546–48). All 201. Snapshot taken first

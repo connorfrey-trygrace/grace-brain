@@ -19,7 +19,7 @@ blocks: []
 ---
 # 📣 Connor: Promote the January Bible teaching from the 12/13 morning stage
 
-- [ ] Go up during John's 12/13 morning sermon (9 AM, possibly with Skylar) and seed the first post-service Bible teaching + Q&A (Sun 1/10).
+- [ ] Go up during John's 12/13 morning sermon (9 AM, possibly with Skylar) and seed the first post-service Bible teaching + Q&A (Sun 1/10). 📅 2026-12-13
 
 - **Source**: Connor: "13th is definitely the day… we're locked in for the 13th in the morning." John will carve time from his sermon.
 - **Logistics**: Connor is in Lancaster Sat 12/12 (company Christmas party); can make York by 9 AM. John is open to someone else doing it.

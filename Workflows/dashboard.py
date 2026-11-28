@@ -88,6 +88,50 @@ def since(n):
     return AI.first_date(n["waiting_on"])
 
 
+CHECK = re.compile(r"^\s*- \[ \] (.+)$", re.M)
+SCHED = re.compile(r"📅\s*(\d{4}-\d{2}-\d{2})")
+
+
+def next_step(n, today):
+    """(text, scheduled_date) for a to-do's next step (Connor, 2026-11-27: "if my next task
+    is a scheduled thing, list the next thing I can do now, or count that scheduled thing
+    as a waiting on").
+
+    A checkbox carrying `📅 YYYY-MM-DD` in the future is a scheduled occasion, not work.
+    Returns the first open checkbox WITHOUT a future 📅 as (text, None). If every open
+    checkbox is scheduled, returns (first one, its date) — the item then counts as
+    waiting on that date. No open checkboxes → ("", None) and the title stands.
+    """
+    try:
+        body = open(n["path"], encoding="utf-8").read().split("\n---", 1)[-1]
+    except OSError:
+        return "", None
+    first_sched = None
+    for m in CHECK.finditer(body):
+        text = m.group(1).strip()
+        d = SCHED.search(text)
+        sd = datetime.date.fromisoformat(d.group(1)) if d else None
+        clean = SCHED.sub("", text).strip(" ·—-")
+        if sd and sd > today:
+            first_sched = first_sched or (clean, sd)
+            continue
+        return clean, None
+    return first_sched or ("", None)
+
+
+def kind_of(n, today):
+    """todo / waiting / parked, with scheduled-only to-dos counted as waiting."""
+    if n["status"] in ("active", "in-progress"):
+        return "waiting" if next_step(n, today)[1] else "todo"
+    if n["status"] == "waiting-on":
+        return "waiting"
+    return "parked"
+
+
+def sched_who(d):
+    return "%s %s (scheduled)" % (d.strftime("%a"), "%d/%d" % (d.month, d.day))
+
+
 def short(f):
     return re.sub(r"^(Connor|[A-Z][a-z]+ [A-Z][\w-]+|Sunday Night hosts) - ", "", f)
 
@@ -143,7 +187,9 @@ def main():
     for n in notes:
         d = due(n)
         if d and today <= d <= end and n["status"] in ("active", "in-progress", "waiting-on"):
-            rows.append((d, ("due: " if n["status"] != "waiting-on" else "needed from %s: " % who(n)) + short(n["file"]),
+            lab = ("needed from %s: " % who(n) if n["status"] == "waiting-on"
+                   else "scheduled: " if kind_of(n, today) == "waiting" else "due: ")
+            rows.append((d, lab + short(n["file"]),
                          classify(n, workstream_field(n["path"]))))
     for d, w, s in sorted(rows):
         L.append("| %s %s | %s | %s |" % (d.strftime("%a"), d.strftime("%m/%d"), w, s))
@@ -155,9 +201,9 @@ def main():
         if not items and ws not in ALWAYS:
             continue
         h, reasons = health(items, today)
-        acts = [n for n in items if n["status"] in ("active", "in-progress")]
-        waits = [n for n in items if n["status"] == "waiting-on"]
-        holds = [n for n in items if n["status"] in ("on-hold", "closure-candidate")]
+        acts = [n for n in items if kind_of(n, today) == "todo"]
+        waits = [n for n in items if kind_of(n, today) == "waiting"]
+        holds = [n for n in items if kind_of(n, today) == "parked"]
         summary.append("%s %s — %d to do, %d waiting, %d parked" % (h, ws, len(acts), len(waits), len(holds)))
         if ws == SUNDAY:
             L += ["## %s %s" % (h, ws), "",
@@ -173,15 +219,17 @@ def main():
             for n in sorted(acts, key=lambda n: (n["priority"] or "P9", due(n) or datetime.date.max)):
                 blk = " · ⛔ blocked" if AI.open_blockers(n, status_by_file) else ""
                 d = due(n)
-                L.append("- %s [[Trackers/Actions/%s|%s]]%s%s" % (n["priority"] or "--", n["file"], short(n["file"]),
-                                                                   " · by %s" % d.strftime("%m/%d") if d else "", blk))
+                step = next_step(n, today)[0]
+                L.append("- %s [[Trackers/Actions/%s|%s]]%s%s%s" % (n["priority"] or "--", n["file"], short(n["file"]),
+                                                                     " — next: %s" % step if step else "",
+                                                                     " · by %s" % d.strftime("%m/%d") if d else "", blk))
             L.append("")
         if waits:
             L.append("**Waiting on others**")
             for n in sorted(waits, key=lambda n: since(n) or today):
-                s = since(n)
-                L.append("- %s — [[Trackers/Actions/%s|%s]]%s" % (who(n), n["file"], short(n["file"]),
-                                                                  " · %dd" % (today - s).days if s else ""))
+                s, sd = since(n), next_step(n, today)[1]
+                L.append("- %s — [[Trackers/Actions/%s|%s]]%s" % (sched_who(sd) if sd else who(n), n["file"], short(n["file"]),
+                                                                  " · %dd" % (today - s).days if (s and not sd) else ""))
             L.append("")
         if holds:
             L.append("**Parked:** " + " · ".join("[[Trackers/Actions/%s|%s]]" % (n["file"], short(n["file"])) for n in holds))
@@ -221,13 +269,14 @@ def write_json(out_dir, today, notes, streams, horizon_rows, status_by_file):
             continue
         h, reasons = health(items, today)
         srows.append({"stream": ws, "health": {"🔴": "red", "🟡": "yellow", "🟢": "green"}[h],
-                      "todo": sum(n["status"] in ("active", "in-progress") for n in items),
-                      "waiting": sum(n["status"] == "waiting-on" for n in items),
-                      "parked": sum(n["status"] in ("on-hold", "closure-candidate") for n in items),
+                      "todo": sum(kind_of(n, today) == "todo" for n in items),
+                      "waiting": sum(kind_of(n, today) == "waiting" for n in items),
+                      "parked": sum(kind_of(n, today) == "parked" for n in items),
                       "why": "; ".join(r for _, r in reasons[:3]), "weekly": ws == SUNDAY})
         for n in items:
             d, s = due(n), since(n)
-            kind = "todo" if n["status"] in ("active", "in-progress") else "waiting" if n["status"] == "waiting-on" else "parked"
+            kind = kind_of(n, today)
+            step, sd = next_step(n, today) if n["status"] in ("active", "in-progress") else ("", None)
             # Who a to-do is really waiting on (Connor, 2026-11-27: "if the next thing for me
             # to do is waiting on someone, I want that listed"): an open blocker's party,
             # else the to-do's own waiting_on.
@@ -239,10 +288,14 @@ def write_json(out_dir, today, notes, streams, horizon_rows, status_by_file):
                     waiting_for = (who(b) if b else "") or short(blk[0])
                 elif n["waiting_on"]:
                     waiting_for = who(n)
-            irows.append({"item": short(n["file"]), "stream": ws, "kind": kind, "priority": n["priority"] or "",
-                          "waiting_for": waiting_for,
-                          "due": d.isoformat() if d else "", "who": who(n) if kind == "waiting" else "",
-                          "days_waiting": (today - s).days if (kind == "waiting" and s) else None,
+            # `next` = the step Connor can do now (or the scheduled step, for a scheduled-only
+            # item); the page shows it in place of the title when present.
+            irows.append({"item": short(n["file"]), "next": step, "stream": ws, "kind": kind,
+                          "priority": n["priority"] or "",
+                          "waiting_for": waiting_for, "scheduled": sd.isoformat() if sd else "",
+                          "due": d.isoformat() if d else "",
+                          "who": (sched_who(sd) if sd else who(n)) if kind == "waiting" else "",
+                          "days_waiting": (today - s).days if (kind == "waiting" and s and not sd) else None,
                           "flagged": bool(n["flagged"]), "blocked": bool(AI.open_blockers(n, status_by_file))})
     mrows = [{"date": d.isoformat(), "what": w, "stream": s} for d, w, s in sorted(horizon_rows)]
     for name, rows in (("streams", srows), ("items", irows), ("milestones", mrows)):
