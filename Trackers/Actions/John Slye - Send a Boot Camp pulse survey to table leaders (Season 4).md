@@ -42,3 +42,6 @@ blocks: []
 ### 2026-11-16 (quick refresh, email)
 - 11/16 8:31 AM · Alexis Hendrickson: OK on 1-20 S4 start; created Rock group "Bible Bootcamp - Winter 2027"
 [Source: Outlook, "Re: Boot camp Season 4/Ash Wed.", Alexis Hendrickson, 2026-11-16]
+
+### 2026-11-27 (Connor, chat)
+- Outlook draft to John ("Sunday Night + Boot Camp - a few open items") covers this item; not sent — Connor sends

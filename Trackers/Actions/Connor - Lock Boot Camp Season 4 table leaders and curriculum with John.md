@@ -13,7 +13,8 @@ projects:
 people:
   - "[[People/Connor Frey]]"
   - "[[People/John Slye]]"
-blocked_by: []
+blocked_by:
+  - "[[Trackers/Actions/John Slye - Send a Boot Camp pulse survey to table leaders (Season 4)]]"
 blocks: []
 ---
 # 🥾 Connor: Lock Boot Camp Season 4 table leaders and curriculum with John
@@ -27,3 +28,7 @@ blocks: []
 
 ### 2026-11-26 (cloud 5am, agent hub)
 - Created from MSG-80 plan
+
+### 2026-11-27 (Connor, chat)
+- Outlook draft to John ("Sunday Night + Boot Camp - a few open items") covers this item; not sent — Connor sends
+- → blocked_by: John's pulse survey (the checkbox already said "once John's pulse survey lands")

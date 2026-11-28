@@ -27,3 +27,7 @@ blocks: []
 
 ### 2026-11-26 (cloud 5am, agent hub)
 - Created from MSG-80 plan
+
+### 2026-11-27 (Connor, chat)
+- 8 Wednesdays added to Connor's Outlook (7:00–8:30 PM, end assumed): 1/20, 1/27, 2/3, 2/17, 2/24, 3/3, 3/10, 3/17 — skips Ash Wed 2/10 per the Dec–Mar calendar
+- Conflict: the plan note says the room is booked 1/20–3/10 (Callie, 11/11), which includes 2/10 and ends 3/10. Skipping 2/10 puts week 8 on 3/17 → confirm the 3/17 room with Callie

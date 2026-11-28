@@ -14,8 +14,7 @@ people:
   - "[[People/Connor Frey]]"
   - "[[People/John Slye]]"
   - "[[People/Skylar Frey]]"
-blocked_by:
-  - "[[Trackers/Actions/John Slye - Send the 12-13 morning promo script for the January Bible teaching]]"
+blocked_by: []
 blocks: []
 ---
 # 📣 Connor: Promote the January Bible teaching from the 12/13 morning stage
@@ -44,3 +43,6 @@ blocks: []
 
 ### 2026-11-23 (quick refresh, sweep, Step 3.5)
 - → priority: P3 → P2 (deadline 12/13 within 21 days)
+
+### 2026-11-27 (Connor, chat)
+- John's script not needed (Connor) → unblocked; Connor promotes from the 12/13 AM stage without it

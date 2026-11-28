@@ -69,6 +69,17 @@ Both markers (`## Last scan`, `## Last successful run`) and both Run Log entries
 
 **Step 0's index now answers "when's the moment?" for every waiting-on item** (added 2026-08-20). Each one carries `next w/ <person>: <date>` computed from [[Trackers/Calendar-Window]], and a new list — **WAITING-ON WITH NO SHARED OCCASION** — names the items where there is no meeting to raise the wait at before its own date. Use it: an item in that list must **not** get a note line pointing at a meeting, and if the wait genuinely has to end, the channel is **text, then call** (see [[connor-works-remotely]] — Connor works remotely; "in person," "in the room" and "live" are the same error in different words). An item *not* in the list has a real occasion, and naming its date is the useful thing to tell him.
 
+### Phase 3a — dashboard (right after the sweep)
+
+`python3 "Workflows/dashboard.py"` rewrites [[Trackers/Dashboard]]: every workstream Connor helps with, its health, his next actions, who he's waiting on, and a 10-week date strip (action due dates + [[Trackers/Milestones]]). The weekly Sunday service is one collapsed line — Start Here covers it. Runs after the sweep so it reads post-sweep frontmatter. It prints one line per stream; that block opens the report (see Report → Part 0). If a stream looks misfiled, set `workstream:` in the note's frontmatter rather than editing the script. When a new fixed date appears (event, series start, travel), add it to Milestones. Added 2026-11-27.
+
+**Then push the same data to the artifact** ([Grace Workstreams](https://claude.ai/artifact/TWyVStuKWc19V79JfW5rCH), a Data-type dashboard — Connor's phone/browser view of this page):
+1. `python3 "Workflows/dashboard.py" --json "<scratchpad>/dash"` → `streams.json`, `items.json`, `milestones.json`.
+2. Upload each with the Artifact tool (`url` above, `asset: true`, one JSON file per call) → three new `/_blob/<id>` urls.
+3. `ArtifactData` `get` each of `datasets/streams`, `datasets/items`, `datasets/milestones`, then one `batch` of `update`s (pinned with `if_version`) setting `source.url` to the new blob and `updated: {at: <now ET ISO>, by: "Grace quick refresh (Workflows/dashboard.py)"}`.
+4. Delete the three superseded blobs (Artifact `delete`, `url` + `path` = old id) so the asset store doesn't pile up.
+Never rewrite `files/index.html` on a refresh — the page only changes when Connor asks for a design change. If the Artifact tool isn't in the session (cloud run), skip this step and say so in the report; the vault page is still current.
+
 ### Phase 3b — inbox sort (beside the sweep)
 
 [[Workflows/inbox-sort]]: move Connor's **read** Inbox mail into his Outlook folders, automatically. Runs **after Phase 2** so the email sync has already read everything it moves, and only moves mail received before Phase 2's `--window-end`. Writes only to Outlook (via Claude in Chrome), so it can run while the Phase 3 sweep writes the vault. Added 2026-11-11.
@@ -103,7 +114,11 @@ Read the session id off your own scratchpad path — never guess it, never ask C
 
 ## Report
 
-**Connor runs this because he is about to sit down and do Grace work.** So the report is a **work queue first and a sync log second** — he needs to know what to pick up, not what the sync did. Two parts, strictly in this order.
+**Connor runs this because he is about to sit down and do Grace work.** So the report is a **work queue first and a sync log second** — he needs to know what to pick up, not what the sync did. Two parts, strictly in this order, under a dashboard header.
+
+### Part 0 — Dashboard line (one block, above Part 1)
+
+Paste Phase 3a's printed summary (one line per workstream with its 🟢/🟡/🔴) and a link to [[Trackers/Dashboard]]. Add one sentence only if a stream changed colour since the last run, naming why. Don't repeat the page.
 
 ### Part 1 — Start here (always first, never skipped)
 

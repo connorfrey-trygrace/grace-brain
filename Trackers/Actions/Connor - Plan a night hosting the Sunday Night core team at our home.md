@@ -14,7 +14,7 @@ people:
   - "[[People/Connor Frey]]"
 blocked_by: []
 blocks: []
-flagged: "2026-11-27 — reason: no follow-up in 8 days"
+flagged: ""
 ---
 
 # 💬 Connor: Plan a night hosting the Sunday Night core team at our home
@@ -30,3 +30,7 @@ flagged: "2026-11-27 — reason: no follow-up in 8 days"
 
 ### 2026-11-27 (quick refresh, sweep, Step 3)
 - Flagged: 8 days quiet, no date picked
+
+### 2026-11-27 (Connor, chat)
+- Connor asked for a date suggestion → proposed Sat 12/5 evening (only Grace item that day is Jeff Brady at noon; Country Night is the next night); fallback Sat 1/9, the night before the first Bible teaching. 12/12 avoided (12/13 AM note says coming from Lancaster); 12/18 Winter Social; 12/24–27 away
+- Connor: core team night should be in January → suggested Sat 1/9 (night before the first Bible teaching; no Grace items); fallback Sat 1/30. 1/16–17 avoided (friends' trip dates being picked)

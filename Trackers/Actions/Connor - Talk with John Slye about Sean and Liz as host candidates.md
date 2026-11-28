@@ -18,7 +18,7 @@ people:
   - "[[People/Liz Goodiel]]"
 blocked_by: []
 blocks: []
-flagged: "2026-11-27 — reason: no follow-up in 9 days"
+flagged: ""
 ---
 
 # 📞 Connor: Talk with John Slye about Sean Liesegang + Liz Goodiel as host candidates
@@ -31,3 +31,6 @@ flagged: "2026-11-27 — reason: no follow-up in 9 days"
 
 ### 2026-11-27 (quick refresh, sweep, Step 3)
 - Flagged: 9 days quiet; no shared meeting with John before 12/15 — text him for a call time
+
+### 2026-11-27 (Connor, chat)
+- Connor: no need to text John → flag cleared, no chase

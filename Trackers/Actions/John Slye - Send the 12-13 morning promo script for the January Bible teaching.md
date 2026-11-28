@@ -1,6 +1,7 @@
 ---
 name: "📝 John Slye: Send the 12/13 morning promo script for the January Bible teaching"
-status: waiting-on
+status: completed
+resolved: 2026-11-27
 priority: P2
 owner: "John Slye"
 added: 2026-11-13
@@ -23,7 +24,7 @@ blocks:
 - [ ] John sends the written script/hook (Antichrist leading his poll; Rapture / Mark of the Beast alternates).
 
 - **Source**: John: "I can give you the script." Connor: will wait for clarity in written form.
-- **Status**: Waiting on John; no chase set.
+- **Status**: **Completed 2026-11-27** — not needed (Connor); no script from John required for the 12/13 promo.
 
 ### 2026-11-13 (transcript) — created
 [Source: [[Transcripts/2026-11-13 15.40 Connor–John Slye Call — Jan–Mar 2027 Sunday Night Calendar]]]
@@ -34,3 +35,7 @@ blocks:
 ### 2026-11-19 (quick refresh, email)
 - 1:21 PM · Advent email gives the 12/13 format (Connor on stage, Bible Labs + Curiosity Dinners); not the script itself
 [Source: Outlook, "Advent-Dec. 13, 20, 24", John Slye, 2026-11-19]
+
+### 2026-11-27 (Connor, chat)
+- Connor: the 12/13 promo script isn't necessary → closed
+- → status: waiting-on → completed

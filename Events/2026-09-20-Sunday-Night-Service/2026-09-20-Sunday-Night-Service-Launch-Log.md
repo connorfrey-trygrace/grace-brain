@@ -750,3 +750,6 @@ Source: [[Transcripts/2026-08-04 15.59 Connor–Derek Weekly Sync — Expense Co
 - 2026-11-22 (email) · PCO: LaurenNichole Wertz declined 11/22 Auditorium Doors (greeter) 3:48 PM; Cameron Waggener confirmed that slot 6:13 PM; Simba Kanjanda confirmed Host 6:36 PM
 - 2026-11-23 6:01 PM (email) · QR landing page 11/29: Country Night first, Winter Social 12/18 replaces Friendsgiving (Connor → Heather)
 - 2026-11-23 (email) · Callie sent YP Winter Social graphic PDF
+- 2026-11-27 · PCO email 'Greeters needed Dec 6 + Dec 13' sent to 21 (Evening Greeters) → [[Events/2026-09-20-Sunday-Night-Service/2026-11-27-Greeters-Dec-6-13-Draft]]
+- 2026-11-27 (PCO) · 12/6 plan 92214547: 13 host/QOTN/message items added via API (Welcome, Advent Reading, Annc, Submit + Intro Alexis, QOTN, QOTN Answer: Alexis, Message: Alexis, Close + headers); cm-fit OK; verified 13 items → [[Trackers/Actions/Connor - Build the 12-06 Sunday Night plan content in PCO]]
+- 2026-11-27 (PCO) · 12/27 plan 93638915 deleted (no 12/27 service, Connor); was empty, nobody scheduled

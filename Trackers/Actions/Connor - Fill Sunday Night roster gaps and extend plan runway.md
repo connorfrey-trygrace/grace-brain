@@ -117,3 +117,11 @@ blocks: []
 ### 2026-11-27 (quick refresh, email)
 - 11/25 9:26 PM · PCO: Mikka Mendoza declined Auditorium Doors (Evening Greeters) 12/6
 [Source: Outlook, PCO decline notice, 2026-11-25]
+
+### 2026-11-27 (Connor, chat)
+- Greeters ask for 12/6 + 12/13 drafted (PCO email): [[Events/2026-09-20-Sunday-Night-Service/2026-11-27-Greeters-Dec-6-13-Draft]] — awaiting Connor's OK
+- PCO email 'Greeters needed Dec 6 + Dec 13' sent to 21 (Evening Greeters, incl. Skylar) — Connor approved; PCO confirmed "Messages Sent! to 21 people"
+
+### 2026-11-27 (Connor, chat)
+- No 12/27 Sunday Night service (Connor). PCO plan for 12/27 (from the 11/27 snl-extend-plans run) still exists — Connor decides whether to delete it
+- Connor approved: 12/27 plan 93638915 (0 items, 0 people) deleted via PCO API — 204, re-check 404. Runway still 2/14/27

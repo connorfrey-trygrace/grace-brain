@@ -29,3 +29,6 @@ blocks: []
 ### 2026-11-13 (transcript) — created
 - Connor raised it; John: "I will have to find somebody for sure… I'll find out where we are"
 [Source: [[Transcripts/2026-11-13 15.40 Connor–John Slye Call — Jan–Mar 2027 Sunday Night Calendar]]]
+
+### 2026-11-27 (Connor, chat)
+- Outlook draft to John ("Sunday Night + Boot Camp - a few open items") covers this item; not sent — Connor sends

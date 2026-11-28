@@ -28,3 +28,6 @@ blocks: []
 
 ### 2026-11-15 (transcript) — created
 [Source: [[Transcripts/2026-11-15 20.17 Sunday Night Huddle — Revelation Series Plan & Host Availability]]]
+
+### 2026-11-27 (Connor, chat)
+- Outlook draft to John ("Sunday Night + Boot Camp - a few open items") covers this item; not sent — Connor sends
