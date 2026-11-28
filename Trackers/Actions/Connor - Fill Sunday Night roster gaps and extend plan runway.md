@@ -19,7 +19,7 @@ blocks: []
 
 - [x] Run the ad-hoc task **`snl-extend-plans`** ("Run now") — plans end 12/13, under 6 weeks out
 - [x] Send PCO schedule requests for 11/15, 11/22, 11/29: Connection (hosts), Captain, Greeters, Band
-- [ ] Run **`snl-extend-plans`** ("Run now") again — plans end 12/20, 3.9 wks out (12/27 held for holiday schedule)
+- [x] Run **`snl-extend-plans`** ("Run now") again — done 11/27: runway → 2/14/27
 - [ ] Fill 11/29 host (Connection empty), 12/6 Audio, 12/13 Greeters (none) + Band (none — see worship-leader note); Captain empty 11/29–12/13
 
 - **Priority rationale**: 11/29 is 6 days out with 11 positions open, no host, no captain; runway under 4 weeks.
@@ -110,3 +110,6 @@ blocks: []
 ### 2026-11-25 (Connor, chat)
 - 11/29 host + captain gaps: Connor covers them himself ("It's me")
 - snl-extend-plans dispatched (Run now) as its own session; it asks Connor to OK the exact dates before writing
+
+### 2026-11-27 (snl-extend-plans, Connor approved)
+- 8 plans added (12/27 – 2/14/27, SNL template, times from 12/20: 6:00 PM + 5:20 arrival), API-verified (93638915–22) → runway 2/14/27 (12 future plans). 12/27 included, so the earlier holiday hold no longer applies
