@@ -747,3 +747,6 @@ Source: [[Transcripts/2026-08-04 15.59 Connor–Derek Weekly Sync — Expense Co
 - 2026-11-23 — Host - QOTN: dropped leftover answer cues ("read it, bring life to it" / "sin clouds, doesn't cancel"), length 240→60s since Brian answers (Connor)
 - 2026-11-24 — 11/29 peer discussion slide built from Brian's outline (no guide; Connor: social/holiday Qs, skip recall opener) → Sunday Visuals/Sunday Night/11.29.26 - Peer Discussion Questions.png; Host - Close already points to it
 - 2026-11-27 — snl-extend-plans: 8 plans added 12/27–2/14/27 (SNL template, 6:00 PM), API-verified (93638915–22); runway → 2/14/27 (Connor approved)
+- 2026-11-22 (email) · PCO: LaurenNichole Wertz declined 11/22 Auditorium Doors (greeter) 3:48 PM; Cameron Waggener confirmed that slot 6:13 PM; Simba Kanjanda confirmed Host 6:36 PM
+- 2026-11-23 6:01 PM (email) · QR landing page 11/29: Country Night first, Winter Social 12/18 replaces Friendsgiving (Connor → Heather)
+- 2026-11-23 (email) · Callie sent YP Winter Social graphic PDF

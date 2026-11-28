@@ -252,7 +252,14 @@ participants:
 - **Merseana A Smith** (keptsafe22@gmail.com, (571) 770-0436) registered via the "4th Service Volunteering Registration" notification, 2026-10-04 7:28 PM ET.
 - Email-only row — substantive answers need a Rock instance-542 re-pull (still owed, now with Shannon Coen too). Counts not recomputed.
 
+## 2026-11-23 (cloud 5am run, email sync) — new email-only registrant: Brittany Fraser
+
+- **Brittany Fraser** (brittanyfraser76@gmail.com, (501) 240-3789) registered via the "4th Service Volunteering Registration" notification, info@trygrace.org, 2026-11-22 5:21 PM ET.
+- Email-only row — substantive answers need a Rock instance-542 re-pull. Counts not recomputed.
+
 ## Changelog
+
+- 2026-11-23 (cloud 5am run, email sync): +1 email-only row — **Brittany Fraser** (registered 11/22 5:21 PM ET). Re-pull owed.
 
 - 2026-10-05: **Rock instance 542 re-pulled** — 27 registrants; Coen and A Smith rows completed; re-pull debt cleared. Tier 2.
 - 2026-10-05 (quick refresh, email sync): +1 email-only row — **Merseana A Smith** (registered 10/4 7:28 PM ET). Re-pull still owed.

@@ -28,6 +28,7 @@ flagged: ""
 - **Priority rationale**: P2. Explicit commitment, no date; low cost. Connor expected it might take John a few tries to land.
 - **Deadline rationale**: none stated.
 - **Context**: Emily's emergency fill-in offer stands, but Connor said he won't write it down. Closes the thread from [[Trackers/Actions/Connor - Reply to Emily Horneffer and hold the 15-min captaining chat]].
+- **Status**: **Completed 2026-11-25** — Connor emailed Derek, Jennifer Claffey and John Slye the 11/18 recap (Emily off Sunday Night core team, staying on Sunday mornings) (Outlook Sent Items).
 
 ### 2026-11-25 (Connor, chat)
 - Recap email to Derek, Jen + John drafted in Outlook Drafts ("Emily Horneffer - off the Sunday Night core team"); not sent — Connor sends
