@@ -371,3 +371,5 @@ Log the line even when N=M=0 and K=J=0 — a logged "found nothing" run is exact
 - 2026-11-23 17:40 ET | window 13:17–17:40 ET · 2 scanned (1 in, 1 sent) · 1 note line (12-06 QOTN: Alexis 12/6 outline) · 0 closes · elapsed <1m
 
 - 2026-11-25 14:48 ET | quick refresh | window 11/23 17:10 → 11/25 14:47 ET | 10 emails (8 in, 2 sent) | 1 note touched (Seth setlist: doc confirmed, stays closure-candidate) | OK
+
+- 2026-11-27 19:27 ET | window 11/25 14:17→11/27 19:25 ET | 12 hits (5 sent) | 3 notes updated, 1 auto-closed (Emily Horneffer recap) | 1 open call (Derek 2025 survey data) | elapsed 2m

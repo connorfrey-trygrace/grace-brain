@@ -18,7 +18,7 @@ people:
   - "[[People/Liz Goodiel]]"
 blocked_by: []
 blocks: []
-flagged: ""
+flagged: "2026-11-27 — reason: no follow-up in 9 days"
 ---
 
 # 📞 Connor: Talk with John Slye about Sean Liesegang + Liz Goodiel as host candidates
@@ -28,3 +28,6 @@ flagged: ""
 - **Source**: 11/16 Derek: hold off for now, handle with care. 11/17 John: "Let's discuss." 11/18 12:29 PM Connor proposed a call that afternoon; 4:04 PM Derek: can't make it, "you two go ahead."
 - **Priority rationale**: P3. No date; Derek's standing answer is hold off.
 - **Status**: Active. Call not yet held (Connor, 11/19). No time set, so no `meeting:` field.
+
+### 2026-11-27 (quick refresh, sweep, Step 3)
+- Flagged: 9 days quiet; no shared meeting with John before 12/15 — text him for a call time

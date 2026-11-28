@@ -111,7 +111,7 @@ No shared meeting with Brian on the calendar in the next three weeks, so none of
 ### 7. How should a new host get vetted?
 - Connor's own item (10/13): Kaymin Dixon offered to host but isn't vetted; for now Kaymin is serving as a greeter. There's no defined vetting step for hosts.
 - **Ask:** what does Derek want a host to have done before they're on stage?
-- Ref: [[Trackers/Actions/Connor - Work out host vetting for Kaymin Dixon]]
+- Ref: [[Archive/Actions/Connor - Work out host vetting for Kaymin Dixon]]
 
 ---
 

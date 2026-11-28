@@ -14,7 +14,7 @@ people:
   - "[[People/Connor Frey]]"
 blocked_by: []
 blocks: []
-flagged: ""
+flagged: "2026-11-27 — reason: no follow-up in 8 days"
 ---
 
 # 💬 Connor: Plan a night hosting the Sunday Night core team at our home
@@ -27,3 +27,6 @@ flagged: ""
 
 ### 2026-11-19 (agent hub visit)
 - Created from Notion task #85; no vault note existed
+
+### 2026-11-27 (quick refresh, sweep, Step 3)
+- Flagged: 8 days quiet, no date picked

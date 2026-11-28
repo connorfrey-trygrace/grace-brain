@@ -6,7 +6,7 @@ owner: "Connor"
 added: 2026-11-19
 deadline: none
 needs_by: 2026-11-23
-last_mentioned: 2026-11-19
+last_mentioned: 2026-11-27
 source: "Agent Hub Grace Tasks #84 (added by Personal Claude at Connor's request)"
 projects:
   - "Sunday Night Launch"
@@ -35,3 +35,8 @@ flagged: ""
 ### 2026-11-23 (Connor, chat)
 - HoverCode "Auditorium Seatbacks" (hovqr.to/10b72531) destination: bit.ly/QR_SunNight → trygrace.org/sundaynightserviceconnectcard (Sunday Night feedback/connect card); scan-tested OK
 - Connor: needs_by passing is fine
+
+### 2026-11-27 (quick refresh, email)
+- 11/25 5:19 PM · Derek sent "Data from 2026 survey" (attachment; analysis only, don't distribute)
+- 11/27 7:15 PM · Connor: it's 2025 data — asked if Derek meant 2026. Awaiting Derek
+[Source: Outlook, "Data from 2026 survey", 2026-11-25–27]

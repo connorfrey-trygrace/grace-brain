@@ -14,6 +14,7 @@ people:
   - "[[People/Connor Frey]]"
   - "[[People/John Slye]]"
 blocked_by: []
+flagged: "2026-11-27 — reason: no follow-up in 8 days"
 blocks: []
 ---
 # 📅 Connor: Send the updated Jan–Mar calendar and invites for Inspira 1/24
@@ -30,3 +31,6 @@ blocks: []
 ### 2026-11-19 (quick refresh, email)
 - 1:31 PM · John's speaking dates: Jan 3, 10, 17, 31; Feb 7, 14, 28; Mar 7, 14. Open: 1/24 ("groups launch"), 2/21, 3/21. Derek building speaking calendar
 [Source: Outlook, "speaking of Rev.....", John Slye, 2026-11-19]
+
+### 2026-11-27 (quick refresh, sweep, Step 3)
+- Flagged: 8 days quiet; no updated calendar/invites in Sent Items since 11/19

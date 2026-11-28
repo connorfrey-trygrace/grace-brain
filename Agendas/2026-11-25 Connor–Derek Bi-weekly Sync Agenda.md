@@ -22,7 +22,7 @@ participants:
 
 ## Since last time *(recap — since the 11/9 sync)*
 - **Attendance at 6 PM:** 93 on 11/15 (Russ Sullivan) and 65 on 11/22 (Anna Maia, Friendsgiving week).
-- **Host vetting decided 11/11.** A new volunteer earns hosting through time involved. Kaymin is serving Front Doors in the meantime. → [[Trackers/Actions/Connor - Work out host vetting for Kaymin Dixon]]
+- **Host vetting decided 11/11.** A new volunteer earns hosting through time involved. Kaymin is serving Front Doors in the meantime. → [[Archive/Actions/Connor - Work out host vetting for Kaymin Dixon]]
 - **Jan–Mar calendar set** on the 11/13 call with John. It covers the 12-week Revelation series and the curiosity dinners (first one 12/13 after Sunday Night; 4 Rock requests submitted). Inspira night moved to 1/24. → [[Transcripts/2026-11-13 15.40 Connor–John Slye Call — Jan–Mar 2027 Sunday Night Calendar]]
 - **Holiday schedule:** John excused Connor on 12/24. Super Bowl 2/14 input went to the leadership chat. 12/27 is held for the holiday schedule.
 - **Friendsgiving plug delivered** 11/23 in Anna's program. → [[Trackers/Actions/Connor - Work out a Friendsgiving plug for Sunday Night]]

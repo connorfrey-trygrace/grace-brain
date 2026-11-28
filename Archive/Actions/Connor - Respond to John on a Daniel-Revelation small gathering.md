@@ -23,12 +23,12 @@ resolved: 2026-11-04
 
 - **Priority rationale**: Lead Pastor ask, framed as strategic for January prep and 2027 lobby conversation; no date.
 - **Source**: Text from John Slye, 2026-11-02 8:16 AM [197636]
-- **Status**: **Completed 2026-11-04** — Connor replied in host chat 11/4 [197847, 197848]; confirmed the closure candidate in chat. Date-setting tracked in [[Trackers/Actions/John Slye - Confirm the 11-11 Wednesday meeting with Connor]].
+- **Status**: **Completed 2026-11-04** — Connor replied in host chat 11/4 [197847, 197848]; confirmed the closure candidate in chat. Date-setting tracked in [[Archive/Actions/John Slye - Confirm the 11-11 Wednesday meeting with Connor]].
 - **Blocked by**: none
 
 ### 2026-11-04 (text) — closure candidate
 - 2:01 PM · Connor replies in host chat: "Spirit AND strategy!? We gotta schedule this ASAP" — proposes next Wed (11/11) at normal Boot Camp time with a meal for connection-team leaders [197847]; 2:02 PM alt: tack onto a Sunday service [197848]
-- Response sent → the "respond" part is done; date not yet agreed. Date-setting tracked in [[Trackers/Actions/John Slye - Confirm the 11-11 Wednesday meeting with Connor]] (possibly the same meeting — hypothesis)
+- Response sent → the "respond" part is done; date not yet agreed. Date-setting tracked in [[Archive/Actions/John Slye - Confirm the 11-11 Wednesday meeting with Connor]] (possibly the same meeting — hypothesis)
 [Source: iMessage 197847, 197848]
 
 ### 2026-11-04 (Connor, chat) — completed

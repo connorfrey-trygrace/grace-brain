@@ -6,8 +6,8 @@ owner: "Connor"
 added: 2026-11-13
 deadline: none
 needs_by: 2026-11-29
-last_mentioned: "2026-11-25"
-waiting_on: "Callie Taylor since 2026-11-13 — registration links + menu info for 00095–00098, promised by Fri 11/20"
+last_mentioned: "2026-11-27"
+waiting_on: "Callie Taylor since 2026-11-13 — registration links for 00096–00098 (1/17, 2/28, 3/14) + menu info; 12/13 link received 11/27"
 source: "Rock Event Requests 00095–00098, submitted 2026-11-13"
 projects:
   - "Sunday Night Launch"
@@ -20,7 +20,7 @@ blocks: []
 ---
 # 📣 Connor: Submit the 4 curiosity-dinner comms requests once Kay sends links
 
-- [ ] When Kay returns each live registration link, submit that dinner's ClickUp Comms request with the link in Registration. Values are in [[Events/2026-09-20-Sunday-Night-Service/2026-11-13-Dec-Mar-Comms-Requests-Draft]]; Connor cleared them 11/13.
+- [ ] Submit the 12/13 (00095) ClickUp comms request now with https://trygrace.org/registration/curiosity-dinner-dec-26 in Registration. Then, as Callie (not Kay) returns each remaining link, submit that dinner's ClickUp Comms request with the link in Registration. Values are in [[Events/2026-09-20-Sunday-Night-Service/2026-11-13-Dec-Mar-Comms-Requests-Draft]]; Connor cleared them 11/13.
 
 - **Rock requests**:
   - 12/13 = 00095
@@ -28,7 +28,7 @@ blocks: []
   - 2/28 = 00097
   - 3/14 = 00098
 - **Needs-by rationale**: 12/13 is the first dinner, so it needs promotion about 2 weeks out.
-- **Status**: waiting on registration links (Callie said 11/13 she'll build them "as soon as I'm able") and Callie (Flex Room and food). Menu settled: fewer unique items, recognizable by sight. No chase set: the request went through the normal intake.
+- **Status**: 12/13 link in (Callie, 11/27) — 00095 comms request ready to submit. Waiting on Callie for 00096–00098 links ("soon after") and menu info. Connor is submitting the comms requests himself. Menu settled: fewer unique items, recognizable by sight. No chase set: the request went through the normal intake.
 
 ### 2026-11-13 — created
 - Bible-teaching comms request submitted the same day (no registration needed)
@@ -62,3 +62,11 @@ blocks: []
 
 ### 2026-11-25 (Connor, chat)
 - Reply to Callie drafted in Outlook Drafts (thread "Re: Curiosity dinners - simpler menu"): 12/13 link first, Monday OK; not sent — Connor sends
+
+### 2026-11-27 (quick refresh, email)
+- 11/25 3:04 PM · Connor sent the Callie chase (12/13 link first, Monday OK)
+- 11/27 12:48 PM · Callie: Dec registration by EOD, others soon after; asked if Connor is handling the comms request
+- 1:17 PM · Connor: will submit himself
+- 5:48 PM · Callie sent Dec link: https://trygrace.org/registration/curiosity-dinner-dec-26
+- 5:50 PM · Connor: never mind the workflow question
+[Source: Outlook, "Re: Curiosity dinners - simpler menu", 2026-11-25–27]

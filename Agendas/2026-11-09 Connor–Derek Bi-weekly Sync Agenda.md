@@ -57,7 +57,7 @@ participants:
 ### 4. How should a new host get vetted?
 - Carried from 10/26. Derek said then that there's no formal vetting for guest speakers. Kaymin Dixon got his PCO welcome email and was baptized 11/1, but still has no defined path to hosting.
 - **Ask:** what does Derek want a host to have done before going on stage?
-- Ref: [[Trackers/Actions/Connor - Work out host vetting for Kaymin Dixon]]
+- Ref: [[Archive/Actions/Connor - Work out host vetting for Kaymin Dixon]]
 
 ---
 

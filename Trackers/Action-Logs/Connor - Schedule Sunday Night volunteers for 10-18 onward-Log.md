@@ -72,7 +72,7 @@ Append-only history, split out of [[Archive/Actions/Connor - Schedule Sunday Nig
 [Source: Text, rowids 195526–195780]
 
 ### 2026-10-13 (Connor, chat)
-- Kaymin Dixon is not vetted as a host yet — Connor to work out host vetting → [[Trackers/Actions/Connor - Work out host vetting for Kaymin Dixon]]
+- Kaymin Dixon is not vetted as a host yet — Connor to work out host vetting → [[Archive/Actions/Connor - Work out host vetting for Kaymin Dixon]]
 - Brandon Geddes available again from 10/18 [194847]
 
 ### 2026-10-14 (quick refresh, email)

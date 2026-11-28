@@ -665,7 +665,7 @@ Source: [[Transcripts/2026-08-04 15.59 Connor–Derek Weekly Sync — Expense Co
 - 2026-11-09 4:25 PM (text) · Connor → John Slye: 11/8 attendance ~70, low vs other weeks, no traceable cause; proposes higher-energy vibe via worship + more events (after talking with Derek); asked John's view [198273]
 - 2026-11-09 11:17 AM (text) · Brian Parker: communion moves to 11/22 as part of Anna Maia's message, instead of the usual last Sunday; Connor acked [198258, 198264]
 - 2026-11-09 6:35 PM (email) · Liz Goodiel confirmed Evening Greeters (Auditorium Doors) 11/15, 11/22, 11/29 in PCO
-- 2026-11-09 6:46 PM (email) · Anna Maia fwd a 10/19 contact form from Alaina Kwiatkowski (YP, new to Arlington) to Connor + Callie → [[Trackers/Actions/Connor - Reply to Alaina Kwiatkowski (contact form, YP) about Sunday Night]]
+- 2026-11-09 6:46 PM (email) · Anna Maia fwd a 10/19 contact form from Alaina Kwiatkowski (YP, new to Arlington) to Connor + Callie → [[Archive/Actions/Connor - Reply to Alaina Kwiatkowski (contact form, YP) about Sunday Night]]
 
 - 2026-11-10 · 11/15 plan 92214544 built: 12 items added around Seth's 3 (Live Q&A format, Russ message per AM plan); cm-fit OK; API-verified 15 items; 11.15.26 signposts in Sunday Visuals
 - 2026-11-10 · 12/20 plan created (93289804, SNL template, 6:00 PM, 5:20 arrival); runway now ends 12/20; API-verified. 12/27 held for holiday-schedule call

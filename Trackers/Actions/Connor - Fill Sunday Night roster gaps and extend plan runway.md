@@ -6,7 +6,7 @@ owner: "Connor"
 added: 2026-11-09
 deadline: 2026-11-29
 needs_by: 2026-11-25
-last_mentioned: "2026-11-23"
+last_mentioned: "2026-11-27"
 source: "PCO Services, service type 1804248 (Sunday Night), snl-week-ahead scheduled check"
 projects:
   - "Sunday Night Launch"
@@ -113,3 +113,7 @@ blocks: []
 
 ### 2026-11-27 (snl-extend-plans, Connor approved)
 - 8 plans added (12/27 – 2/14/27, SNL template, times from 12/20: 6:00 PM + 5:20 arrival), API-verified (93638915–22) → runway 2/14/27 (12 future plans). 12/27 included, so the earlier holiday hold no longer applies
+
+### 2026-11-27 (quick refresh, email)
+- 11/25 9:26 PM · PCO: Mikka Mendoza declined Auditorium Doors (Evening Greeters) 12/6
+[Source: Outlook, PCO decline notice, 2026-11-25]
