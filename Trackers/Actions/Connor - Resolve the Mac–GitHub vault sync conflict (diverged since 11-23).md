@@ -1,13 +1,14 @@
 ---
 name: "🤖 Connor: Resolve the Mac–GitHub vault sync conflict (diverged since 11-23)"
-status: active
+status: completed
+resolved: 2026-11-27
 priority: P1
 owner: "Connor"
 added: 2026-11-27
 deadline: none
 needs_by: none
 last_mentioned: "2026-11-27"
-flagged: "2026-11-27 — reason: scheduler heartbeat — cloud 5am routine output not reaching the Mac vault; vault-git-sync merge conflict every run since 2026-11-23"
+flagged: ""
 source: "[[Workflows/weekly-synthesis]] scheduler heartbeat, 2026-11-27"
 projects: []
 people:
@@ -17,9 +18,9 @@ blocks: []
 ---
 # 🤖 Connor: Resolve the Mac–GitHub vault sync conflict (diverged since 11-23)
 
-- [ ] Merge `origin/main` into the Mac vault by hand (resolve the 9 conflicting files), push, then merge or discard the three orphaned `cloud/` branches.
+- [x] Merge `origin/main` into the Mac vault by hand (resolve the 9 conflicting files), push, then merge or discard the three orphaned `cloud/` branches.
 
-- **Status**: Open. The Mac vault and GitHub `main` have diverged. Local `main` is 21 commits ahead and 3 behind `origin/main` (merge base: "Mac auto-sync: 19 file(s)", 11/23 04:54). `Workflows/vault-git-sync.sh` hits a merge conflict on every run and aborts, so nothing has synced either way since 11/23. Latest entries in `~/Library/Logs/grace-brain-sync.log`: "CONFLICT with GitHub, merge aborted" (11/26 12:26 → 11/27 16:01, every run).
+- **Status**: **Completed 2026-11-27** — `origin/main` merged into the Mac vault (9 conflicts resolved, Mac side kept where it held Connor's decisions or later data; run-log and Launch-Log entries unioned) and pushed; Mac and GitHub `main` now even. The 4 `cloud/` branches (11-11, 11-22, 11-25, 11-26) were checked: everything on them is already in `main` (Boot Camp Season 4 plan + 3 action notes restored from 11-26). Branches left on GitHub; deleting them is Connor's call.
 - **Conflicting files (9)**:
   - `Events/2026-09-20-Sunday-Night-Service/2026-09-20-Sunday-Night-Service-Launch-Log.md`
   - `Logs/m365-sync-run-log.md`
@@ -38,3 +39,8 @@ blocks: []
 - **Priority rationale**: silent data drift between the two writers. It grows with every run (2 cloud + several Mac commits a day) and gets harder to merge.
 - **Notes**: `vault-git-sync.sh` is correctly refusing to auto-resolve (by design). This job did not attempt the merge: resolving conflicts is ask-first.
 - **Blocked by**: none · **Blocks**: trusting any cloud-run output
+
+### 2026-11-27 (Connor, chat)
+- Merged origin/main (3 cloud commits) into Mac main; 9 conflicts resolved; pushed f0ee2ae → in sync 0/0
+- cloud/ branches: 11-11, 11-22, 11-25 fully superseded; 11-26 Boot Camp S4 event plan + 3 action notes were missing from main → restored
+- → status: active → completed; flag cleared
