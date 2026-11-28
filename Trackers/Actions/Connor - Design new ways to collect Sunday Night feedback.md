@@ -1,6 +1,7 @@
 ---
 name: "💬 Connor: Design new ways to collect Sunday Night feedback (try them at Friendsgiving)"
-status: active
+status: completed
+resolved: 2026-11-25
 priority: P1
 owner: "Connor"
 added: 2026-11-19
@@ -20,11 +21,12 @@ flagged: ""
 
 # 💬 Connor: Design new ways to collect Sunday Night feedback (try them at Friendsgiving)
 
-- [ ] Design new ways to collect Sunday Night feedback and test them at Friendsgiving; also reach people who have stopped coming. Don't re-ask what John's survey already answered.
+- [x] Design new ways to collect Sunday Night feedback and test them at Friendsgiving; also reach people who have stopped coming. Don't re-ask what John's survey already answered.
 
 - **Source**: Agent Hub Grace Tasks #84, added by Personal Claude 11/19 at Connor's request. No transcript.
 - **Needs-by rationale**: Friendsgiving 11/23, per [[Trackers/Actions/Connor - Work out a Friendsgiving plug for Sunday Night]]. Pair with the plug.
 - **Priority rationale**: P2 per Notion; test window is this week.
+- **Status**: **Completed 2026-11-25** — Connor ticked Done on Grace Tasks GRC-84 (prep pack and Friendsgiving test delivered).
 
 ### 2026-11-19 (agent hub visit)
 - Created from Notion task #84; no vault note existed
@@ -40,3 +42,6 @@ flagged: ""
 - 11/25 5:19 PM · Derek sent "Data from 2026 survey" (attachment; analysis only, don't distribute)
 - 11/27 7:15 PM · Connor: it's 2025 data — asked if Derek meant 2026. Awaiting Derek
 [Source: Outlook, "Data from 2026 survey", 2026-11-25–27]
+
+### 2026-11-28 (cloud 5am, agent hub)
+- Notion GRC-84 is Done (Connor, 11/25) → status: active → completed

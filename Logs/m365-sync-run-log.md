@@ -381,3 +381,5 @@ Log the line even when N=M=0 and K=J=0 — a logged "found nothing" run is exact
 - 2026-11-27 19:27 ET | window 11/25 14:17→11/27 19:25 ET | 12 hits (5 sent) | 3 notes updated, 1 auto-closed (Emily Horneffer recap) | 1 open call (Derek 2025 survey data) | elapsed 2m
 
 - 2026-11-27 21:33 ET | quick refresh 2 | window 18:55–21:33 ET | 4 msgs (2 PCO confirms → roster note; 1 sent reply already tracked; 1 unsent draft already tracked) | 1 note touched | elapsed 6m
+
+- 2026-11-28 05:04 ET | 2026-11-28 cloud 5am | inbox 1, sent 1 | 0 notes changed, 0 closed | dups 1 (Slye open-items email already logged 11/27); PCO Shannon Coen Hall greeter confirm 11/29 no-op | elapsed 3m
